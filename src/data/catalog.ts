@@ -1,3 +1,5 @@
+import { countryName } from "@/i18n/country-name";
+import type { Locale } from "@/i18n/types";
 import type { CountryProfile, HatStyle } from "./types";
 import countriesJson from "./countries.json";
 import worldMeta from "./world-meta.json";
@@ -82,22 +84,22 @@ export function getCountry(iso: string, fallbackName?: string): CountryProfile {
     hat: (guide?.hat as HatStyle) ?? "flower",
     palette,
     tales: [
-      `Os contos folclóricos de ${name} ainda estão a ser escritos no nosso caderno de viagem.`,
-      "Pergunta a alguém deste país qual é a lenda preferida da família.",
-      "Cada país guarda histórias únicas — volta em breve para ler as deste.",
+      `Os contos folclóricos de ${name} ainda estão sendo escritos no nosso caderno de viagem.`,
+      "Pergunte a alguém deste país qual é a lenda preferida da família.",
+      "Cada país guarda histórias únicas — volte em breve para ler as deste.",
     ],
     cities: capital && capital[0]
       ? [
           { city: capital[0], spots: capital[1] ?? "paisagens e monumentos famosos" },
           {
-            city: `Volta a ${name}`,
-            spots: "gira o globo e descobre os vizinhos deste país",
+            city: `Volte para ${name}`,
+            spots: "gire o globo e descubra os vizinhos deste país",
           },
         ]
       : [
           {
             city: name,
-            spots: "explora o mapa e imagina as paisagens deste país",
+            spots: "explore o mapa e imagine as paisagens deste país",
           },
         ],
     portrait: PORTRAIT_ISOS.has(iso),
@@ -109,10 +111,10 @@ export function getCountry(iso: string, fallbackName?: string): CountryProfile {
 export function allRichCountries(): CountryProfile[] {
   return Object.keys(RICH)
     .map((iso) => getCountry(iso))
-    .sort((a, b) => a.name.localeCompare(b.name, "pt"));
+    .sort((a, b) => a.name.localeCompare(b.name, "pt-BR"));
 }
 
-export function searchCountries(query: string): CountryProfile[] {
+export function searchCountries(query: string, locale: Locale = "pt-BR"): CountryProfile[] {
   const term = query.trim().toLowerCase();
   if (!term) return [];
   const hits: CountryProfile[] = [];
@@ -120,7 +122,7 @@ export function searchCountries(query: string): CountryProfile[] {
 
   for (const iso of Object.keys(RICH)) {
     const c = getCountry(iso);
-    const blob = [c.name, c.iso, ...c.aliases].join(" ").toLowerCase();
+    const blob = [c.name, countryName(iso, locale, c.name), c.iso, ...c.aliases].join(" ").toLowerCase();
     if (blob.includes(term)) {
       hits.push(c);
       seen.add(iso);
@@ -128,7 +130,8 @@ export function searchCountries(query: string): CountryProfile[] {
   }
   for (const [iso, name] of Object.entries(NAMES)) {
     if (seen.has(iso)) continue;
-    if (name.toLowerCase().includes(term) || iso.includes(term)) {
+    const localized = countryName(iso, locale, name);
+    if (name.toLowerCase().includes(term) || localized.toLowerCase().includes(term) || iso.includes(term)) {
       hits.push(getCountry(iso));
     }
   }

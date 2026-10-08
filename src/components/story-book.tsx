@@ -4,6 +4,8 @@ import { StoryArt } from "@/components/story-art";
 import { flagUrl, portraitUrl } from "@/data/catalog";
 import type { FolkStory } from "@/data/stories/types";
 import type { CountryProfile } from "@/data/types";
+import { fill } from "@/i18n/content";
+import { useI18n } from "@/i18n/use-i18n";
 import { cn } from "@/lib/cn";
 
 type Props = {
@@ -13,6 +15,7 @@ type Props = {
 };
 
 export function StoryBook({ story, country, onClose }: Props) {
+  const { t } = useI18n();
   const [page, setPage] = useState(0);
   const touchX = useRef<number | null>(null);
   const scroller = useRef<HTMLDivElement>(null);
@@ -88,7 +91,7 @@ export function StoryBook({ story, country, onClose }: Props) {
             type="button"
             onClick={onClose}
             className="inline-flex size-11 shrink-0 items-center justify-center rounded-full border-2 border-stroke bg-cream text-ink shadow-[2px_2px_0_#2b1b4e] transition-transform duration-150 ease-out active:scale-[0.96]"
-            aria-label="Fechar a história"
+            aria-label={t.closeStory}
           >
             <X className="size-5" aria-hidden />
           </button>
@@ -101,7 +104,7 @@ export function StoryBook({ story, country, onClose }: Props) {
           ) : null}
           <div className="min-w-0 flex-1">
             <p className="truncate text-[11px] font-extrabold tracking-wide text-ink/70 uppercase">
-              Conto de {country.name}
+              {fill(t.taleOf, { name: country.name })}
             </p>
             <h2 id="story-title" className="truncate font-display text-lg font-bold leading-tight text-ink sm:text-2xl">
               {story.title}
@@ -122,12 +125,12 @@ export function StoryBook({ story, country, onClose }: Props) {
           >
             <StoryArt
               scene={current.art}
-              alt={`Ilustração da página ${page + 1} da história ${story.title}`}
+              alt={fill(t.illustrationAlt, { page: page + 1, title: story.title })}
               className="aspect-[4/3] w-full lg:min-h-full lg:aspect-auto"
             />
             <div className="absolute top-3 left-3 inline-flex items-center gap-1.5 rounded-full border-2 border-stroke bg-cream/95 px-2.5 py-1 text-[11px] font-extrabold text-ink shadow-[2px_2px_0_#2b1b4e]">
               <BookOpen className="size-3.5" aria-hidden />
-              História do folclore
+              {t.folkBadge}
             </div>
           </div>
 
@@ -145,8 +148,8 @@ export function StoryBook({ story, country, onClose }: Props) {
                   />
                 ) : null}
                 <p className="text-sm font-bold text-ink">
-                  <span className="text-candy">{country.who}</span> conta-te esta história tal como o povo deste país a
-                  guarda — em palavras simples, sem mudar o conto.
+                  <span className="text-candy">{country.who}</span>
+                  {fill(t.narrator, { who: country.who }).slice(country.who.length)}
                 </p>
               </div>
             ) : null}
@@ -157,7 +160,7 @@ export function StoryBook({ story, country, onClose }: Props) {
 
             {last ? (
               <p className="rounded-2xl border-3 border-stroke bg-mint px-3 py-2 text-sm font-extrabold text-ink">
-                Fim desta história. O folclore continua vivo enquanto for contado.
+                {t.storyEnd}
               </p>
             ) : null}
           </div>
@@ -171,11 +174,11 @@ export function StoryBook({ story, country, onClose }: Props) {
             className="inline-flex min-h-11 items-center gap-1 rounded-full border-2 border-stroke bg-cream px-3 py-2 text-sm font-extrabold text-ink shadow-[2px_2px_0_#2b1b4e] transition-transform duration-150 ease-out active:scale-[0.96] disabled:opacity-40"
           >
             <ChevronLeft className="size-4" aria-hidden />
-            Antes
+            {t.previous}
           </button>
           <div
             className="flex max-w-[46%] flex-wrap items-center justify-center gap-1.5"
-            aria-label={`Página ${page + 1} de ${total}`}
+            aria-label={fill(t.pageOf, { page: page + 1, total })}
           >
             {Array.from({ length: total }, (_, i) => (
               <button
@@ -186,7 +189,7 @@ export function StoryBook({ story, country, onClose }: Props) {
                   "size-3 rounded-full border-2 border-stroke transition-transform duration-150",
                   i === page ? "scale-125 bg-candy" : "bg-cream",
                 )}
-                aria-label={`Ir para a página ${i + 1}`}
+                aria-label={fill(t.goToPage, { page: i + 1 })}
                 aria-current={i === page ? "page" : undefined}
               />
             ))}
@@ -197,7 +200,7 @@ export function StoryBook({ story, country, onClose }: Props) {
               onClick={onClose}
               className="inline-flex min-h-11 items-center gap-1 rounded-full border-2 border-stroke bg-mint px-3 py-2 text-sm font-extrabold text-ink shadow-[2px_2px_0_#2b1b4e] transition-transform duration-150 ease-out active:scale-[0.96]"
             >
-              Fechar
+              {t.close}
               <X className="size-4" aria-hidden />
             </button>
           ) : (
@@ -206,7 +209,7 @@ export function StoryBook({ story, country, onClose }: Props) {
               onClick={() => go(1)}
               className="inline-flex min-h-11 items-center gap-1 rounded-full border-2 border-stroke bg-sun px-3 py-2 text-sm font-extrabold text-ink shadow-[2px_2px_0_#2b1b4e] transition-transform duration-150 ease-out active:scale-[0.96]"
             >
-              Depois
+              {t.next}
               <ChevronRight className="size-4" aria-hidden />
             </button>
           )}

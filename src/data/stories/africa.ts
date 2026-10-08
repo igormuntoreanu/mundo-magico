@@ -22,7 +22,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
   "za:4": [
     "A lebre e o leão, nos contos nguni, é a pequena a enganar o rei da savana: o reflexo no poço, o céu a cair, a partilha injusta da caça que a lebre vira a seu favor. Irmã de Sungura e do coelho angolano.",
     "O leão ruge; a lebre já foi. A aldeia ri-se do rei.",
-    "A África do Sul, de muitas línguas, partilha este par. O recado é antigo: a força que não pensa perde para a fome que pensa. A lebre nunca dorme duas noites no mesmo sítio.",
+    "A África do Sul, de muitas línguas, partilha este par. O recado é antigo: a força que não pensa perde para a fome que pensa. A lebre nunca dorme duas noites no mesmo lugar.",
   ],
 
   "ng:0": [
@@ -43,16 +43,16 @@ export const AFRICA_STORIES: Record<string, string[]> = {
   "ng:3": [
     "O leão e o rato, fábula de Esopo que a Nigéria conta com savana: o leão poupa o rato; o rato, mais tarde, rói a rede do caçador. A versão local põe baobás, harmattans, e o rato da savana, pequeno e de olhos vivos.",
     "A dívida de misericórdia paga-se. O forte esquece; o fraco não.",
-    "É universal e é nigeriana quando o caçador é da aldeia e a rede é de sisal. As crianças entendem o par. Um favor, mesmo a um rato, é um nó que um dia se desata a teu favor.",
+    "É universal e é nigeriana quando o caçador é da aldeia e a rede é de sisal. As crianças entendem o par. Um favor, mesmo a um rato, é um nó que um dia se desata a seu favor.",
   ],
   "ng:4": [
-    "A menina e o rio Níger: há contos de Mami Wata, a mãe-d'água, e de raparigas que recebem pentes e espelhos do rio. Se mostram o presente, o rio leva-as. Se guardam o segredo e respeitam a água, a família prospera.",
+    "A menina e o rio Níger: há contos de Mami Wata, a mãe-d'água, e de meninas que recebem pentes e espelhos do rio. Se mostram o presente, o rio leva-as. Se guardam o segredo e respeitam a água, a família prospera.",
     "O Níger, enorme, atravessa o país como uma divindade. Os povos da margem conhecem as regras.",
     "A Nigéria do rio conta isto sem sorriso fácil. A água dá e tira. A menina da lenda é o povo inteiro: aceita o presente, cala a boca, lava o peixe com gratidão. Mami Wata, de cabelo longo, vigia.",
   ],
 
   "ma:0": [
-    "Aisha Kandisha, no folclore marroquino, é uma jinniya das águas e das palmeiras, de olhos de cabra, que aparece aos homens de noite. A tradição trata-a com medo e com rito. A versão suave para crianças: um espírito da água que pune quem anda sozinho em sítios que não são seus, e que as mães chamam para recolher os filhos antes da escuridão.",
+    "Aisha Kandisha, no folclore marroquino, é uma jinniya das águas e das palmeiras, de olhos de cabra, que aparece aos homens de noite. A tradição trata-a com medo e com rito. A versão suave para crianças: um espírito da água que pune quem anda sozinho em lugares que não são seus, e que as mães chamam para recolher os filhos antes da escuridão.",
     "Os gnawa cantam-na. As fontes, os hamames, têm regras.",
     "Marrocos não a transforma em mascote. A lenda pede recato e hora certa. O jinn, no Magrebe, é tão real na conversa quanto o vizinho. Aisha é a mais falada. Respeito à água, à noite, ao nome.",
   ],
@@ -88,7 +88,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
     "Moçambique conta a floresta como alguém. Quem caça demais, o caminho fecha. Quem entra com guia e respeito, o leão deixa ver a cauda. A criança do Sofala ouve isto antes de ver o jeep.",
   ],
   "mz:2": [
-    "Como o milho chegou à aldeia: o milho veio das Américas, e o folclore moçambicano adoptou-o. Um conto: uma rapariga segue um pássaro que deixa cair grãos; onde eles caem, nasce a mashira, a refeição. Outra: os antepassados enviam o milho depois de uma fome, com a regra de o partilhar.",
+    "Como o milho chegou à aldeia: o milho veio das Américas, e o folclore moçambicano adoptou-o. Um conto: uma menina segue um pássaro que deixa cair grãos; onde eles caem, nasce a mashira, a refeição. Outra: os antepassados enviam o milho depois de uma fome, com a regra de partilhar.",
     "A sadza/xima é o centro da mesa. A origem, neste conto, é um presente com lei.",
     "Moçambique come esta lenda todos os dias. A criança percebe que o grão tem história. Sem partilha, o pássaro não volta. Com partilha, o campo amarelece outra vez.",
   ],
@@ -197,7 +197,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
     "A criança de Bioko olha o pico e ouve o nascimento. A ilha não é um acaso. Foi posta. O mar, em volta, é o fosso. O recado: há casas que o fogo constrói, e essas casas pedem gratidão, não só vista para o Golfo.",
   ],
   "gq:3": [
-    "O tambor falante, como noutros golfo da Guiné, leva recados entre aldeias fang e bubi. A lenda: o primeiro tambor foi feito de uma árvore que já falava, e por isso a pele ainda sabe nomes. O tambor verdadeiro fala por tons, como a língua.",
+    "O tambor falante, como em outros golfo da Guiné, leva recados entre aldeias fang e bubi. A lenda: o primeiro tambor foi feito de uma árvore que já falava, e por isso a pele ainda sabe nomes. O tambor verdadeiro fala por tons, como a língua.",
     "Não é metáfora vaga. Os tons imitam a fala.",
     "A Guiné Equatorial, de línguas tonais, entende isto sem esforço. A criança ouve o tambor e às vezes entende uma palavra. A lenda só diz que a árvore concordou. Sem essa concordância, o tronco seria só lenha. Com ela, é correio.",
   ],
@@ -225,12 +225,12 @@ export const AFRICA_STORIES: Record<string, string[]> = {
   "gh:3": [
     "A tartaruga e o leopardo, outra vez no bosque akan, com a palmeira e o harmattan. A tartaruga empresta a carapaça, ou finge um funeral, ou marca a corrida. O leopardo perde a compostura, que é o que os elegantes mais temem.",
     "Anansi às vezes aparece a comentar, de uma teia.",
-    "O Gana tem palco para todos os espertos. A criança escolhe o seu favorito. A moral, familiar: o dente não é argumento. A tartaruga, sem dente, argumenta melhor. O leopardo, no fim, lava o pêlo e não conta a ninguém.",
+    "O Gana tem palco para todos os espertos. A criança escolhe o seu favorito. A moral, familiar: o dente não é argumento. A tartaruga, sem dente, argumenta melhor. O leopardo, no fim, lava o pelo e não conta a ninguém.",
   ],
   "gh:4": [
     "O rio Volta, agora lago também, tem deusas e mães-d'água. Uma lenda: o rio foi uma cobra grande que se deitou para dar de beber a um povo sedeento, e ficou. As aldeias da margem ainda lhe deixam pano branco.",
     "A barragem de Akosombo mudou o mapa. O espírito, diz-se, teve de aprender um leito novo.",
-    "O Gana moderno e o Gana antigo partilham esta água. A criança vê o lago enorme e ouve a cobra. A lenda pede que se trate o Volta como parente. A electricidade veio. A oferenda, em certas casas, não parou. Os dois ritos, na margem, olham-se.",
+    "O Gana moderno e o Gana antigo partilham esta água. A criança vê o lago enorme e ouve a cobra. A lenda pede que se trate o Volta como parente. A eletricidade veio. A oferenda, em certas casas, não parou. Os dois ritos, na margem, olham-se.",
   ],
 
   "et:0": [
@@ -251,7 +251,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
   "et:3": [
     "O pastor e o lobo das terras altas: nos contos amáricos, o pastor astuto marca as ovelhas, engana o lobo com um tambor, ou partilha o lume. O planalto, frio de noite, pede estes avisos. O lobo, aqui, é fome verdadeira, não só símbolo.",
     "Os geladas, os pastores, o teff. A paisagem faz o conto.",
-    "A Etiópia rural conta isto sem floreio. A criança que guarda o rebanho já conhece o medo. A lenda dá-lhe um truque e uma regra: conta as ovelhas, não durmas no lado aberto, chama o irmão. O lobo, se ouvir dois, hesita.",
+    "A Etiópia rural conta isto sem floreio. A criança que guarda o rebanho já conhece o medo. A lenda dá-lhe um truque e uma regra: conta as ovelhas, não durma no lado aberto, chama o irmão. O lobo, se ouvir dois, hesita.",
   ],
   "et:4": [
     "A Arca no monte: a fé etíope diz que a Arca da Aliança está em Axum, guardada por um monge que não sai. Ninguém a vê. A lenda é o país inteiro a guardar uma caixa. Cada igreja etíope tem uma réplica, o tabot, no santo dos santos.",
@@ -272,7 +272,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
   "tz:2": [
     "A origem do lago Vitória (Nyanza, Ukerewe): mitos dos povos da margem falam de uma cova que chorou, de um deus que derramou um cântaro, de uma aldeia engolida por não ter dado água a um velho. O lago, enorme como um mar, pede uma origem à medida.",
     "Os baganda, os sukuma, os luo têm versões. A criança da margem vê o horizonte de água e acredita em qualquer uma, porque todas dizem: este chão foi quebrado para nos dar de beber.",
-    "A Tanzânia partilha o lago com o Quénia e o Uganda. A lenda, por isso, não tem fronteira. O velho a quem se negou água é o aviso que atravessa os três países. A sede do forasteiro, nesta história, faz ou desfaz um mar interior.",
+    "A Tanzânia partilha o lago com o Quênia e o Uganda. A lenda, por isso, não tem fronteira. O velho a quem se negou água é o aviso que atravessa os três países. A sede do forasteiro, nesta história, faz ou desfaz um mar interior.",
   ],
   "tz:3": [
     "O espírito da baobá, na savana tanzaniana, é o ancestral na árvore oca. Reuniões, buracos de água, morcegos, lendas de que o baobá anda de noite. Quem deita fogo à árvore, o espírito cobra. Quem descansa na sombra e deixa um pouco de cerveja de milho, segue bem.",
@@ -338,7 +338,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
   ],
 
   "dz:0": [
-    "A princesa da Casbah de Argel, nas lendas da cidade branca, aparece numa varanda, lança uma rosa, ou guarda um tesouro contra os corsários. A Casbah, labirinto, é personagem. Os otomanos, os franceses, os libertadores: cada camada deixou uma rapariga a olhar o porto.",
+    "A princesa da Casbah de Argel, nas lendas da cidade branca, aparece numa varanda, lança uma rosa, ou guarda um tesouro contra os corsários. A Casbah, labirinto, é personagem. Os otomanos, os franceses, os libertadores: cada camada deixou uma menina a olhar o porto.",
     "A história de independência de 1962 veste a princesa de povo.",
     "A Argélia urbana conta a Casbah como se conta uma avó. A criança perde-se nas escadas e acha que viu a princesa. A lenda não precisa de palácio europeu. A varanda, o branco, o mar: o reino já está. A rosa, se cair, é o recado de que a cidade ainda escolhe a quem sorri.",
   ],
@@ -353,7 +353,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
     "A Argélia do sul ensina a sobreviver com esta dupla. A criança, mesmo na cidade, ouve o camelo e a estrela. Sem os dois, a caravana é suicídio. Com os dois, o Sahara é um país. A lenda é bússola. O animal, o ponteiro.",
   ],
   "dz:3": [
-    "O jinn do oásis, no folclore argelino, mora no poço e no forno. Pede sal, pede respeito. Se o viajante chega a mandar, a água some. Se chega a pedir, a palmeira dá sombra a mais. Os jinns, no Islão popular, são criaturas de fogo sem fumo, nem todos maus.",
+    "O jinn do oásis, no folclore argelino, mora no poço e no forno. Pede sal, pede respeito. Se o viajante chega a mandar, a água some. Se chega a pedir, a palmeira dá sombra a mais. Os jinns, no Islão popular, são criaturas de fogo sem fumo, nem todo maus.",
     "A versão suave: um vizinho invisível, com regras.",
     "A Argélia do deserto e da costa trata o jinn com naturalidade. A criança aprende a dizer bismillah ao entrar no escuro. A lenda não é terror: é etiqueta. O oásis, pequeno, não aguenta arrogância. O jinn, neste conto, é o regulamento do poço.",
   ],
@@ -364,7 +364,7 @@ export const AFRICA_STORIES: Record<string, string[]> = {
   ],
 
   "cm:0": [
-    "O caracol e o leopardo, nos contos bassa ou beti dos Camarões, é a corrida impossível: o caracol põe parentes na pista, o leopardo corre até cair, o caracol «chega» primeiro. Irmão do ouriço e da tartaruga. A floresta equatorial, húmida, é o palco: o leopardo escorrega, o caracol está em casa.",
+    "O caracol e o leopardo, nos contos bassa ou beti dos Camarões, é a corrida impossível: o caracol põe parentes na pista, o leopardo corre até cair, o caracol «chega» primeiro. Irmão do ouriço e da tartaruga. A floresta equatorial, úmida, é o palco: o leopardo escorrega, o caracol está em casa.",
     "O povo ri do pintado, outra vez.",
     "Os Camarões, África em miniatura, têm este conto em muitas línguas. A criança imita o resfolegar do leopardo. A moral, conhecida, não se gasta: a família no caminho vale mais do que a velocidade sozinha. O caracol, com parentes, é uma nação lenta e invencível.",
   ],

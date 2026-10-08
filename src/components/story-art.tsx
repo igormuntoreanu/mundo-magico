@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { useI18n } from "@/i18n/use-i18n";
 import { cn } from "@/lib/cn";
 
 type Props = {
@@ -13,6 +14,7 @@ function sources(scene: string): string[] {
 }
 
 export function StoryArt({ scene, className, alt = "" }: Props) {
+  const { t } = useI18n();
   const [index, setIndex] = useState(0);
   const chain = sources(scene);
   const src = chain[Math.min(index, chain.length - 1)] ?? chain[0];
@@ -33,7 +35,7 @@ export function StoryArt({ scene, className, alt = "" }: Props) {
         aria-label={alt}
       >
         <p className="max-w-xs font-display text-lg font-bold text-ink">
-          Esta página ainda não tem a sua ilustração.
+          {t.missingArt}
         </p>
       </div>
     );

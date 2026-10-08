@@ -37,7 +37,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   ],
   "au:2": [
     "O Sonho do Arco-Íris, a Serpente Arco-Íris, é ancestral criadora de muitos povos aborígenes: cava rios, sobe nas chuvas, pune quem suja os poços. As cores do arco são o corpo dela a viajar entre água e céu. Não é um único conto, é uma família de leis. Dizemo-lo com respeito.",
-    "Os sítios de água são sagrados porque ela passou.",
+    "Os lugares de água são sagrados porque ela passou.",
     "A criança australiana não-indígena deve ouvir isto como lei alheia e viva, não como desenho. A Serpente não é mascote. É mapa. Sem ela, o deserto não tem rio. Com ela, cada poço tem história. O arco no céu, depois da chuva, é o ancestral a olhar se cuidámos da água.",
   ],
   "au:3": [
@@ -46,7 +46,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "Contar Bunjil é contar um povo certo, não «os aborígenes» em geral. A águia, no ar da Victoria, ainda é o ancestral. A criança que vê o wedge-tail a circular pode ouvir o nome. A lei, nesta história, veio de asas. O barro, de mãos. O céu, de regresso.",
   ],
   "au:4": [
-    "A Serpente Arco-Íris outra vez, noutros povos, e o mito do fogo roubado, e o da primeira morte. Escolhemos a serpente das águas a encontrar o mar: onde o rio chega ao oceano, ela deita-se, e a rebentação é a respiração dela. Os povos da costa norte conhecem estas bocas de rio como lugares de lei.",
+    "A Serpente Arco-Íris outra vez, em outros povos, e o mito do fogo roubado, e o da primeira morte. Escolhemos a serpente das águas a encontrar o mar: onde o rio chega ao oceano, ela deita-se, e a rebentação é a respiração dela. Os povos da costa norte conhecem estas bocas de rio como lugares de lei.",
     "Pescar ali pede rito, não só linha.",
     "A Austrália tem 65.000 anos de histórias. Não cabem numa página. Esta, fiel, diz: a costa não é fim do mapa. É o corpo de um ancestral a respirar. A criança, na praia, pode aprender a entrar na água como quem entra numa casa alheia: com licença, com cuidado, com gratidão.",
   ],
@@ -59,7 +59,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "kr:1": [
     "Heungbu e Nolbu são irmãos: Nolbu, o rico mau; Heungbu, o pobre bom. Heungbu trata de uma andorinha de pata partida. A andorinha traz uma semente de cabaça. Da cabaça saem ouro e tesouros. Nolbu, invejoso, parte a pata a uma andorinha de propósito. Da cabaça dele saem goblins que o esvaziam.",
     "É o conto coreano da bondade com juros.",
-    "A criança entende o par. A Coreia ensina Heungbu sem rodeios: a gentileza com o pássaro é a única semente que presta. Nolbu, esperto na maldade, colhe goblins. A cabaça, neste folclore, não mente. O que se planta no pêlo de um animal, colhe-se em casa.",
+    "A criança entende o par. A Coreia ensina Heungbu sem rodeios: a gentileza com o pássaro é a única semente que presta. Nolbu, esperto na maldade, colhe goblins. A cabaça, neste folclore, não mente. O que se planta no pelo de um animal, colhe-se em casa.",
   ],
   "kr:2": [
     "A fada e o lenhador: o lenhador esconde as asas de uma fada que se banha. Casa com ela. Têm filhos. Um dia ela acha as asas e voa, com ou sem as crianças, conforme a versão. O lenhador sobe ao céu numa cabaça ou num cavalo celeste, falha um rito, e fica na Terra a olhar a Via Láctea — o rio que os separa. São o par da festa do Chilseok, Vega e Altair.",
@@ -85,7 +85,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "th:1": [
     "Nang Nak, a lenda de uma mulher que morreu no parto e esperou o marido, é um dos contos mais famosos da Tailândia. É sombria. A versão suave: o amor que não soube partir, um espírito de casa, e um monge que ajuda os dois a dizer adeus. O marido, no conto completo, vive com o fantasma sem o saber, até os vizinhos revelarem a verdade.",
     "O templo Mahabut, em Banguecoque, ainda recebe oferendas a Nak.",
-    "Contar isto às crianças pede cuidado, e pede fidelidade: é uma história de amor e de morte, não de susto vazio. A Tailândia não a esconde. O adeus, nesta lenda, é um acto de bondade. Sem o adeus, a casa não respira. Com ele, Nak torna-se protectora, não prisão.",
+    "Contar isto às crianças pede cuidado, e pede fidelidade: é uma história de amor e de morte, não de susto vazio. A Tailândia não a esconde. O adeus, nesta lenda, é um ato de bondade. Sem o adeus, a casa não respira. Com ele, Nak torna-se protectora, não prisão.",
   ],
   "th:2": [
     "Phra Aphai Mani, o poema épico de Sunthorn Phu, é um príncipe que vence pelo cajado e pela flauta, não só pela espada. Uma gigante do mar raptá-lo; uma sereia ama-o; um irmão persegue-o. É longo, picaresco, tailandês até ao osso.",
@@ -104,9 +104,9 @@ export const ASIA_STORIES: Record<string, string[]> = {
   ],
 
   "id:0": [
-    "Timun Mas, a pepina de ouro, é o conto javanês de uma rapariga nascida de uma pepina, prometida ao ogre gigante que deu a semente. Quando o ogre a vem buscar, a mãe dá-lhe saquinhos: sal, que vira mar; espinhos; óleo de cominho, que vira lama; e camarões, que viram um exército. Timun Mas foge, atira os saquinhos, e o ogre perde-se em cada obstáculo.",
+    "Timun Mas, a pepina de ouro, é o conto javanês de uma menina nascida de uma pepina, prometida ao ogre gigante que deu a semente. Quando o ogre a vem buscar, a mãe dá-lhe saquinhos: sal, que vira mar; espinhos; óleo de cominho, que vira lama; e camarões, que viram um exército. Timun Mas foge, atira os saquinhos, e o ogre perde-se em cada obstáculo.",
     "É a Hansel e Gretel de Java, com pepina e gigante.",
-    "A criança indonésia conhece Timun Mas de cor. A lenda pede astúcia da rapariga, não só da mãe. Cada saquinho é uma paisagem da ilha: o mar, o espinho, o lamaçal. O ogre, guloso da promessa, não leu o chão. Java, nesta história, protege a filha com o próprio mapa.",
+    "A criança indonésia conhece Timun Mas de cor. A lenda pede astúcia da menina, não só da mãe. Cada saquinho é uma paisagem da ilha: o mar, o espinho, o lamaçal. O ogre, guloso da promessa, não leu o chão. Java, nesta história, protege a filha com o próprio mapa.",
   ],
   "id:1": [
     "Malin Kundang, de Sumatra Ocidental, é o filho que parte pobre, volta rico, e recusa a mãe maltrapilha no porto. A mãe, partida, reza. Malin vira pedra. A pedra, no mar de Air Manis, ainda se aponta aos visitantes.",
@@ -119,7 +119,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança de Sumatra vê o mapa e o filho-ilha. A história não muda: a palavra dada a um ser do outro mundo é dique. Quebrado o dique, a aldeia bebe o juramento. O lago, lindo, é uma tragédia cheia de água. O turismo, se for honesto, diz isto antes da foto.",
   ],
   "id:3": [
-    "Roro Jonggrang, em Java, é a princesa que, para recusar o príncipe Bandung Bondowoso, pede-lhe mil templos numa noite. Os espíritos constroem. Ela manda as aldeãs baterem os pilões e acenderem lume, a fingir o amanhecer. Os espíritos fogem. Falta um templo. O príncipe, furioso, amaldiçoa-a em estátua — a imagem de Durga no complexo de Prambanan, segundo a lenda.",
+    "Roro Jonggrang, em Java, é a princesa que, para recusar o príncipe Bandung Bondowoso, pede-lhe mil templos numa noite. Os espíritos constroem. Ela manda as aldeãs baterem os pilões e acenderem lume, a fingir o amanhecer. Os espíritos fogem. Falta um templo. O príncipe, furioso, amaldiçoa-a em estásua — a imagem de Durga no complexo de Prambanan, segundo a lenda.",
     "Prambanan existe, magnífico. A lenda cola-se às pedras.",
     "A criança javanesa visita o templo e vê Roro. A astúcia da princesa, o amor recusado, a maldição. O folclore não a faz só vítima: ela jogou com o sol. O príncipe, com os espíritos. Java, nesta história, é um tabuleiro de pedra. O templo que falta é a palavra que não se completou.",
   ],
@@ -161,12 +161,12 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança beduína, mesmo urbana agora, ouve que contar é hospitalidade. Sem o conto, a caravana é só trecho. Com ele, a noite rende. Sahrazad, nesta terra, não é princesa de Disney: é a prova de que uma voz bem usada segura um reino. O deserto, à volta, escuta.",
   ],
   "sa:1": [
-    "O café do deserto, o qahwa, tem a lenda de um pastor (a etíope Kaldi viajou) e a lenda árabe do dervixe que, ao provar o fruto, ficou acordado para a oração. Meca e o Iémen disputam rotas. A cerimónia saudita: o anfitrião serve, o convidado bebe, o copo pequeno não se enche até à borda da presunção.",
+    "O café do deserto, o qahwa, tem a lenda de um pastor (a etíope Kaldi viajou) e a lenda árabe do dervixe que, ao provar o fruto, ficou acordado para a oração. Meca e o Iêmen disputam rotas. A cerimónia saudita: o anfitrião serve, o convidado bebe, o copo pequeno não se enche até à borda da presunção.",
     "O café é lei, não só bebida.",
     "A criança saudita aprende a servir. A lenda do fruto acordado é a origem. O rito, o presente. Sem qahwa, a tenda não abre. Com qahwa, o inimigo de ontem pode falar. A Arábia, nesta história, civiliza-se num copo pequeno, amargo, de cardamomo. O doce vem depois, se a conversa o merecer.",
   ],
   "sa:2": [
-    "A gazela e o oásis: um conto beduíno em que uma gazela guia um caçador perdido até à água, e o caçador, em vez de a matar, deita o arco. O oásis, daí em diante, recusa-se a quem atira primeiro. A gazela, animal do deserto saudita, é graça e velocidade. Matá-la à sede é o crime desta lenda.",
+    "A gazela e o oásis: um conto beduíno em que uma gazela guia um caçador perdido até à água, e o caçador, em vez de matar, deita o arco. O oásis, daí em diante, recusa-se a quem atira primeiro. A gazela, animal do deserto saudita, é graça e velocidade. Matá-la à sede é o crime desta lenda.",
     "Os oásis de Al-Ahsa e de Tayma conhecem estas leis.",
     "A criança ouve a gazela como anjo de patas. A Arábia do interior ainda mede os homens pela sede alheia. Sem a gazela, o caçador era osso. Com o arco deposto, o oásis abre. O folclore, aqui, é a ética da água. O primeiro gole, nesta história, é sempre do bicho que mostrou o caminho.",
   ],
@@ -192,7 +192,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança de Bicol vê Mayon todos os dias. A lenda dá-lhe nomes. Sem Magayon, o vulcão é só geologia. Com ela, o cone é um corpo. O rival, a tragédia. As Filipinas, de vulcões, entendem o amor que fuma. O recado: a ciúme enterra gente. A montanha, fiel, não esquece.",
   ],
   "ph:2": [
-    "Maria Makiling, a diwata da montanha Makiling, em Laguna, protege a floresta, aparece como rapariga a quem se perde, e some se a ofendem. Os camponeses deixam-lhe um pouco da colheita. Quem corta demais, perde-se. Quem é honesto, acha gengibre ou gengibre que vira ouro, e às vezes volta a ser gengibre se a ganância falar.",
+    "Maria Makiling, a diwata da montanha Makiling, em Laguna, protege a floresta, aparece como menina a quem se perde, e some se a ofendem. Os camponeses deixam-lhe um pouco da colheita. Quem corta demais, perde-se. Quem é honesto, acha gengibre ou gengibre que vira ouro, e às vezes volta a ser gengibre se a ganância falar.",
     "O monte existe, à vista de Los Baños.",
     "A criança filipina ouve Maria como a Madremonte. A lenda pede o mesmo: a mata tem senhora. Sem oferenda, o caminho enrola. Com respeito, a diwata guia. Makiling, verde, vigia a planície. Os namorados, diz-se, ainda a vêem. O ouro que volta a gengibre é a melhor moral da ilha de Luzon.",
   ],
@@ -210,7 +210,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "my:0": [
     "Sang Kancil, o veado-rato, é o trickster da Malásia e da Indonésia: pequeno, de presa, a enganar o crocodilo (pede para contar os crocodilos em fila e atravessa o rio nas costas deles — irmão do Coelho de Inaba), o tigre, o elefante. Kancil, na aldeia malaia, é o herói das crianças.",
     "A fila de crocodilos, o gabar, o susto. Às vezes paga o gabar; às vezes não.",
-    "A criança malaia imita Kancil. A lenda, fiel, é a do fraco que pensa. Sem o kancil, a selva seria só dente. Com ele, a selva tem advogado. A Malásia, de rios e de mangais, ensina a travessia. O crocodilo, contado, já está a ser usado. A esperteza, nesta história, pesa menos do que um veado-rato e vence um rio.",
+    "A criança malaia imita Kancil. A lenda, fiel, é a do fraco que pensa. Sem o kancil, a selva seria só dente. Com ele, a selva tem advogado. A Malásia, de rios e de mangais, ensina a travessia. O crocodilo, contado, já está sendo usado. A esperteza, nesta história, pesa menos do que um veado-rato e vence um rio.",
   ],
   "my:1": [
     "A princesa de Gunung Ledang, o monte, recusa o sultão de Malaca com pedidos impossíveis: uma ponte de ouro, um prato de corações de mosquitos, o sangue do filho dele. O sultão recua. Ela fica no monte, livre. A lenda, malaia, é a da mulher que não se vende ao trono.",
@@ -220,7 +220,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "my:2": [
     "O tigre de Malaca, nas histórias do sultanato, é espírito, é juramento, é o bicho que os guerreiros silat chamam. Um conto: um tigre deita-se à porta de um homem justo e recusa-se a atacar a aldeia. Outro: o tigre-homem, o harimau jadian, pune os que quebram a adat, o costume.",
     "A adat malaia, a lei do costume, é o verdadeiro dente.",
-    "A criança de Malaca ouve o tigre como juiz. A lenda não o faz tapete. Faz-lhe tribunal. Sem adat, o tigre entra. Com adat, o tigre vigia de fora. A Malásia antiga, de porto e de palácio, precisava deste guarda. O costume, nesta história, tem pêlo e tem rugido.",
+    "A criança de Malaca ouve o tigre como juiz. A lenda não o faz tapete. Faz-lhe tribunal. Sem adat, o tigre entra. Com adat, o tigre vigia de fora. A Malásia antiga, de porto e de palácio, precisava deste guarda. O costume, nesta história, tem pelo e tem rugido.",
   ],
   "my:3": [
     "Puteri Gunung, outra princesa de monte — a Malásia tem várias, e dizemo-lo — guarda um pico, promete tesouros a quem subir com o coração limpo, e névoa a quem subir a gabar-se. Os montes de Cameron, o Kinabalu em Sabah (com os seus próprios espíritos kadazan-dusun), pedem o mesmo rito: licença, lixo nenhum, voz baixa.",
@@ -234,9 +234,9 @@ export const ASIA_STORIES: Record<string, string[]> = {
   ],
 
   "tw:0": [
-    "A deusa Matsu (Mazu), protectora dos marinheiros, foi uma rapariga de Fujian, Lin Moniang, que sonhava os náufragos e os salvava em espírito. Morreu jovem, virando deusa. Taiwan, de pescadores e de estreito, adoptou-na como padroeira. Os templos, as procissões, o palanquim a correr pelas ruas.",
+    "A deusa Matsu (Mazu), protectora dos marinheiros, foi uma menina de Fujian, Lin Moniang, que sonhava os náufragos e os salvava em espírito. Morreu jovem, virando deusa. Taiwan, de pescadores e de estreito, adoptou-na como padroeira. Os templos, as procissões, o palanquim a correr pelas ruas.",
     "É fé viva, das maiores da ilha. Conta-se com respeito.",
-    "A criança taiwanesa vê Matsu na procissão e ouve a rapariga que não dormia quando o mar estava mau. A lenda é a costa chinesa e a ilha juntas. Sem Matsu, o estreito era só perigo. Com ela, o barco tem mãe. O palanquim, nesta história, ainda corre porque o mar ainda cobra. A deusa, de palma fechada ou aberta, lê a onda.",
+    "A criança taiwanesa vê Matsu na procissão e ouve a menina que não dormia quando o mar estava mau. A lenda é a costa chinesa e a ilha juntas. Sem Matsu, o estreito era só perigo. Com ela, o barco tem mãe. O palanquim, nesta história, ainda corre porque o mar ainda cobra. A deusa, de palma fechada ou aberta, lê a onda.",
   ],
   "tw:1": [
     "O lago do Sol e da Lua, em Nantou, tem a lenda de um irmão e uma irmã, ou de um sol e uma lua que desceram a beber e ficaram presos nas montanhas, a fazer dois lagos ligados. Os thao, o povo indígena do lugar, têm as suas origens, com um veado branco a guiá-los até à água. Dizemos os dois: o postal e o povo.",
@@ -296,7 +296,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança de Khulna ouve Bonbibi antes de ouvir o zoólogo. A lenda salva vidas: o rito atrasa o passo, e o passo lento vê o tigre. Sem Bonbibi, o mangal é só recurso. Com ela, é reino. Bangladesh, nesta história, ajoelha-se à tigresa de sal. O mel, se vier, vem com permissão.",
   ],
   "bd:2": [
-    "A princesa do rio Padma, o Ganges em Bangladesh, é a deusa do rio, ou uma rapariga que se virou corrente para apagar uma sede. O Padma, largo, come aldeias e dá peixe. A lenda pede oferenda na cheia. O hilsa, o peixe-rei, é o mensageiro.",
+    "A princesa do rio Padma, o Ganges em Bangladesh, é a deusa do rio, ou uma menina que se virou corrente para apagar uma sede. O Padma, largo, come aldeias e dá peixe. A lenda pede oferenda na cheia. O hilsa, o peixe-rei, é o mensageiro.",
     "A cheia, anual, é personagem nacional.",
     "A criança bengali vê o Padma a subir e diz o nome da princesa. Sem ela, a cheia é só desastre. Com ela, a desgraça tem alguém a quem falar. Bangladesh, delta, vive desta conversa. O hilsa, prateado, sobe o rio como um recado. A princesa, se honrada, deixa o teto de pé. Se ofendida, o teto aprende a flutuar.",
   ],
@@ -306,7 +306,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança, no rickshaw, vai dentro de um conto. A lenda do pintor é a verdade da arte popular. Sem as cores, o país da chuva seria cinzento. Com elas, cada viagem é Thakurmar Jhuli a mexer-se. Bangladesh, nesta história, recusa o transporte nu. Pinta o caminho. O reflexo, se houver, é bónus.",
   ],
   "bd:4": [
-    "Como o chá chegou a Sylhet: os britânicos plantaram, os trabalhadores assameses e bengalis colheram, e o folclore de Sylhet fez do chá um presente das colinas. Um conto: uma fada das colinas deu o arbusto a um pastor, com a regra de o partilhar quente. A verdade colonial, dura, não se apaga. A xícara, agora, é bengali.",
+    "Como o chá chegou a Sylhet: os britânicos plantaram, os trabalhadores assameses e bengalis colheram, e o folclore de Sylhet fez do chá um presente das colinas. Um conto: uma fada das colinas deu o arbusto a um pastor, com a regra de partilhar quente. A verdade colonial, dura, não se apaga. A xícara, agora, é bengali.",
     "Sylhet, de chá e de diáspora, cheira a esta história.",
     "A criança de Sylhet bebe a origem. A lenda da fada e a memória da plantação cabem na mesma chávena, se formos honestos. Sem os colhedores, não há folha. Com a fada, há rito. Bangladesh, nesta xícara, mistura império e encanto. O quente, a regra, permanece: o chá, para valer, partilha-se.",
   ],
@@ -314,7 +314,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "np:0": [
     "A origem do Everest, Sagarmatha em nepalês, Chomolungma em tibetano: a deusa do céu, a mãe do mundo. Os sherpas e os tibetanos tratam o pico como morada, não como recorde. A lenda pede que se suba com permissão, se se subir. A deusa, se ofendida, tira o tempo — e o tempo, a oito mil metros, é a vida.",
     "O Nepal, de muitos ochomiles, ensina isto com nomes, não com bandeirinhas.",
-    "A criança nepalesa vê Sagarmatha no horizonte (ou na nota) e ouve «mãe». Sem esse nome, o pico é troféu. Com ele, é altar. O folclore, aqui, já salvou gente: o guia que recusa a cimeira num dia mau está a ouvir a lenda. A deusa, nesta história, não quer cadáveres de recorde. Quer o pescoço a baixar-se, às vezes, e a voltar para baixo vivo.",
+    "A criança nepalesa vê Sagarmatha no horizonte (ou na nota) e ouve «mãe». Sem esse nome, o pico é troféu. Com ele, é altar. O folclore, aqui, já salvou gente: o guia que recusa a cimeira num dia mau está ouvindo a lenda. A deusa, nesta história, não quer cadáveres de recorde. Quer o pescoço a baixar-se, às vezes, e a voltar para baixo vivo.",
   ],
   "np:1": [
     "O yeti, o homem das neves, é o espírito ou o macaco da alta serra, no folclore sherpa e tibetano. Deixa pegadas, apita, parte yak. A versão suave: um primo da montanha que prefere não ser visto, e que se zanga com os barulhentos. Os sherpas, muitos, falam dele com um meio sorriso e um meio respeito.",
@@ -324,7 +324,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "np:2": [
     "A deusa Kumari, em Catmandu, é uma menina viva, escolhida, em quem habita a deusa Taleju até a puberdade. Aparece à janela, abençoa o rei (agora o presidente), e não põe o pé no chão. É religião newar, não conto inventado. Conta-se com respeito: uma criança a carregar um céu, por uns anos, e depois a voltar a ser menina.",
     "O Durbar Square, a janela, o vermelho.",
-    "A criança nepalesa vê a Kumari e vê uma par. A lenda é o país a dizer que o divino pode ser pequeno e mortal e mesmo assim mandar. Sem a menina, Taleju calava-se naquele rito. Com ela, Catmandu tem um coração à janela. O fim da Kumari, quando deixa de o ser, é também a história: os deuses, nesta terra, sabem retirar-se.",
+    "A criança nepalesa vê a Kumari e vê uma par. A lenda é o país a dizer que o divino pode ser pequeno e mortal e mesmo assim mandar. Sem a menina, Taleju calava-se naquele rito. Com ela, Catmandu tem um coração à janela. O fim da Kumari, quando deixa de ser, é também a história: os deuses, nesta terra, sabem retirar-se.",
   ],
   "np:3": [
     "O macaco de Swayambhunath, o templo dos macacos, em Catmandu: os macacos rhesus, sagrados, roubam comida e, na lenda, são os assistentes de Manjushri, que abriu o vale de Catmandu com uma espada, esvaziando o lago. Swayambhu, o templo, nasceu sozinho, de uma flor de lótus no lago antigo. Os macacos, a tropa.",
@@ -358,7 +358,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança, na praia, apaga a lanterna. Sem a princesa, a regra é cartaz. Com ela, a escuridão é cortesia. A ilha, nesta história, empresta a areia um mês. A tartaruga, o resto do oceano. O folclore e o guarda-parque, pela primeira vez, dizem a mesma frase: luz baixa, passo ao lado, filhote ao mar.",
   ],
   "lk:4": [
-    "O tesouro de Galle, a fortaleza holandesa, mistura ouro da Companhia, piratas, e o tsunami de 2004 que a onda parou, em parte, na muralha. A lenda: a fortaleza tem um pacto com o mar. O mar, naquele dia, cobrou menos dentro das pedras. A história do tsunami é real, cruel, recente. A muralha, de facto, guardou gente.",
+    "O tesouro de Galle, a fortaleza holandesa, mistura ouro da Companhia, piratas, e o tsunami de 2004 que a onda parou, em parte, na muralha. A lenda: a fortaleza tem um pacto com o mar. O mar, naquele dia, cobrou menos dentro das pedras. A história do tsunami é real, cruel, recente. A muralha, de fato, guardou gente.",
     "Galle, de ruas, de farol, de porta da Companhia, é palco.",
     "A criança de Galle ouve o pacto. Sem o tsunami, a lenda era só pirata. Com ele, a pedra ganhou um capítulo que não se quer repetir. Sri Lanka, nesta fortaleza, ensina o mar dos holandeses e o mar de 2004. O tesouro, o que importa, saiu a andar, vivo, no dia da onda. O ouro, se há, que fique. A lenda, desta vez, escolheu bem o que guardar.",
   ],
@@ -379,7 +379,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança emirati, no dhow turístico, pode ainda ouvir o Roc. Sem as pérolas, o Golfo era só sal. Com elas, e com Sindbad, era rota. Os EAU, nesta história, não negam o vidro de agora. Acrescentam o barco de antes. Sete viagens, sete emirados: a conta, de tão redonda, parece lenda. O marinheiro, se voltasse, reconheceria o vento. A costa, nem por isso. O conto, sim.",
   ],
   "ae:3": [
-    "A pérola de Abu Dhabi, antes do petróleo, era o salário do Golfo. Os mergulhadores, o palmo de fôlego, o tubarão, o canto. A lenda: uma pérola tão perfeita que o mar a queria de volta, e o mergulhador, em vez de a vender ao maior lance, devolveu-a. No dia seguinte, o banco de ostra deu o dobro à aldeia.",
+    "A pérola de Abu Dhabi, antes do petróleo, era o salário do Golfo. Os mergulhadores, o palmo de fôlego, o tubarão, o canto. A lenda: uma pérola tão perfeita que o mar a queria de volta, e o mergulhador, em vez de vender ao maior lance, devolveu-a. No dia seguinte, o banco de ostra deu o dobro à aldeia.",
     "A verdade do mergulho era dura, de vidas curtas. A lenda escolhe o gesto.",
     "A criança emirati, no museu da pérola, ouve o fôlego. Sem os mergulhadores, não havia casa. Com a lenda da pérola devolvida, há ética. Os Emirados, ricos agora, guardam este capítulo para não esquecer o pulmão. O mar, nesta história, paga o respeito. A ganância, o banco vazio. A pérola, o juízo.",
   ],
@@ -412,7 +412,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "iq:4": [
     "Ali Babá de Bagdade: as Noites, outra vez, com o souk de Bagdade a servir de teatro. A Porta de Ishtar, os minaretes, o dito «cidade da paz». Morgiana, a verdadeira espada da casa. O sésamo, a pedra, os quarenta. Bagdade, de Harun al-Rashid, é o palco clássico das Noites: o califa a andar disfarçado de noite, a ouvir as histórias da cidade.",
     "Harun, o califa, virou personagem de folclore.",
-    "A criança iraquiana ouve Bagdade como capital do conto. Sem as Noites, a cidade era só império. Com elas, o império tem ruas de encanto. Ali Babá, Morgiana, Harun: três jeitos de atravessar a noite. A lenda, fiel, deixa a criada a ganhar. Bagdade, mesmo ferida pela história recente, guarda este direito: o de ser, ainda, o sítio onde uma palavra abre uma porta.",
+    "A criança iraquiana ouve Bagdade como capital do conto. Sem as Noites, a cidade era só império. Com elas, o império tem ruas de encanto. Ali Babá, Morgiana, Harun: três jeitos de atravessar a noite. A lenda, fiel, deixa a criada a ganhar. Bagdade, mesmo ferida pela história recente, guarda este direito: o de ser, ainda, o lugar onde uma palavra abre uma porta.",
   ],
 
   "il:0": [
@@ -431,7 +431,7 @@ export const ASIA_STORIES: Record<string, string[]> = {
     "A criança israelita ouve os enigmas. A lenda, partilhada com a Etiópia, não se disputa aqui: conta-se a visita. Sem a rainha, Salomão era só rei. Com ela, o saber é examinado por fora. Israel, nesta história, honra a pergunta. A resposta, se for sábia, traz oásis e ouro. Se for vaidade, a rainha volta na mesma — e o templo, um dia, cai. Salomão, o sábio, também soube o fim.",
   ],
   "il:3": [
-    "O deserto que deu água: Moisés, no Sinai, bate na rocha e a água sai, segundo o Êxodo. O povo sedeento, a pedra, o milagre, e também a falha — noutro passo, Moisés bate duas vezes e paga o preço de não entrar na terra. A versão para crianças: o deserto de Israel e do Sinai é lugar de sede e de dádiva. A rocha, o copo inesperado.",
+    "O deserto que deu água: Moisés, no Sinai, bate na rocha e a água sai, segundo o Êxodo. O povo sedeento, a pedra, o milagre, e também a falha — em outro passo, Moisés bate duas vezes e paga o preço de não entrar na terra. A versão para crianças: o deserto de Israel e do Sinai é lugar de sede e de dádiva. A rocha, o copo inesperado.",
     "O Negev, ainda hoje, ensina a água como tesouro.",
     "A criança, no deserto, ouve a rocha. A lenda é Escritura, e o chão confirma a sede. Sem o milagre, o povo não atravessava. Com ele, e com a falha de Moisés, a travessia tem preço. Israel, nesta história, nasce também de um copo tirado da pedra. O deserto, o professor. A água, a lição que não se desperdiça.",
   ],
@@ -475,10 +475,10 @@ export const ASIA_STORIES: Record<string, string[]> = {
   "tl:1": [
     "A lenda do Monte Ramelau, o pico mais alto, Tatamailau, morada dos ancestrais. Subir pede rito, um par de pedras, um pedido. A independência de Timor olhou este monte como eixo. A lenda: os mortos sentam-se no cume, e a névoa é o fumo das suas conversas. Quem sobe a gabar-se, a névoa come o caminho.",
     "O povo, de muitos reino antigos, conhece o pico pelo nome sagrado.",
-    "A criança timorense vê o Ramelau e ouve os avós. Sem o rito, a subida é turismo. Com o rito, é visita. A lenda pede o mesmo que Sagarmatha, noutro idioma: a altura não é troféu. É parentesco. Timor-Leste, nesta montanha, guarda a independência em forma de névoa. Os mortos, se respeitados, deixam ver o mar dos dois lados. Se ofendidos, só névoa.",
+    "A criança timorense vê o Ramelau e ouve os avós. Sem o rito, a subida é turismo. Com o rito, é visita. A lenda pede o mesmo que Sagarmatha, em outro idioma: a altura não é troféu. É parentesco. Timor-Leste, nesta montanha, guarda a independência em forma de névoa. Os mortos, se respeitados, deixam ver o mar dos dois lados. Se ofendidos, só névoa.",
   ],
   "tl:2": [
-    "O irmão sol e a irmã lua, no mito timorense, discutem quem brilha mais. Um foge, o outro persegue, e o dia e a noite ficam a dever-se a esta rixa de irmãos. Noutra versão, a lua, mais mansa, aceita brilhar para os que têm medo da escuridão, e o sol, orgulhoso, fica com o trabalho quente.",
+    "O irmão sol e a irmã lua, no mito timorense, discutem quem brilha mais. Um foge, o outro persegue, e o dia e a noite ficam se devendo a esta rixa de irmãos. Noutra versão, a lua, mais mansa, aceita brilhar para os que têm medo da escuridão, e o sol, orgulhoso, fica com o trabalho quente.",
     "A dualidade, no pensamento timorense, é lei: feto e mane, fêmea e macho, lua e sol, sempre em par.",
     "A criança ouve os irmãos no céu. Sem o par, o mundo coxeava. Com o par, o dia fecha a noite e a noite, o dia. Timor, nesta lenda, ensina a complementaridade. O orgulho do sol, a mansa da lua. Os dois, a ilha. O recado: ninguém brilha bem sozinho. A rixa, se não acabar em acordo, deixa o povo sem hora. O acordo, o calendário.",
   ],

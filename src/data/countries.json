@@ -102,7 +102,7 @@
     "cities": [
       {
         "city": "Nova York",
-        "spots": "Estátua da Liberdade, Times Square, Central Park"
+        "spots": "Estásua da Liberdade, Times Square, Central Park"
       },
       {
         "city": "Washington, D.C.",
@@ -1169,7 +1169,7 @@
     "cities": [
       {
         "city": "Jacarta",
-        "spots": "Monas, Kota Tua, Ilha das Mil Ilhas"
+        "spots": "Monas, Kota Sua, Ilha das Mil Ilhas"
       },
       {
         "city": "Bali (Denpasar/Ubud)",
@@ -1787,7 +1787,7 @@
       },
       {
         "city": "Zermatt",
-        "spots": "Matterhorn, comboio Gornergrat, Alpes"
+        "spots": "Matterhorn, trem Gornergrat, Alpes"
       }
     ],
     "iso": "ch",
@@ -1870,10 +1870,11 @@
     "portrait": true
   },
   "cz": {
-    "name": "Chéquia",
+    "name": "Tchéquia",
     "aliases": [
       "Czechia",
-      "Czech Republic"
+      "Czech Republic",
+      "Chéquia"
     ],
     "hello": "Ahoj!",
     "who": "Jana",
@@ -1947,7 +1948,7 @@
     "portrait": true
   },
   "ro": {
-    "name": "Roménia",
+    "name": "Romênia",
     "aliases": [
       "Romania"
     ],
@@ -2510,7 +2511,7 @@
       },
       {
         "city": "Uyuni",
-        "spots": "Salar, ilha Incahuasi, comboio cemitério"
+        "spots": "Salar, ilha Incahuasi, trem cemitério"
       }
     ],
     "iso": "bo",
@@ -2806,7 +2807,7 @@
     "cities": [
       {
         "city": "Tunes",
-        "spots": "medina, Museu do Bardo, sítio de Cartago"
+        "spots": "medina, Museu do Bardo, lugar de Cartago"
       },
       {
         "city": "Sidi Bou Said",
@@ -3080,14 +3081,14 @@
       },
       {
         "city": "Montes Tatras",
-        "spots": "picos, lagos, comboio elétrico"
+        "spots": "picos, lagos, trem elétrico"
       }
     ],
     "iso": "sk",
     "portrait": true
   },
   "si": {
-    "name": "Eslovénia",
+    "name": "Eslovênia",
     "aliases": [
       "Slovenia"
     ],
@@ -3118,7 +3119,7 @@
       },
       {
         "city": "Postojna",
-        "spots": "grutas, comboio subterrâneo, castelo Predjama"
+        "spots": "grutas, trem subterrâneo, castelo Predjama"
       }
     ],
     "iso": "si",
@@ -3316,7 +3317,7 @@
     "portrait": true
   },
   "gl": {
-    "name": "Gronelândia",
+    "name": "Groenlândia",
     "aliases": [
       "Greenland"
     ],
@@ -3510,14 +3511,14 @@
     "portrait": true
   },
   "mk": {
-    "name": "Macedónia do Norte",
+    "name": "Macedônia do Norte",
     "aliases": [
       "North Macedonia",
       "Македонија"
     ],
     "hello": "Здраво!",
     "who": "Elena",
-    "outfit": "traje folclórico macedónio bordado",
+    "outfit": "traje folclórico macedônio bordado",
     "hat": "flower",
     "palette": [
       "#d20000",
@@ -3705,14 +3706,14 @@
     "portrait": true
   },
   "am": {
-    "name": "Arménia",
+    "name": "Armênia",
     "aliases": [
       "Armenia",
       "Hayastan"
     ],
     "hello": "Բարեւ!",
     "who": "Ani",
-    "outfit": "taraz arménio bordado e cinto",
+    "outfit": "taraz armênio bordado e cinto",
     "hat": "flower",
     "palette": [
       "#d90012",
@@ -3829,7 +3830,7 @@
     ],
     "hello": "Labas!",
     "who": "Gabija",
-    "outfit": "saia às riscas e coroa de flores",
+    "outfit": "saia com listras e coroa de flores",
     "hat": "flower",
     "palette": [
       "#fdb913",
@@ -3861,7 +3862,7 @@
     "portrait": true
   },
   "lv": {
-    "name": "Letónia",
+    "name": "Letônia",
     "aliases": [
       "Latvia",
       "Latvija"
@@ -3900,14 +3901,14 @@
     "portrait": true
   },
   "ee": {
-    "name": "Estónia",
+    "name": "Estônia",
     "aliases": [
       "Estonia",
       "Eesti"
     ],
     "hello": "Tere!",
     "who": "Liisa",
-    "outfit": "saia folclórica às riscas e grinalda",
+    "outfit": "saia folclórica com listras e grinalda",
     "hat": "flower",
     "palette": [
       "#0072CE",
@@ -4056,7 +4057,7 @@
     "portrait": true
   },
   "ir": {
-    "name": "Irão",
+    "name": "Irã",
     "aliases": [
       "Iran",
       "ایران"
@@ -4407,7 +4408,7 @@
     "portrait": true
   },
   "tj": {
-    "name": "Tajiquistão",
+    "name": "Tadjiquistão",
     "aliases": [
       "Tajikistan",
       "Тоҷикистон"
@@ -4446,7 +4447,7 @@
     "portrait": true
   },
   "tm": {
-    "name": "Turquemenistão",
+    "name": "Turcomenistão",
     "aliases": [
       "Turkmenistan",
       "Türkmenistan"
@@ -4809,7 +4810,7 @@
       "O desenho na areia",
       "A canoa de duas pessoas",
       "A cauda do rato",
-      "Não assobies para o mar"
+      "Não assobie para o mar"
     ],
     "cities": [
       {
@@ -4829,7 +4830,7 @@
     "portrait": true
   },
   "nc": {
-    "name": "Nova Caledónia",
+    "name": "Nova Caledônia",
     "aliases": [
       "New Caledonia"
     ],
@@ -4905,9 +4906,10 @@
     "portrait": true
   },
   "tf": {
-    "name": "Terras Austrais Francesas",
+    "name": "Territórios Franceses do Sul",
     "aliases": [
-      "French Southern Territories"
+      "French Southern Territories",
+      "Terras Austrais Francesas"
     ],
     "hello": "Bonjour!",
     "who": "Polo",
@@ -4943,7 +4945,7 @@
     "portrait": true
   },
   "bs": {
-    "name": "Baamas",
+    "name": "Bahamas",
     "aliases": [
       "Bahamas"
     ],
@@ -5133,13 +5135,13 @@
     "portrait": true
   },
   "fk": {
-    "name": "Ilhas Falkland",
+    "name": "Ilhas Malvinas",
     "aliases": [
       "Falkland Islands"
     ],
     "hello": "Hello!",
     "who": "Pip",
-    "outfit": "camisola de lã e gorro",
+    "outfit": "suéter de lã e gorro",
     "hat": "beanie",
     "palette": [
       "#00247D",
@@ -5171,9 +5173,10 @@
     "portrait": true
   },
   "tt": {
-    "name": "Trindade e Tobago",
+    "name": "Trinidad e Tobago",
     "aliases": [
-      "Trinidad and Tobago"
+      "Trinidad and Tobago",
+      "Trindade e Tobago"
     ],
     "hello": "Hello!",
     "who": "Kaila",
@@ -5326,7 +5329,7 @@
     "portrait": true
   },
   "mm": {
-    "name": "Mianmar",
+    "name": "Mianmar (Birmânia)",
     "aliases": [
       "Myanmar",
       "Mianmar"
@@ -5443,10 +5446,10 @@
     "portrait": true
   },
   "ye": {
-    "name": "Iémen",
+    "name": "Iêmen",
     "aliases": [
       "Yemen",
-      "Iémen",
+      "Iêmen",
       "Iemen"
     ],
     "hello": "Marhaba!",
@@ -5483,7 +5486,7 @@
     "portrait": true
   },
   "ps": {
-    "name": "Palestina",
+    "name": "Territórios palestinos",
     "aliases": [
       "Palestine",
       "Palestina"
@@ -5600,7 +5603,7 @@
     "portrait": true
   },
   "bj": {
-    "name": "Benim",
+    "name": "Benin",
     "aliases": [
       "Benin",
       "Bénin"
@@ -6064,7 +6067,7 @@
     "portrait": true
   },
   "cd": {
-    "name": "República Democrática do Congo",
+    "name": "Congo - Kinshasa",
     "aliases": [
       "Democratic Republic of the Congo",
       "RD Congo",
@@ -6104,7 +6107,7 @@
     "portrait": true
   },
   "cg": {
-    "name": "Congo",
+    "name": "República do Congo",
     "aliases": [
       "Republic of the Congo",
       "Congo-Brazzaville",
@@ -6604,10 +6607,10 @@
     "portrait": true
   },
   "mg": {
-    "name": "Madagáscar",
+    "name": "Madagascar",
     "aliases": [
       "Madagascar",
-      "Madagáscar"
+      "Madagascar"
     ],
     "hello": "Salama!",
     "who": "Soa",
@@ -6643,7 +6646,7 @@
     "portrait": true
   },
   "mw": {
-    "name": "Malawi",
+    "name": "Malaui",
     "aliases": [
       "Malawi"
     ],
@@ -6798,10 +6801,10 @@
     "portrait": true
   },
   "zw": {
-    "name": "Zimbabué",
+    "name": "Zimbábue",
     "aliases": [
       "Zimbabwe",
-      "Zimbabué"
+      "Zimbábue"
     ],
     "hello": "Mhoro!",
     "who": "Rudo",
@@ -6837,10 +6840,10 @@
     "portrait": true
   },
   "eh": {
-    "name": "Sara Ocidental",
+    "name": "Saara Ocidental",
     "aliases": [
       "Western Sahara",
-      "Sara Ocidental"
+      "Saara Ocidental"
     ],
     "hello": "Salaam aleikum!",
     "who": "Zahra",

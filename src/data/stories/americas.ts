@@ -26,13 +26,13 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   ],
 
   "ar:0": [
-    "El Pombero, no folclore guaraní e argentino, é um duende peludo, de chapéu, que guarda a mata. Se lhe deixares tabaco e aguardente, protege a casa. Se o insultas, embrulha as crias, esconde as ferramentas, imita a tua voz.",
+    "El Pombero, no folclore guaraní e argentino, é um duende peludo, de chapéu, que guarda a mata. Se lhe deixar tabaco e aguardente, protege a casa. Se o insultas, embrulha as crias, esconde as ferramentas, imita a sua voz.",
     "Anda de noite, assobia, e as grávidas não devem dizer o nome dele. É o Curupira do sul, com sotaque.",
     "O Litoral argentino ainda lhe deixa o prato. A lenda pede respeito à selva paraguaia e correntina. O Pombero ouve.",
   ],
   "ar:1": [
     "El lobisón, o sétimo filho homem, transforma-se em lobo ou porco às sextas. A Argentina e o Uruguai oficializaram até o Presidente como padrinho do sétimo filho, para quebrar o medo.",
-    "A lenda, irmã do lobisomem brasileiro, corre na pampa. A família esconde a roupa, acende a luz, chama pelo nome de baptismo.",
+    "A lenda, irmã do lobisomem brasileiro, corre na pampa. A família esconde a roupa, acende a luz, chama pelo nome de batismo.",
     "Contada com verdade: o medo era tanto que o Estado entrou na história. O lobo, aqui, pede padrinho. O amor civil quebra a maldição do número sete.",
   ],
   "ar:2": [
@@ -72,7 +72,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
     "A versão suave mantém o essencial: a velha da montanha, o perigo, a astúcia da criança. O condor, sagrado, abre as asas no fim.",
   ],
   "pe:4": [
-    "O condor e a pastora: um condor leva uma rapariga para o ninho no penhasco. Ela vive entre penas, tem filhos-pássaro, e um dia pede para visitar a mãe. O condor deixa-a ir com uma corda de lã. A aldeia corta a corda. O condor chora no céu.",
+    "O condor e a pastora: um condor leva uma menina para o ninho no penhasco. Ela vive entre penas, tem filhos-pássaro, e um dia pede para visitar a mãe. O condor deixa-a ir com uma corda de lã. A aldeia corta a corda. O condor chora no céu.",
     "Há versões em que ela volta. Há versões em que a saudade é o preço. Os Andes conhecem o rapto pelo ar.",
     "O mito avisa o amor que tira do chão. A pastora pertence a dois mundos, e nenhum os perdoa de todo. O condor, o pássaro-sol, paga a paixão em círculos altos.",
   ],
@@ -85,7 +85,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   "ca:1": [
     "A lenda do ácer, o maple, diz que uma criança ou um homem observou um esquilo a lamber seiva, ou que uma mulher deixou um tomahawk no tronco e a seiva cozeu no lume, virando xarope.",
     "Os povos das Primeiras Nações já furavam o ácer muito antes dos colonos. O xarope é presente da árvore no fim do inverno, quando a terra ainda dorme.",
-    "O Canadá pôs a folha na bandeira. A história fiel: a doçura sai da paciência, gota a gota, na neve que parte. Ninguém inventou o maple — alguém teve o cuidado de o provar.",
+    "O Canadá pôs a folha na bandeira. A história fiel: a doçura sai da paciência, gota a gota, na neve que parte. Ninguém inventou o maple — alguém teve o cuidado de provar.",
   ],
   "ca:2": [
     "O wendigo, nos contos algonquinos, é o espírito da fome do inverno: um gigante de gelo, coração de gelo, que já foi humano e comeu humano. Cresce à medida que come, nunca cheio.",
@@ -105,7 +105,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
 
   "co:0": [
     "El Mohán, no folclore colombiano, é um homem-peixe ou velho de cabelo vermelho que vive nas remansos do Magdalena. Rouba tabaco, encanta lavadeiras, vira a canoa de quem se ri do rio.",
-    "Gosta de panela e de peixe. As mães avisam as filhas: não vás ao rio a sós ao entardecer.",
+    "Gosta de panela e de peixe. As mães avisam as filhas: não vá ao rio a sós ao entardecer.",
     "É a Iara de água quente, com sotaque caribenho-andino. O Magdalena é um personagem. O Mohán é a boca dele.",
   ],
   "co:1": [
@@ -140,7 +140,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
     "A ilha ensina a ler o corpo da Pincoya. O mar, nesta história, tem humor de mulher. Quem pesca sem atenção perde o cardume e a dança.",
   ],
   "cl:2": [
-    "El Trauco é um anão de uma perna deformada, chapéu de copihue, que vive nos bosques de Chiloé. Encanta as moças com o olhar. A lenda explica gravidezes inexplicáveis — e avisa as raparigas para não andarem sós no ulmo.",
+    "El Trauco é um anão de uma perna deformada, chapéu de copihue, que vive nos bosques de Chiloé. Encanta as moças com o olhar. A lenda explica gravidezes inexplicáveis — e avisa as meninas para não andarem sós no ulmo.",
     "Conta-se com recato às crianças: um duende perigoso da mata, feio e poderoso, que se evita com certos ritos e com companhia.",
     "Chiloé não o trata como mascote. O Trauco é o bosque a ter desejo. O respeito, aqui, é não ir ao encontro dele.",
   ],
@@ -162,11 +162,11 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   ],
   "cu:1": [
     "A Virgen de la Caridad del Cobre, padroeira de Cuba, apareceu a três homens — os três Juanes — numa tempestade na baía de Nipe. Iam num barco pequeno. A imagem da Virgem flutuava, seca, com a inscrição «Yo soy la Virgen de la Caridad».",
-    "Levaram-na. O santuário no Cobre tornou-se o coração da ilha. É fé e é lenda nacional, para crentes e não crentes.",
+    "Levaram-na. O santuário no Cobre tornou-se o coração da ilha. É fé e é lenda nacional, para crentes e não crente.",
     "A história não se altera: a tempestade, o barco, a imagem seca no meio da água. Cuba inteira cabe naquele milagre de sal.",
   ],
   "cu:2": [
-    "Cecilia Valdés é romance do século XIX que o povo cubano cantou em dança e rumba. A rapariga de Havana, bela, livre, presa numa história de amor e de cor, tornou-se personagem-folclore.",
+    "Cecilia Valdés é romance do século XIX que o povo cubano cantou em dança e rumba. A menina de Havana, bela, livre, presa numa história de amor e de cor, tornou-se personagem-folclore.",
     "Não é mito taíno. É a Havana colonial a virar lenda urbana. As crianças ouvem o nome nas canções.",
     "Contá-la com honestidade: uma jovem da cidade, um amor difícil, a ilha a dançar mesmo quando a história dói. Cuba faz das suas heroínas de papel mulheres de rua.",
   ],
@@ -183,7 +183,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
 
   "jm:0": [
     "Anansi na Jamaica é o mesmo Anansi do Gana, chegado nos navios da escravatura. A aranha esperta engana o tigre, o macaco, o rio. Os contos, em patois, guardaram a África no Caribe.",
-    "Numa história jamaicana, Anansi prende todas as histórias do mundo para si, até ter de as soltar. Noutra, finge-se morto para comer o funeral.",
+    "Numa história jamaicana, Anansi prende todas as histórias do mundo para si, até ter de soltar. Noutra, finge-se morto para comer o funeral.",
     "Contar Anansi na Jamaica é contar resistência: o pequeno que vence o grande com a cabeça. O tigre tem força; a aranha tem o enredo. A ilha escolheu a aranha.",
   ],
   "jm:1": [
@@ -194,7 +194,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   "jm:2": [
     "A Blue Mountain, onde nasce o café famoso, tem duendes, «duppies», e o espírito da névoa. Os agricultores deixam um gole de rum. Quem colhe à pressa, perde-se no capim alto.",
     "O duppy é o morto que não sossegou. A montanha, fria para o Caribe, pede casaco e respeito.",
-    "O café da Blue Mountain é o ouro verde da ilha. A lenda só cobra o pedágio: não subas a rir da névoa. A névoa, aqui, tem nome.",
+    "O café da Blue Mountain é o ouro verde da ilha. A lenda só cobra o pedágio: não suba a rir da névoa. A névoa, aqui, tem nome.",
   ],
   "jm:3": [
     "O papagaio de Port Royal, no tempo em que a cidade era ninho de piratas e depois se afundou num terramoto em 1692, aparece nas histórias como ave que ainda grita os nomes dos capitães.",
@@ -208,9 +208,9 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   ],
 
   "cr:0": [
-    "A Costa Rica conta a lenda da pedra de cegonha, ou mais fielmente a dos boyeros, os carreiros de carros pintados, e a da Virgen de los Ángeles, a Negrita, uma imagem pequena achada por uma rapariga numa pedra, em Cartago. Sempre voltava à pedra. Ali fizeram o santuário.",
+    "A Costa Rica conta a lenda da pedra de cegonha, ou mais fielmente a dos boyeros, os carreiros de carros pintados, e a da Virgen de los Ángeles, a Negrita, uma imagem pequena achada por uma menina numa pedra, em Cartago. Sempre voltava à pedra. Ali fizeram o santuário.",
     "A Negrita é padroeira. A romaria de 2 de Agosto atravessa o país a pé.",
-    "É fé e folclore. A pedra escolheu o sítio. A rapariga, a mensagem. A Costa Rica inteira ainda caminha até Cartago, como se a lenda precisasse de pés para não esfriar.",
+    "É fé e folclore. A pedra escolheu o lugar. A menina, a mensagem. A Costa Rica inteira ainda caminha até Cartago, como se a lenda precisasse de pés para não esfriar.",
   ],
   "cr:1": [
     "El Cadejos, na Costa Rica e na América Central, é um cão enorme, de correntes: o negro assusta os bêbedos e os que andam tarde; o branco protege. Os olhos são como brasa.",
@@ -228,7 +228,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
     "A Costa Rica do ecoturismo às vezes adoça demais. O essencial bribri permanece: a floresta tem dono, e o tempo da preguiça é um tempo sagrado, não preguiça de gente.",
   ],
   "cr:4": [
-    "A ilha do Coco, ao largo, é um dos sítios com mais lendas de tesouro pirata do Pacífico: o tesouro de Lima, corsários, baús em grutas. Nunca se achou o grande. A ilha é parque, de tubarões e cascatas.",
+    "A ilha do Coco, ao largo, é um dos lugares com mais lendas de tesouro pirata do Pacífico: o tesouro de Lima, corsários, baús em grutas. Nunca se achou o grande. A ilha é parque, de tubarões e cascatas.",
     "A lenda puxa aventureiros há dois séculos. A selva engole os mapas.",
     "Contar isto às crianças costarriquenhas é falar de um tesouro que a ilha recusou entregar. Talvez o ouro verdadeiro seja o tubarão, a cascata, o bosque que ninguém conseguiu comprar de todo.",
   ],
@@ -254,14 +254,14 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
     "O Paraguai é o rio. A lenda só lhe dá justiça. Quem mora na barranca sabe ler a água. As crianças, a ouvir o conto, aprendem a sair a tempo.",
   ],
   "py:4": [
-    "O ñandutí, renda de teia de aranha de Itauguá, tem a lenda de uma rapariga que imitou a teia para um noivo, ou de uma índia que teceu o sol. O nome, em guarani, é exactamente «teia de aranha».",
+    "O ñandutí, renda de teia de aranha de Itauguá, tem a lenda de uma menina que imitou a teia para um noivo, ou de uma índia que teceu o sol. O nome, em guarani, é exatamente «teia de aranha».",
     "A renda existe, branca e geométrica, famosa no mundo. A lenda dá-lhe um coração.",
-    "Contar a origem do ñandutí é honrar o trabalho das mulheres paraguaias. A aranha ensinou. A rapariga não desistiu. O pano ficou a prender a luz.",
+    "Contar a origem do ñandutí é honrar o trabalho das mulheres paraguaias. A aranha ensinou. A menina não desistiu. O pano ficou prendendo a luz.",
   ],
 
   "uy:0": [
     "El lobizón, no Uruguai, é o mesmo sétimo filho da pampa. Às terças e sextas a transformação aperta. O governo uruguaio, como o argentino, apadrinha o sétimo filho.",
-    "A lenda corre nas estâncias. O cão, o capinzal, o nome de baptismo como âncora.",
+    "A lenda corre nas estâncias. O cão, o capinzal, o nome de batismo como âncora.",
     "O país pequeno levou o mito a sério o bastante para o Estado entrar na família. Contar isto é contar um medo antigo e um carinho oficial. O lobo uruguaio tem padrinho em Montevideu.",
   ],
   "uy:1": [
@@ -297,7 +297,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   ],
   "bo:2": [
     "El Kharisiri (ou Pishtaco), no folclore andino, é um estranho, muitas vezes branco, que suga a gordura das pessoas. Nasceu do medo colonial: o corpo indígena usado, a graxa para os sinos das igrejas, segundo o rumor antigo.",
-    "Conta-se com seriedade. A versão suave para crianças: desconfia de quem te quer «curar» na estrada sem ser da tua comunidade; o perigo pode vestir cara de ajuda.",
+    "Conta-se com seriedade. A versão suave para crianças: desconfia de quem te quer «curar» na estrada sem ser da sua comunidade; o perigo pode vestir cara de ajuda.",
     "Não é conto para rir. É memória de exploração transformada em monstro. A Bolívia rural ainda o nomeia. O respeito, aqui, é não esvaziar a lenda do seu aviso histórico.",
   ],
   "bo:3": [
@@ -319,17 +319,17 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   "ec:1": [
     "O tesouro dos incas em Quito: Rumiñahui, general de Atahualpa, teria escondido o ouro do resgate quando soube da morte do rei, talvez no Pichincha, talvez no Llanganates. Nunca se achou.",
     "Os Llanganates ainda engolem expedições. A névoa, o páramo, o mapa que mente.",
-    "O Equador guarda este talvez. A lenda diz que o ouro não quer ser achado por quem matou o dono. O condor, outra vez, sabe o sítio e não conta.",
+    "O Equador guarda este talvez. A lenda diz que o ouro não quer ser achado por quem matou o dono. O condor, outra vez, sabe o lugar e não conta.",
   ],
   "ec:2": [
     "As tartarugas de Galápagos, gigantes, têm a lenda de serem ilhas vivas, ou de um deus ter parado o tempo nas costas delas. Darwin veio, a ciência veio; o povo das ilhas já as tratava como avós.",
     "Lonesome George, o último da sua ilha, morreu sozinho. A lenda moderna fez dele rei sem reino.",
-    "O Equador conta as tartarugas como memória da Terra. Andam devagar porque lembram tudo. As crianças, ao vê-las, entendem o tempo. A história fiel cabe num casco: quem chega a velho assim, o mundo tem de o deixar passar.",
+    "O Equador conta as tartarugas como memória da Terra. Andam devagar porque lembram tudo. As crianças, ao vê-las, entendem o tempo. A história fiel cabe num casco: quem chega a velho assim, o mundo tem de deixar passar.",
   ],
   "ec:3": [
-    "El duende dos Andes equatorianos, como noutros Andes, pede ordem na casa, enreda as tranças, perde as ovelhas de quem se ri. No páramo, o frio é o seu chapéu.",
+    "El duende dos Andes equatorianos, como em outros Andes, pede ordem na casa, enreda as tranças, perde as ovelhas de quem se ri. No páramo, o frio é o seu chapéu.",
     "Deixa-se doce, não se assobia de noite, não se varre para fora depois do pôr do sol — o varrer de noite, diz-se, varre a sorte.",
-    "O Equador rural vive destas regras pequenas. O duende é o nome da regra. A lenda funciona porque a casa, de facto, precisa de ordem contra o vento do Chimborazo.",
+    "O Equador rural vive destas regras pequenas. O duende é o nome da regra. A lenda funciona porque a casa, de fato, precisa de ordem contra o vento do Chimborazo.",
   ],
   "ec:4": [
     "O chapéu de palha toquilla, chamado no mundo «chapéu do Panamá», tece-se na costa do Equador, em Montecristi e Jipijapa. A lenda do nome: operários do canal do Panamá usavam-no, e o mundo enganou-se de país.",
@@ -340,7 +340,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   "ve:0": [
     "La Sayona, na Venezuela, aparece aos homens infiéis na estrada, bela, de branco. Pede boleia. No meio do caminho mostra a cara de caveira e o castigo. A versão suave: um espírito que manda os pais para casa, para a família.",
     "Nasce, diz-se, de uma mulher que se vingou demais e foi condenada a vagar. O lamento dela ouve-se nas estradas de interior.",
-    "A Venezuela conta a Sayona nas viagens longas. A lenda moraliza o abandono. Às crianças diz-se: a noite da estrada não é sítio para quem prometeu voltar e não voltou.",
+    "A Venezuela conta a Sayona nas viagens longas. A lenda moraliza o abandono. Às crianças diz-se: a noite da estrada não é lugar para quem prometeu voltar e não voltou.",
   ],
   "ve:1": [
     "El Silbón, dos Llanos, é um homem alto, muito alto, que assobia. Leva um saco de ossos — os do pai, que matou, segundo a lenda. Se o assobio soa perto, está longe; se soa longe, está perto.",
@@ -353,9 +353,9 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
     "A Venezuela guarda este salto como tesouro. A história fiel é indígena: o tepui não é parque de salto de pára-quedas. É um altar. O anjo do nome estrangeiro chegou tarde. A água já caía para os deuses.",
   ],
   "ve:3": [
-    "María Lionza, rainha de um culto venezuelano enorme, é uma deusa-rainha da montanha de Sorte, em Yaracuy, rodeada por cortes de espíritos: médicos, libertadores, malandros. A lenda de origem: uma rapariga indígena de olhos verdes, filha de um cacique, que se virou anaconda ou rainha das águas.",
+    "María Lionza, rainha de um culto venezuelano enorme, é uma deusa-rainha da montanha de Sorte, em Yaracuy, rodeada por cortes de espíritos: médicos, libertadores, malandros. A lenda de origem: uma menina indígena de olhos verdes, filha de um cacique, que se virou anaconda ou rainha das águas.",
     "Os fiéis vão à montanha em outubro. É religião viva. Conta-se com respeito.",
-    "A Venezuela mestiça cabe em María Lionza: índia, negra, branca, nas cortes. A criança vê a estátua da mulher no tapir, em Caracas, e ouve que a rainha ainda governa o invisível.",
+    "A Venezuela mestiça cabe em María Lionza: índia, negra, branca, nas cortes. A criança vê a estásua da mulher no tapir, em Caracas, e ouve que a rainha ainda governa o invisível.",
   ],
   "ve:4": [
     "O tesouro de Canaima, na Gran Sabana, mistura ouro de El Dorado, os tepuis, e o romance de Gallegos. El Dorado, a cidade dourada, puxou espanhóis para o Orinoco e para a morte. Nunca a acharam.",
@@ -364,7 +364,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   ],
 
   "pa:0": [
-    "A lenda do canal do Panamá, para crianças, conta-se com honestidade: milhares de trabalhadores, muitos das Caraíbas, morreram de febre e acidentes para juntar dois oceanos. O folclore dos peões fala de almas nos cortes de Culebra, de comboios fantasma, de um rio que não queria ser desvio.",
+    "A lenda do canal do Panamá, para crianças, conta-se com honestidade: milhares de trabalhadores, muitos das Caraíbas, morreram de febre e acidentes para juntar dois oceanos. O folclore dos peões fala de almas nos cortes de Culebra, de trens fantasma, de um rio que não queria ser desvio.",
     "O canal abriu em 1914. O país nasceu à volta da ferida e da maravilha.",
     "A história verdadeira já é epopeia. O recado: um atalho entre mares custa sangue. Os navios passam em silêncio. As crianças panamenhas aprendem o preço junto com o orgulho.",
   ],
@@ -418,7 +418,7 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   "do:0": [
     "A Ciguapa, no folclore dominicano, é uma mulher selvagem, de cabelo longo até aos pés — pés virados para trás, como o Curupira. Vive nas lomas. O canto chama. As pegadas enganam.",
     "Quem a segue perde-se. Quem a trata com respeito, às vezes ganha um recado da mata.",
-    "A República Dominicana rural conhece-a. A versão suave: não sigas vozes na montanha. Os pés ao contrário são o mapa a mentir. A ilha, de bosques e de rios, precisa desta guarda.",
+    "A República Dominicana rural conhece-a. A versão suave: não siga vozes na montanha. Os pés ao contrário são o mapa a mentir. A ilha, de bosques e de rios, precisa desta guarda.",
   ],
   "do:1": [
     "O merengue, ritmo nacional, tem lendas de nascimento: um herói de uma perna só que puxava o pé; um toque de tambor e de acordeão na Cibao; a festa a vencer o trabalho duro. A verdade musical é mestiça — europeia, africana, taina.",
@@ -442,29 +442,29 @@ export const AMERICAS_STORIES: Record<string, string[]> = {
   ],
 
   "gl:0": [
-    "A Mãe do Mar, Sassuma Arnaa, no mito inuit da Gronelândia, vive no fundo. Quando os humanos sujam o mundo, ou quebram tabus de caça, os animais do mar enredam-se no cabelo dela e deixam de subir. A fome vem.",
+    "A Mãe do Mar, Sassuma Arnaa, no mito inuit da Groenlândia, vive no fundo. Quando os humanos sujam o mundo, ou quebram tabus de caça, os animais do mar enredam-se no cabelo dela e deixam de subir. A fome vem.",
     "Um xamã desce, penteia-lhe o cabelo, pede desculpa. Os animais soltam-se. A caça volta.",
-    "É um dos mitos mais importantes do Ártico. Contá-lo com respeito: a natureza não é armazém. A Mãe do Mar segura a vida no cabelo. A criança da Gronelândia aprende que a foca, o peixe, a baleia dependem de um pente feito de desculpa.",
+    "É um dos mitos mais importantes do Ártico. Contá-lo com respeito: a natureza não é armazém. A Mãe do Mar segura a vida no cabelo. A criança da Groenlândia aprende que a foca, o peixe, a baleia dependem de um pente feito de desculpa.",
   ],
   "gl:1": [
     "O corvo, no Ártico, também traz a luz, em versões inuit próximas das da costa noroeste. O mundo escuro, o avaro, o roubo do sol. O corvo, preto da fuligem do fogo, fica dessa cor.",
-    "Na Gronelândia o corvo é residente, esperto, ladrão de acampamento. A lenda e o vizinho coincidem.",
+    "Na Groenlândia o corvo é residente, esperto, ladrão de acampamento. A lenda e o vizinho coincidem.",
     "A luz do Ártico, no inverno, é uma raridade. O mito do roubo explica o valor. Cada amanhecer de Primavera é o corvo a ter ganho outra vez.",
   ],
   "gl:2": [
-    "O cão de trenó é herói quotidiano da Gronelândia: puxa, fareja o gelo fino, morre pelo dono. Há contos de um cão que guiou uma família através de uma tempestade, recusando o atalho do fiorde podre.",
-    "Os huskies da Gronelândia são raça antiga, protegida. Sem eles, o inverno era outra morte.",
+    "O cão de trenó é herói quotidiano da Groenlândia: puxa, fareja o gelo fino, morre pelo dono. Há contos de um cão que guiou uma família através de uma tempestade, recusando o atalho do fiorde podre.",
+    "Os huskies da Groenlândia são raça antiga, protegida. Sem eles, o inverno era outra morte.",
     "A lenda do cão herói não precisa de capa. A criança de Ilulissat vê a matilha e ouve o nome de um cão que já salvou o avô. O folclore, aqui, ladra de verdade.",
   ],
   "gl:3": [
     "A aurora boreal, no mito inuit, são espíritos a jogar à bola com uma caveira de morsa, ou os mortos a dançar. Assobiar pode chamá-los para perto — uns dizem que é perigoso, outros que é brincadeira.",
     "O céu verde e vermelho sobre o gelo chega para a fé. A lenda só dá regras ao pescoço que olha para cima.",
-    "A Gronelândia inteira cabe neste jogo celeste. Contar a aurora é contar os mortos ainda ativos, ainda em festa. A criança, de capuz, aprende a olhar sem medo e sem falta de respeito.",
+    "A Groenlândia inteira cabe neste jogo celeste. Contar a aurora é contar os mortos ainda ativos, ainda em festa. A criança, de capuz, aprende a olhar sem medo e sem falta de respeito.",
   ],
   "gl:4": [
     "O gigante de gelo, ou o qivittoq, o que se exila na montanha e vira espírito, povoa as histórias. Um homem que parte da aldeia de vergonha torna-se veloz, vestido de gelo, perigoso e triste.",
     "A versão suave: a comunidade é calor; quem se corta dela, o gelo veste-o. Voltar é difícil, não impossível, se a aldeia ainda disser o nome.",
-    "A Gronelândia, de povoados pequenos, conhece o exílio. A lenda pede que se chame o vizinho antes que ele vire vento. O gigante de gelo, no fundo, é um parente que ninguém foi buscar a tempo.",
+    "A Groenlândia, de povoados pequenos, conhece o exílio. A lenda pede que se chame o vizinho antes que ele vire vento. O gigante de gelo, no fundo, é um parente que ninguém foi buscar a tempo.",
   ],
 
   "aq:0": [

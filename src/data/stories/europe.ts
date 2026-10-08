@@ -31,7 +31,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "Fogem com tesouros. O pai, arrependido, recebe-os. Nos Grimm a madrasta já morreu. A história alemã não esconde a fome: esconde um irmão e uma irmã que pensam juntos.",
   ],
   "de:1": [
-    "Chapeuzinho Vermelho leva vinho e bolo à avó doente, atravessando o bosque. A mãe avisa: não saias do caminho. O lobo convence-a a colher flores, chega primeiro a casa da avó, engole-a e deita-se na cama.",
+    "Chapeuzinho Vermelho leva vinho e bolo à avó doente, atravessando o bosque. A mãe avisa: não saia do caminho. O lobo convence-a a colher flores, chega primeiro a casa da avó, engole-a e deita-se na cama.",
     "A menina estranha as orelhas, os olhos, os dentes. «É para te comer melhor!» O lobo engole-a também. Um caçador abre a barriga do lobo, tira a avó e a menina vivas, e enche o lobo de pedras.",
     "Os Grimm mantêm o perigo e o salvamento. O recado não mudou: o caminho existe por alguma razão, e o lobo fala com doçura antes de mostrar os dentes.",
   ],
@@ -41,7 +41,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "Um príncipe a transporta; o pedaço de maçã sai-lhe da garganta. Ela acorda. A rainha má dança com sapatos de ferro em brasa no casamento — nos Grimm é assim. Às crianças conta-se o acordar e a justiça, sem o ferro em detalhe: o orgulho do espelho destrói quem só se ama a si.",
   ],
   "de:3": [
-    "Um casal rouba rapónios da horta de uma feiticeira. Ela exige o bebé que vai nascer. A menina, Rapunzel, cresce numa torre sem porta. Tem cabelos longuíssimos. A bruxa sobe por eles: «Rapunzel, Rapunzel, deixa cair o teu cabelo.»",
+    "Um casal rouba rapónios da horta de uma feiticeira. Ela exige o bebé que vai nascer. A menina, Rapunzel, cresce numa torre sem porta. Tem cabelos longuíssimos. A bruxa sobe por eles: «Rapunzel, Rapunzel, deixa cair o seu cabelo.»",
     "Um príncipe ouve a canção, sobe da mesma forma. A bruxa descobre, corta os cabelos, expulsa Rapunzel para o deserto e cega o príncipe nos espinheiros.",
     "Anos depois, as lágrimas de Rapunzel curam os olhos dele. Reúnem-se. Nos Grimm o sofrimento é real; o fim é o reencontro. A torre não vence o tempo nem a voz.",
   ],
@@ -58,7 +58,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   ],
   "it:1": [
     "A Befana é uma velha de lenço e vassoura que, na véspera de Dia de Reis, voa pelas casas de Itália. Deixa doces às crianças bem-comportadas e carvão às travessas.",
-    "A lenda diz que os Magos lhe pediram caminho para Belém. Ela estava a varrer, atrasou-se, e agora voa todas as noites de 5 para 6 de Janeiro, à procura do Menino, deixando presentes pelo caminho.",
+    "A lenda diz que os Magos lhe pediram caminho para Belém. Ela estava varrendo, atrasou-se, e agora voa todas as noites de 5 para 6 de Janeiro, à procura do Menino, deixando presentes pelo caminho.",
     "Não é bruxa má: é avó do céu italiano. As crianças deixam-lhe um copo de vinho e um pedaço de bolo. A vassoura, o saco e o xal são o Natal que chega mais tarde, com cheiro a cinza doce.",
   ],
   "it:2": [
@@ -85,7 +85,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "es:1": [
     "O Rato Pérez é o rato dos dentes, de Madrid. Em 1894, um padre escreveu o conto para o pequeno rei Afonso XIII: quando cai um dente de leite, põe-se debaixo da almofada. O rato Pérez leva-o para a sua caixa e deixa uma moeda.",
     "Pérez vive numa caixa de bolachas na Rua Arenal, número 8, segundo a lenda madrileña. Tem família, ofício e pressa.",
-    "Não é um mito medieval, e dizemo-lo: é folclore moderno, já com mais de cem anos. As crianças espanholas (e muitas latino-americanas) conhecem o rato, não a fada. O dente viaja; a coragem de o largar também.",
+    "Não é um mito medieval, e dizemo-lo: é folclore moderno, já com mais de cem anos. As crianças espanholas (e muitas latino-americanas) conhecem o rato, não a fada. O dente viaja; a coragem de largar também.",
   ],
   "es:2": [
     "El Cid, Rodrigo Díaz de Vivar, é herói histórico e lenda de Castela. Desterrado pelo rei Afonso VI, conquistou Valência, lutou entre cristãos e mouros, e a sua honra ficou maior do que o favor da corte.",
@@ -106,7 +106,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "gr:0": [
     "Teseu, príncipe de Atenas, foi a Creta como tributo: todos os anos jovens atenienses eram entregues ao Minotauro, homem-touro no labirinto de Dédalo.",
     "Ariadne, filha do rei Minos, deu-lhe um novelo. Teseu desenrolou o fio, matou o Minotauro no centro, e saiu seguindo a linha. Levou Ariadne, mas deixou-a em Naxos — a lenda não esconde essa falha.",
-    "Esqueceu de trocar a vela negra da nau por uma branca. O pai, Egeu, viu a vela negra e atirou-se ao mar, que ficou a chamar-se Egeu. Vitória e esquecimento no mesmo barco.",
+    "Esqueceu de trocar a vela negra da nau por uma branca. O pai, Egeu, viu a vela negra e atirou-se ao mar, que ficou se chamando Egeu. Vitória e esquecimento no mesmo barco.",
   ],
   "gr:1": [
     "A guerra de Troia durava dez anos. Odisseu mandou construir um cavalo de madeira oco. Os gregos fingiram partir. Os troianos puxaram o cavalo para dentro das muralhas, como troféu.",
@@ -114,7 +114,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "A história, de Homero e de Virgílio, avisa: o presente do inimigo pode ser oco. Atenas e Roma inteiras cresceram deste cavalo. As crianças entendem o truque; os adultos, a queda de uma cidade confiante.",
   ],
   "gr:2": [
-    "Dédalo, o inventor, construiu o labirinto e depois quis fugir de Creta com o filho Ícaro. Fez asas de penas e cera. Avisou: não voes baixo, que o mar molha; não voes alto, que o sol derrete.",
+    "Dédalo, o inventor, construiu o labirinto e depois quis fugir de Creta com o filho Ícaro. Fez asas de penas e cera. Avisou: não voe baixo, que o mar molha; não voe alto, que o sol derrete.",
     "Ícaro, bêbado de céu, subiu demais. A cera escorreu. As penas soltaram-se. Caiu ao mar, que tomou o seu nome.",
     "Dédalo chegou à Sicília sozinho. O mito grego não muda: o engenho abre o céu; a medida guarda-nos nele. Sem medida, o céu devolve-nos ao sal.",
   ],
@@ -126,7 +126,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "gr:4": [
     "Pandora foi a primeira mulher, moldada pelos deuses. Zeus deu-lhe uma caixa — ou um jarro — e mandou que não a abrisse. A curiosidade, que é humana, abriu-a.",
     "Saíram os males: a doença, a guerra, a inveja, o cansaço. Pandora fechou a tempo de deixar dentro uma coisa: a Esperança, Elpis.",
-    "O mito hesiódico não é um conto de fadas. Diz que o mundo está cheio de males porque alguém abriu o que era vedado — e que, mesmo assim, a esperança ficou connosco, debaixo da tampa.",
+    "O mito hesiódico não é um conto de fadas. Diz que o mundo está cheio de males porque alguém abriu o que era vedado — e que, mesmo assim, a esperança ficou conosco, debaixo da tampa.",
   ],
 
   "tr:0": [
@@ -135,7 +135,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "Nasreddin ri-se dos juízes, dos vizinhos e de si. A lição muda de história para história, mas o homem não: a sabedoria turca entra pela gargalhada, montada num burro.",
   ],
   "tr:1": [
-    "Keloğlan é o rapaz calvo das histórias turcas, o mais novo, o que parece tolo. Parte de casa com um pão, encontra gigantes, padishás e raparigas encantadas.",
+    "Keloğlan é o rapaz calvo das histórias turcas, o mais novo, o que parece tolo. Parte de casa com um pão, encontra gigantes, padishás e meninas encantadas.",
     "Vence porque pergunta, partilha e não desiste. Muitas vezes os irmãos «espertos» falham a prova da bondade; Keloğlan dá o último naco de pão e recebe um cavalo mágico.",
     "É o João-sem-medo da Anatólia. A calvície, que o povo rima com sorte, é o chapéu que falta: ele não tem vaidade a proteger. Por isso cabe-lhe o tesouro.",
   ],
@@ -172,7 +172,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   ],
   "ru:3": [
     "A Rainha da Neve, de Andersen — dinamarquesa de nascimento, mas amada na Rússia da neve — raptas o rapaz Kai, com um estilhaço de espelho no olho e outro no coração. Gerda, a amiga, parte à procura.",
-    "Atravessa jardins, palácios, ladrões, uma rapariga da Lapónia e uma da Finlândia. No palácio de gelo, as lágrimas de Gerda derretem o estilhaço. Kai lembra-se das rosas e da casa.",
+    "Atravessa jardins, palácios, ladrões, uma menina da Lapónia e uma da Finlândia. No palácio de gelo, as lágrimas de Gerda derretem o estilhaço. Kai lembra-se das rosas e da casa.",
     "Voltam crianças, mas o inverno que atravessaram ficou na alma da Europa. A amizade andou mais longe do que o feitiço.",
   ],
   "ru:4": [
@@ -187,7 +187,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "Os Países Baixos discutem se o menino existiu; o perigo do mar, esse, existiu sempre. Por isso a história ficou: cada um é responsável pelo buraco que vê.",
   ],
   "nl:1": [
-    "Hans Brinker, noutro romance do século XIX ambientado na Holanda, patina para ganhar umas medalhas de prata que pagariam a operação do pai. A irmã Gretel ganha a corrida das raparigas.",
+    "Hans Brinker, em outro romance do século XIX ambientado na Holanda, patina para ganhar umas medalhas de prata que pagariam a operação do pai. A irmã Gretel ganha a corrida das meninas.",
     "A família pobre dos canais, os patins, o médico que acaba por ajudar: a história cruzou-se com o menino do dique na cabeça do mundo, embora sejam livros diferentes.",
     "Na Holanda conta-se como retrato do gelo e da coragem familiar. Os canais realmente gelam. Os patins realmente salvam distâncias. O resto é coração de papel que o povo adoptou.",
   ],
@@ -202,7 +202,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "Verdade ou desejo, a Holanda sem moinhos afunda. A lenda só põe alma nas pás.",
   ],
   "nl:4": [
-    "Pietje Bell é um rapaz travesso de Roterdão, criado por Chris van Abkoude. Prega partidas, tem o coração no sítio, e a cidade inteira conhece o seu nome.",
+    "Pietje Bell é um rapaz travesso de Roterdão, criado por Chris van Abkoude. Prega partidas, tem o coração no lugar, e a cidade inteira conhece o seu nome.",
     "Não é um mito medieval: é folclore literário do século XX, já tão holandês como o canal. As crianças lêem Pietje como se ele ainda estivesse a correr na Lange Haven.",
     "A partida, nesta tradição, não é maldade: é a cidade a rir-se de si própria, com um menino à frente.",
   ],
@@ -261,18 +261,18 @@ export const EUROPE_STORIES: Record<string, string[]> = {
 
   "pl:0": [
     "O dragão de Wawel vivia numa gruta debaixo do castelo de Cracóvia e exigia gado. O rei prometeu a filha a quem o matasse. Cavaleiros falharam.",
-    "O sapateiro Dratewka encheu um carneiro de enxofre e alcatrão. O dragão comeu, teve uma sede louca, bebeu o Vístula até rebentar — ou, noutras versões, explodiu.",
-    "Cracóvia ainda mostra a caverna e uma estátua que cospe fogo. A lenda polaca do astuto, não do mais armado, funda a cidade.",
+    "O sapateiro Dratewka encheu um carneiro de enxofre e alcatrão. O dragão comeu, teve uma sede louca, bebeu o Vístula até rebentar — ou, em outras versões, explodiu.",
+    "Cracóvia ainda mostra a caverna e uma estásua que cospe fogo. A lenda polaca do astuto, não do mais armado, funda a cidade.",
   ],
   "pl:1": [
     "Lech, Czech e Rus, três irmãos, caçavam. Lech viu um ninho de águia branca num carvalho, ao pôr do sol, e fundou Gniezno — o ninho. Czech foi para sul, Rus para leste.",
-    "A águia branca na bandeira da Polónia nasce desta história. Os três irmãos são a lenda da origem dos povos eslavos ocidentais e orientais.",
+    "A águia branca na bandeira da Polônia nasce desta história. Os três irmãos são a lenda da origem dos povos eslavos ocidentais e orientais.",
     "É um mito de partida e de casa. Quem encontra o ninho, fica. Quem segue, funda outro país. A águia, essa, ficou com Lech.",
   ],
   "pl:2": [
     "A sereia de Varsóvia, Syrenka, foi pescada no Vístula. Pediu liberdade e prometeu defender a cidade. Tem espada e escudo, não só cauda.",
     "Quando Varsóvia é atacada, a sereia ergue-se. Está no brasão da capital, de bronze junto ao rio.",
-    "A Polónia não quis uma sereia só a cantar: quis uma sereia a guardar. A história é essa escolha.",
+    "A Polônia não quis uma sereia só a cantar: quis uma sereia a guardar. A história é essa escolha.",
   ],
   "pl:3": [
     "Pan Twardowski, o nobre polaco, vendeu a alma ao diabo em troca de saber e magia, com a cláusula de que o diabo só o levaria em Roma. Twardowski evitou Roma anos.",
@@ -318,7 +318,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   ],
   "no:1": [
     "Askeladden, o Rapaz das Cinzas, é o irmão mais novo que mexo na lareira enquanto os outros partem. Vai atrás, partilha comida com velhas e animais, e ganha a princesa e meio reino.",
-    "Num conto, apanha uma rena, um pássaro, um rio; noutro, derrota um troll com um pau de alcatrão. Sempre o mais desprezado.",
+    "Num conto, apanha uma rena, um pássaro, um rio; em outro, derrota um troll com um pau de alcatrão. Sempre o mais desprezado.",
     "A Noruega ama Askeladden como a Rússia ama Ivan. A cinza esconde o ouro. A bondade no caminho é a verdadeira espada.",
   ],
   "no:2": [
@@ -329,7 +329,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "no:3": [
     "A raposa e o urso, outra vez, no pinhal norueguês: o urso pesca com o rabo no gelo, a raposa come o queijo a fingir que pesa o vento. Fábulas irmãs de toda a Escandinávia.",
     "O urso perde a dignidade; a raposa nunca está cheia. O inverno ri.",
-    "Contam-se na cabana, com o lume. A moral é norueguesa e universal: não metas o rabo onde a raposa te mandar.",
+    "Contam-se na cabana, com o lume. A moral é norueguesa e universal: não meta o rabo onde a raposa te mandar.",
   ],
   "no:4": [
     "O barco de Oseberg é real: um drakkar viking enterrado com duas mulheres, tecidos, cães e trenós. A lenda suave diz que uma era rainha, outra era a sua companheira para o outro mundo, e que o barco ainda navega de noite no fiorde, com velas de luar.",
@@ -344,8 +344,8 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   ],
   "dk:1": [
     "A Pequena Sereia troca a voz à bruxa do mar por pernas, para amar um príncipe. Cada passo dói como facas. O príncipe casa com outra. A sereia não o mata, embora isso lhe devolvesse a cauda.",
-    "Torna-se espuma, e depois filha do ar, a ganhar alma com boas acções. Andersen não deu o final da Disney: deu um final de sacrifício e esperança.",
-    "Contada com fidelidade, a sereia de Copenhaga — a estátua no porto — lembra a dor da escolha, não só o beijo.",
+    "Torna-se espuma, e depois filha do ar, a ganhar alma com boas ações. Andersen não deu o final da Disney: deu um final de sacrifício e esperança.",
+    "Contada com fidelidade, a sereia de Copenhaga — a estásua no porto — lembra a dor da escolha, não só o beijo.",
   ],
   "dk:2": [
     "O soldadinho de chumbo tem uma perna só, porque o ónus acabou. Ama uma bailarina de papel. Cai da janela, viaja num barco de jornal, é engolido por um peixe, volta à mesma sala.",
@@ -353,7 +353,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "Andersen outra vez: o amor calado, o acaso, o fogo. As crianças entendem o soldado que não se queixa. Uma perna chega, se o coração estiver firme.",
   ],
   "dk:3": [
-    "Um príncipe procura uma princesa verdadeira. A rainha-mãe põe uma ervilha debaixo de vinte colchões. De manhã a rapariga está cheia de nódoas: sentiu a ervilha.",
+    "Um príncipe procura uma princesa verdadeira. A rainha-mãe põe uma ervilha debaixo de vinte colchões. De manhã a menina está cheia de nódoas: sentiu a ervilha.",
     "Só uma princesa verdadeira seria tão sensível, diz o conto. Casam.",
     "Andersen ri-se da corte e da sensibilidade. A ervilha é o teste mais ridículo e mais famoso da Dinamarca. O essencial: a verdade sente-se, mesmo debaixo de vinte colchões.",
   ],
@@ -376,7 +376,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "ch:2": [
     "O dragão do Pilatus, o monte sobre Lucerna, vivia nas grutas. Pastores viam-no. Uma lenda diz que dois dragões saíram durante uma tempestade; outra, que um homem sobreviveu na caverna e saiu com uma pedra de dragão curativa.",
     "O nome Pilatus ligou-se também a Pôncio Pilatos, cuja alma, diziam, inquietava o lago. Os dragões e o procurador romano misturam-se no nevoeiro.",
-    "A Suíça de lagos precisa destas sombras. O monte ensina respeito: há cumes que não se tratam por tu.",
+    "A Suíça de lagos precisa destas sombras. O monte ensina respeito: há cumes que não se tratam por você.",
   ],
   "ch:3": [
     "Uma vaca dos Alpes, nas histórias pastoris, traz um sino de ouro. O sino guia o rebanho na névoa. Se o pastor for ganancioso e o fundir, a vaca desaparece e o vale perde a sorte.",
@@ -396,7 +396,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   ],
   "be:1": [
     "O Manneken Pis, o menino de bronze que faz xixi em Bruxelas, tem várias lendas: um menino perdido encontrado a fazer xixi; um duque-criança que inspirou as tropas; um miúdo que apagou um pavio de pólvora inimigo daquela maneira.",
-    "A estátua é pequena, vestida em dias de festa, e a cidade inteira trata-o como mascote.",
+    "A estásua é pequena, vestida em dias de festa, e a cidade inteira trata-o como mascote.",
     "A lenda mais corajosa — o pavio apagado — é a que as crianças preferem. Bruxelas salvou-se com um gesto ridículo e heróico. O folclore belga tem esse humor.",
   ],
   "be:2": [
@@ -417,7 +417,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
 
   "at:0": [
     "Viena guarda a lenda da noiva da floresta vienense, e também a do Danúbio a levar almas em valsa. Uma história popular fala de um miler que promete a filha ao rio, e o rio vem buscá-la em forma de noivo belo.",
-    "A rapariga reconhece a água nos olhos dele e recua. O Danúbio zanga-se, mas a floresta esconde-a.",
+    "A menina reconhece a água nos olhos dele e recua. O Danúbio zanga-se, mas a floresta esconde-a.",
     "Os valses de Strauss vestiram o rio de festa; o folclore mais antigo trata-o como noivo perigoso. As duas verdades cabem em Viena.",
   ],
   "at:1": [
@@ -449,12 +449,12 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "cz:1": [
     "A princesa de ouro, nas águias checas de Němcová e dos contos boémios, é a donzela que o herói tolo conquista depois de três tarefas: cavalo, fogo, adivinha.",
     "A Boémia ama o parvo de sorte, como a Rússia. A princesa testa o coração, não o brasão.",
-    "O ouro, neste conto, é a rapariga que escolhe. O castelo de Karlštejn e os bosques de Šumava servem de palco, mesmo quando o palco é qualquer aldeia.",
+    "O ouro, neste conto, é a menina que escolhe. O castelo de Karlštejn e os bosques de Šumava servem de palco, mesmo quando o palco é qualquer aldeia.",
   ],
   "cz:2": [
     "O espírito da floresta Šumava, o hejkal ou o duende dos pinhais, imita vozes e desvia cogumelos. Os lenhadores deixam-lhe um naco de pão.",
     "Šumava é fronteira, névoa, veados. O espírito é a floresta a recusar ser só madeira.",
-    "A Chequia guarda o Parque como templo. A lenda é o regulamento antigo: não grites, não sujes, não tires o que a mata ainda está a criar.",
+    "A Chequia guarda o Parque como templo. A lenda é o regulamento antigo: não grite, não suje, não tire o que a mata ainda está criando.",
   ],
   "cz:3": [
     "Ferda, a formiga, de Ondřej Sekora, é uma formiga aventureira da literatura checa do século XX. O povo adoptou-a. Ferda trabalha, canta, enfrenta a aranha, e volta ao formigueiro.",
@@ -496,7 +496,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "ro:0": [
     "Ileana Cosânzeana é a princesa de cabelo dourado do folclore romeno, a mais bela, raptada por um zmeu, um ogre voador. O herói Făt-Frumos parte a salvar.",
     "Atravessa florestas, pergunta ao ouriço, ao vento, à Santa Sexta. O zmeu tem várias cabeças. Ileana não é só espera: muitas vezes ajuda com um fuso, um fio, uma palavra.",
-    "A Roménia pôs nesta princesa a luz. O cabelo dela é trigo e sol. A história é a de sempre nos Cárpatos: o belo e o bravo contra o que voa de noite.",
+    "A Romênia pôs nesta princesa a luz. O cabelo dela é trigo e sol. A história é a de sempre nos Cárpatos: o belo e o bravo contra o que voa de noite.",
   ],
   "ro:1": [
     "Prâslea cel voinic, o valente, é o irmão mais novo que vai buscar as maçãs de ouro roubadas ao pai, o rei. Os irmãos falham. Prâslea vela, fere o zmeu, segue o rasto até ao outro mundo.",
@@ -510,17 +510,17 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   ],
   "ro:3": [
     "Um pastor dos Cárpatos perde uma ovelha e encontra-a a brilhar, ou encontra a Miorița. No poema nacional Miorița, o pastor é avisado de que dois companheiros o vão matar. Aceita a morte como um casamento com a natureza: a estrela, o sol, a lua são convidados.",
-    "É o mito pastoril da Roménia, triste e sereno. A ovelha fala. O pastor não foge.",
-    "Contado com suavidade às crianças, fica o respeito pela ovelha, pela serra, e por uma coragem que não grita. A Miorița é a Roménia a cantar o seu próprio fim sem ódio.",
+    "É o mito pastoril da Romênia, triste e sereno. A ovelha fala. O pastor não foge.",
+    "Contado com suavidade às crianças, fica o respeito pela ovelha, pela serra, e por uma coragem que não grita. A Miorița é a Romênia a cantar o seu próprio fim sem ódio.",
   ],
   "ro:4": [
-    "A floresta de Hoia-Baciu, perto de Cluj, é lenda moderna: árvores tortas, luzes, gente que se perde. Os mais velhos já falavam de um sítio mau no bosque, antes dos turistas.",
+    "A floresta de Hoia-Baciu, perto de Cluj, é lenda moderna: árvores tortas, luzes, gente que se perde. Os mais velhos já falavam de um lugar mau no bosque, antes dos turistas.",
     "O folclore das florestas romenas está cheio de iele — ninfas que dançam e deixam círculos. Hoia é o capítulo recente.",
     "Contamos o que é: um bosque de fama estranha, irmão das iele. Não precisamos de inventar alienígenas. O vento nas faias chega.",
   ],
 
   "ua:0": [
-    "A sereia do Dnipro, a rusalka ucraniana, vive nos salgueiros da margem. Na semana das rusalkas, ao início do verão, as raparigas não nadam: as almas das que morreram na água puxam os vivos.",
+    "A sereia do Dnipro, a rusalka ucraniana, vive nos salgueiros da margem. Na semana das rusalkas, ao início do verão, as meninas não nadam: as almas das que morreram na água puxam os vivos.",
     "Há rusalkas vingativas e há rusalkas tristes. O Dnipro é largo, antigo, sagrado nas bylinas.",
     "A Ucrânia conta isto para guardar as crianças da corrente. A sereia, aqui, é memória de quem o rio levou — e um pedido para não ir atrás da canção.",
   ],
@@ -532,7 +532,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "ua:2": [
     "A raposa e o grou convidam-se um ao outro. A raposa serve o papas num prato raso: o grou não come. O grou serve o jantar num jarro alto: a raposa não alcança. Ficam os dois com fome e com a lição.",
     "É fábula eslava, de Krylov e do povo. A Ucrânia conta-a na escola.",
-    "Trata o outro como ele precisa, não como tu gostas de ser tratado no teu prato. A moral cabe num jarro.",
+    "Trata o outro como ele precisa, não como você gosta de ser tratado no seu prato. A moral cabe num jarro.",
   ],
   "ua:3": [
     "Kozak Mamai é o cossaco pintado em mil telas populares: sentado à turca, com a kobza, o cavalo, a lança, o copo. É o retrato-folclore da Ucrânia livre.",
@@ -540,13 +540,13 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "Às crianças mostra-se o quadro. O herói não está sempre a cavalo: às vezes está sentado, a afinar a corda, que é outra forma de vigiar a estepe.",
   ],
   "ua:4": [
-    "O girassol, cara da Ucrânia, tem lendas de uma rapariga que olhava demais o sol, ou de um presente dos cossacos. Uma versão popular diz que os girassóis nasceram onde os cossacos caíram, para não baixar a cabeça.",
+    "O girassol, cara da Ucrânia, tem lendas de uma menina que olhava demais o sol, ou de um presente dos cossacos. Uma versão popular diz que os girassóis nasceram onde os cossacos caíram, para não baixar a cabeça.",
     "A planta segue o sol de verdade. A lenda só lhe dá patriotismo e coração.",
     "Contar a origem do girassol na Ucrânia é contar um povo que escolheu uma flor que não desvia o olhar. Mesmo a versão mais nova guarda esse eixo.",
   ],
 
   "bg:0": [
-    "Krali Marko, o herói búlgaro e macedónio, mama de uma samodiva, ganha força enorme, e cavalga o corcel Sharko. Luta contra otomanos, contra serpentes, contra a injustiça.",
+    "Krali Marko, o herói búlgaro e macedônio, mama de uma samodiva, ganha força enorme, e cavalga o corcel Sharko. Luta contra otomanos, contra serpentes, contra a injustiça.",
     "Historicamente houve um rei Marko; o folclore fez dele gigante. As montanhas da Bulgária ainda têm as pegadas do cavalo.",
     "As crianças ouvem Marko como os gregos ouvem Hércules. A força, aqui, bebe-se no leite das ninfas e usa-se para o povo.",
   ],
@@ -556,7 +556,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "É folclore vivo, de todos os anos. A Bulgária inteira amanhece enfeitada. A história é o clima transformado em avó.",
   ],
   "bg:2": [
-    "Nas montanhas Ródope, Orfeu cantou — e o folclore búlgaro pôs dragões, zmey, a guardar picos e raparigas. Um zmey apaixona-se por uma pastora; o povo tem de negociar a chuva com ele.",
+    "Nas montanhas Ródope, Orfeu cantou — e o folclore búlgaro pôs dragões, zmey, a guardar picos e meninas. Um zmey apaixona-se por uma pastora; o povo tem de negociar a chuva com ele.",
     "O zmey não é só monstro: é o temporal. Sem ele a seara seca; com fúria demais, o rio sai.",
     "A Ródope canta isto ainda. A gaita e o dragão partilham o eco. As crianças aprendem que o tempo tem corpo de serpente alada.",
   ],
@@ -652,17 +652,17 @@ export const EUROPE_STORIES: Record<string, string[]> = {
   "si:0": [
     "O dragão de Liubliana, segundo a lenda, foi vencido por Jaso, ou é o dragão que Jasão encontrou no pântano, no regresso do Tosão de Ouro. A cidade pôs o bicho no brasão e nas pontes.",
     "O dragão verde de Liubliana não é só inimigo: é mascote. Os castelos de cima do rio olham-no.",
-    "A Eslovénia inteira reconhece o desenho. A história fiel mistura Jasão grego e orgulho local. O pântano virou capital; o dragão ficou a guardar o papel timbrado.",
+    "A Eslovênia inteira reconhece o desenho. A história fiel mistura Jasão grego e orgulho local. O pântano virou capital; o dragão ficou guardando o papel timbrado.",
   ],
   "si:1": [
-    "O lago Bled tem uma ilha com igreja. A lenda: uma rapariga viúva, ou uma rainha, mandou erguer a igreja pela alma do marido. Os sinos, se se toca com o coração, realizam um desejo.",
+    "O lago Bled tem uma ilha com igreja. A lenda: uma menina viúva, ou uma rainha, mandou erguer a igreja pela alma do marido. Os sinos, se se toca com o coração, realizam um desejo.",
     "Outra lenda: uma bela de Zlatorog, o camurça de chifres de ouro, liga o lago às montanhas. Zlatorog foi ferido por um caçador ganancioso; do sangue nasceram flores; o camurça sarou e desapareceu, e o tesouro da montanha fechou-se.",
-    "Bled e o Triglav guardam estas duas. O desejo no sino e o tesouro que se fecha à ganância. A Eslovénia inteira cabe neste lago.",
+    "Bled e o Triglav guardam estas duas. O desejo no sino e o tesouro que se fecha à ganância. A Eslovênia inteira cabe neste lago.",
   ],
   "si:2": [
     "O pastor das Julianas, nas histórias do Triglav, o pico de três cabeças, encontra o Zlatorog ou a Vila. O Triglav é o deus antigo e a montanha nacional.",
     "Quem sobe sem respeito escorrega. Quem deixa uma moeda ou um pensamento, desce.",
-    "A Eslovénia pôs o Triglav na bandeira. A lenda do pastor é a bandeira a ter corpo: três cabeças, um povo, um rebanho no fio da crista.",
+    "A Eslovênia pôs o Triglav na bandeira. A lenda do pastor é a bandeira a ter corpo: três cabeças, um povo, um rebanho no fio da crista.",
   ],
   "si:3": [
     "A abelha carniola, abelha eslovena famosa no mundo, tem lendas de São Ambrosio e de pastores que sonham o enxame. Uma história popular: um pobre partilha o último pão com um desconhecido; o desconhecido é um santo; no dia seguinte o cortiço está cheio.",
@@ -670,7 +670,7 @@ export const EUROPE_STORIES: Record<string, string[]> = {
     "As crianças aprendem a não ter medo da abelha que não se ataca. A carniola, mansa e trabalhadora, é um personagem nacional de asas.",
   ],
   "si:4": [
-    "O Soča, rio esmeralda, foi fronteira de guerra e é baptismo de quem ama a montanha. A lenda diz que a cor vem das lágrimas de uma vila, ou do tesouro de Zlatorog dissolvido.",
+    "O Soča, rio esmeralda, foi fronteira de guerra e é batismo de quem ama a montanha. A lenda diz que a cor vem das lágrimas de uma vila, ou do tesouro de Zlatorog dissolvido.",
     "Os soldados da Primeira Guerra morreram às dezenas de milhar neste vale. O folclore recente trata o rio como memória.",
     "Às crianças conta-se a cor, o peixe, a ninfa. Aos mais velhos, o respeito. O Soča não é cenário de postal: é um rio que já viu demais e mesmo assim ficou verde.",
   ],

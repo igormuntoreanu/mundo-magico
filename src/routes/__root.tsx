@@ -1,4 +1,5 @@
 import { createRootRoute, HeadContent, Outlet, Scripts } from "@tanstack/react-router";
+import { LocaleProvider } from "@/i18n/locale";
 import { AuthProvider } from "@/lib/auth/provider";
 import { PreviewHostBridge } from "@/components/preview-host-bridge";
 import appCss from "../styles.css?url";
@@ -14,7 +15,7 @@ export const Route = createRootRoute({
       {
         name: "description",
         content:
-          "Gira o globo, escolhe um país e descobre bandeiras, trajes típicos, contos folclóricos e cidades famosas.",
+          "Gire o globo, escolha um país e descubra bandeiras, trajes típicos, contos folclóricos e cidades famosas.",
       },
       { name: "theme-color", content: "#2B1B4E" },
     ],
@@ -32,15 +33,17 @@ export const Route = createRootRoute({
     ],
   }),
   component: () => (
-    <html lang="pt" suppressHydrationWarning className="antialiased">
+    <html lang="pt-BR" suppressHydrationWarning className="antialiased">
       <head>
         <HeadContent />
       </head>
       <body className="font-sans text-ink">
         <PreviewHostBridge />
-        <AuthProvider>
-          <Outlet />
-        </AuthProvider>
+        <LocaleProvider>
+          <AuthProvider>
+            <Outlet />
+          </AuthProvider>
+        </LocaleProvider>
         <Scripts />
       </body>
     </html>

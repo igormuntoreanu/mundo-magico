@@ -4,13 +4,13 @@
     "kz": "Cazaquistão",
     "uz": "Uzbequistão",
     "pg": "Papua-Nova Guiné",
-    "cd": "República Democrática do Congo",
+    "cd": "Congo - Kinshasa",
     "so": "Somália",
     "sd": "Sudão",
     "td": "Chade",
-    "bs": "Baamas",
-    "fk": "Ilhas Falkland",
-    "tf": "Terras Austrais Francesas",
+    "bs": "Bahamas",
+    "fk": "Ilhas Malvinas",
+    "tf": "Territórios Franceses do Sul",
     "ls": "Lesoto",
     "ni": "Nicarágua",
     "hn": "Honduras",
@@ -20,12 +20,12 @@
     "gy": "Guiana",
     "sr": "Suriname",
     "pr": "Porto Rico",
-    "zw": "Zimbabué",
+    "zw": "Zimbábue",
     "bw": "Botsuana",
     "na": "Namíbia",
     "ml": "Mali",
     "mr": "Mauritânia",
-    "bj": "Benim",
+    "bj": "Benin",
     "ne": "Níger",
     "tg": "Togo",
     "ci": "Costa do Marfim",
@@ -34,15 +34,15 @@
     "sl": "Serra Leoa",
     "bf": "Burquina Faso",
     "cf": "República Centro-Africana",
-    "cg": "Congo",
+    "cg": "República do Congo",
     "ga": "Gabão",
     "zm": "Zâmbia",
-    "mw": "Malawi",
+    "mw": "Malaui",
     "sz": "Essuatíni",
     "bi": "Burundi",
     "lb": "Líbano",
-    "mg": "Madagáscar",
-    "ps": "Palestina",
+    "mg": "Madagascar",
+    "ps": "Territórios palestinos",
     "gm": "Gâmbia",
     "jo": "Jordânia",
     "qa": "Catar",
@@ -51,43 +51,43 @@
     "vu": "Vanuatu",
     "kh": "Camboja",
     "la": "Laos",
-    "mm": "Mianmar",
+    "mm": "Mianmar (Birmânia)",
     "kp": "Coreia do Norte",
     "mn": "Mongólia",
     "bt": "Butão",
     "af": "Afeganistão",
-    "tj": "Tajiquistão",
+    "tj": "Tadjiquistão",
     "kg": "Quirguistão",
-    "tm": "Turquemenistão",
-    "ir": "Irão",
+    "tm": "Turcomenistão",
+    "ir": "Irã",
     "sy": "Síria",
-    "am": "Arménia",
+    "am": "Armênia",
     "by": "Bielorrússia",
     "md": "Moldávia",
     "lt": "Lituânia",
-    "lv": "Letónia",
-    "ee": "Estónia",
+    "lv": "Letônia",
+    "ee": "Estônia",
     "lu": "Luxemburgo",
     "al": "Albânia",
-    "nc": "Nova Caledónia",
+    "nc": "Nova Caledônia",
     "sb": "Ilhas Salomão",
     "az": "Azerbaijão",
     "ge": "Geórgia",
     "bn": "Brunei",
     "er": "Eritreia",
-    "ye": "Iémen",
+    "ye": "Iêmen",
     "cy": "Chipre",
     "ly": "Líbia",
     "dj": "Djibuti",
     "ug": "Uganda",
     "rw": "Ruanda",
     "ba": "Bósnia e Herzegovina",
-    "mk": "Macedónia do Norte",
+    "mk": "Macedônia do Norte",
     "me": "Montenegro",
     "xk": "Kosovo",
-    "tt": "Trindade e Tobago",
+    "tt": "Trinidad e Tobago",
     "ss": "Sudão do Sul",
-    "eh": "Sara Ocidental",
+    "eh": "Saara Ocidental",
     "ncyp": "Chipre do Norte",
     "somaliland": "Somalilândia"
   },
@@ -166,7 +166,7 @@
     ],
     "zw": [
       "Harare",
-      "cataratas Vitória, Grande Zimbabué, parques"
+      "cataratas Vitória, Grande Zimbábue, parques"
     ],
     "bw": [
       "Gaborone",
@@ -298,7 +298,7 @@
     ],
     "mn": [
       "Ulan Bator",
-      "estátua de Gengis, estepe, mosteiro Gandan"
+      "estásua de Gengis, estepe, mosteiro Gandan"
     ],
     "bt": [
       "Thimphu",
@@ -490,7 +490,7 @@
     },
     "am": {
       "who": "Ani",
-      "outfit": "taraz arménio bordado e cinto",
+      "outfit": "taraz armênio bordado e cinto",
       "hat": "flower"
     },
     "az": {
@@ -570,7 +570,7 @@
     },
     "ee": {
       "who": "Liisa",
-      "outfit": "saia folclórica às riscas e grinalda",
+      "outfit": "saia folclórica com listras e grinalda",
       "hat": "flower"
     },
     "eh": {
@@ -590,7 +590,7 @@
     },
     "fk": {
       "who": "Pip",
-      "outfit": "camisola de lã e gorro",
+      "outfit": "suéter de lã e gorro",
       "hat": "beanie"
     },
     "ga": {
@@ -670,7 +670,7 @@
     },
     "lt": {
       "who": "Gabija",
-      "outfit": "saia às riscas e coroa de flores",
+      "outfit": "saia com listras e coroa de flores",
       "hat": "flower"
     },
     "lu": {
@@ -700,7 +700,7 @@
     },
     "mk": {
       "who": "Elena",
-      "outfit": "traje folclórico macedónio bordado",
+      "outfit": "traje folclórico macedônio bordado",
       "hat": "flower"
     },
     "ml": {

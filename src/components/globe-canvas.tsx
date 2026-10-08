@@ -5,6 +5,8 @@ import type { Topology, GeometryCollection } from "topojson-specification";
 import type { GlobeInstance } from "globe.gl";
 import { isoFromAtlas } from "@/data/iso";
 import { flagUrl, getCountry } from "@/data/catalog";
+import { countryName } from "@/i18n/country-name";
+import { useI18n } from "@/i18n/use-i18n";
 
 export type GlobeApi = {
   flyTo: (lat: number, lng: number, altitude?: number) => void;
@@ -76,7 +78,7 @@ function angularDistance(lat1: number, lng1: number, lat2: number, lng2: number)
   return (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)) * 180) / Math.PI;
 }
 
-function facingLabel(country: CountryPoly) {
+function facingLabel(country: CountryPoly, label: string) {
   const el = document.createElement("div");
   el.className = "globe-flag";
   const src = flagUrl(country.iso, 40);
@@ -89,13 +91,27 @@ function facingLabel(country: CountryPoly) {
     el.appendChild(img);
   }
   const name = document.createElement("span");
-  name.textContent = country.name;
+  name.textContent = label;
   el.appendChild(name);
   return el;
 }
 
+function escapeHtml(value: string) {
+  return value.replace(/[&<>"']/g, (char) => {
+    if (char === "&") return "&amp;";
+    if (char === "<") return "&lt;";
+    if (char === ">") return "&gt;";
+    if (char === '"') return "&quot;";
+    return "&#39;";
+  });
+}
+
 export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
+  const { locale, t } = useI18n();
   const hostRef = useRef<HTMLDivElement>(null);
+  const nameOfRef = useRef<(iso: string, fallback: string) => string>((_, fallback) => fallback);
+  const refreshLabelRef = useRef<(() => void) | null>(null);
+  nameOfRef.current = (iso, fallback) => countryName(iso, locale, fallback);
   const selectedRef = useRef(selectedIso);
   const hoverRef = useRef<string | null>(null);
   const globeRef = useRef<GlobeInstance | null>(null);
@@ -194,7 +210,7 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
         .polygonLabel((d) => {
           const country = d as CountryPoly;
           if (country.iso === front.iso) return "";
-          return `<div class="globe-tip">${country.name}</div>`;
+          return `<div class="globe-tip">${escapeHtml(nameOfRef.current(country.iso, country.name))}</div>`;
         })
         .polygonsTransitionDuration(0)
         .onPolygonHover((poly) => {
@@ -245,8 +261,17 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
         .htmlLng((d) => (d as CountryPoly).lng)
         .htmlAltitude(0)
         .htmlTransitionDuration(0)
-        .htmlElement((d) => facingLabel(d as CountryPoly))
+        .htmlElement((d) => {
+          const country = d as CountryPoly;
+          return facingLabel(country, nameOfRef.current(country.iso, country.name));
+        })
         .htmlElementsData([]);
+      refreshLabelRef.current = () => {
+        if (!front.iso) return;
+        const current = polysRef.current.find((country) => country.iso === front.iso);
+        globe.htmlElementsData([]);
+        if (current) globe.htmlElementsData([current]);
+      };
       onControls = syncFront;
       globe.controls().addEventListener("change", onControls);
 
@@ -342,6 +367,10 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
   }, []);
 
   useEffect(() => {
+    refreshLabelRef.current?.();
+  }, [locale]);
+
+  useEffect(() => {
     const globe = globeRef.current;
     if (!globe) return;
     const selected = selectedRef.current;
@@ -392,7 +421,7 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
               ))}
             </div>
             <p className="rounded-full border-3 border-stroke bg-cream px-4 py-1.5 font-display text-sm font-bold text-ink shadow-[3px_3px_0_#2b1b4e]">
-              A carregar...
+              {t.loading}
             </p>
           </div>
         </div>

@@ -10,18 +10,18 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "O Curupira é o guarda da floresta. Tem cabelo vermelho como brasa e os pés virados para trás. Por isso, as pegadas dele enganam: quem o segue pensa que ele foi para um lado, e ele foi para o outro.",
     "Quando um caçador mata mais animais do que precisa, ou derruba árvores sem cuidado, o Curupira faz a pessoa andar em círculos. O caminho some. Os sons da mata mudam. Só quem pede desculpa encontra a saída.",
     "Há quem deixe para ele fumo, cachaça ou mel, como oferta. O Curupira protege as crias dos bichos e os troncos mais antigos. Não odeia as pessoas — odeia a ganância.",
-    "Por isso os mais velhos dizem: entra na mata com respeito, tira só o que fores comer, e o Curupira deixa-te passar. Os pés ao contrário são o recado da floresta: nem sempre o caminho é o que os olhos mostram.",
+    "Por isso os mais velhos dizem: entra na mata com respeito, tira só o que for comer, e o Curupira deixa-te passar. Os pés ao contrário são o recado da floresta: nem sempre o caminho é o que os olhos mostram.",
   ],
   "br:2": [
-    "Iara é a mãe-d'água dos rios da Amazónia. Metade mulher, metade peixe, cabelo longo e voz tão bonita que até os pássaros calam. Vive nas curvas fundas do rio, onde a água fica verde e quieta.",
+    "Iara é a mãe-d'água dos rios da Amazônia. Metade mulher, metade peixe, cabelo longo e voz tão bonita que até os pássaros calam. Vive nas curvas fundas do rio, onde a água fica verde e quieta.",
     "A lenda conta que Iara era uma grande guerreira. Os irmãos, com inveja, tentaram matá-la. Ela defendeu-se, e o pai, sem perceber a verdade, mandou atirá-la ao rio. Os peixes salvaram-na, e Iara tornou-se senhora das águas.",
-    "À noite, ela canta. Os pescadores que seguem o canto como quem sonha aproximam-se demais da beira. Por isso as mães dizem: não vás ao rio sozinho quando o luar estiver alto. O canto da Iara é o próprio rio a chamar.",
+    "À noite, ela canta. Os pescadores que seguem o canto como quem sonha aproximam-se demais da beira. Por isso as mães dizem: não vá ao rio sozinho quando o luar estiver alto. O canto da Iara é o próprio rio a chamar.",
     "Quem respeita a água — não suja o rio, não tira mais peixe do que precisa — pode ouvir a canção de longe e voltar para casa. Iara não é só perigo: é a memória de que o rio tem dona, e essa dona tem nome.",
   ],
   "br:3": [
-    "O boto-cor-de-rosa vive nos rios da Amazónia. De dia é um golfinho cor-de-rosa, curioso e brincalhão. De noite, diz a lenda, ele sai da água transformado num rapaz alto, de fato branco e chapéu de palha.",
-    "O chapéu esconde um pormenor: o furo no alto da cabeça, por onde o boto respira. Ele aparece nas festas da beira do rio, dança toda a noite, fala pouco e encanta quem o vê.",
-    "Antes do sol nascer, desaparece. Se alguém lhe tira o chapéu, o encanto quebra-se e o rapaz tem de voltar ao rio. Muitas famílias da Amazónia contam esta história quando nasce uma criança de pai desconhecido: «foi o boto».",
+    "O boto-cor-de-rosa vive nos rios da Amazônia. De dia é um golfinho cor-de-rosa, curioso e brincalhão. De noite, diz a lenda, ele sai da água transformado num rapaz alto, de fato branco e chapéu de palha.",
+    "O chapéu esconde um detalhe: o furo no alto da cabeça, por onde o boto respira. Ele aparece nas festas da beira do rio, dança toda a noite, fala pouco e encanta quem o vê.",
+    "Antes do sol nascer, desaparece. Se alguém lhe tira o chapéu, o encanto quebra-se e o rapaz tem de voltar ao rio. Muitas famílias da Amazônia contam esta história quando nasce uma criança de pai desconhecido: «foi o boto».",
     "Por baixo da festa, a lenda ensina a olhar o rio como um ser vivo, capaz de atravessar o mundo das pessoas. O boto não é vilão: é o mistério da água a dançar entre os humanos e depois a regressar à corrente.",
   ],
   "br:4": [
@@ -47,7 +47,7 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "Em Barcelos, um galego em peregrinação a Santiago foi acusado de um crime que não cometeu. O juiz ia mandá-lo à forca. O peregrino jurou inocência e apontou para um galo assado na mesa do juiz: «Esse galo cantará quando me enforcarem, se eu for inocente.»",
     "O juiz riu. Um galo cozinhado não canta. Mesmo assim, o homem foi levado. Quando a corda ia apertar, o galo assado ergueu-se na mesa, abanou as penas e cantou alto.",
     "O juiz correu a soltar o peregrino. Estava vivo. A partir daí, Barcelos nunca mais esqueceu o galo colorido — peito inchado, crista vermelha, como um grito de justiça.",
-    "Ainda hoje o Galo de Barcelos é símbolo de Portugal. Conta-se às crianças para lembrar: a verdade pode cantar no sítio mais impossível. E que um juramento feito com o coração tem força.",
+    "Ainda hoje o Galo de Barcelos é símbolo de Portugal. Conta-se às crianças para lembrar: a verdade pode cantar no lugar mais impossível. E que um juramento feito com o coração tem força.",
   ],
   "pt:3": [
     "Nas noites de São João, em certas pedras e fontes de Portugal, aparece a Moura Encantada. É uma mulher moura do tempo antigo, guardiana de tesouros escondidos debaixo da terra, condenada a esperar quem a desencantasse.",
@@ -58,7 +58,7 @@ export const FEATURED_STORIES: Record<string, string[]> = {
   "pt:4": [
     "O Homem do Saco, nas histórias das aldeias portuguesas, anda de noite com um saco às costas. Dizem que leva as crianças que não dormem, que andam na rua sozinhas ou que desobedecem sem parar.",
     "Ninguém o descreve da mesma maneira: uns dizem que é um velho de capuz, outros um vulto com o saco a mexer. O importante na lenda nunca foi o monstro — foi o aviso dos mais velhos.",
-    "As avós usavam a história para proteger: a noite da aldeia tinha poços, cães e caminhos escuros. O saco era uma forma de dizer «fica em casa, o mundo lá fora ainda não é teu».",
+    "As avós usavam a história para proteger: a noite da aldeia tinha poços, cães e caminhos escuros. O saco era uma forma de dizer «fica em casa, o mundo lá fora ainda não é seu».",
     "Hoje conta-se com um sorriso e um arrepio. O Homem do Saco ensina o mesmo de sempre: há horas para brincar e horas para o calor da lareira. A coragem também é saber quando voltar para dentro.",
   ],
 
@@ -71,13 +71,13 @@ export const FEATURED_STORIES: Record<string, string[]> = {
   "jp:1": [
     "Um cortador de bambu viu um caule a brilhar. Abriu-o com cuidado e encontrou uma menina pequenina, luminosa. Ele e a mulher criaram-na como filha. Chamaram-lhe Kaguya, a Princesa Luminosa do Bambu.",
     "Kaguya cresceu em beleza. Nobres e até o imperador pediram a sua mão. Ela inventou tarefas impossíveis, porque o coração dela não era deste mundo. À noite, olhava a Lua com saudade.",
-    "Um dia confessou: vinha da capital da Lua e o tempo na Terra estava a acabar. Vestiram-na com a manto da Lua, que apaga as memórias da Terra. O pai chorou. O imperador mandou guardas — inúteis contra o céu.",
+    "Um dia confessou: vinha da capital da Lua e o tempo na Terra estava acabando. Vestiram-na com a manto da Lua, que apaga as memórias da Terra. O pai chorou. O imperador mandou guardas — inúteis contra o céu.",
     "Kaguya deixou uma carta e o elixir da imortalidade. O imperador, sem ela, mandou queimar o elixir no monte mais alto. Por isso esse monte se chama Fuji: a fumo da saudade. A menina do bambu voltou à Lua, e a Terra ficou mais escura e mais bela.",
   ],
   "jp:2": [
     "Urashima Tarō era um pescador bondoso. Um dia salvou uma tartaruga que uns meninos maltratavam. A tartaruga falou-lhe: era enviada da princesa do palácio do fundo do mar, Ryūgū-jō, e queria agradecer.",
     "Urashima montou no casco e desceu ao palácio vermelho e dourado, cheio de peixes dançarinos. A princesa Otohime recebeu-o com festas. Os dias ali eram doces. Ele esqueceu a conta do tempo.",
-    "Com saudades dos pais, pediu para voltar. Otohime deu-lhe uma caixa lacrada, a tamatebako: «Não a abras.» Na aldeia, tudo era diferente. Os pais tinham morrido há muito. Trezentos anos tinham passado no fundo do mar.",
+    "Com saudades dos pais, pediu para voltar. Otohime deu-lhe uma caixa lacrada, a tamatebako: «Não a abra.» Na aldeia, tudo era diferente. Os pais tinham morrido há muito. Trezentos anos tinham passado no fundo do mar.",
     "Desesperado, Urashima abriu a caixa. Uma nuvem de fumo saiu, e ele tornou-se um velho de cabelos brancos. A lenda avisa: o tempo do mar não é o nosso. E há presentes que só protegem enquanto o lacre ficar fechado.",
   ],
   "jp:3": [
@@ -94,8 +94,8 @@ export const FEATURED_STORIES: Record<string, string[]> = {
   ],
 
   "eg:0": [
-    "No Egipto antigo, Ísis e Osíris eram irmãos e esposos, deuses que ensinaram o povo a semear, a cantar e a viver em paz. Osíris era rei justo. Set, o irmão ciumento, quis o trono.",
-    "Set enganou Osíris com um baú belíssimo, feito à medida dele. Quando Osíris deitou-se lá dentro, Set fechou a tampa e atirou o baú ao Nilo. Ísis procurou-o por todo o Egipto, chorando, sem desistir.",
+    "No Egito antigo, Ísis e Osíris eram irmãos e esposos, deuses que ensinaram o povo a semear, a cantar e a viver em paz. Osíris era rei justo. Set, o irmão ciumento, quis o trono.",
+    "Set enganou Osíris com um baú belíssimo, feito à medida dele. Quando Osíris deitou-se lá dentro, Set fechou a tampa e atirou o baú ao Nilo. Ísis procurou-o por todo o Egito, chorando, sem desistir.",
     "Encontrou o corpo, escondeu-o, e com a sua magia de esposa e feiticeira fez nascer o filho Hórus. Set ainda espalhou o corpo de Osíris em pedaços. Ísis, com a irmã Néftis, juntou cada pedaço e deu a Osíris vida no mundo dos mortos.",
     "Osíris passou a reinar no além, a pesar os corações. Hórus cresceu e venceu Set. A história — milénios de idade — diz que o amor paciente de Ísis é mais forte do que o ciúme, e que o Nilo esconde e devolve a vida.",
   ],
@@ -103,31 +103,31 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "Tutancâmon foi um faraó menino. Morreu muito novo e foi enterrado no Vale dos Reis com tesouros para a outra vida: máscara de ouro, barcos, jogos, comida, amuletos. O túmulo ficou esquecido debaixo da areia.",
     "Milhares de anos depois, em 1922, o arqueólogo Howard Carter encontrou a porta. Quando perguntaram o que via, disse: «Coisas maravilhosas.» A máscara de ouro olhou o mundo outra vez.",
     "O povo egípcio antigo não chamava a isso tesouro de ladrão: era bagagem para a eternidade. Cada objecto tinha um uso no reino de Osíris. A «maldição» que os jornais inventaram é lenda moderna; a maravilha do túmulo é real.",
-    "Conta-se às crianças para lembrar que o Egipto guardou os seus reis com arte e fé. O ouro brilha, mas o que encanta de verdade é um menino faraó a atravessar o tempo dentro de uma caixa de pedra.",
+    "Conta-se às crianças para lembrar que o Egito guardou os seus reis com arte e fé. O ouro brilha, mas o que encanta de verdade é um menino faraó a atravessar o tempo dentro de uma caixa de pedra.",
   ],
   "eg:2": [
-    "Bastet é a deusa-gata do Egipto. No princípio era leoa feroz, a deusa Sekhmet. Quando a sua raiva ameaçou o mundo, o sol Ra fez com que ela se acalmasse — e ela tornou-se gata caseira, Bastet, protectora dos lares.",
+    "Bastet é a deusa-gata do Egito. No princípio era leoa feroz, a deusa Sekhmet. Quando a sua raiva ameaçou o mundo, o sol Ra fez com que ela se acalmasse — e ela tornou-se gata caseira, Bastet, protectora dos lares.",
     "Os egípcios amavam os gatos de verdade. Guardavam o grão dos ratos, dormiam ao sol, e eram a cara da deusa. Na cidade de Bubástis havia festas com música, barcos no Nilo e estatuetas de gato.",
     "Matar um gato era crime grave. Quando um gato da casa morria, a família raspava as sobrancelhas de luto. Muitos gatos eram mumificados com o mesmo cuidado dos humanos.",
-    "A lenda e a história misturam-se: Bastet ensina que a força pode ser mansa. Um gato no limiar da porta ainda hoje parece um pequeno deus a vigiar a casa — exactamente como o Egipto imaginava.",
+    "A lenda e a história misturam-se: Bastet ensina que a força pode ser mansa. Um gato no limiar da porta ainda hoje parece um pequeno deus a vigiar a casa — exatamente como o Egito imaginava.",
   ],
   "eg:3": [
     "Cada manhã, diziam os egípcios, o deus-sol Ra atravessa o céu na Barca do Sol. De manhã a barca chama-se Mandjet. À noite, Ra desce ao mundo inferior na barca Mesektet, e o céu fica escuro.",
     "No rio da noite espera a serpente Apófis, que quer engolir a luz. Ra não vai sozinho: deuses remeiros, a deusa Maat da verdade, e às vezes o próprio Set, o bravo, atravessam a serpente à força de magia e coragem.",
     "Se a barca vence, o sol nasce outra vez. As pessoas acordam, o Nilo brilha, os pássaros gritam. Cada amanhecer é uma vitória antiga, repetida.",
-    "Por isso o Egipto olhava o sol como um viajante, não só como um astro. A história da barca ensina que a luz precisa de ser defendida — e que o dia seguinte nunca é garantido, é conquistado.",
+    "Por isso o Egito olhava o sol como um viajante, não só como um astro. A história da barca ensina que a luz precisa de ser defendida — e que o dia seguinte nunca é garantido, é conquistado.",
   ],
   "eg:4": [
     "Nas noites do Cairo e das aldeias do Nilo ainda se contam contos de ladrões espertos e tesouros escondidos, no jeito das Mil e Uma Noites. Um dos mais famosos é o de Ali Babá.",
     "Ali Babá, lenhador pobre, viu quarenta ladrões parar diante de uma rocha. O chefe disse: «Abre-te, Sésamo!» A pedra abriu-se para uma caverna de ouro. Ali Babá decorou a frase e levou para casa só o que a família precisava.",
     "O irmão, ganancioso, esqueceu a palavra mágica e ficou preso. A criada Morgiana, esperta e corajosa, salvou a casa: descobriu os ladrões escondidos em talhas de azeite e impediu a vingança deles.",
-    "A história, viajada do Oriente até ao Egipto das medinas, não muda o aviso: a palavra certa abre portas, mas a ganância fecha-as. E muitas vezes quem salva a família não é o herói famoso — é quem pensa depressa.",
+    "A história, viajada do Oriente até ao Egito das medinas, não muda o aviso: a palavra certa abre portas, mas a ganância fecha-as. E muitas vezes quem salva a família não é o herói famoso — é quem pensa depressa.",
   ],
 
   "mx:0": [
     "La Llorona, no México, é a mulher que chora junto dos rios: «¡Ay, mis hijos!» A versão mais contada diz que se chamava María, que teve filhos, e que num momento de desespero e ciúme os perdeu nas águas.",
     "Arrependida para sempre, a sua alma vaga pelas margens, de vestido branco, a procurar as crianças que já não encontra. Quem anda sozinho junto da água de noite pode ouvir o pranto, tão perto que arrepia.",
-    "Os pais mexicanos usam a história para proteger: não vás ao rio de noite, não te afastes da família. Por baixo do medo há um aviso antigo sobre a água, a noite e o desespero.",
+    "Os pais mexicanos usam a história para proteger: não vá ao rio de noite, não te afastes da família. Por baixo do medo há um aviso antigo sobre a água, a noite e o desespero.",
     "Contada com suavidade, La Llorona não é um jogo de susto. É uma mãe que já não consegue consolar-se. A lenda pede que cuidemos uns dos outros — porque há dores que o rio não devolve.",
   ],
   "mx:1": [
@@ -138,7 +138,7 @@ export const FEATURED_STORIES: Record<string, string[]> = {
   ],
   "mx:2": [
     "Os alebrijes nasceram no século XX, dos sonhos do artesão Pedro Linares. Doente, ele sonhou um bosque de animais impossíveis — serpentes com asas, burros com chifres, cães com corpo de leão — que gritavam: «¡Alebrijes!»",
-    "Ao acordar, Pedro começou a pintá-los em cartão e madeira, com cores que não existem na selva verdadeira: azul, ouro, rosa, pontos e riscas. O artesanato de Oaxaca e da Cidade do México adoptou-os.",
+    "Ao acordar, Pedro começou a pintá-los em cartão e madeira, com cores que não existem na selva verdadeira: azul, ouro, rosa, pontos e listras. O artesanato de Oaxaca e da Cidade do México adoptou-os.",
     "Hoje os alebrijes são guias e protectores nas histórias que os artesãos contam às crianças: cada família pinta o seu bicho, e esse bicho guarda o sono.",
     "Não é um mito azteca antigo, e por isso se diz a verdade: é um folclore novo, nascido de um sonho. Mesmo assim já pertence ao México tanto como os vulcões. Os monstros, quando pintados com amor, viram amigos.",
   ],
@@ -174,15 +174,15 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "É um conto de esperteza, não de espada. Perrault mostra um mundo em que um gato com botas e uma língua afiada vale mais do que uma herança. As crianças riem; os adultos reconhecem o truque.",
   ],
   "fr:3": [
-    "A Bela Adormecida, em Perrault, é uma princesa amaldiçoada por uma fada esquecida na festa do baptizado: aos dezasseis anos picar-se-á num fuso e cairá como morta. Uma fada boa suaviza o feitiço: não será morte, será um sono de cem anos.",
+    "A Bela Adormecida, em Perrault, é uma princesa amaldiçoada por uma fada esquecida na festa do batizado: aos dezasseis anos picar-se-á num fuso e cairá como morta. Uma fada boa suaviza o feitiço: não será morte, será um sono de cem anos.",
     "O rei proíbe fusos no reino. Mesmo assim a princesa encontra uma velha a fiar, no alto de uma torre. Pica o dedo. Dorme. A fada boa adormece o palácio inteiro, para que ela não acorde sozinha.",
     "Cem anos depois, um príncipe atravessa o bosque de silvas que cresceu à volta. Encontra-a a dormir, tão bela que se ajoelha. O feitiço acaba no tempo marcado. O palácio acorda com ela.",
     "A história original de Perrault continua depois do beijo, com provas na família do príncipe. Para as crianças guarda-se o essencial fiel: o fuso, o sono, as silvas, e o tempo que um dia se cumpre.",
   ],
   "fr:4": [
-    "Barba Azul é um conto de Perrault mais sombrio. Um senhor rico, de barba azul, casa várias vezes e as esposas desaparecem. Uma rapariga, apesar do medo, casa com ele por pressão da família.",
+    "Barba Azul é um conto de Perrault mais sombrio. Um senhor rico, de barba azul, casa várias vezes e as esposas desaparecem. Uma menina, apesar do medo, casa com ele por pressão da família.",
     "Ele parte de viagem e deixa-lhe as chaves. Todas podem ser usadas, menos a da pequena sala no fundo do corredor. A curiosidade vence. Ela abre a porta e descobre o segredo terrível das esposas anteriores.",
-    "A chave mancha-se de sangue e não lava. Barba Azul regressa, percebe, e quer castigá-la. Ela pede tempo para rezar e chama os irmãos da janela: «Anne, minha irmã Anne, não vês ninguém a vir?»",
+    "A chave mancha-se de sangue e não lava. Barba Azul regressa, percebe, e quer castigá-la. Ela pede tempo para rezar e chama os irmãos da janela: «Anne, minha irmã Anne, não vê ninguém a vir?»",
     "Os irmãos chegam a cavalo e salvam-na. Perrault escreveu isto como aviso sobre a curiosidade e sobre os maridos tiranos. Às crianças conta-se com cuidado, sem o quarto em detalhe: há portas que escondem o mal, e pedir ajuda a tempo é coragem.",
   ],
 
@@ -190,7 +190,7 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "O Panchatantra é um livro indiano de fábulas muito antigo, feito para ensinar príncipes — e acabou a ensinar o mundo. Os animais falam, e cada história deixa uma lição.",
     "Numa delas, um leão faz amizade com um touro. Um chacal invejoso mente aos dois, até que amigos se atacam. Noutra, pombos presos numa rede voam todos juntos e livram-se, porque a união pesa menos que o medo.",
     "Há também a história dos ratos que roem a rede do caçador para libertar os elefantes que um dia lhes pouparam as casas. O favor volta, mesmo entre os muito grandes e os muito pequenos.",
-    "Estas fábulas viajaram da Índia para a Pérsia, para o mundo árabe e para a Europa. Contá-las hoje é contar o original: a inteligência, a amizade e a traição, com pêlo e penas, exactamente como o Panchatantra quis.",
+    "Estas fábulas viajaram da Índia para a Pérsia, para o mundo árabe e para a Europa. Contá-las hoje é contar o original: a inteligência, a amizade e a traição, com pelo e penas, exatamente como o Panchatantra quis.",
   ],
   "in:1": [
     "Rama é príncipe de Ayodhya, encarnação do deus Vishnu. Por uma promessa do pai, parte quatorze anos para a floresta, com a esposa Sita e o irmão Lakshmana. Não discute o dever.",
@@ -206,14 +206,14 @@ export const FEATURED_STORIES: Record<string, string[]> = {
   ],
   "in:3": [
     "No Panchatantra, uma tartaruga faz amizade com dois gansos. Quando o lago seca, os gansos oferecem-se para a levar pelos ares: ela morderá um pau, cada ganso segura uma ponta, e voam.",
-    "Avisam-na: «Não abras a boca.» A aldeia em baixo vê a tartaruga a voar e ri, espantada. A tartaruga, ofendida, quer responder. Abre a boca — e cai.",
+    "Avisam-na: «Não abra a boca.» A aldeia em baixo vê a tartaruga a voar e ri, espantada. A tartaruga, ofendida, quer responder. Abre a boca — e cai.",
     "A fábula indiana é curta e nítida. O orgulho de ter de ter a última palavra pesa mais do que as asas dos amigos.",
     "Conta-se há mais de dois mil anos. Não precisamos de lhe acrescentar nada: quem não consegue calar-se uma viagem inteira perde o céu.",
   ],
   "in:4": [
     "Akbar era um grande imperador mogol. Birbal, o seu conselheiro, era famoso por resolver problemas com uma frase. As histórias de Akbar e Birbal são folclore da Índia, contadas em casas e escolas.",
     "Numa delas, Akbar desenha uma linha e manda Birbal torná-la mais curta sem apagar. Birbal desenha uma linha maior ao lado — e a primeira fica mais curta. Noutra, um homem mente sobre um cavalo, e Birbal desmascara-o com uma pergunta simples.",
-    "Há também a história em que Akbar pergunta quantos corvos há em Agra. Birbal dá um número e diz: se houver mais, uns estão a visitar familiares; se houver menos, uns foram visitar familiares. O imperador ri-se.",
+    "Há também a história em que Akbar pergunta quantos corvos há em Agra. Birbal dá um número e diz: se houver mais, uns estão visitando familiares; se houver menos, uns foram visitar familiares. O imperador ri-se.",
     "Estas anedotas guardam um rei que gosta de ser desafiado e um sábio que usa o humor como justiça. São histórias reais do folclore indiano: a inteligência ao serviço da corte, sem espada.",
   ],
 
@@ -221,30 +221,30 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "Na savana da África oriental conta-se como o leopardo ganhou as pintas. No princípio, o leopardo era lisinho, da cor da relva seca, e caçava demais à luz do dia, sem vergonha.",
     "Os outros animais queixaram-se. Um homem, ou nalguns povos um espírito da floresta, chamou o leopardo para a sombra das árvores. Ali, as folhas e a penumbra pintaram-lhe o corpo com manchas.",
     "Com as pintas, o leopardo ficou invisível entre as luzes e as sombras. Passou a caçar com paciência, de noite, em vez de perseguir tudo ao sol. O equilíbrio da savana voltou.",
-    "É uma história de origem, das muitas que os povos da Quénia e da Tanzânia contam à volta da fogueira. Os bichos não nasceram já feitos: o mundo foi-os pintando até cada um ter o seu lugar.",
+    "É uma história de origem, das muitas que os povos da Quênia e da Tanzânia contam à volta da fogueira. Os bichos não nasceram já feitos: o mundo foi-os pintando até cada um ter o seu lugar.",
   ],
   "ke:1": [
     "A lebre da África oriental, Sungura, é pequena e esperta. Numa seca, os animais cavaram um poço juntos. A lebre não trabalhou — mas de noite ia beber a água limpa.",
-    "Os outros puseram um guarda de cera, ou uma estátua de resina. A lebre xingou o guarda que não respondia, deu-lhe um murro e ficou presa. De manhã, apanharam-na.",
-    "Como sempre nas histórias de Sungura, ela ainda tenta um truque para fugir. Às vezes consegue; às vezes paga o preço. A versão mais contada na Quénia deixa o recado: quem não cava não bebe primeiro.",
+    "Os outros puseram um guarda de cera, ou uma estásua de resina. A lebre xingou o guarda que não respondia, deu-lhe um murro e ficou presa. De manhã, apanharam-na.",
+    "Como sempre nas histórias de Sungura, ela ainda tenta um truque para fugir. Às vezes consegue; às vezes paga o preço. A versão mais contada na Quênia deixa o recado: quem não cava não bebe primeiro.",
     "A lebre continua a ser querida, porque o fraco que pensa depressa diverte. Mas o poço é de todos. Essa é a lei da aldeia, vestida de fábula.",
   ],
   "ke:2": [
-    "O Monte Quénia, chamado Kirinyaga pelo povo kikuyu, é a montanha brilhante, morada de Ngai, o criador. Ngai vive nos picos nevados e desce à terra quando o povo precisa.",
+    "O Monte Quênia, chamado Kirinyaga pelo povo kikuyu, é a montanha brilhante, morada de Ngai, o criador. Ngai vive nos picos nevados e desce à terra quando o povo precisa.",
     "A lenda diz que Ngai deu aos kikuyu a terra à volta da montanha, com rebanhos e figueiras sagradas. Quando há seca, olha-se para Kirinyaga e reza-se de frente para o pico.",
     "Os rios que nascem da montanha são presentes. As nuvens que tapam o cume são a privacidade de Ngai. Ninguém trata o monte como um monte qualquer.",
-    "Por isso o Quénia inteiro — o país tomou o nome da montanha — guarda esta história. Uma nação que se chama como o seu pico sagrado lembra às crianças: o chão em que pisas tem dono no céu.",
+    "Por isso o Quênia inteiro — o país tomou o nome da montanha — guarda esta história. Uma nação que se chama como o seu pico sagrado lembra às crianças: o chão em que pisa tem dono no céu.",
   ],
   "ke:3": [
     "O elefante da savana era vaidoso do tamanho. O pássaro-tecelão era minúsculo, mas construía ninhos em forma de cesto, pendurados nos ramos, à prova de vento.",
     "O elefante riu: «Que casa tão tola.» Depois veio uma tempestade. O elefante não achou abrigo. O tecelão, dentro do ninho fechado, ficou seco. No dia seguinte, o elefante pediu para ver o ninho de perto — e respeitou-o.",
     "Nalgumas versões o tecelão ainda ensina o elefante a usar a tromba como ramo, para se cobrir. O grande aprende com o pequeno.",
-    "É o tipo de conto que as crianças da Quénia ouvem quando alguém se gaba. O tamanho não tece. A paciência tece.",
+    "É o tipo de conto que as crianças da Quênia ouvem quando alguém se gaba. O tamanho não tece. A paciência tece.",
   ],
   "ke:4": [
-    "Muitos povos pastores da Quénia, como os maasai, contam que no princípio o gado vivia no céu. O criador mandou o gado descer por uma corda de couro, ou por uma figueira, até à terra.",
+    "Muitos povos pastores da Quênia, como os maasai, contam que no princípio o gado vivia no céu. O criador mandou o gado descer por uma corda de couro, ou por uma figueira, até à terra.",
     "Um homem, ou um grupo, recebeu a tarefa de cuidar dos animais. Alguém desobedeceu — cortou a corda, ou deixou cair a ponte. A ligação com o céu partiu-se. O gado que já tinha descido ficou na terra; o resto ficou no céu.",
-    "Por isso o gado é sagrado: não é só riqueza, é um pedaço do céu que ainda anda connosco. Tratar mal uma vaca é partir outra vez a corda.",
+    "Por isso o gado é sagrado: não é só riqueza, é um pedaço do céu que ainda anda conosco. Tratar mal uma vaca é partir outra vez a corda.",
     "A história varia de povo para povo, mas o núcleo mantém-se. O leite, o sangue ritual, o rebanho ao entardecer — tudo isso começou com uma descida. E com uma responsabilidade que não acaba.",
   ],
 
@@ -252,7 +252,7 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "A kianda é o espírito das águas de Angola, sobretudo do mar e dos rios kimbundu. Vive nas ondas, nas pedras, nas praias da Ilha de Luanda. Pode aparecer como sereia, como vento, ou só como uma presença que arrepia.",
     "Os pescadores cumprimentam a kianda antes de sair. Oferecem farinha, vinho de palma, um pano branco. Quem se ri do mar ou suja a praia pode perder o rumo, o peixe, ou a calma.",
     "Há histórias de kiandas que se apaixonam por humanos e histórias de kiandas que devolvem crianças perdidas na rebentação. Não são todas iguais: o mar de Angola tem muitas donas.",
-    "A lenda verdadeira pede respeito, não terror. A kianda é a alma da água angolana. Quem entra no mar como hóspede volta. Quem entra como dono, o mar encarrega-se de o lembrar.",
+    "A lenda verdadeira pede respeito, não terror. A kianda é a alma da água angolana. Quem entra no mar como hóspede volta. Quem entra como dono, o mar encarrega-se de lembrar.",
   ],
   "ao:1": [
     "O soba é o chefe da aldeia. Nalgumas histórias de Angola, um soba orgulhoso manda cortar uma árvore sagrada — imbondeiro, mulemba ou outra árvore de reunião — para fazer um palácio maior.",
@@ -267,7 +267,7 @@ export const FEATURED_STORIES: Record<string, string[]> = {
     "As duas versões dizem o mesmo: o orgulho vira-nos do avesso. E mesmo invertida, a árvore continua a dar sombra, fruto e casa às abelhas. O castigo tornou-se presente.",
   ],
   "ao:3": [
-    "O coelho angolano, como o Sungura e o Leuk, é o pequeno que engana o leão. Num conto muito espalhado, o leão apanha o coelho e vai comê-lo. O coelho grita: «Não me comes agora — o céu está a cair!»",
+    "O coelho angolano, como o Sungura e o Leuk, é o pequeno que engana o leão. Num conto muito espalhado, o leão apanha o coelho e vai comê-lo. O coelho grita: «Não me come agora — o céu está caindo!»",
     "O leão, assustado, segura um ramo para aguentar o céu. O coelho oferece-se para ir buscar ajuda e não volta. Noutra versão, o coelho convida o leão a um poço: «Há outro leão lá no fundo.» O leão ataca o reflexo e cai n'água.",
     "Estas histórias são antigas, de fogueira, de língua kimbundu, umbundu, kikongo. O fraco vence o forte com a cabeça, não com a unha.",
     "As crianças riem do leão molhado. Os mais velhos deixam o recado: a força que não pensa acaba no poço. E o pequeno que só engana, um dia também é apanhado — por isso o coelho nunca pára quieto.",

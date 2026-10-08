@@ -3,13 +3,18 @@ import { Search, X } from "lucide-react";
 import { createFileRoute } from "@tanstack/react-router";
 import { CountryPanel } from "@/components/country-panel";
 import { GlobeCanvas, type GlobeApi } from "@/components/globe-canvas";
+import { LanguageSwitcher } from "@/components/language-switcher";
 import { StoryBook } from "@/components/story-book";
 import { FEATURED, getCountry, searchCountries } from "@/data/catalog";
+import { countryName } from "@/i18n/country-name";
+import { localizeCountry } from "@/i18n/content";
+import { useI18n } from "@/i18n/use-i18n";
 import type { FolkStory } from "@/data/stories/types";
 
 export const Route = createFileRoute("/")({ component: Home });
 
 function Home() {
+  const { locale, t } = useI18n();
   const [selectedIso, setSelectedIso] = useState<string | null>(null);
   const [taleIndex, setTaleIndex] = useState<number | null>(null);
   const [query, setQuery] = useState("");
@@ -17,9 +22,15 @@ function Home() {
   const globeApi = useRef<GlobeApi | null>(null);
   const [story, setStory] = useState<FolkStory | null>(null);
 
-  const country = selectedIso ? getCountry(selectedIso) : null;
-  const hits = useMemo(() => searchCountries(query), [query]);
-  const featured = FEATURED.map((iso) => ({ iso, name: getCountry(iso).name }));
+  const country = useMemo(() => {
+    if (!selectedIso) return null;
+    return localizeCountry(getCountry(selectedIso), locale, t);
+  }, [selectedIso, locale, t]);
+  const hits = useMemo(() => searchCountries(query, locale), [query, locale]);
+  const featured = FEATURED.map((iso) => {
+    const profile = getCountry(iso);
+    return { iso, name: countryName(iso, locale, profile.name) };
+  });
 
   useEffect(() => {
     if (!country || taleIndex == null) {
@@ -63,14 +74,17 @@ function Home() {
             }}
           />
 
-          <div className="pointer-events-none absolute inset-x-3 top-3 z-20 flex flex-col gap-2 sm:flex-row sm:items-start">
-            <div className="pointer-events-auto flex flex-wrap items-center gap-2">
-              <h1 className="font-display text-[1.7rem] font-bold leading-none text-sun drop-shadow-[0_3px_0_#2b1b4e] sm:text-3xl">
-                Mundo Mágico
-              </h1>
-              <span className="hidden rounded-full border-3 border-stroke bg-cream px-3 py-1 text-xs font-extrabold text-ink shadow-[4px_4px_0_#2b1b4e] sm:inline">
-                Gira o globo e escolhe um país
-              </span>
+          <div className="pointer-events-none absolute inset-x-3 top-3 z-20 flex flex-col gap-2">
+            <div className="flex items-start gap-2">
+              <div className="pointer-events-auto flex min-w-0 flex-1 flex-wrap items-center gap-2">
+                <h1 className="font-display text-[1.7rem] font-bold leading-none text-sun drop-shadow-[0_3px_0_#2b1b4e] sm:text-3xl">
+                  Mundo Mágico
+                </h1>
+                <span className="hidden rounded-full border-3 border-stroke bg-cream px-3 py-1 text-xs font-extrabold text-ink shadow-[4px_4px_0_#2b1b4e] sm:inline">
+                  {t.tagline}
+                </span>
+              </div>
+              <LanguageSwitcher />
             </div>
             <div className="pointer-events-auto relative min-w-0 flex-1">
               <Search className="absolute top-1/2 left-3 size-4 -translate-y-1/2 text-ink/50" aria-hidden />
@@ -81,9 +95,9 @@ function Home() {
                   setOpenSuggest(true);
                 }}
                 onFocus={() => setOpenSuggest(true)}
-                placeholder="Procurar país..."
+                placeholder={t.searchPlaceholder}
                 className="w-full rounded-2xl border-3 border-stroke bg-cream py-2.5 pr-10 pl-9 font-sans text-sm font-bold text-ink shadow-[4px_4px_0_#2b1b4e] outline-none placeholder:text-ink/40"
-                aria-label="Procurar país"
+                aria-label={t.searchLabel}
               />
               {query ? (
                 <button
@@ -93,7 +107,7 @@ function Home() {
                     setQuery("");
                     setOpenSuggest(false);
                   }}
-                  aria-label="Limpar pesquisa"
+                  aria-label={t.clearSearch}
                 >
                   <X className="size-4" />
                 </button>
@@ -115,7 +129,7 @@ function Home() {
                           (e.currentTarget as HTMLImageElement).style.visibility = "hidden";
                         }}
                       />
-                      {c.name}
+                      {countryName(c.iso, locale, c.name)}
                     </button>
                   ))}
                 </div>
@@ -124,7 +138,7 @@ function Home() {
           </div>
 
           <p className="pointer-events-none absolute bottom-3 left-3 z-20 max-w-[220px] rounded-2xl border-3 border-stroke bg-sun px-3 py-2 text-xs font-extrabold text-ink shadow-[4px_4px_0_#2b1b4e] sm:max-w-none">
-            Arrasta para girar · toca num país colorido
+            {t.dragHint}
           </p>
         </section>
 

@@ -4,6 +4,8 @@ import { Costume } from "@/components/costume";
 import { flagUrl, portraitUrl } from "@/data/catalog";
 import { hasStory } from "@/data/stories";
 import type { CitySpot, CountryProfile } from "@/data/types";
+import { fill } from "@/i18n/content";
+import { useI18n } from "@/i18n/use-i18n";
 import { cn } from "@/lib/cn";
 
 type Props = {
@@ -18,9 +20,9 @@ function NumberedTable({
   rows,
   accent,
   onRow,
-  actionLabel = "Ler",
+  actionLabel = "",
   actionClass = "bg-sun",
-  ariaVerb = "Abrir o conto",
+  ariaVerb = "",
 }: {
   rows: { title: string; detail?: string; openable?: boolean }[];
   accent: string;
@@ -107,6 +109,7 @@ function cityRows(cities: CitySpot[]) {
 }
 
 export function CountryPanel({ country, onPick, onClear, onTale, featured }: Props) {
+  const { t } = useI18n();
   const [portraitFailed, setPortraitFailed] = useState(false);
 
   useEffect(() => {
@@ -118,13 +121,12 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
       <div className="flex h-full flex-col items-center justify-center px-5 py-8 text-center">
         <img
           src="/characters/mascot.jpg"
-          alt="Mascote Mundo Mágico"
+          alt={t.mascotAlt}
           className="mb-3 size-32 rounded-full border-4 border-stroke object-cover shadow-[5px_5px_0_#2b1b4e]"
         />
-        <h2 className="font-display text-2xl font-bold text-ink">Bem-vindo, explorador!</h2>
+        <h2 className="font-display text-2xl font-bold text-ink">{t.welcomeTitle}</h2>
         <p className="mt-2 max-w-sm text-sm font-semibold leading-relaxed text-ink/75">
-          Gira o globo e toca num país. Vais ver a bandeira, um amigo de traje típico, contos
-          folclóricos para ler e cidades famosas.
+          {t.welcomeBody}
         </p>
         <div className="mt-5 flex flex-wrap justify-center gap-2">
           {featured.map((f) => (
@@ -151,7 +153,7 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
         {flag ? (
           <img
             src={flag}
-            alt={`Bandeira de ${country.name}`}
+            alt={fill(t.flagAlt, { name: country.name })}
             className="aspect-[3/2] w-full rounded-xl border-3 border-stroke object-cover"
             onError={(e) => {
               (e.currentTarget as HTMLImageElement).style.display = "none";
@@ -165,9 +167,11 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
         <div className="min-w-0">
           <h2 className="font-display text-2xl font-bold leading-tight text-ink">{country.name}</h2>
           <p className="mt-1 text-sm font-bold text-ink/80">
-            Guia: <span className="text-candy">{country.who}</span>
+            {t.guide}: <span className="text-candy">{country.who}</span>
           </p>
-          <p className="mt-0.5 text-xs font-semibold leading-snug text-ink/70">Traje: {country.outfit}</p>
+          <p className="mt-0.5 text-xs font-semibold leading-snug text-ink/70">
+            {t.outfit}: {country.outfit}
+          </p>
           <div className="mt-2 flex flex-wrap items-center gap-2">
             <span className="inline-flex rounded-full border-2 border-stroke bg-sun px-2.5 py-0.5 text-xs font-extrabold text-ink">
               {country.hello}
@@ -178,7 +182,7 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
               className="inline-flex items-center gap-1 rounded-full border-2 border-stroke bg-cream px-2.5 py-1 text-xs font-extrabold text-ink shadow-[2px_2px_0_#2b1b4e] transition-transform duration-150 ease-out active:scale-[0.96]"
             >
               <RotateCcw className="size-3" aria-hidden />
-              Outro país
+              {t.otherCountry}
             </button>
           </div>
         </div>
@@ -189,7 +193,7 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
           <img
             key={country.iso}
             src={portrait}
-            alt={`${country.who}, amigo de ${country.name}`}
+            alt={fill(t.friendAlt, { who: country.who, name: country.name })}
             className="h-52 w-auto rounded-[1.6rem] border-4 border-stroke object-cover object-top shadow-[6px_6px_0_#2b1b4e]"
             onError={() => setPortraitFailed(true)}
           />
@@ -205,11 +209,13 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
           <span className="inline-flex size-8 items-center justify-center rounded-xl border-2 border-stroke bg-sun">
             <BookOpen className="size-4" aria-hidden />
           </span>
-          Contos folclóricos
+          {t.talesTitle}
         </h3>
-        <p className="mb-2 text-xs font-bold text-ink/60">Toca num conto para abrir o livro e ler a história.</p>
+        <p className="mb-2 text-xs font-bold text-ink/60">{t.talesHint}</p>
         <NumberedTable
           accent="#ffd93d"
+          actionLabel={t.read}
+          ariaVerb={t.openTale}
           onRow={onTale}
           rows={country.tales.map((title, i) => ({
             title,
@@ -223,7 +229,7 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
           <span className="inline-flex size-8 items-center justify-center rounded-xl border-2 border-stroke bg-mint">
             <Landmark className="size-4" aria-hidden />
           </span>
-          Cidades e monumentos
+          {t.citiesTitle}
         </h3>
         <NumberedTable accent="#4ade80" rows={cityRows(country.cities)} />
       </section>
