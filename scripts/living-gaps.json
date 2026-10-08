@@ -1,0 +1,2552 @@
+[
+  {
+    "key": "fr:0",
+    "title": "O Pequeno Polegar",
+    "country": "França",
+    "found": 0
+  },
+  {
+    "key": "fr:1",
+    "title": "Cinderela (Perrault)",
+    "country": "França",
+    "found": 0
+  },
+  {
+    "key": "fr:2",
+    "title": "O Gato de Botas",
+    "country": "França",
+    "found": 0
+  },
+  {
+    "key": "fr:3",
+    "title": "A Bela Adormecida",
+    "country": "França",
+    "found": 0
+  },
+  {
+    "key": "fr:4",
+    "title": "Barba Azul",
+    "country": "França",
+    "found": 0
+  },
+  {
+    "key": "de:0",
+    "title": "João e Maria",
+    "country": "Alemanha",
+    "found": 0
+  },
+  {
+    "key": "de:1",
+    "title": "Chapeuzinho Vermelho",
+    "country": "Alemanha",
+    "found": 0
+  },
+  {
+    "key": "de:2",
+    "title": "Branca de Neve",
+    "country": "Alemanha",
+    "found": 0
+  },
+  {
+    "key": "de:3",
+    "title": "Rapunzel",
+    "country": "Alemanha",
+    "found": 0
+  },
+  {
+    "key": "de:4",
+    "title": "O Flautista de Hamelin",
+    "country": "Alemanha",
+    "found": 0
+  },
+  {
+    "key": "it:0",
+    "title": "Pinóquio",
+    "country": "Itália",
+    "found": 0
+  },
+  {
+    "key": "it:1",
+    "title": "A Befana",
+    "country": "Itália",
+    "found": 0
+  },
+  {
+    "key": "it:2",
+    "title": "Pulcinella",
+    "country": "Itália",
+    "found": 0
+  },
+  {
+    "key": "it:3",
+    "title": "Colombo e o ovo",
+    "country": "Itália",
+    "found": 0
+  },
+  {
+    "key": "it:4",
+    "title": "Romulo e Remo",
+    "country": "Itália",
+    "found": 0
+  },
+  {
+    "key": "es:0",
+    "title": "Don Quixote (para crianças)",
+    "country": "Espanha",
+    "found": 0
+  },
+  {
+    "key": "es:1",
+    "title": "O Rato Pérez",
+    "country": "Espanha",
+    "found": 0
+  },
+  {
+    "key": "es:2",
+    "title": "A lenda do Cid",
+    "country": "Espanha",
+    "found": 0
+  },
+  {
+    "key": "es:3",
+    "title": "Pedro e o lobo andaluz",
+    "country": "Espanha",
+    "found": 0
+  },
+  {
+    "key": "es:4",
+    "title": "A princesa e o dragão de Komodo da fantasia popular",
+    "country": "Espanha",
+    "found": 0
+  },
+  {
+    "key": "mx:0",
+    "title": "La Llorona",
+    "country": "México",
+    "found": 0
+  },
+  {
+    "key": "mx:1",
+    "title": "Popocatépetl e Iztaccíhuatl",
+    "country": "México",
+    "found": 0
+  },
+  {
+    "key": "mx:2",
+    "title": "O Alebrije mágico",
+    "country": "México",
+    "found": 0
+  },
+  {
+    "key": "mx:3",
+    "title": "Quetzalcóatl",
+    "country": "México",
+    "found": 0
+  },
+  {
+    "key": "mx:4",
+    "title": "O tesouro do Chupacabra (lenda moderna)",
+    "country": "México",
+    "found": 0
+  },
+  {
+    "key": "ar:0",
+    "title": "El Pombero",
+    "country": "Argentina",
+    "found": 0
+  },
+  {
+    "key": "ar:1",
+    "title": "El lobisón",
+    "country": "Argentina",
+    "found": 0
+  },
+  {
+    "key": "ar:2",
+    "title": "La Salamanca",
+    "country": "Argentina",
+    "found": 0
+  },
+  {
+    "key": "ar:3",
+    "title": "Santos Vega",
+    "country": "Argentina",
+    "found": 0
+  },
+  {
+    "key": "ar:4",
+    "title": "El Familiar",
+    "country": "Argentina",
+    "found": 0
+  },
+  {
+    "key": "pe:0",
+    "title": "A lenda de Inkarrí",
+    "country": "Peru",
+    "found": 0
+  },
+  {
+    "key": "pe:1",
+    "title": "El Ekeko",
+    "country": "Peru",
+    "found": 0
+  },
+  {
+    "key": "pe:2",
+    "title": "O lago Titicaca e Manco Cápac",
+    "country": "Peru",
+    "found": 0
+  },
+  {
+    "key": "pe:3",
+    "title": "La Achikay",
+    "country": "Peru",
+    "found": 0
+  },
+  {
+    "key": "pe:4",
+    "title": "O condor e a pastora",
+    "country": "Peru",
+    "found": 0
+  },
+  {
+    "key": "jp:0",
+    "title": "Momotarō, o menino-pêssego",
+    "country": "Japão",
+    "found": 0
+  },
+  {
+    "key": "jp:1",
+    "title": "A Princesa Kaguya",
+    "country": "Japão",
+    "found": 0
+  },
+  {
+    "key": "jp:2",
+    "title": "Urashima Tarō",
+    "country": "Japão",
+    "found": 0
+  },
+  {
+    "key": "jp:3",
+    "title": "O Coelho de Inaba",
+    "country": "Japão",
+    "found": 0
+  },
+  {
+    "key": "jp:4",
+    "title": "Issun-bōshi, o polegarzinho",
+    "country": "Japão",
+    "found": 0
+  },
+  {
+    "key": "cn:0",
+    "title": "A lenda da Deusa Chang'e",
+    "country": "China",
+    "found": 0
+  },
+  {
+    "key": "cn:1",
+    "title": "O Rei Macaco (Sun Wukong)",
+    "country": "China",
+    "found": 0
+  },
+  {
+    "key": "cn:2",
+    "title": "Hua Mulan",
+    "country": "China",
+    "found": 0
+  },
+  {
+    "key": "cn:3",
+    "title": "Nian, o monstro do Ano Novo",
+    "country": "China",
+    "found": 0
+  },
+  {
+    "key": "cn:4",
+    "title": "O dragão e a pérola",
+    "country": "China",
+    "found": 0
+  },
+  {
+    "key": "in:0",
+    "title": "As fábulas de Panchatantra",
+    "country": "Índia",
+    "found": 0
+  },
+  {
+    "key": "in:1",
+    "title": "Rama e Sita",
+    "country": "Índia",
+    "found": 0
+  },
+  {
+    "key": "in:2",
+    "title": "O elefante Ganesha",
+    "country": "Índia",
+    "found": 0
+  },
+  {
+    "key": "in:3",
+    "title": "A tartaruga e os gansos",
+    "country": "Índia",
+    "found": 0
+  },
+  {
+    "key": "in:4",
+    "title": "Akbar e Birbal",
+    "country": "Índia",
+    "found": 0
+  },
+  {
+    "key": "eg:0",
+    "title": "Ísis e Osíris",
+    "country": "Egito",
+    "found": 0
+  },
+  {
+    "key": "eg:1",
+    "title": "O tesouro de Tutancâmon",
+    "country": "Egito",
+    "found": 0
+  },
+  {
+    "key": "eg:2",
+    "title": "O gato Bastet",
+    "country": "Egito",
+    "found": 0
+  },
+  {
+    "key": "eg:3",
+    "title": "A barca do Sol",
+    "country": "Egito",
+    "found": 0
+  },
+  {
+    "key": "eg:4",
+    "title": "Alibabá das areias (conto popular)",
+    "country": "Egito",
+    "found": 0
+  },
+  {
+    "key": "za:0",
+    "title": "Anansi na savana",
+    "country": "África do Sul",
+    "found": 0
+  },
+  {
+    "key": "za:1",
+    "title": "A lenda do baobá",
+    "country": "África do Sul",
+    "found": 0
+  },
+  {
+    "key": "za:2",
+    "title": "Como a zebra ganhou as listras",
+    "country": "África do Sul",
+    "found": 0
+  },
+  {
+    "key": "za:3",
+    "title": "Tokoloshe",
+    "country": "África do Sul",
+    "found": 0
+  },
+  {
+    "key": "za:4",
+    "title": "A rainha das chuvas",
+    "country": "África do Sul",
+    "found": 0
+  },
+  {
+    "key": "au:0",
+    "title": "Como o canguru ganhou a bolsa",
+    "country": "Austrália",
+    "found": 0
+  },
+  {
+    "key": "au:1",
+    "title": "Tiddalik, o sapo sedento",
+    "country": "Austrália",
+    "found": 0
+  },
+  {
+    "key": "au:2",
+    "title": "O sonho do Arco-Íris",
+    "country": "Austrália",
+    "found": 0
+  },
+  {
+    "key": "au:3",
+    "title": "Bunjil, a águia",
+    "country": "Austrália",
+    "found": 0
+  },
+  {
+    "key": "au:4",
+    "title": "A serpente arco-íris",
+    "country": "Austrália",
+    "found": 0
+  },
+  {
+    "key": "ca:0",
+    "title": "Nanabozho",
+    "country": "Canadá",
+    "found": 0
+  },
+  {
+    "key": "ca:1",
+    "title": "A lenda do maple",
+    "country": "Canadá",
+    "found": 0
+  },
+  {
+    "key": "ca:2",
+    "title": "Wendigo (versão suave)",
+    "country": "Canadá",
+    "found": 0
+  },
+  {
+    "key": "ca:3",
+    "title": "Glooscap",
+    "country": "Canadá",
+    "found": 0
+  },
+  {
+    "key": "ca:4",
+    "title": "O corvo que roubou a luz",
+    "country": "Canadá",
+    "found": 0
+  },
+  {
+    "key": "kr:0",
+    "title": "O tigre e o bolo de arroz",
+    "country": "Coreia do Sul",
+    "found": 0
+  },
+  {
+    "key": "kr:1",
+    "title": "Heungbu e Nolbu",
+    "country": "Coreia do Sul",
+    "found": 0
+  },
+  {
+    "key": "kr:2",
+    "title": "A fada e o lenhador",
+    "country": "Coreia do Sul",
+    "found": 0
+  },
+  {
+    "key": "kr:3",
+    "title": "Kongjwi e Patjwi",
+    "country": "Coreia do Sul",
+    "found": 0
+  },
+  {
+    "key": "kr:4",
+    "title": "O dragão do mar do Leste",
+    "country": "Coreia do Sul",
+    "found": 0
+  },
+  {
+    "key": "th:0",
+    "title": "Siddhidhat e o elefante branco",
+    "country": "Tailândia",
+    "found": 0
+  },
+  {
+    "key": "th:1",
+    "title": "A lenda de Nang Nak (versão suave)",
+    "country": "Tailândia",
+    "found": 0
+  },
+  {
+    "key": "th:2",
+    "title": "Phra Aphai Mani",
+    "country": "Tailândia",
+    "found": 0
+  },
+  {
+    "key": "th:3",
+    "title": "O macaco Hanuman no Ramakien",
+    "country": "Tailândia",
+    "found": 0
+  },
+  {
+    "key": "th:4",
+    "title": "A princesa e o naga",
+    "country": "Tailândia",
+    "found": 0
+  },
+  {
+    "key": "gr:0",
+    "title": "Teseu e o Minotauro",
+    "country": "Grécia",
+    "found": 0
+  },
+  {
+    "key": "gr:1",
+    "title": "O cavalo de Troia",
+    "country": "Grécia",
+    "found": 0
+  },
+  {
+    "key": "gr:2",
+    "title": "Dédalo e Ícaro",
+    "country": "Grécia",
+    "found": 0
+  },
+  {
+    "key": "gr:3",
+    "title": "Hércules e os doze trabalhos",
+    "country": "Grécia",
+    "found": 0
+  },
+  {
+    "key": "gr:4",
+    "title": "Pandora e a caixa",
+    "country": "Grécia",
+    "found": 0
+  },
+  {
+    "key": "tr:0",
+    "title": "Nasreddin Hodja",
+    "country": "Turquia",
+    "found": 0
+  },
+  {
+    "key": "tr:1",
+    "title": "Keloğlan",
+    "country": "Turquia",
+    "found": 0
+  },
+  {
+    "key": "tr:2",
+    "title": "A lenda de Hélen e Leandro",
+    "country": "Turquia",
+    "found": 0
+  },
+  {
+    "key": "tr:3",
+    "title": "O tapete mágico de Capadócia",
+    "country": "Turquia",
+    "found": 0
+  },
+  {
+    "key": "tr:4",
+    "title": "O gato de Van",
+    "country": "Turquia",
+    "found": 0
+  },
+  {
+    "key": "ru:0",
+    "title": "O Galo Dourado",
+    "country": "Rússia",
+    "found": 0
+  },
+  {
+    "key": "ru:1",
+    "title": "Baba Yaga",
+    "country": "Rússia",
+    "found": 0
+  },
+  {
+    "key": "ru:2",
+    "title": "Ivan Tsarevitch e o lobo cinzento",
+    "country": "Rússia",
+    "found": 0
+  },
+  {
+    "key": "ru:3",
+    "title": "A Rainha da Neve",
+    "country": "Rússia",
+    "found": 0
+  },
+  {
+    "key": "ru:4",
+    "title": "O cavalinho corcunda",
+    "country": "Rússia",
+    "found": 0
+  },
+  {
+    "key": "ng:0",
+    "title": "Anansi e a sabedoria",
+    "country": "Nigéria",
+    "found": 0
+  },
+  {
+    "key": "ng:1",
+    "title": "A tartaruga Ijapa",
+    "country": "Nigéria",
+    "found": 0
+  },
+  {
+    "key": "ng:2",
+    "title": "Como o céu se afastou da Terra",
+    "country": "Nigéria",
+    "found": 0
+  },
+  {
+    "key": "ng:3",
+    "title": "O leão e o rato da savana",
+    "country": "Nigéria",
+    "found": 0
+  },
+  {
+    "key": "ng:4",
+    "title": "A menina e o rio Níger",
+    "country": "Nigéria",
+    "found": 0
+  },
+  {
+    "key": "ke:0",
+    "title": "Como o leopardo ganhou as pintas",
+    "country": "Quênia",
+    "found": 0
+  },
+  {
+    "key": "ke:1",
+    "title": "Hare e o poço",
+    "country": "Quênia",
+    "found": 0
+  },
+  {
+    "key": "ke:2",
+    "title": "A origem do Monte Quênia",
+    "country": "Quênia",
+    "found": 0
+  },
+  {
+    "key": "ke:3",
+    "title": "O elefante e o pássaro-tecelão",
+    "country": "Quênia",
+    "found": 0
+  },
+  {
+    "key": "ke:4",
+    "title": "Nyai e o gado do céu",
+    "country": "Quênia",
+    "found": 0
+  },
+  {
+    "key": "ma:0",
+    "title": "A lenda de Aicha Kandicha (versão suave)",
+    "country": "Marrocos",
+    "found": 0
+  },
+  {
+    "key": "ma:1",
+    "title": "O tesouro do sultão",
+    "country": "Marrocos",
+    "found": 0
+  },
+  {
+    "key": "ma:2",
+    "title": "O tapete que voava sobre o Atlas",
+    "country": "Marrocos",
+    "found": 0
+  },
+  {
+    "key": "ma:3",
+    "title": "A pomba de Fez",
+    "country": "Marrocos",
+    "found": 0
+  },
+  {
+    "key": "ma:4",
+    "title": "O gato e o cuscuz",
+    "country": "Marrocos",
+    "found": 0
+  },
+  {
+    "key": "nl:0",
+    "title": "O menino do dique",
+    "country": "Países Baixos",
+    "found": 0
+  },
+  {
+    "key": "nl:1",
+    "title": "Hans Brinker",
+    "country": "Países Baixos",
+    "found": 0
+  },
+  {
+    "key": "nl:2",
+    "title": "A cegonha de Haia",
+    "country": "Países Baixos",
+    "found": 0
+  },
+  {
+    "key": "nl:3",
+    "title": "O moinho encantado",
+    "country": "Países Baixos",
+    "found": 0
+  },
+  {
+    "key": "nl:4",
+    "title": "Pietje Bell",
+    "country": "Países Baixos",
+    "found": 0
+  },
+  {
+    "key": "se:0",
+    "title": "Pippi Meialonga",
+    "country": "Suécia",
+    "found": 0
+  },
+  {
+    "key": "se:1",
+    "title": "Os Irmãos Coração de Leão",
+    "country": "Suécia",
+    "found": 0
+  },
+  {
+    "key": "se:2",
+    "title": "O tomte da fazenda",
+    "country": "Suécia",
+    "found": 0
+  },
+  {
+    "key": "se:3",
+    "title": "Nils Holgersson",
+    "country": "Suécia",
+    "found": 0
+  },
+  {
+    "key": "se:4",
+    "title": "A senhora da floresta",
+    "country": "Suécia",
+    "found": 0
+  },
+  {
+    "key": "ie:0",
+    "title": "O Leprechaun e o pote de ouro",
+    "country": "Irlanda",
+    "found": 0
+  },
+  {
+    "key": "ie:1",
+    "title": "Cú Chulainn",
+    "country": "Irlanda",
+    "found": 0
+  },
+  {
+    "key": "ie:2",
+    "title": "A Banshee (versão suave)",
+    "country": "Irlanda",
+    "found": 0
+  },
+  {
+    "key": "ie:3",
+    "title": "Fionn mac Cumhaill",
+    "country": "Irlanda",
+    "found": 0
+  },
+  {
+    "key": "ie:4",
+    "title": "O selkie do mar",
+    "country": "Irlanda",
+    "found": 0
+  },
+  {
+    "key": "pl:0",
+    "title": "O dragão de Wawel",
+    "country": "Polônia",
+    "found": 0
+  },
+  {
+    "key": "pl:1",
+    "title": "Lech, Czech e Rus",
+    "country": "Polônia",
+    "found": 0
+  },
+  {
+    "key": "pl:2",
+    "title": "A sereia de Varsóvia",
+    "country": "Polônia",
+    "found": 0
+  },
+  {
+    "key": "pl:3",
+    "title": "Pan Twardowski",
+    "country": "Polônia",
+    "found": 0
+  },
+  {
+    "key": "pl:4",
+    "title": "A flor de feto na noite de Ivan",
+    "country": "Polônia",
+    "found": 0
+  },
+  {
+    "key": "id:0",
+    "title": "Timun Mas",
+    "country": "Indonésia",
+    "found": 0
+  },
+  {
+    "key": "id:1",
+    "title": "Malin Kundang",
+    "country": "Indonésia",
+    "found": 0
+  },
+  {
+    "key": "id:2",
+    "title": "A lenda do Lago Toba",
+    "country": "Indonésia",
+    "found": 0
+  },
+  {
+    "key": "id:3",
+    "title": "Roro Jonggrang",
+    "country": "Indonésia",
+    "found": 0
+  },
+  {
+    "key": "id:4",
+    "title": "O dragão de Komodo (lenda da ilha)",
+    "country": "Indonésia",
+    "found": 0
+  },
+  {
+    "key": "vn:0",
+    "title": "Sơn Tinh e Thủy Tinh",
+    "country": "Vietnã",
+    "found": 0
+  },
+  {
+    "key": "vn:1",
+    "title": "A lenda do lago Hoàn Kiếm",
+    "country": "Vietnã",
+    "found": 0
+  },
+  {
+    "key": "vn:2",
+    "title": "Bánh chưng e Bánh giầy",
+    "country": "Vietnã",
+    "found": 0
+  },
+  {
+    "key": "vn:3",
+    "title": "Thạch Sanh",
+    "country": "Vietnã",
+    "found": 0
+  },
+  {
+    "key": "vn:4",
+    "title": "O casal de pedra de Hạ Long",
+    "country": "Vietnã",
+    "found": 0
+  },
+  {
+    "key": "co:0",
+    "title": "El Mohán",
+    "country": "Colômbia",
+    "found": 0
+  },
+  {
+    "key": "co:1",
+    "title": "La Madremonte",
+    "country": "Colômbia",
+    "found": 0
+  },
+  {
+    "key": "co:2",
+    "title": "El Hombre Caimán",
+    "country": "Colômbia",
+    "found": 0
+  },
+  {
+    "key": "co:3",
+    "title": "La Patasola",
+    "country": "Colômbia",
+    "found": 0
+  },
+  {
+    "key": "co:4",
+    "title": "El Sombrerón",
+    "country": "Colômbia",
+    "found": 0
+  },
+  {
+    "key": "cl:0",
+    "title": "El Caleuche",
+    "country": "Chile",
+    "found": 0
+  },
+  {
+    "key": "cl:1",
+    "title": "La Pincoya",
+    "country": "Chile",
+    "found": 0
+  },
+  {
+    "key": "cl:2",
+    "title": "El Trauco",
+    "country": "Chile",
+    "found": 0
+  },
+  {
+    "key": "cl:3",
+    "title": "La Llorona do Pacífico",
+    "country": "Chile",
+    "found": 0
+  },
+  {
+    "key": "cl:4",
+    "title": "O condor dos Andes",
+    "country": "Chile",
+    "found": 0
+  },
+  {
+    "key": "nz:0",
+    "title": "Maui pesca as ilhas",
+    "country": "Nova Zelândia",
+    "found": 0
+  },
+  {
+    "key": "nz:1",
+    "title": "A lenda do kiwi",
+    "country": "Nova Zelândia",
+    "found": 0
+  },
+  {
+    "key": "nz:2",
+    "title": "Tāne e as florestas",
+    "country": "Nova Zelândia",
+    "found": 0
+  },
+  {
+    "key": "nz:3",
+    "title": "Kupe, o navegador",
+    "country": "Nova Zelândia",
+    "found": 0
+  },
+  {
+    "key": "nz:4",
+    "title": "O taniwha do rio",
+    "country": "Nova Zelândia",
+    "found": 0
+  },
+  {
+    "key": "sa:0",
+    "title": "As noites da caravana",
+    "country": "Arábia Saudita",
+    "found": 0
+  },
+  {
+    "key": "sa:1",
+    "title": "O café do deserto",
+    "country": "Arábia Saudita",
+    "found": 0
+  },
+  {
+    "key": "sa:2",
+    "title": "A gazela e o oásis",
+    "country": "Arábia Saudita",
+    "found": 0
+  },
+  {
+    "key": "sa:3",
+    "title": "Sindbad nas dunas",
+    "country": "Arábia Saudita",
+    "found": 0
+  },
+  {
+    "key": "sa:4",
+    "title": "O cavalo árabe encantado",
+    "country": "Arábia Saudita",
+    "found": 0
+  },
+  {
+    "key": "ao:0",
+    "title": "A kianda do mar",
+    "country": "Angola",
+    "found": 0
+  },
+  {
+    "key": "ao:1",
+    "title": "O soba e a árvore sagrada",
+    "country": "Angola",
+    "found": 0
+  },
+  {
+    "key": "ao:2",
+    "title": "Como o imbondeiro ficou torto",
+    "country": "Angola",
+    "found": 0
+  },
+  {
+    "key": "ao:3",
+    "title": "O coelho e o leão",
+    "country": "Angola",
+    "found": 0
+  },
+  {
+    "key": "ao:4",
+    "title": "A princesa Nzinga nas estrelas",
+    "country": "Angola",
+    "found": 0
+  },
+  {
+    "key": "mz:0",
+    "title": "A lenda da Ilha de Moçambique",
+    "country": "Moçambique",
+    "found": 0
+  },
+  {
+    "key": "mz:1",
+    "title": "O espírito da floresta de Gorongosa",
+    "country": "Moçambique",
+    "found": 0
+  },
+  {
+    "key": "mz:2",
+    "title": "Como o milho chegou à aldeia",
+    "country": "Moçambique",
+    "found": 0
+  },
+  {
+    "key": "mz:3",
+    "title": "O coelho e o leão",
+    "country": "Moçambique",
+    "found": 0
+  },
+  {
+    "key": "mz:4",
+    "title": "A sereia da baía de Maputo",
+    "country": "Moçambique",
+    "found": 0
+  },
+  {
+    "key": "cv:0",
+    "title": "A lenda do Pico do Fogo",
+    "country": "Cabo Verde",
+    "found": 0
+  },
+  {
+    "key": "cv:1",
+    "title": "A bruxa do mindelo (versão suave)",
+    "country": "Cabo Verde",
+    "found": 0
+  },
+  {
+    "key": "cv:2",
+    "title": "O navio fantasma da Praia",
+    "country": "Cabo Verde",
+    "found": 0
+  },
+  {
+    "key": "cv:3",
+    "title": "Como nasceu a morna",
+    "country": "Cabo Verde",
+    "found": 0
+  },
+  {
+    "key": "cv:4",
+    "title": "O tubarão amigo de São Vicente",
+    "country": "Cabo Verde",
+    "found": 0
+  },
+  {
+    "key": "gw:0",
+    "title": "N'Pará e os animais da floresta",
+    "country": "Guiné-Bissau",
+    "found": 0
+  },
+  {
+    "key": "gw:1",
+    "title": "A tartaruga sábia do Geba",
+    "country": "Guiné-Bissau",
+    "found": 0
+  },
+  {
+    "key": "gw:2",
+    "title": "Como o caju ficou doce",
+    "country": "Guiné-Bissau",
+    "found": 0
+  },
+  {
+    "key": "gw:3",
+    "title": "O irã da palmeira",
+    "country": "Guiné-Bissau",
+    "found": 0
+  },
+  {
+    "key": "gw:4",
+    "title": "A raposa e o crocodilo",
+    "country": "Guiné-Bissau",
+    "found": 0
+  },
+  {
+    "key": "st:0",
+    "title": "A lenda do Pico Cão Grande",
+    "country": "São Tomé e Príncipe",
+    "found": 0
+  },
+  {
+    "key": "st:1",
+    "title": "O papagaio das sete cores",
+    "country": "São Tomé e Príncipe",
+    "found": 0
+  },
+  {
+    "key": "st:2",
+    "title": "A sereia de Praia das Conchas",
+    "country": "São Tomé e Príncipe",
+    "found": 0
+  },
+  {
+    "key": "st:3",
+    "title": "O cacau mágico",
+    "country": "São Tomé e Príncipe",
+    "found": 0
+  },
+  {
+    "key": "st:4",
+    "title": "O tchiloli do rei",
+    "country": "São Tomé e Príncipe",
+    "found": 0
+  },
+  {
+    "key": "tl:0",
+    "title": "O crocodilo amigo de Timor",
+    "country": "Timor-Leste",
+    "found": 0
+  },
+  {
+    "key": "tl:1",
+    "title": "A lenda do Monte Ramelau",
+    "country": "Timor-Leste",
+    "found": 0
+  },
+  {
+    "key": "tl:2",
+    "title": "O irmão sol e a irmã lua",
+    "country": "Timor-Leste",
+    "found": 0
+  },
+  {
+    "key": "tl:3",
+    "title": "A origem do tais",
+    "country": "Timor-Leste",
+    "found": 0
+  },
+  {
+    "key": "tl:4",
+    "title": "O peixe de Ataúro",
+    "country": "Timor-Leste",
+    "found": 0
+  },
+  {
+    "key": "gq:0",
+    "title": "O espírito da selva de Monte Alén",
+    "country": "Guiné Equatorial",
+    "found": 0
+  },
+  {
+    "key": "gq:1",
+    "title": "A tartaruga e o leopardo",
+    "country": "Guiné Equatorial",
+    "found": 0
+  },
+  {
+    "key": "gq:2",
+    "title": "Como nasceu a ilha de Bioko",
+    "country": "Guiné Equatorial",
+    "found": 0
+  },
+  {
+    "key": "gq:3",
+    "title": "O tambor falante",
+    "country": "Guiné Equatorial",
+    "found": 0
+  },
+  {
+    "key": "gq:4",
+    "title": "A princesa do rio Uoro",
+    "country": "Guiné Equatorial",
+    "found": 0
+  },
+  {
+    "key": "fi:0",
+    "title": "O Kalevala para crianças",
+    "country": "Finlândia",
+    "found": 0
+  },
+  {
+    "key": "fi:1",
+    "title": "A raposa e o urso da taiga",
+    "country": "Finlândia",
+    "found": 0
+  },
+  {
+    "key": "fi:2",
+    "title": "Os trolls da Lapónia",
+    "country": "Finlândia",
+    "found": 0
+  },
+  {
+    "key": "fi:3",
+    "title": "A origem da sauna",
+    "country": "Finlândia",
+    "found": 0
+  },
+  {
+    "key": "fi:4",
+    "title": "A estrela polar e a rena",
+    "country": "Finlândia",
+    "found": 0
+  },
+  {
+    "key": "no:0",
+    "title": "Os três cabritos de Bouzen",
+    "country": "Noruega",
+    "found": 0
+  },
+  {
+    "key": "no:1",
+    "title": "Askeladden, o rapaz das cinzas",
+    "country": "Noruega",
+    "found": 0
+  },
+  {
+    "key": "no:2",
+    "title": "O troll da montanha",
+    "country": "Noruega",
+    "found": 0
+  },
+  {
+    "key": "no:3",
+    "title": "A raposa e o urso",
+    "country": "Noruega",
+    "found": 0
+  },
+  {
+    "key": "no:4",
+    "title": "O barco de Oseberg (lenda viking suave)",
+    "country": "Noruega",
+    "found": 0
+  },
+  {
+    "key": "dk:0",
+    "title": "O Patinho Feio",
+    "country": "Dinamarca",
+    "found": 0
+  },
+  {
+    "key": "dk:1",
+    "title": "A Pequena Sereia",
+    "country": "Dinamarca",
+    "found": 0
+  },
+  {
+    "key": "dk:2",
+    "title": "O soldadinho de chumbo",
+    "country": "Dinamarca",
+    "found": 0
+  },
+  {
+    "key": "dk:3",
+    "title": "A princesa e a ervilha",
+    "country": "Dinamarca",
+    "found": 0
+  },
+  {
+    "key": "dk:4",
+    "title": " polegarzinha",
+    "country": "Dinamarca",
+    "found": 0
+  },
+  {
+    "key": "ch:0",
+    "title": "Heidi",
+    "country": "Suíça",
+    "found": 0
+  },
+  {
+    "key": "ch:1",
+    "title": "Guilherme Tell",
+    "country": "Suíça",
+    "found": 0
+  },
+  {
+    "key": "ch:2",
+    "title": "O dragão do Pilatus",
+    "country": "Suíça",
+    "found": 0
+  },
+  {
+    "key": "ch:3",
+    "title": "A vaca que tocou o sino de ouro",
+    "country": "Suíça",
+    "found": 0
+  },
+  {
+    "key": "ch:4",
+    "title": "O gnomo dos Alpes",
+    "country": "Suíça",
+    "found": 0
+  },
+  {
+    "key": "be:0",
+    "title": "Tijl Uilenspiegel",
+    "country": "Bélgica",
+    "found": 0
+  },
+  {
+    "key": "be:1",
+    "title": "O Manneken Pis (lenda da criança)",
+    "country": "Bélgica",
+    "found": 0
+  },
+  {
+    "key": "be:2",
+    "title": "A bruxa de Damme (versão suave)",
+    "country": "Bélgica",
+    "found": 0
+  },
+  {
+    "key": "be:3",
+    "title": "Os gigantes de Ath",
+    "country": "Bélgica",
+    "found": 0
+  },
+  {
+    "key": "be:4",
+    "title": "O dragão de Mons",
+    "country": "Bélgica",
+    "found": 0
+  },
+  {
+    "key": "at:0",
+    "title": "A noiva da floresta de Viena",
+    "country": "Áustria",
+    "found": 0
+  },
+  {
+    "key": "at:1",
+    "title": "O dragão de Klagenfurt",
+    "country": "Áustria",
+    "found": 0
+  },
+  {
+    "key": "at:2",
+    "title": "A flauta mágica (conto da ópera)",
+    "country": "Áustria",
+    "found": 0
+  },
+  {
+    "key": "at:3",
+    "title": "Os anões das minas de sal",
+    "country": "Áustria",
+    "found": 0
+  },
+  {
+    "key": "at:4",
+    "title": "O rei dos lagos alpinos",
+    "country": "Áustria",
+    "found": 0
+  },
+  {
+    "key": "cz:0",
+    "title": "O Golem de Praga (versão suave)",
+    "country": "Chéquia",
+    "found": 0
+  },
+  {
+    "key": "cz:1",
+    "title": "A princesa de ouro de Boémia",
+    "country": "Chéquia",
+    "found": 0
+  },
+  {
+    "key": "cz:2",
+    "title": "O espírito da floresta Šumava",
+    "country": "Chéquia",
+    "found": 0
+  },
+  {
+    "key": "cz:3",
+    "title": "Ferda, a formiga",
+    "country": "Chéquia",
+    "found": 0
+  },
+  {
+    "key": "cz:4",
+    "title": "O relógio astronómico encantado",
+    "country": "Chéquia",
+    "found": 0
+  },
+  {
+    "key": "hu:0",
+    "title": "A ponta do nariz do rei Mathias",
+    "country": "Hungria",
+    "found": 0
+  },
+  {
+    "key": "hu:1",
+    "title": "O cavalo milagroso",
+    "country": "Hungria",
+    "found": 0
+  },
+  {
+    "key": "hu:2",
+    "title": "A lenda do Parlamento dourado",
+    "country": "Hungria",
+    "found": 0
+  },
+  {
+    "key": "hu:3",
+    "title": "O pastor e o dragão do Danúbio",
+    "country": "Hungria",
+    "found": 0
+  },
+  {
+    "key": "hu:4",
+    "title": "Háry János",
+    "country": "Hungria",
+    "found": 0
+  },
+  {
+    "key": "ro:0",
+    "title": "Ileana Cosânzeana",
+    "country": "Roménia",
+    "found": 0
+  },
+  {
+    "key": "ro:1",
+    "title": "Prâslea cel voinic",
+    "country": "Roménia",
+    "found": 0
+  },
+  {
+    "key": "ro:2",
+    "title": "O Conde Drácula (versão de conto suave)",
+    "country": "Roménia",
+    "found": 0
+  },
+  {
+    "key": "ro:3",
+    "title": "O pastor e a ovelha mágica",
+    "country": "Roménia",
+    "found": 0
+  },
+  {
+    "key": "ro:4",
+    "title": "A floresta de Hoia (lenda)",
+    "country": "Roménia",
+    "found": 0
+  },
+  {
+    "key": "ua:0",
+    "title": "A sereia do Dnipro",
+    "country": "Ucrânia",
+    "found": 0
+  },
+  {
+    "key": "ua:1",
+    "title": "Ivasyk-Telesyk",
+    "country": "Ucrânia",
+    "found": 0
+  },
+  {
+    "key": "ua:2",
+    "title": "A raposa e o grou",
+    "country": "Ucrânia",
+    "found": 0
+  },
+  {
+    "key": "ua:3",
+    "title": "Kozak Mamai",
+    "country": "Ucrânia",
+    "found": 0
+  },
+  {
+    "key": "ua:4",
+    "title": "A origem do girassol",
+    "country": "Ucrânia",
+    "found": 0
+  },
+  {
+    "key": "ph:0",
+    "title": "Malakas e Maganda",
+    "country": "Filipinas",
+    "found": 0
+  },
+  {
+    "key": "ph:1",
+    "title": "A lenda do Monte Mayon",
+    "country": "Filipinas",
+    "found": 0
+  },
+  {
+    "key": "ph:2",
+    "title": "Maria Makiling",
+    "country": "Filipinas",
+    "found": 0
+  },
+  {
+    "key": "ph:3",
+    "title": "O bakunawa que come a lua (versão suave)",
+    "country": "Filipinas",
+    "found": 0
+  },
+  {
+    "key": "ph:4",
+    "title": "A origem do mango",
+    "country": "Filipinas",
+    "found": 0
+  },
+  {
+    "key": "my:0",
+    "title": "Sang Kancil, o veado-rato esperto",
+    "country": "Malásia",
+    "found": 0
+  },
+  {
+    "key": "my:1",
+    "title": "A princesa da montanha Gunung Ledang",
+    "country": "Malásia",
+    "found": 0
+  },
+  {
+    "key": "my:2",
+    "title": "O tigre de Malaca",
+    "country": "Malásia",
+    "found": 0
+  },
+  {
+    "key": "my:3",
+    "title": "Puteri Gunung",
+    "country": "Malásia",
+    "found": 0
+  },
+  {
+    "key": "my:4",
+    "title": "A origem do durião",
+    "country": "Malásia",
+    "found": 0
+  },
+  {
+    "key": "gh:0",
+    "title": "Anansi, a aranha das histórias",
+    "country": "Gana",
+    "found": 0
+  },
+  {
+    "key": "gh:1",
+    "title": "Como as histórias chegaram ao mundo",
+    "country": "Gana",
+    "found": 0
+  },
+  {
+    "key": "gh:2",
+    "title": "O tambor falante",
+    "country": "Gana",
+    "found": 0
+  },
+  {
+    "key": "gh:3",
+    "title": "A tartaruga e o leopardo",
+    "country": "Gana",
+    "found": 0
+  },
+  {
+    "key": "gh:4",
+    "title": "O rio Volta encantado",
+    "country": "Gana",
+    "found": 0
+  },
+  {
+    "key": "et:0",
+    "title": "A rainha de Sabá",
+    "country": "Etiópia",
+    "found": 0
+  },
+  {
+    "key": "et:1",
+    "title": "O leão de Judá",
+    "country": "Etiópia",
+    "found": 0
+  },
+  {
+    "key": "et:2",
+    "title": "Como o café foi descoberto",
+    "country": "Etiópia",
+    "found": 0
+  },
+  {
+    "key": "et:3",
+    "title": "O pastor e o lobo das terras altas",
+    "country": "Etiópia",
+    "found": 0
+  },
+  {
+    "key": "et:4",
+    "title": "A arca no monte",
+    "country": "Etiópia",
+    "found": 0
+  },
+  {
+    "key": "tz:0",
+    "title": "Como nasceu o Kilimanjaro",
+    "country": "Tanzânia",
+    "found": 0
+  },
+  {
+    "key": "tz:1",
+    "title": "A lebre e o elefante",
+    "country": "Tanzânia",
+    "found": 0
+  },
+  {
+    "key": "tz:2",
+    "title": "A origem do lago Vitória",
+    "country": "Tanzânia",
+    "found": 0
+  },
+  {
+    "key": "tz:3",
+    "title": "O espírito da baobá",
+    "country": "Tanzânia",
+    "found": 0
+  },
+  {
+    "key": "tz:4",
+    "title": "A tartaruga da ilha de Zanzibar",
+    "country": "Tanzânia",
+    "found": 0
+  },
+  {
+    "key": "cu:0",
+    "title": "El Güije do rio",
+    "country": "Cuba",
+    "found": 0
+  },
+  {
+    "key": "cu:1",
+    "title": "A Virgen de la Caridad del Cobre",
+    "country": "Cuba",
+    "found": 0
+  },
+  {
+    "key": "cu:2",
+    "title": "Cecilia Valdés (versão infantil)",
+    "country": "Cuba",
+    "found": 0
+  },
+  {
+    "key": "cu:3",
+    "title": "O tesouro dos piratas de Havana",
+    "country": "Cuba",
+    "found": 0
+  },
+  {
+    "key": "cu:4",
+    "title": "El monte e os orishas (conto suave)",
+    "country": "Cuba",
+    "found": 0
+  },
+  {
+    "key": "jm:0",
+    "title": "Anansi na Jamaica",
+    "country": "Jamaica",
+    "found": 0
+  },
+  {
+    "key": "jm:1",
+    "title": "O rio das lendas de Dunn's",
+    "country": "Jamaica",
+    "found": 0
+  },
+  {
+    "key": "jm:2",
+    "title": "O espírito da Blue Mountain",
+    "country": "Jamaica",
+    "found": 0
+  },
+  {
+    "key": "jm:3",
+    "title": "O papagaio de Port Royal",
+    "country": "Jamaica",
+    "found": 0
+  },
+  {
+    "key": "jm:4",
+    "title": "Como o reggae nasceu (conto)",
+    "country": "Jamaica",
+    "found": 0
+  },
+  {
+    "key": "cr:0",
+    "title": "A lenda da Cegonha de pedra",
+    "country": "Costa Rica",
+    "found": 0
+  },
+  {
+    "key": "cr:1",
+    "title": "El Cadejos (versão suave)",
+    "country": "Costa Rica",
+    "found": 0
+  },
+  {
+    "key": "cr:2",
+    "title": "A origem do vulcão Poás",
+    "country": "Costa Rica",
+    "found": 0
+  },
+  {
+    "key": "cr:3",
+    "title": "A preguiça sábia da selva",
+    "country": "Costa Rica",
+    "found": 0
+  },
+  {
+    "key": "cr:4",
+    "title": "O tesouro da ilha do Coco",
+    "country": "Costa Rica",
+    "found": 0
+  },
+  {
+    "key": "il:0",
+    "title": "David e Golias (versão infantil)",
+    "country": "Israel",
+    "found": 0
+  },
+  {
+    "key": "il:1",
+    "title": "Jonas e o grande peixe",
+    "country": "Israel",
+    "found": 0
+  },
+  {
+    "key": "il:2",
+    "title": "A rainha de Sabá visita o rei",
+    "country": "Israel",
+    "found": 0
+  },
+  {
+    "key": "il:3",
+    "title": "O deserto que deu água",
+    "country": "Israel",
+    "found": 0
+  },
+  {
+    "key": "il:4",
+    "title": "A pomba da oliveira",
+    "country": "Israel",
+    "found": 0
+  },
+  {
+    "key": "is:0",
+    "title": "Os 13 Yule Lads (versão suave)",
+    "country": "Islândia",
+    "found": 0
+  },
+  {
+    "key": "is:1",
+    "title": "As fadas escondidas nas rochas",
+    "country": "Islândia",
+    "found": 0
+  },
+  {
+    "key": "is:2",
+    "title": "Como nasceu o geyser",
+    "country": "Islândia",
+    "found": 0
+  },
+  {
+    "key": "is:3",
+    "title": "O troll que virou pedra ao sol",
+    "country": "Islândia",
+    "found": 0
+  },
+  {
+    "key": "is:4",
+    "title": "A baleia da baía de Reykjavík",
+    "country": "Islândia",
+    "found": 0
+  },
+  {
+    "key": "py:0",
+    "title": "O pombero",
+    "country": "Paraguai",
+    "found": 0
+  },
+  {
+    "key": "py:1",
+    "title": "A lenda do tereré",
+    "country": "Paraguai",
+    "found": 0
+  },
+  {
+    "key": "py:2",
+    "title": "Yasy Yateré (versão suave)",
+    "country": "Paraguai",
+    "found": 0
+  },
+  {
+    "key": "py:3",
+    "title": "O rio Paraguai encantado",
+    "country": "Paraguai",
+    "found": 0
+  },
+  {
+    "key": "py:4",
+    "title": "A origem do ñandutí",
+    "country": "Paraguai",
+    "found": 0
+  },
+  {
+    "key": "uy:0",
+    "title": "El lobizón",
+    "country": "Uruguai",
+    "found": 0
+  },
+  {
+    "key": "uy:1",
+    "title": "La luz mala (versão suave)",
+    "country": "Uruguai",
+    "found": 0
+  },
+  {
+    "key": "uy:2",
+    "title": "O tesouro da Fortaleza de Santa Teresa",
+    "country": "Uruguai",
+    "found": 0
+  },
+  {
+    "key": "uy:3",
+    "title": "A sereia do Río de la Plata",
+    "country": "Uruguai",
+    "found": 0
+  },
+  {
+    "key": "uy:4",
+    "title": "O mate encantado",
+    "country": "Uruguai",
+    "found": 0
+  },
+  {
+    "key": "bo:0",
+    "title": "Ekeko, o deus da abundância",
+    "country": "Bolívia",
+    "found": 0
+  },
+  {
+    "key": "bo:1",
+    "title": "A lenda do lago Titicaca",
+    "country": "Bolívia",
+    "found": 0
+  },
+  {
+    "key": "bo:2",
+    "title": "El Kharisiri (versão suave)",
+    "country": "Bolívia",
+    "found": 0
+  },
+  {
+    "key": "bo:3",
+    "title": "O condor e a llama",
+    "country": "Bolívia",
+    "found": 0
+  },
+  {
+    "key": "bo:4",
+    "title": "A origem do Salar de Uyuni",
+    "country": "Bolívia",
+    "found": 0
+  },
+  {
+    "key": "ec:0",
+    "title": "A lenda do Cotopaxi",
+    "country": "Equador",
+    "found": 0
+  },
+  {
+    "key": "ec:1",
+    "title": "O tesouro dos incas em Quito",
+    "country": "Equador",
+    "found": 0
+  },
+  {
+    "key": "ec:2",
+    "title": "As tartarugas de Galápagos",
+    "country": "Equador",
+    "found": 0
+  },
+  {
+    "key": "ec:3",
+    "title": "El duende dos Andes",
+    "country": "Equador",
+    "found": 0
+  },
+  {
+    "key": "ec:4",
+    "title": "A origem do chapéu do Panamá (toquilla)",
+    "country": "Equador",
+    "found": 0
+  },
+  {
+    "key": "ve:0",
+    "title": "La Sayona (versão suave)",
+    "country": "Venezuela",
+    "found": 0
+  },
+  {
+    "key": "ve:1",
+    "title": "El Silbón (versão suave)",
+    "country": "Venezuela",
+    "found": 0
+  },
+  {
+    "key": "ve:2",
+    "title": "A origem do Salto Ángel",
+    "country": "Venezuela",
+    "found": 0
+  },
+  {
+    "key": "ve:3",
+    "title": "Maria Lionza",
+    "country": "Venezuela",
+    "found": 0
+  },
+  {
+    "key": "ve:4",
+    "title": "O tesouro de Canaima",
+    "country": "Venezuela",
+    "found": 0
+  },
+  {
+    "key": "pk:0",
+    "title": "As fábulas de Karachi à montanha",
+    "country": "Paquistão",
+    "found": 0
+  },
+  {
+    "key": "pk:1",
+    "title": "O vale de Hunza encantado",
+    "country": "Paquistão",
+    "found": 0
+  },
+  {
+    "key": "pk:2",
+    "title": "A lenda de Sohni Mahiwal (versão suave)",
+    "country": "Paquistão",
+    "found": 0
+  },
+  {
+    "key": "pk:3",
+    "title": "O tigre dos pântanos",
+    "country": "Paquistão",
+    "found": 0
+  },
+  {
+    "key": "pk:4",
+    "title": "Como nasceu o rio Indo",
+    "country": "Paquistão",
+    "found": 0
+  },
+  {
+    "key": "bd:0",
+    "title": "As histórias de Thakurmar Jhuli",
+    "country": "Bangladesh",
+    "found": 0
+  },
+  {
+    "key": "bd:1",
+    "title": "O tigre dos Sundarbans",
+    "country": "Bangladesh",
+    "found": 0
+  },
+  {
+    "key": "bd:2",
+    "title": "A princesa do rio Padma",
+    "country": "Bangladesh",
+    "found": 0
+  },
+  {
+    "key": "bd:3",
+    "title": "O barco de mil cores",
+    "country": "Bangladesh",
+    "found": 0
+  },
+  {
+    "key": "bd:4",
+    "title": "Como o chá chegou a Sylhet",
+    "country": "Bangladesh",
+    "found": 0
+  },
+  {
+    "key": "np:0",
+    "title": "A origem do Everest (Sagarmatha)",
+    "country": "Nepal",
+    "found": 0
+  },
+  {
+    "key": "np:1",
+    "title": "O yeti da montanha (versão suave)",
+    "country": "Nepal",
+    "found": 0
+  },
+  {
+    "key": "np:2",
+    "title": "A deusa Kumari",
+    "country": "Nepal",
+    "found": 0
+  },
+  {
+    "key": "np:3",
+    "title": "O macaco de Swayambhunath",
+    "country": "Nepal",
+    "found": 0
+  },
+  {
+    "key": "np:4",
+    "title": "A lenda do lago Fewa",
+    "country": "Nepal",
+    "found": 0
+  },
+  {
+    "key": "lk:0",
+    "title": "A origem do Ceilão",
+    "country": "Sri Lanka",
+    "found": 0
+  },
+  {
+    "key": "lk:1",
+    "title": "O príncipe e o elefante de Kandy",
+    "country": "Sri Lanka",
+    "found": 0
+  },
+  {
+    "key": "lk:2",
+    "title": "Sigiriya, a fortaleza no céu",
+    "country": "Sri Lanka",
+    "found": 0
+  },
+  {
+    "key": "lk:3",
+    "title": "A tartaruga da praia de Mirissa",
+    "country": "Sri Lanka",
+    "found": 0
+  },
+  {
+    "key": "lk:4",
+    "title": "O tesouro de Galle",
+    "country": "Sri Lanka",
+    "found": 0
+  },
+  {
+    "key": "sn:0",
+    "title": "Leuk-le-Lièvre, a lebre esperta",
+    "country": "Senegal",
+    "found": 0
+  },
+  {
+    "key": "sn:1",
+    "title": "A origem da ilha de Gorée",
+    "country": "Senegal",
+    "found": 0
+  },
+  {
+    "key": "sn:2",
+    "title": "O baobá falante",
+    "country": "Senegal",
+    "found": 0
+  },
+  {
+    "key": "sn:3",
+    "title": "Anansi no Sahel",
+    "country": "Senegal",
+    "found": 0
+  },
+  {
+    "key": "sn:4",
+    "title": "A sereia do rio Senegal",
+    "country": "Senegal",
+    "found": 0
+  },
+  {
+    "key": "tn:0",
+    "title": "A princesa de Cartago",
+    "country": "Tunísia",
+    "found": 0
+  },
+  {
+    "key": "tn:1",
+    "title": "O tesouro do deserto do Sahara",
+    "country": "Tunísia",
+    "found": 0
+  },
+  {
+    "key": "tn:2",
+    "title": "Ali Babá das medinas",
+    "country": "Tunísia",
+    "found": 0
+  },
+  {
+    "key": "tn:3",
+    "title": "A tartaruga de Djerba",
+    "country": "Tunísia",
+    "found": 0
+  },
+  {
+    "key": "tn:4",
+    "title": "O oásis de Tozeur",
+    "country": "Tunísia",
+    "found": 0
+  },
+  {
+    "key": "dz:0",
+    "title": "A princesa da Casbah",
+    "country": "Argélia",
+    "found": 0
+  },
+  {
+    "key": "dz:1",
+    "title": "O tesouro do Tassili",
+    "country": "Argélia",
+    "found": 0
+  },
+  {
+    "key": "dz:2",
+    "title": "O camelo e a estrela do Sahara",
+    "country": "Argélia",
+    "found": 0
+  },
+  {
+    "key": "dz:3",
+    "title": "Djinn da oásis (versão suave)",
+    "country": "Argélia",
+    "found": 0
+  },
+  {
+    "key": "dz:4",
+    "title": "A origem do cuscuz",
+    "country": "Argélia",
+    "found": 0
+  },
+  {
+    "key": "cm:0",
+    "title": "O caracol e o leopardo",
+    "country": "Camarões",
+    "found": 0
+  },
+  {
+    "key": "cm:1",
+    "title": "A origem do monte Camarões",
+    "country": "Camarões",
+    "found": 0
+  },
+  {
+    "key": "cm:2",
+    "title": "O rio Wouri encantado",
+    "country": "Camarões",
+    "found": 0
+  },
+  {
+    "key": "cm:3",
+    "title": "Anansi da floresta",
+    "country": "Camarões",
+    "found": 0
+  },
+  {
+    "key": "cm:4",
+    "title": "O papagaio de Yaoundé",
+    "country": "Camarões",
+    "found": 0
+  },
+  {
+    "key": "tw:0",
+    "title": "A lenda da deusa Matsu",
+    "country": "Taiwan",
+    "found": 0
+  },
+  {
+    "key": "tw:1",
+    "title": "O lago do Sol e da Lua",
+    "country": "Taiwan",
+    "found": 0
+  },
+  {
+    "key": "tw:2",
+    "title": "O espírito da montanha Jade",
+    "country": "Taiwan",
+    "found": 0
+  },
+  {
+    "key": "tw:3",
+    "title": "O panda vermelho da floresta",
+    "country": "Taiwan",
+    "found": 0
+  },
+  {
+    "key": "tw:4",
+    "title": "Como nasceu o chá de bolhas (conto moderno)",
+    "country": "Taiwan",
+    "found": 0
+  },
+  {
+    "key": "bg:0",
+    "title": "Krali Marko",
+    "country": "Bulgária",
+    "found": 0
+  },
+  {
+    "key": "bg:1",
+    "title": "A baba Marta e os martenitsi",
+    "country": "Bulgária",
+    "found": 0
+  },
+  {
+    "key": "bg:2",
+    "title": "O dragão das montanhas Ródope",
+    "country": "Bulgária",
+    "found": 0
+  },
+  {
+    "key": "bg:3",
+    "title": "A raposa e o ouriço",
+    "country": "Bulgária",
+    "found": 0
+  },
+  {
+    "key": "bg:4",
+    "title": "O vale das rosas",
+    "country": "Bulgária",
+    "found": 0
+  },
+  {
+    "key": "hr:0",
+    "title": "O gravata nasceu aqui (conto da cravata)",
+    "country": "Croácia",
+    "found": 0
+  },
+  {
+    "key": "hr:1",
+    "title": "O dragão de Dubrovnik",
+    "country": "Croácia",
+    "found": 0
+  },
+  {
+    "key": "hr:2",
+    "title": "Vila das cascatas de Plitvice",
+    "country": "Croácia",
+    "found": 0
+  },
+  {
+    "key": "hr:3",
+    "title": "O marinheiro de Split",
+    "country": "Croácia",
+    "found": 0
+  },
+  {
+    "key": "hr:4",
+    "title": "A sereia do Adriático",
+    "country": "Croácia",
+    "found": 0
+  },
+  {
+    "key": "rs:0",
+    "title": "Marko Kraljević",
+    "country": "Sérvia",
+    "found": 0
+  },
+  {
+    "key": "rs:1",
+    "title": "A origem do Danúbio",
+    "country": "Sérvia",
+    "found": 0
+  },
+  {
+    "key": "rs:2",
+    "title": "O dragão de Belgrado",
+    "country": "Sérvia",
+    "found": 0
+  },
+  {
+    "key": "rs:3",
+    "title": "A raposa e o corvo",
+    "country": "Sérvia",
+    "found": 0
+  },
+  {
+    "key": "rs:4",
+    "title": "O mosteiro encantado",
+    "country": "Sérvia",
+    "found": 0
+  },
+  {
+    "key": "sk:0",
+    "title": "Jánošík, o herói das montanhas",
+    "country": "Eslováquia",
+    "found": 0
+  },
+  {
+    "key": "sk:1",
+    "title": "O dragão dos Tatras",
+    "country": "Eslováquia",
+    "found": 0
+  },
+  {
+    "key": "sk:2",
+    "title": "A princesa de Bojnice",
+    "country": "Eslováquia",
+    "found": 0
+  },
+  {
+    "key": "sk:3",
+    "title": "O espírito da floresta",
+    "country": "Eslováquia",
+    "found": 0
+  },
+  {
+    "key": "sk:4",
+    "title": "O rio Danúbio cantor",
+    "country": "Eslováquia",
+    "found": 0
+  },
+  {
+    "key": "si:0",
+    "title": "O dragão de Liubliana",
+    "country": "Eslovénia",
+    "found": 0
+  },
+  {
+    "key": "si:1",
+    "title": "A origem do lago Bled",
+    "country": "Eslovénia",
+    "found": 0
+  },
+  {
+    "key": "si:2",
+    "title": "O pastor das montanhas Julianas",
+    "country": "Eslovénia",
+    "found": 0
+  },
+  {
+    "key": "si:3",
+    "title": "A abelha carniola",
+    "country": "Eslovénia",
+    "found": 0
+  },
+  {
+    "key": "si:4",
+    "title": "O rio esmeralda Soča",
+    "country": "Eslovénia",
+    "found": 0
+  },
+  {
+    "key": "ae:0",
+    "title": "A origem do oásis de Al Ain",
+    "country": "Emirados Árabes Unidos",
+    "found": 0
+  },
+  {
+    "key": "ae:1",
+    "title": "O falcão e o deserto",
+    "country": "Emirados Árabes Unidos",
+    "found": 0
+  },
+  {
+    "key": "ae:2",
+    "title": "Sindbad no Golfo",
+    "country": "Emirados Árabes Unidos",
+    "found": 0
+  },
+  {
+    "key": "ae:3",
+    "title": "A pérola de Abu Dhabi",
+    "country": "Emirados Árabes Unidos",
+    "found": 0
+  },
+  {
+    "key": "ae:4",
+    "title": "Como nasceu o Burj (conto moderno)",
+    "country": "Emirados Árabes Unidos",
+    "found": 0
+  },
+  {
+    "key": "iq:0",
+    "title": "Gilgamesh para crianças",
+    "country": "Iraque",
+    "found": 0
+  },
+  {
+    "key": "iq:1",
+    "title": "A origem da escrita em tábuas",
+    "country": "Iraque",
+    "found": 0
+  },
+  {
+    "key": "iq:2",
+    "title": "Os jardins suspensos (lenda)",
+    "country": "Iraque",
+    "found": 0
+  },
+  {
+    "key": "iq:3",
+    "title": "O rio Tigre e o rio Eufrates",
+    "country": "Iraque",
+    "found": 0
+  },
+  {
+    "key": "iq:4",
+    "title": "Alibabá de Bagdade",
+    "country": "Iraque",
+    "found": 0
+  },
+  {
+    "key": "pa:0",
+    "title": "A lenda do canal",
+    "country": "Panamá",
+    "found": 0
+  },
+  {
+    "key": "pa:1",
+    "title": "El Chivato (versão suave)",
+    "country": "Panamá",
+    "found": 0
+  },
+  {
+    "key": "pa:2",
+    "title": "A origem da pollera",
+    "country": "Panamá",
+    "found": 0
+  },
+  {
+    "key": "pa:3",
+    "title": "O sapo dourado da floresta",
+    "country": "Panamá",
+    "found": 0
+  },
+  {
+    "key": "pa:4",
+    "title": "O tesouro de Portobelo",
+    "country": "Panamá",
+    "found": 0
+  },
+  {
+    "key": "ht:0",
+    "title": "Bouki e Malice",
+    "country": "Haiti",
+    "found": 0
+  },
+  {
+    "key": "ht:1",
+    "title": "A lenda da Citadelle",
+    "country": "Haiti",
+    "found": 0
+  },
+  {
+    "key": "ht:2",
+    "title": "O espírito da montanha",
+    "country": "Haiti",
+    "found": 0
+  },
+  {
+    "key": "ht:3",
+    "title": "Como nasceu a bandeira",
+    "country": "Haiti",
+    "found": 0
+  },
+  {
+    "key": "ht:4",
+    "title": "A sereia do Caribe",
+    "country": "Haiti",
+    "found": 0
+  },
+  {
+    "key": "do:0",
+    "title": "Ciguapa (versão suave)",
+    "country": "República Dominicana",
+    "found": 0
+  },
+  {
+    "key": "do:1",
+    "title": "A lenda de merengue",
+    "country": "República Dominicana",
+    "found": 0
+  },
+  {
+    "key": "do:2",
+    "title": "El tesoro de Santo Domingo",
+    "country": "República Dominicana",
+    "found": 0
+  },
+  {
+    "key": "do:3",
+    "title": "A origem do cacao",
+    "country": "República Dominicana",
+    "found": 0
+  },
+  {
+    "key": "do:4",
+    "title": "O pirata da ilha Saona",
+    "country": "República Dominicana",
+    "found": 0
+  },
+  {
+    "key": "gl:0",
+    "title": "A mãe do mar",
+    "country": "Gronelândia",
+    "found": 0
+  },
+  {
+    "key": "gl:1",
+    "title": "O corvo que trouxe a luz",
+    "country": "Gronelândia",
+    "found": 0
+  },
+  {
+    "key": "gl:2",
+    "title": "O cão de trenó herói",
+    "country": "Gronelândia",
+    "found": 0
+  },
+  {
+    "key": "gl:3",
+    "title": "A aurora dançante",
+    "country": "Gronelândia",
+    "found": 0
+  },
+  {
+    "key": "gl:4",
+    "title": "O gigante de gelo",
+    "country": "Gronelândia",
+    "found": 0
+  },
+  {
+    "key": "aq:0",
+    "title": "A marcha dos pinguins-imperadores",
+    "country": "Antártida",
+    "found": 0
+  },
+  {
+    "key": "aq:1",
+    "title": "Como o continente ficou no Polo Sul",
+    "country": "Antártida",
+    "found": 0
+  },
+  {
+    "key": "aq:2",
+    "title": "A aurora austral",
+    "country": "Antártida",
+    "found": 0
+  },
+  {
+    "key": "aq:3",
+    "title": "O navio preso no gelo (Shackleton, versão suave)",
+    "country": "Antártida",
+    "found": 0
+  },
+  {
+    "key": "aq:4",
+    "title": "A baleia-jubarte viajante",
+    "country": "Antártida",
+    "found": 0
+  }
+]

@@ -1,0 +1,38 @@
+/** Contos de Omã, completos, em português europeu. */
+export const OM_STORIES: Record<string, string[]> = {
+  "om:0": [
+    "Em Salalah, o ar húmido cheirava a doce antes da sombra da árvore. Amal, de dishdasha branca e gorro kumma colorido, parou a olhar a casca. Uma lágrima de resina, já seca, brilhava ali sem ninguém a ter cortado. O avô pôs a mão no ombro do menino e falou baixo. «Podes levar essa, uma só, e a árvore fica inteira.»",
+    "Amal chegou a levantar os dedos, porque mais lágrimas fariam um cheiro maior em casa. O avô cobriu a casca com a palma, sem lhe abrir risco nenhum. «O que ainda está dentro não é teu», disse. O menino baixou a mão e escolheu só a gota que a árvore já tinha deixado ir. A casca ficou lisa, a trabalhar em paz.",
+    "Soltou a lágrima com dois dedos, devagar, como quem apanha uma semente madura. Não houve faca, nem um corte novo, nem pressa. O avô sorriu e envolveu a resina num pano limpo. «Em Salalah ela continua a crescer», disse. «Nós levamos só o cheiro que já estava de saída.»",
+    "A árvore ficou no seu lugar, entre as outras, com a copa verde e a casca quieta. Amal olhou para trás uma vez e não pediu outra lágrima. No caminho, o pano soltava um perfume redondo e quente. Em casa puseram a resina numa caixa pequena, à entrada. Quando a tampa se abria, Salalah parecia estar na sala.",
+    "Se tu vires uma árvore de incenso, deixa a casca em paz. Leva só a lágrima que ela já deixou cair, seca e solta. Uma chega para encher uma caixa pequena de cheiro bom. A árvore fica onde nasceu, em Salalah ou noutro chão. Tu não ficas mais rico por levares o que ainda lhe pertence.",
+  ],
+  "om:1": [
+    "Na horta, o falaj trazia a água por um canal estreito, de vez em vez. Uma vara, metida num entalhe de madeira, marcava de quem era o turno. Enquanto a vara estava no entalhe do vizinho, a horta dele bebia primeiro. Amal conhecia a regra desde pequeno e gostava de a ver cumprida. O gorro kumma fazia sombra nos olhos enquanto ele esperava.",
+    "O primo Salim chegou com sede de acabar cedo e abriu o canal antes da hora. A água começou a entrar na horta deles, e a do vizinho ficou mais lenta. Amal não gritou. Ajoelhou-se, tornou a fechar a abertura e segurou a comporta com a mão. «Ainda não», disse. «A vara não chegou ao nosso risco.»",
+    "O primo ficou vermelho e sentou-se na borda, já sem pressa de vencer o relógio. Amal ficou ao lado dele, de dishdasha branca a roçar a terra seca. Conversaram sobre o calor e sobre as tâmaras, não sobre a culpa. A água do vizinho voltou ao seu fio certo. Ninguém ficou com a vez do outro no bolso.",
+    "Quando a vara passou ao entalhe da casa deles, Amal abriu o canal devagar. A horta bebeu, os regos encheram-se e as folhas pareceram mais direitas. A horta do vizinho não tinha sido roubada. Salim ajudou a guiar a água até ao fim da fila. No fim, a vara seguiu para a casa seguinte, como devia.",
+    "Se tu partilhares água com alguém, espera pela tua vez. Uma vara, um risco ou uma palavra combinada chegam para a justiça. Não abras o canal só porque a sede te empurra. Fecha o que foi aberto cedo e senta-te até chegar a hora. Tu bebes melhor quando o vizinho também bebeu.",
+  ],
+  "om:2": [
+    "Perto de Mascate, a praia estava escura e a areia ainda guardava o calor do dia. Uma tartaruga subia devagar, longe das pessoas, a caminho do sítio onde deixa os ovos. O pai parou a família muito atrás, junto das rochas. Amal apertou a lanterna contra a perna, com a luz ainda tapada. As crianças tinham de ficar com os adultos.",
+    "A mãe falou quase sem voz. «Olhamos de longe. Não lhe pomos luz nos olhos, não lhe tocamos e não pisamos o ninho.» Amal acenou. Queria chegar mais perto, mas os pés ficaram onde o pai os tinha posto. A tartaruga arrastava-se, pesada e calma, sem saber que era uma história. O mar fazia um ruído baixo atrás dela.",
+    "Quando foi preciso ver o chão, Amal segurou a lanterna muito baixa. Apontou-a à areia, para o lado, longe da cara da tartaruga. Não houve clarão nos olhos dela, nem um dedo na carapaça. Ninguém atravessou o monte macio onde ela trabalhava. A luz servia os pés das pessoas, não a noite do animal.",
+    "A tartaruga acabou o que tinha a fazer e virou-se para a água. Desceu a praia sem que ninguém lhe barrasse o caminho e entrou no mar. Amal ficou ao lado do pai até a mancha escura se desfazer na espuma. As outras crianças também não avançaram. Voltaram juntos, com a lanterna ainda baixa e a praia vazia de passos novos.",
+    "Se tu encontrares uma tartaruga na areia, fica longe e fica com um adulto. Não lhe apontes luz à cara, não lhe toques e não andes por cima do ninho. A praia, de noite, é o trabalho dela, não um jogo. Deixa-a voltar ao mar quando quiser. Tu já viste o bastante se a viste em paz.",
+  ],
+  "om:3": [
+    "No mercado de Nizwa, os tabuleiros de tâmaras faziam um brilho escuro e doce. Amal, de dishdasha branca, parou diante do maior e quis levá-lo inteiro. O pai abanou a cabeça com um sorriso e comprou só uma mão-cheia. «Chega para os dois e ainda sobra para oferecer», disse. O vendedor embrulhou as tâmaras num papel simples.",
+    "Sentaram-se à sombra do forte, com as costas na pedra morna. Amal abriu o papel e partilhou, uma tâmara para o pai e outra para si. O sabor era denso, a mel. Não precisavam do tabuleiro todo para o dia ficar bom. As pessoas passavam, e o forte olhava o mercado como quem já viu muitas mãos-cheias.",
+    "Uns bodes andavam entre as bancas, à procura de restos. Amal juntou os caroços na palma e não os atirou. O pai disse: «Uma coisa é comer. Outra é fazer pontaria.» O menino guardou os caroços no papel, para o lixo de casa. Os bodes seguiram sem um susto e sem uma corrida.",
+    "Um bode mais curioso parou perto do joelho de Amal. O menino pôs uma única tâmara na palma aberta e estendeu a mão, devagar. Não houve riso, nem gesto brusco, nem jogo com o focinho. O bode cheirou a oferta e Amal deixou a tâmara, quieto, retirando a mão vazia. Depois voltou a sentar-se ao lado do pai.",
+    "Se tu fores a um mercado, não peças o tabuleiro inteiro quando uma mão-cheia chega. Partilha à sombra e guarda os caroços, em vez de os atirares. Se ofereceres uma tâmara a um bode, fá-lo na palma, com calma. Não é um jogo de pontaria. Tu ficas mais gentil quando a mão abre devagar.",
+  ],
+  "om:4": [
+    "No mercado de Mascate, Amal ajudava o pai a levar uma saca leve de fruta. Um bode saiu de trás de uma banca e pôs-se a segui-lo pela ruela. O menino riu-se, porque o animal parecia ter escolhido a dishdasha branca. O gorro kumma saltava um pouco a cada passo. O bode não se afastava.",
+    "Em casa, o bode ainda vinha atrás, como se a porta fosse dele. Amal pensou, por um instante, que ficar com ele seria um presente. O pai abanou a cabeça. «Seguir não é oferecer», disse. «Ele tem dono, mesmo que o dono esteja distraído.» O menino acenou e não abriu a cerca.",
+    "Amal voltou pelo mesmo caminho, com a mão leve no lombo do bode, sem o puxar. Atravessaram a ruela devagar, entre cestos e vozes. O animal ia confiando, e o menino não o apressava. Ninguém bateu palmas para o assustar. O mercado ainda estava no mesmo sítio, cheio de tarde.",
+    "O vendedor nem tinha reparado na falta. Quando viu o bode, abriu as mãos e sorriu. «Obrigado», disse, e não pôs dinheiro na palma de Amal. O menino também não pediu. «Ele veio atrás de mim. Não era meu.» O vendedor prendeu a corda com calma e ofereceu só um aceno.",
+    "Se tu vires um animal a seguir-te, não o guardes como se fosse um presente. Acompanha-o de volta a quem o perdeu, mesmo que ninguém tenha gritado. Um obrigado chega. Não peças dinheiro por devolveres o que não era teu. Tu já sabes que seguir não é o mesmo que oferecer.",
+  ],
+};

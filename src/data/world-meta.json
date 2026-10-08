@@ -1,0 +1,892 @@
+{
+  "names": {
+    "fj": "Fiji",
+    "kz": "Cazaquistão",
+    "uz": "Uzbequistão",
+    "pg": "Papua-Nova Guiné",
+    "cd": "República Democrática do Congo",
+    "so": "Somália",
+    "sd": "Sudão",
+    "td": "Chade",
+    "bs": "Baamas",
+    "fk": "Ilhas Falkland",
+    "tf": "Terras Austrais Francesas",
+    "ls": "Lesoto",
+    "ni": "Nicarágua",
+    "hn": "Honduras",
+    "sv": "El Salvador",
+    "gt": "Guatemala",
+    "bz": "Belize",
+    "gy": "Guiana",
+    "sr": "Suriname",
+    "pr": "Porto Rico",
+    "zw": "Zimbabué",
+    "bw": "Botsuana",
+    "na": "Namíbia",
+    "ml": "Mali",
+    "mr": "Mauritânia",
+    "bj": "Benim",
+    "ne": "Níger",
+    "tg": "Togo",
+    "ci": "Costa do Marfim",
+    "gn": "Guiné",
+    "lr": "Libéria",
+    "sl": "Serra Leoa",
+    "bf": "Burquina Faso",
+    "cf": "República Centro-Africana",
+    "cg": "Congo",
+    "ga": "Gabão",
+    "zm": "Zâmbia",
+    "mw": "Malawi",
+    "sz": "Essuatíni",
+    "bi": "Burundi",
+    "lb": "Líbano",
+    "mg": "Madagáscar",
+    "ps": "Palestina",
+    "gm": "Gâmbia",
+    "jo": "Jordânia",
+    "qa": "Catar",
+    "kw": "Kuwait",
+    "om": "Omã",
+    "vu": "Vanuatu",
+    "kh": "Camboja",
+    "la": "Laos",
+    "mm": "Mianmar",
+    "kp": "Coreia do Norte",
+    "mn": "Mongólia",
+    "bt": "Butão",
+    "af": "Afeganistão",
+    "tj": "Tajiquistão",
+    "kg": "Quirguistão",
+    "tm": "Turquemenistão",
+    "ir": "Irão",
+    "sy": "Síria",
+    "am": "Arménia",
+    "by": "Bielorrússia",
+    "md": "Moldávia",
+    "lt": "Lituânia",
+    "lv": "Letónia",
+    "ee": "Estónia",
+    "lu": "Luxemburgo",
+    "al": "Albânia",
+    "nc": "Nova Caledónia",
+    "sb": "Ilhas Salomão",
+    "az": "Azerbaijão",
+    "ge": "Geórgia",
+    "bn": "Brunei",
+    "er": "Eritreia",
+    "ye": "Iémen",
+    "cy": "Chipre",
+    "ly": "Líbia",
+    "dj": "Djibuti",
+    "ug": "Uganda",
+    "rw": "Ruanda",
+    "ba": "Bósnia e Herzegovina",
+    "mk": "Macedónia do Norte",
+    "me": "Montenegro",
+    "xk": "Kosovo",
+    "tt": "Trindade e Tobago",
+    "ss": "Sudão do Sul",
+    "eh": "Sara Ocidental",
+    "ncyp": "Chipre do Norte",
+    "somaliland": "Somalilândia"
+  },
+  "capitals": {
+    "fj": [
+      "Suva",
+      "mercado, recifes, ilhas Yasawa"
+    ],
+    "kz": [
+      "Astana",
+      "Baiterek, palácio da paz, estepe"
+    ],
+    "uz": [
+      "Samarcanda",
+      "Registão, Bucara, deserto Kyzylkum"
+    ],
+    "pg": [
+      "Port Moresby",
+      "Nature Park, recifes, culturas tribais"
+    ],
+    "cd": [
+      "Kinshasa",
+      "rio Congo, mercado central, Parc de la Vallée"
+    ],
+    "so": [
+      "Mogadíscio",
+      "litoral, mercados, palácio"
+    ],
+    "sd": [
+      "Cartum",
+      "confluência Nilo, museu, mercados"
+    ],
+    "td": [
+      "N'Djamena",
+      "rio Chari, Grande Mesquita, mercado"
+    ],
+    "bs": [
+      "Nassau",
+      "praias, Atlantis, recifes"
+    ],
+    "ls": [
+      "Maseru",
+      "montanhas, cataratas Maletsunyane, artesanato"
+    ],
+    "ni": [
+      "Manágua",
+      "lago, vulcões, Granada colonial"
+    ],
+    "hn": [
+      "Tegucigalpa",
+      "Copán, baías de Roatán, catedral"
+    ],
+    "sv": [
+      "San Salvador",
+      "vulcões, Suchitoto, praias do Pacífico"
+    ],
+    "gt": [
+      "Cidade da Guatemala",
+      "Antígua, Tikal, lago Atitlán"
+    ],
+    "bz": [
+      "Belmopan",
+      "recife, ruínas maias, selva"
+    ],
+    "gy": [
+      "Georgetown",
+      "Kaieteur, mercado Stabroek, catedral de madeira"
+    ],
+    "sr": [
+      "Paramaribo",
+      "centro histórico, rio Suriname, reserva central"
+    ],
+    "pr": [
+      "San Juan",
+      "El Morro, praias, floresta El Yunque"
+    ],
+    "zw": [
+      "Harare",
+      "cataratas Vitória, Grande Zimbabué, parques"
+    ],
+    "bw": [
+      "Gaborone",
+      "delta do Okavango, Chobe, Kalahari"
+    ],
+    "na": [
+      "Windhoek",
+      "Sossusvlei, Etosha, costa dos Esqueletos"
+    ],
+    "ml": [
+      "Bamako",
+      "Tombuctu, falésias de Bandiagara, rio Níger"
+    ],
+    "mr": [
+      "Nouakchott",
+      "Banc d'Arguin, Chinguetti, deserto"
+    ],
+    "bj": [
+      "Porto-Novo",
+      "Ouidah, Ganvié, palácios de Abomey"
+    ],
+    "ne": [
+      "Niamey",
+      "rio Níger, reserva de girafas, Agadez"
+    ],
+    "tg": [
+      "Lomé",
+      "mercado das contas, praia, Koutammakou"
+    ],
+    "ci": [
+      "Yamoussoukro",
+      "basílica, Grand-Bassam, Parque Taï"
+    ],
+    "gn": [
+      "Conacri",
+      "ilhas de Loos, Fouta Djallon, mercados"
+    ],
+    "lr": [
+      "Monróvia",
+      "praia, museu nacional, cape Mesurado"
+    ],
+    "sl": [
+      "Freetown",
+      "praia Lumley, Cotton Tree, ilhas Banana"
+    ],
+    "bf": [
+      "Uagadugu",
+      "mercado, ruínas de Loropéni, artesanato"
+    ],
+    "cf": [
+      "Bangui",
+      "rios, falls Boali, mercados"
+    ],
+    "cg": [
+      "Brazzaville",
+      "rio Congo, basilica, mercado Total"
+    ],
+    "ga": [
+      "Libreville",
+      "praias, Parque Loango, igreja St-Michel"
+    ],
+    "zm": [
+      "Lusaka",
+      "cataratas Vitória, safáris, rio Zambeze"
+    ],
+    "mw": [
+      "Lilongwe",
+      "lago Malawi, platô Nyika, mercado"
+    ],
+    "sz": [
+      "Mbabane",
+      "Sibebe Rock, reservas, dança Umhlanga"
+    ],
+    "bi": [
+      "Gitega",
+      "lago Tanganica, saltos de Kagera, tambores reais"
+    ],
+    "lb": [
+      "Beirute",
+      "Baalbek, Biblos, mediterrâneo"
+    ],
+    "mg": [
+      "Antananarivo",
+      "baobás de Morondava, Andasibe, praias"
+    ],
+    "ps": [
+      "Ramallah / Jerusalém Este",
+      "Belém, Hebron, mar Morto"
+    ],
+    "gm": [
+      "Banjul",
+      "rio Gâmbia, Kunta Kinteh, praias"
+    ],
+    "jo": [
+      "Amã",
+      "Petra, Wadi Rum, mar Morto"
+    ],
+    "qa": [
+      "Doha",
+      "Souq Waqif, The Pearl, museu islâmico"
+    ],
+    "kw": [
+      "Cidade do Kuwait",
+      "torres, souq, Grande Mesquita"
+    ],
+    "om": [
+      "Mascate",
+      "Sultão Qaboos, wadis, Nizwa"
+    ],
+    "vu": [
+      "Port Vila",
+      "vulcão Yasur, recifes, kastom"
+    ],
+    "kh": [
+      "Phnom Penh",
+      "Angkor Wat, Tonlé Sap, palácio real"
+    ],
+    "la": [
+      "Vientiane",
+      "Luang Prabang, Mekong, That Luang"
+    ],
+    "mm": [
+      "Naypyidaw",
+      "Bagan, Inle, Shwedagon em Yangon"
+    ],
+    "kp": [
+      "Pyongyang",
+      "praça Kim Il-sung, arco, rio Taedong"
+    ],
+    "mn": [
+      "Ulan Bator",
+      "estátua de Gengis, estepe, mosteiro Gandan"
+    ],
+    "bt": [
+      "Thimphu",
+      "Mosteiro do Ninho do Tigre, dzongs, Himalaias"
+    ],
+    "af": [
+      "Cabul",
+      "Band-e Amir, jardins Babur, bazar"
+    ],
+    "tj": [
+      "Duchambe",
+      "Pamir, mercados, montanhas Fann"
+    ],
+    "kg": [
+      "Bisqueque",
+      "lago Issyk-Kul, Ala-Too, feltro"
+    ],
+    "tm": [
+      "Asgabate",
+      "Porta do Inferno, mármore branco, deserto"
+    ],
+    "ir": [
+      "Teerão",
+      "Isfahan, Persépolis, bazares"
+    ],
+    "sy": [
+      "Damasco",
+      "Palmira, souq al-Hamidiyya, Umayyad"
+    ],
+    "am": [
+      "Erevã",
+      "Mosteiro Khor Virap, lago Sevan, cascata"
+    ],
+    "by": [
+      "Minsque",
+      "Mir Castle, praça da independência, florestas"
+    ],
+    "md": [
+      "Chisinau",
+      "Orheiul Vechi, caves de vinho, parques"
+    ],
+    "lt": [
+      "Vilnius",
+      "cidade velha, Trakai, dunas de Curonian"
+    ],
+    "lv": [
+      "Riga",
+      "cidade art nouveau, cúpula da catedral, Jurmala"
+    ],
+    "ee": [
+      "Talim",
+      "cidade medieval, mar Báltico, ilhas"
+    ],
+    "lu": [
+      "Luxemburgo",
+      "casamatas, casco antigo, viadutos"
+    ],
+    "al": [
+      "Tirana",
+      "Berat, Gjirokastër, Riviera Albanesa"
+    ],
+    "nc": [
+      "Nouméa",
+      "recife, lagoa, cultura canaca"
+    ],
+    "sb": [
+      "Honiara",
+      "recifes, WWII relics, ilhas"
+    ],
+    "az": [
+      "Baku",
+      "cidade velha, Flame Towers, mar Cáspio"
+    ],
+    "ge": [
+      "Tbilisi",
+      "banhos de enxofre, Uplistsikhe, Cáucaso"
+    ],
+    "bn": [
+      "Bandar Seri Begawan",
+      "mesquita Omar Ali, selva Ulu Temburong"
+    ],
+    "er": [
+      "Asmara",
+      "arquitetura moderna, mar Vermelho, mercados"
+    ],
+    "ye": [
+      "Sanaa",
+      "cidade velha, Shibam, ilha Socotra"
+    ],
+    "cy": [
+      "Nicósia",
+      "Pafos, ruínas, praias"
+    ],
+    "ly": [
+      "Trípoli",
+      "Leptis Magna, deserto, medina"
+    ],
+    "dj": [
+      "Djibuti",
+      "lago Assal, golfo de Tadjoura, mercados"
+    ],
+    "ug": [
+      "Kampala",
+      "fonte do Nilo, Bwindi, lago Vitória"
+    ],
+    "rw": [
+      "Kigali",
+      "Volcanos National Park, lagos, colinas"
+    ],
+    "ba": [
+      "Sarajevo",
+      "Mostar, ponte Stari Most, basares"
+    ],
+    "mk": [
+      "Skopje",
+      "Ohrid, lago, pedra do Kale"
+    ],
+    "me": [
+      "Podgorica",
+      "Kotor, Budva, fiordes do Adriático"
+    ],
+    "xk": [
+      "Pristina",
+      "Mosteiro de Gračanica, montanhas, bazaar"
+    ],
+    "tt": [
+      "Port of Spain",
+      "Pitch Lake, carnival, praias de Tobago"
+    ],
+    "ss": [
+      "Juba",
+      "Nilo Branco, reservas, mercados"
+    ],
+    "eh": [
+      "Laayoune",
+      "deserto, costa atlântica, oásis"
+    ]
+  },
+  "guides": {
+    "ir": {
+      "who": "Azar",
+      "outfit": "vestido tribal persa com lenço floral",
+      "hat": "flower"
+    },
+    "cd": {
+      "who": "Amina",
+      "outfit": "vestido de wax print e lenço",
+      "hat": "gele"
+    },
+    "ug": {
+      "who": "Namu",
+      "outfit": "gomesi colorido com faixa",
+      "hat": "flower"
+    },
+    "ci": {
+      "who": "Aya",
+      "outfit": "tecido wax e gele",
+      "hat": "gele"
+    },
+    "mg": {
+      "who": "Soa",
+      "outfit": "lamba malgaxe com flor no cabelo",
+      "hat": "flower"
+    },
+    "kh": {
+      "who": "Srey",
+      "outfit": "sampot e blusa tradicional",
+      "hat": "flower"
+    },
+    "gt": {
+      "who": "Ixchel",
+      "outfit": "huipil e corte tecidos à mão",
+      "hat": "flower"
+    },
+    "mm": {
+      "who": "Hla",
+      "outfit": "longyi e blusa tradicional",
+      "hat": "flower"
+    },
+    "af": {
+      "who": "Laila",
+      "outfit": "vestido kuchi bordado com moedas",
+      "hat": "beads"
+    },
+    "al": {
+      "who": "Arta",
+      "outfit": "traje folclórico com colete vermelho",
+      "hat": "flower"
+    },
+    "am": {
+      "who": "Ani",
+      "outfit": "taraz arménio bordado e cinto",
+      "hat": "flower"
+    },
+    "az": {
+      "who": "Leyla",
+      "outfit": "vestido de seda e lenço kalaghai",
+      "hat": "flower"
+    },
+    "ba": {
+      "who": "Emina",
+      "outfit": "dimije e colete bordado",
+      "hat": "flower"
+    },
+    "bf": {
+      "who": "Fati",
+      "outfit": "pano Faso Dan Fani tecido à mão",
+      "hat": "gele"
+    },
+    "bi": {
+      "who": "Keza",
+      "outfit": "mushanana drapeado ao ombro",
+      "hat": "flower"
+    },
+    "bj": {
+      "who": "Afi",
+      "outfit": "pano wax e gele",
+      "hat": "gele"
+    },
+    "bn": {
+      "who": "Putri",
+      "outfit": "baju kurung e tudung",
+      "hat": "none"
+    },
+    "bs": {
+      "who": "Maya",
+      "outfit": "fantasia Junkanoo de papel crepe",
+      "hat": "flower"
+    },
+    "bt": {
+      "who": "Pema",
+      "outfit": "kira do Butão com tego e koma",
+      "hat": "flower"
+    },
+    "bw": {
+      "who": "Naledi",
+      "outfit": "vestido leteisi e doek",
+      "hat": "gele"
+    },
+    "by": {
+      "who": "Vasilisa",
+      "outfit": "vyshyvanka e coroa de flores",
+      "hat": "flower"
+    },
+    "bz": {
+      "who": "Itzel",
+      "outfit": "huipil maia bordado",
+      "hat": "flower"
+    },
+    "cf": {
+      "who": "Binta",
+      "outfit": "pagne estampado e lenço",
+      "hat": "gele"
+    },
+    "cg": {
+      "who": "Malaika",
+      "outfit": "vestido wax de Brazzaville",
+      "hat": "gele"
+    },
+    "cy": {
+      "who": "Nikos",
+      "outfit": "vraka e colete folclórico",
+      "hat": "fez"
+    },
+    "dj": {
+      "who": "Hodan",
+      "outfit": "dirac coral e ouro",
+      "hat": "flower"
+    },
+    "ee": {
+      "who": "Liisa",
+      "outfit": "saia folclórica às riscas e grinalda",
+      "hat": "flower"
+    },
+    "eh": {
+      "who": "Zahra",
+      "outfit": "milhfa azul saharaui",
+      "hat": "none"
+    },
+    "er": {
+      "who": "Senait",
+      "outfit": "zuria branca com netela bordada",
+      "hat": "flower"
+    },
+    "fj": {
+      "who": "Lani",
+      "outfit": "sulu de tapa e flor no cabelo",
+      "hat": "flower"
+    },
+    "fk": {
+      "who": "Pip",
+      "outfit": "camisola de lã e gorro",
+      "hat": "beanie"
+    },
+    "ga": {
+      "who": "Nyanga",
+      "outfit": "pano wax verde e amarelo",
+      "hat": "gele"
+    },
+    "ge": {
+      "who": "Nino",
+      "outfit": "chokha georgiano com cartucheiras",
+      "hat": "none"
+    },
+    "gm": {
+      "who": "Awa",
+      "outfit": "grand boubou dourado",
+      "hat": "gele"
+    },
+    "gn": {
+      "who": "Mariama",
+      "outfit": "boubou de wax indigo",
+      "hat": "gele"
+    },
+    "gy": {
+      "who": "Amara",
+      "outfit": "vestido floral e colar indígena",
+      "hat": "flower"
+    },
+    "hn": {
+      "who": "Rosa",
+      "outfit": "vestido folclórico branco e vermelho",
+      "hat": "flower"
+    },
+    "jo": {
+      "who": "Lina",
+      "outfit": "thobe bordado e shemagh",
+      "hat": "flower"
+    },
+    "kg": {
+      "who": "Aigul",
+      "outfit": "chapan e chapéu kalpak",
+      "hat": "non"
+    },
+    "kp": {
+      "who": "Min",
+      "outfit": "hanbok rosa e branco",
+      "hat": "flower"
+    },
+    "kw": {
+      "who": "Noor",
+      "outfit": "dishdasha e ghutra",
+      "hat": "ghutra"
+    },
+    "kz": {
+      "who": "Aigerim",
+      "outfit": "chapan de veludo e saukele",
+      "hat": "kokoshnik"
+    },
+    "la": {
+      "who": "Mali",
+      "outfit": "saia sinh de seda e cinto de prata",
+      "hat": "flower"
+    },
+    "lb": {
+      "who": "Yasmin",
+      "outfit": "traje aldeão libanês bordado",
+      "hat": "flower"
+    },
+    "lr": {
+      "who": "Kpweh",
+      "outfit": "lappa e lenço",
+      "hat": "gele"
+    },
+    "ls": {
+      "who": "Thabo",
+      "outfit": "cobertor Basotho e chapéu mokorotlo",
+      "hat": "straw"
+    },
+    "lt": {
+      "who": "Gabija",
+      "outfit": "saia às riscas e coroa de flores",
+      "hat": "flower"
+    },
+    "lu": {
+      "who": "Lina",
+      "outfit": "traje rural com avental e touca",
+      "hat": "flower"
+    },
+    "lv": {
+      "who": "Maija",
+      "outfit": "saia de lã e cinto Lielvārde",
+      "hat": "flower"
+    },
+    "ly": {
+      "who": "Amal",
+      "outfit": "farmla bordada e vestido colorido",
+      "hat": "flower"
+    },
+    "md": {
+      "who": "Ioana",
+      "outfit": "ie bordada e coroa de flores",
+      "hat": "flower"
+    },
+    "me": {
+      "who": "Lara",
+      "outfit": "traje crnogorski dourado",
+      "hat": "flower"
+    },
+    "mk": {
+      "who": "Elena",
+      "outfit": "traje folclórico macedónio bordado",
+      "hat": "flower"
+    },
+    "ml": {
+      "who": "Aminata",
+      "outfit": "boubou de bogolan",
+      "hat": "gele"
+    },
+    "mn": {
+      "who": "Temuulen",
+      "outfit": "deel de seda azul e chapéu de pelo",
+      "hat": "beanie"
+    },
+    "mr": {
+      "who": "Aissata",
+      "outfit": "milhfa azul da Mauritânia",
+      "hat": "none"
+    },
+    "mw": {
+      "who": "Chikondi",
+      "outfit": "chitenje estampado",
+      "hat": "gele"
+    },
+    "na": {
+      "who": "Nangula",
+      "outfit": "vestido herero e touca de cornos",
+      "hat": "gele"
+    },
+    "nc": {
+      "who": "Téa",
+      "outfit": "robe mission canaca com flores",
+      "hat": "flower"
+    },
+    "ncyp": {
+      "who": "Defne",
+      "outfit": "traje folclórico cipriota",
+      "hat": "flower"
+    },
+    "ne": {
+      "who": "Ibrahim",
+      "outfit": "tagelmust índigo tuaregue",
+      "hat": "none"
+    },
+    "ni": {
+      "who": "Marisol",
+      "outfit": "traje mestiza nicaraguense",
+      "hat": "flower"
+    },
+    "om": {
+      "who": "Amal",
+      "outfit": "dishdasha e gorro kumma",
+      "hat": "none"
+    },
+    "pg": {
+      "who": "Kora",
+      "outfit": "bilas com plumas do paraíso",
+      "hat": "beads"
+    },
+    "pr": {
+      "who": "Luz",
+      "outfit": "vestido de bomba com babados",
+      "hat": "flower"
+    },
+    "ps": {
+      "who": "Noor",
+      "outfit": "thobe palestino com tatreez",
+      "hat": "flower"
+    },
+    "qa": {
+      "who": "Maryam",
+      "outfit": "thawb branco e ghutra",
+      "hat": "ghutra"
+    },
+    "rw": {
+      "who": "Uwase",
+      "outfit": "mushanana ruandês de seda",
+      "hat": "flower"
+    },
+    "sb": {
+      "who": "Tasi",
+      "outfit": "saia de fibras e colar de conchas",
+      "hat": "flower"
+    },
+    "sd": {
+      "who": "Fatima",
+      "outfit": "tobe branco sudanês",
+      "hat": "none"
+    },
+    "sl": {
+      "who": "Isha",
+      "outfit": "lappa de country cloth",
+      "hat": "gele"
+    },
+    "so": {
+      "who": "Hodan",
+      "outfit": "dirac somali com lenço",
+      "hat": "flower"
+    },
+    "somaliland": {
+      "who": "Ayaan",
+      "outfit": "dirac de teal e ouro",
+      "hat": "flower"
+    },
+    "sr": {
+      "who": "Kiki",
+      "outfit": "koto e angisa dobrada",
+      "hat": "gele"
+    },
+    "ss": {
+      "who": "Nyandeng",
+      "outfit": "colete de contas Dinka",
+      "hat": "beads"
+    },
+    "sv": {
+      "who": "Carmen",
+      "outfit": "vestido carbonera com fitas",
+      "hat": "flower"
+    },
+    "sy": {
+      "who": "Rima",
+      "outfit": "thobe sírio bordado",
+      "hat": "flower"
+    },
+    "sz": {
+      "who": "Nomcebo",
+      "outfit": "emáhiya e colar de contas",
+      "hat": "beads"
+    },
+    "td": {
+      "who": "Hawa",
+      "outfit": "boubou açafrão e índigo",
+      "hat": "gele"
+    },
+    "tf": {
+      "who": "Polo",
+      "outfit": "casaco de expedição polar",
+      "hat": "beanie"
+    },
+    "tg": {
+      "who": "Akosua",
+      "outfit": "pano wax togolês e gele",
+      "hat": "gele"
+    },
+    "tj": {
+      "who": "Parvina",
+      "outfit": "chapan de atlas e tubeteika",
+      "hat": "non"
+    },
+    "tm": {
+      "who": "Gozel",
+      "outfit": "robe vermelho turcomeno",
+      "hat": "beanie"
+    },
+    "tt": {
+      "who": "Kaila",
+      "outfit": "fantasia de carnival com plumas",
+      "hat": "flower"
+    },
+    "uz": {
+      "who": "Gulnara",
+      "outfit": "chapan ikat atlas e tubeteika",
+      "hat": "non"
+    },
+    "vu": {
+      "who": "Lali",
+      "outfit": "saia de fibras e flores",
+      "hat": "flower"
+    },
+    "xk": {
+      "who": "Drita",
+      "outfit": "traje folclórico do Kosovo",
+      "hat": "flower"
+    },
+    "ye": {
+      "who": "Amat",
+      "outfit": "sitara iemenita colorida",
+      "hat": "flower"
+    },
+    "zm": {
+      "who": "Mutinta",
+      "outfit": "chitenge zambiano",
+      "hat": "gele"
+    },
+    "zw": {
+      "who": "Rudo",
+      "outfit": "chitenge e lenço",
+      "hat": "gele"
+    }
+  }
+}

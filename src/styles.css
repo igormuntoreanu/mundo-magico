@@ -1,0 +1,148 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fredoka", "Nunito", system-ui, sans-serif;
+  --font-sans: "Nunito", "Fredoka", system-ui, sans-serif;
+
+  --color-ink: #2b1b4e;
+  --color-sun: #ffd93d;
+  --color-sky: #7ecbff;
+  --color-candy: #ff6b9d;
+  --color-mint: #4ade80;
+  --color-orange: #ff8a3d;
+  --color-cream: #fffdf6;
+  --color-night: #0b1026;
+  --color-night-2: #1a1450;
+  --color-card: #fffdf6;
+  --color-stroke: #2b1b4e;
+  --color-panel-start: #fff6d5;
+  --color-panel-mid: #ffe4f1;
+  --color-panel-end: #d9f4ff;
+  --border-width-3: 3px;
+
+  --radius-xs: 0.5rem;
+  --radius-sm: 0.75rem;
+  --radius-md: 1rem;
+  --radius-lg: 1.25rem;
+  --radius-xl: 1.75rem;
+  --radius-pill: 999px;
+
+  --shadow-chunky: 4px 4px 0 #2b1b4e;
+  --shadow-chunky-lg: 6px 6px 0 #2b1b4e;
+}
+
+@keyframes volcano-rise {
+  0% {
+    transform: translate(-50%, 6px) scale(0.55);
+    opacity: 0;
+  }
+  18% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-50%, -72px) scale(1);
+    opacity: 0;
+  }
+}
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  html,
+  body,
+  #app {
+    min-height: 100%;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+    font-family: var(--font-display);
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+}
+
+@layer components {
+  .chunky {
+    border: 3px solid var(--color-stroke);
+    box-shadow: var(--shadow-chunky);
+  }
+
+  .chunky-lg {
+    border: 4px solid var(--color-stroke);
+    box-shadow: var(--shadow-chunky-lg);
+  }
+
+  .globe-tip {
+    font-family: var(--font-display);
+    background: var(--color-cream);
+    color: var(--color-ink);
+    border: 3px solid var(--color-stroke);
+    border-radius: 14px;
+    padding: 4px 10px;
+    font-weight: 700;
+    font-size: 13px;
+    box-shadow: 3px 3px 0 var(--color-stroke);
+  }
+
+  .globe-flag {
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    width: max-content;
+    font-family: var(--font-display);
+    background: var(--color-cream);
+    color: var(--color-ink);
+    border: 3px solid var(--color-stroke);
+    border-radius: 999px;
+    padding: 3px 8px 3px 3px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1;
+    white-space: nowrap;
+    box-shadow: 3px 3px 0 var(--color-stroke);
+  }
+
+  .globe-flag img {
+    width: 22px;
+    height: 22px;
+    border-radius: 999px;
+    object-fit: cover;
+    border: 2px solid var(--color-stroke);
+    background: var(--color-sky);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

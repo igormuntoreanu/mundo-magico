@@ -1,0 +1,6878 @@
+{
+  "br": {
+    "name": "Brasil",
+    "aliases": [
+      "Brazil",
+      "Brasil"
+    ],
+    "hello": "Olá!",
+    "who": "Lila",
+    "outfit": "vestido de Festa Junina com bandeirinhas",
+    "hat": "flower",
+    "palette": [
+      "#009c3b",
+      "#ffdf00",
+      "#002776"
+    ],
+    "tales": [
+      "Saci-Pererê",
+      "Curupira",
+      "Iara, a mãe-d'água",
+      "Boto-cor-de-rosa",
+      "Lobisomem do sertão"
+    ],
+    "cities": [
+      {
+        "city": "Rio de Janeiro",
+        "spots": "Cristo Redentor, Pão de Açúcar, Praia de Copacabana"
+      },
+      {
+        "city": "São Paulo",
+        "spots": "Avenida Paulista, Parque Ibirapuera, Mercado Municipal"
+      },
+      {
+        "city": "Salvador",
+        "spots": "Pelourinho, Elevador Lacerda, Farol da Barra"
+      }
+    ],
+    "iso": "br",
+    "portrait": true
+  },
+  "pt": {
+    "name": "Portugal",
+    "aliases": [
+      "Portugal"
+    ],
+    "hello": "Olá!",
+    "who": "Tiago",
+    "outfit": "traje de folclore minhoto com barrete",
+    "hat": "barrete",
+    "palette": [
+      "#006600",
+      "#ff0000",
+      "#ffff00"
+    ],
+    "tales": [
+      "Pedro e o lobo (versão popular)",
+      "A lenda de D. Pedro e Inês",
+      "O Galo de Barcelos",
+      "A Moura Encantada",
+      "O Homem do Saco"
+    ],
+    "cities": [
+      {
+        "city": "Lisboa",
+        "spots": "Torre de Belém, Castelo de São Jorge, Elevador de Santa Justa"
+      },
+      {
+        "city": "Porto",
+        "spots": "Ribeira, Ponte Dom Luís I, Livraria Lello"
+      },
+      {
+        "city": "Sintra",
+        "spots": "Palácio da Pena, Quinta da Regaleira, Castelo dos Mouros"
+      }
+    ],
+    "iso": "pt",
+    "portrait": true
+  },
+  "us": {
+    "name": "Estados Unidos",
+    "aliases": [
+      "United States of America",
+      "United States",
+      "USA"
+    ],
+    "hello": "Hello!",
+    "who": "Cody",
+    "outfit": "camisa xadrez, jeans e chapéu de cowboy",
+    "hat": "cowboy",
+    "palette": [
+      "#3c3b6e",
+      "#ffffff",
+      "#b22234"
+    ],
+    "tales": [
+      "Paul Bunyan",
+      "Johnny Appleseed",
+      "Pecos Bill",
+      "John Henry",
+      "Rip Van Winkle"
+    ],
+    "cities": [
+      {
+        "city": "Nova York",
+        "spots": "Estátua da Liberdade, Times Square, Central Park"
+      },
+      {
+        "city": "Washington, D.C.",
+        "spots": "Casa Branca, Lincoln Memorial, Capitólio"
+      },
+      {
+        "city": "São Francisco",
+        "spots": "Ponte Golden Gate, Pier 39, Alcatraz"
+      }
+    ],
+    "iso": "us",
+    "portrait": true
+  },
+  "gb": {
+    "name": "Reino Unido",
+    "aliases": [
+      "United Kingdom",
+      "Great Britain",
+      "England"
+    ],
+    "hello": "Hello!",
+    "who": "Pippa",
+    "outfit": "kilt escocês e boina tam-o'-shanter",
+    "hat": "beret",
+    "palette": [
+      "#012169",
+      "#c8102e",
+      "#ffffff"
+    ],
+    "tales": [
+      "Robin Hood",
+      "Rei Artur e Excalibur",
+      "Jack e o Pé de Feijão",
+      "Os Três Porquinhos",
+      "João e Maria"
+    ],
+    "cities": [
+      {
+        "city": "Londres",
+        "spots": "Big Ben, Torre de Londres, London Eye"
+      },
+      {
+        "city": "Edimburgo",
+        "spots": "Castelo de Edimburgo, Royal Mile, Arthur's Seat"
+      },
+      {
+        "city": "Liverpool",
+        "spots": "Albert Dock, Cavern Club, Catedral Metropolitana"
+      }
+    ],
+    "iso": "gb",
+    "portrait": true
+  },
+  "fr": {
+    "name": "França",
+    "aliases": [
+      "France"
+    ],
+    "hello": "Bonjour!",
+    "who": "Camille",
+    "outfit": "listras bretãs, boina e lenço",
+    "hat": "beret",
+    "palette": [
+      "#0055a4",
+      "#ffffff",
+      "#ef4135"
+    ],
+    "tales": [
+      "O Pequeno Polegar",
+      "Cinderela (Perrault)",
+      "O Gato de Botas",
+      "A Bela Adormecida",
+      "Barba Azul"
+    ],
+    "cities": [
+      {
+        "city": "Paris",
+        "spots": "Torre Eiffel, Louvre, Notre-Dame"
+      },
+      {
+        "city": "Versalhes",
+        "spots": "Palácio de Versalhes, Jardins, Galeria dos Espelhos"
+      },
+      {
+        "city": "Nice",
+        "spots": "Promenade des Anglais, Colina do Castelo, Mercado de flores"
+      }
+    ],
+    "iso": "fr",
+    "portrait": true
+  },
+  "de": {
+    "name": "Alemanha",
+    "aliases": [
+      "Germany"
+    ],
+    "hello": "Hallo!",
+    "who": "Greta",
+    "outfit": "dirndl bávaro com avental florido",
+    "hat": "flower",
+    "palette": [
+      "#000000",
+      "#dd0000",
+      "#ffce00"
+    ],
+    "tales": [
+      "João e Maria",
+      "Chapeuzinho Vermelho",
+      "Branca de Neve",
+      "Rapunzel",
+      "O Flautista de Hamelin"
+    ],
+    "cities": [
+      {
+        "city": "Berlim",
+        "spots": "Portão de Brandemburgo, Muro de Berlim, Ilha dos Museus"
+      },
+      {
+        "city": "Munique",
+        "spots": "Marienplatz, Schloss Nymphenburg, Jardim Inglês"
+      },
+      {
+        "city": "Colônia",
+        "spots": "Catedral de Colônia, Hohenzollernbrücke, Museu do Chocolate"
+      }
+    ],
+    "iso": "de",
+    "portrait": true
+  },
+  "it": {
+    "name": "Itália",
+    "aliases": [
+      "Italy"
+    ],
+    "hello": "Ciao!",
+    "who": "Marco",
+    "outfit": "camisa de gondoleiro veneziano com faixa vermelha",
+    "hat": "straw",
+    "palette": [
+      "#009246",
+      "#ffffff",
+      "#ce2b37"
+    ],
+    "tales": [
+      "Pinóquio",
+      "A Befana",
+      "Pulcinella",
+      "Colombo e o ovo",
+      "Romulo e Remo"
+    ],
+    "cities": [
+      {
+        "city": "Roma",
+        "spots": "Coliseu, Fontana di Trevi, Vaticano"
+      },
+      {
+        "city": "Veneza",
+        "spots": "Piazza San Marco, Grande Canal, Ponte de Rialto"
+      },
+      {
+        "city": "Florença",
+        "spots": "Duomo, Ponte Vecchio, Galeria Uffizi"
+      }
+    ],
+    "iso": "it",
+    "portrait": true
+  },
+  "es": {
+    "name": "Espanha",
+    "aliases": [
+      "Spain"
+    ],
+    "hello": "¡Hola!",
+    "who": "Sol",
+    "outfit": "vestido de flamenca com flores no cabelo",
+    "hat": "flower",
+    "palette": [
+      "#aa151b",
+      "#f1bf00",
+      "#c60b1e"
+    ],
+    "tales": [
+      "Don Quixote (para crianças)",
+      "O Rato Pérez",
+      "A lenda do Cid",
+      "Pedro e o lobo andaluz",
+      "A princesa e o dragão de Komodo da fantasia popular"
+    ],
+    "cities": [
+      {
+        "city": "Madrid",
+        "spots": "Palácio Real, Parque do Retiro, Plaza Mayor"
+      },
+      {
+        "city": "Barcelona",
+        "spots": "Sagrada Família, Parque Güell, Las Ramblas"
+      },
+      {
+        "city": "Sevilha",
+        "spots": "Alcázar, Catedral e Giralda, Plaza de España"
+      }
+    ],
+    "iso": "es",
+    "portrait": true
+  },
+  "mx": {
+    "name": "México",
+    "aliases": [
+      "Mexico"
+    ],
+    "hello": "¡Hola!",
+    "who": "Luna",
+    "outfit": "vestido típico de China Poblana e moño",
+    "hat": "sombrero",
+    "palette": [
+      "#006847",
+      "#ffffff",
+      "#ce1126"
+    ],
+    "tales": [
+      "La Llorona",
+      "Popocatépetl e Iztaccíhuatl",
+      "O Alebrije mágico",
+      "Quetzalcóatl",
+      "O tesouro do Chupacabra (lenda moderna)"
+    ],
+    "cities": [
+      {
+        "city": "Cidade do México",
+        "spots": "Zócalo, Museu de Antropologia, Xochimilco"
+      },
+      {
+        "city": "Cancún",
+        "spots": "Chichén Itzá, praias do Caribe, Isla Mujeres"
+      },
+      {
+        "city": "Guadalajara",
+        "spots": "Hospicio Cabañas, Teatro Degollado, Tlaquepaque"
+      }
+    ],
+    "iso": "mx",
+    "portrait": true
+  },
+  "ar": {
+    "name": "Argentina",
+    "aliases": [
+      "Argentina"
+    ],
+    "hello": "¡Hola!",
+    "who": "Mateo",
+    "outfit": "traje de gaúcho com bombacha e rastra",
+    "hat": "cowboy",
+    "palette": [
+      "#74acdf",
+      "#ffffff",
+      "#74acdf"
+    ],
+    "tales": [
+      "El Pombero",
+      "El lobisón",
+      "La Salamanca",
+      "Santos Vega",
+      "El Familiar"
+    ],
+    "cities": [
+      {
+        "city": "Buenos Aires",
+        "spots": "Obelisco, Casa Rosada, Caminito em La Boca"
+      },
+      {
+        "city": "Mendoza",
+        "spots": "Aconcágua, vinícolas, Parque San Martín"
+      },
+      {
+        "city": "Ushuaia",
+        "spots": "Canal de Beagle, Parque Nacional Tierra del Fuego, farol do fim do mundo"
+      }
+    ],
+    "iso": "ar",
+    "portrait": true
+  },
+  "pe": {
+    "name": "Peru",
+    "aliases": [
+      "Peru"
+    ],
+    "hello": "¡Hola!",
+    "who": "Inti",
+    "outfit": "poncho andino colorido e chullo",
+    "hat": "chullo",
+    "palette": [
+      "#d91023",
+      "#ffffff",
+      "#d91023"
+    ],
+    "tales": [
+      "A lenda de Inkarrí",
+      "El Ekeko",
+      "O lago Titicaca e Manco Cápac",
+      "La Achikay",
+      "O condor e a pastora"
+    ],
+    "cities": [
+      {
+        "city": "Cusco",
+        "spots": "Machu Picchu, Sacsayhuamán, Vale Sagrado"
+      },
+      {
+        "city": "Lima",
+        "spots": "Plaza de Armas, Huaca Pucllana, Circuito Mágico del Agua"
+      },
+      {
+        "city": "Arequipa",
+        "spots": "Mosteiro de Santa Catalina, Mirante de Yanahuara, Cânion do Colca"
+      }
+    ],
+    "iso": "pe",
+    "portrait": true
+  },
+  "jp": {
+    "name": "Japão",
+    "aliases": [
+      "Japan"
+    ],
+    "hello": "こんにちは!",
+    "who": "Hana",
+    "outfit": "quimono floral com obi e mei-pad",
+    "hat": "flower",
+    "palette": [
+      "#bc002d",
+      "#ffffff",
+      "#bc002d"
+    ],
+    "tales": [
+      "Momotarō, o menino-pêssego",
+      "A Princesa Kaguya",
+      "Urashima Tarō",
+      "O Coelho de Inaba",
+      "Issun-bōshi, o polegarzinho"
+    ],
+    "cities": [
+      {
+        "city": "Tóquio",
+        "spots": "Torre de Tóquio, Shibuya, Senso-ji em Asakusa"
+      },
+      {
+        "city": "Quioto",
+        "spots": "Fushimi Inari, Kinkaku-ji, floresta de bambu de Arashiyama"
+      },
+      {
+        "city": "Osaka",
+        "spots": "Castelo de Osaka, Dotonbori, Universal Studios Japan"
+      }
+    ],
+    "iso": "jp",
+    "portrait": true
+  },
+  "cn": {
+    "name": "China",
+    "aliases": [
+      "China"
+    ],
+    "hello": "你好!",
+    "who": "Mei",
+    "outfit": "qipao vermelha com flores douradas",
+    "hat": "flower",
+    "palette": [
+      "#de2910",
+      "#ffde00",
+      "#de2910"
+    ],
+    "tales": [
+      "A lenda da Deusa Chang'e",
+      "O Rei Macaco (Sun Wukong)",
+      "Hua Mulan",
+      "Nian, o monstro do Ano Novo",
+      "O dragão e a pérola"
+    ],
+    "cities": [
+      {
+        "city": "Pequim",
+        "spots": "Grande Muralha, Cidade Proibida, Templo do Céu"
+      },
+      {
+        "city": "Xangai",
+        "spots": "The Bund, Torre Pérola Oriental, Yu Garden"
+      },
+      {
+        "city": "Xi'an",
+        "spots": "Exército de Terracota, Muralhas da cidade, Pagode do Ganso Selvagem"
+      }
+    ],
+    "iso": "cn",
+    "portrait": true
+  },
+  "in": {
+    "name": "Índia",
+    "aliases": [
+      "India"
+    ],
+    "hello": "नमस्ते!",
+    "who": "Asha",
+    "outfit": "sari brilhante com bindi e pulseiras",
+    "hat": "flower",
+    "palette": [
+      "#ff9933",
+      "#ffffff",
+      "#138808"
+    ],
+    "tales": [
+      "As fábulas de Panchatantra",
+      "Rama e Sita",
+      "O elefante Ganesha",
+      "A tartaruga e os gansos",
+      "Akbar e Birbal"
+    ],
+    "cities": [
+      {
+        "city": "Agra",
+        "spots": "Taj Mahal, Forte de Agra, Tomb of Itimad-ud-Daulah"
+      },
+      {
+        "city": "Jaipur",
+        "spots": "Palácio dos Ventos, Forte Amber, Cidade Rosa"
+      },
+      {
+        "city": "Nova Délhi",
+        "spots": "Portão da Índia, Qutub Minar, Lotus Temple"
+      }
+    ],
+    "iso": "in",
+    "portrait": true
+  },
+  "eg": {
+    "name": "Egito",
+    "aliases": [
+      "Egypt"
+    ],
+    "hello": "أهلاً!",
+    "who": "Nour",
+    "outfit": "galabeya clara e colar dourado de escaravelho",
+    "hat": "nemes",
+    "palette": [
+      "#ce1126",
+      "#ffffff",
+      "#000000"
+    ],
+    "tales": [
+      "Ísis e Osíris",
+      "O tesouro de Tutancâmon",
+      "O gato Bastet",
+      "A barca do Sol",
+      "Alibabá das areias (conto popular)"
+    ],
+    "cities": [
+      {
+        "city": "Cairo",
+        "spots": "Pirâmides de Gizé, Esfinge, Museu Egípcio"
+      },
+      {
+        "city": "Luxor",
+        "spots": "Vale dos Reis, Templo de Karnak, Templo de Luxor"
+      },
+      {
+        "city": "Assuão",
+        "spots": "Templo de Philae, Barragem de Assuão, ilha Elefantina"
+      }
+    ],
+    "iso": "eg",
+    "portrait": true
+  },
+  "za": {
+    "name": "África do Sul",
+    "aliases": [
+      "South Africa"
+    ],
+    "hello": "Sawubona!",
+    "who": "Zola",
+    "outfit": "saias xhosa com contas coloridas",
+    "hat": "beads",
+    "palette": [
+      "#007749",
+      "#c8a206",
+      "#de3831"
+    ],
+    "tales": [
+      "Anansi na savana",
+      "A lenda do baobá",
+      "Como a zebra ganhou as listras",
+      "Tokoloshe",
+      "A rainha das chuvas"
+    ],
+    "cities": [
+      {
+        "city": "Cidade do Cabo",
+        "spots": "Montanha da Mesa, Cabo da Boa Esperança, V&A Waterfront"
+      },
+      {
+        "city": "Joanesburgo",
+        "spots": "Apartheid Museum, Soweto, Jardim Zoológico"
+      },
+      {
+        "city": "Durban",
+        "spots": "Golden Mile, uShaka Marine World, Vale de Mil Montes"
+      }
+    ],
+    "iso": "za",
+    "portrait": true
+  },
+  "au": {
+    "name": "Austrália",
+    "aliases": [
+      "Australia"
+    ],
+    "hello": "G'day!",
+    "who": "Koah",
+    "outfit": "camisa de safari e chapéu de abas (akubra)",
+    "hat": "akubra",
+    "palette": [
+      "#012169",
+      "#e4002b",
+      "#ffffff"
+    ],
+    "tales": [
+      "Como o canguru ganhou a bolsa",
+      "Tiddalik, o sapo sedento",
+      "O sonho do Arco-Íris",
+      "Bunjil, a águia",
+      "A serpente arco-íris"
+    ],
+    "cities": [
+      {
+        "city": "Sydney",
+        "spots": "Opera House, Ponte da Baía, Bondi Beach"
+      },
+      {
+        "city": "Melbourne",
+        "spots": "Federation Square, Royal Botanic Gardens, Great Ocean Road"
+      },
+      {
+        "city": "Cairns",
+        "spots": "Grande Barreira de Coral, Floresta Daintree, Kuranda"
+      }
+    ],
+    "iso": "au",
+    "portrait": true
+  },
+  "ca": {
+    "name": "Canadá",
+    "aliases": [
+      "Canada"
+    ],
+    "hello": "Hello! Bonjour!",
+    "who": "Maple",
+    "outfit": "flanelada xadrez e touca de inverno",
+    "hat": "beanie",
+    "palette": [
+      "#ff0000",
+      "#ffffff",
+      "#ff0000"
+    ],
+    "tales": [
+      "Nanabozho",
+      "A lenda do maple",
+      "Wendigo (versão suave)",
+      "Glooscap",
+      "O corvo que roubou a luz"
+    ],
+    "cities": [
+      {
+        "city": "Toronto",
+        "spots": "CN Tower, Ilhas de Toronto, Distillery District"
+      },
+      {
+        "city": "Quebec",
+        "spots": "Château Frontenac, Cidade antiga murada, Quedas de Montmorency"
+      },
+      {
+        "city": "Vancouver",
+        "spots": "Stanley Park, Capilano, Granville Island"
+      }
+    ],
+    "iso": "ca",
+    "portrait": true
+  },
+  "kr": {
+    "name": "Coreia do Sul",
+    "aliases": [
+      "South Korea",
+      "Korea"
+    ],
+    "hello": "안녕하세요!",
+    "who": "Min",
+    "outfit": "hanbok colorido com fita no cabelo",
+    "hat": "flower",
+    "palette": [
+      "#cd2e3a",
+      "#0047a0",
+      "#ffffff"
+    ],
+    "tales": [
+      "O tigre e o bolo de arroz",
+      "Heungbu e Nolbu",
+      "A fada e o lenhador",
+      "Kongjwi e Patjwi",
+      "O dragão do mar do Leste"
+    ],
+    "cities": [
+      {
+        "city": "Seul",
+        "spots": "Palácio Gyeongbokgung, Torre N Seoul, Bukchon Hanok"
+      },
+      {
+        "city": "Busan",
+        "spots": "Templo Haedong Yonggungsa, praia de Haeundae, Gamcheon"
+      },
+      {
+        "city": "Jeju",
+        "spots": "Seongsan Ilchulbong, Hallasan, praias de areia negra"
+      }
+    ],
+    "iso": "kr",
+    "portrait": true
+  },
+  "th": {
+    "name": "Tailândia",
+    "aliases": [
+      "Thailand"
+    ],
+    "hello": "สวัสดี!",
+    "who": "Dao",
+    "outfit": "chut thai de seda com cinto dourado",
+    "hat": "flower",
+    "palette": [
+      "#a51931",
+      "#f4f5f8",
+      "#2d2a4a"
+    ],
+    "tales": [
+      "Siddhidhat e o elefante branco",
+      "A lenda de Nang Nak (versão suave)",
+      "Phra Aphai Mani",
+      "O macaco Hanuman no Ramakien",
+      "A princesa e o naga"
+    ],
+    "cities": [
+      {
+        "city": "Banguecoque",
+        "spots": "Grande Palácio, Wat Arun, mercado flutuante"
+      },
+      {
+        "city": "Chiang Mai",
+        "spots": "Doi Suthep, templos da Cidade Velha, santuário de elefantes"
+      },
+      {
+        "city": "Phuket",
+        "spots": "Praia de Patong, Big Buddha, ilhas Phi Phi"
+      }
+    ],
+    "iso": "th",
+    "portrait": true
+  },
+  "gr": {
+    "name": "Grécia",
+    "aliases": [
+      "Greece"
+    ],
+    "hello": "Γεια σου!",
+    "who": "Nikos",
+    "outfit": "fustanela branca e colete bordado",
+    "hat": "beret",
+    "palette": [
+      "#0d5eaf",
+      "#ffffff",
+      "#0d5eaf"
+    ],
+    "tales": [
+      "Teseu e o Minotauro",
+      "O cavalo de Troia",
+      "Dédalo e Ícaro",
+      "Hércules e os doze trabalhos",
+      "Pandora e a caixa"
+    ],
+    "cities": [
+      {
+        "city": "Atenas",
+        "spots": "Acrópole e Partenon, Ágora antiga, Museu da Acrópole"
+      },
+      {
+        "city": "Santorini",
+        "spots": "Oia, caldeira vulcânica, praias vermelhas"
+      },
+      {
+        "city": "Rodes",
+        "spots": "Cidade medieval, Acropolis de Lindos, Vale das Borboletas"
+      }
+    ],
+    "iso": "gr",
+    "portrait": true
+  },
+  "tr": {
+    "name": "Turquia",
+    "aliases": [
+      "Turkey"
+    ],
+    "hello": "Merhaba!",
+    "who": "Elif",
+    "outfit": "colete bordado e calças şalvar",
+    "hat": "fez",
+    "palette": [
+      "#e30a17",
+      "#ffffff",
+      "#e30a17"
+    ],
+    "tales": [
+      "Nasreddin Hodja",
+      "Keloğlan",
+      "A lenda de Hélen e Leandro",
+      "O tapete mágico de Capadócia",
+      "O gato de Van"
+    ],
+    "cities": [
+      {
+        "city": "Istambul",
+        "spots": "Santa Sofia, Mesquita Azul, Grande Bazar"
+      },
+      {
+        "city": "Capadócia",
+        "spots": "balões ao amanhecer, cidades subterrâneas, chaminés de fada"
+      },
+      {
+        "city": "Ancara",
+        "spots": "Anıtkabir, Museu das Civilizações, Cidadela"
+      }
+    ],
+    "iso": "tr",
+    "portrait": true
+  },
+  "ru": {
+    "name": "Rússia",
+    "aliases": [
+      "Russia"
+    ],
+    "hello": "Привет!",
+    "who": "Sasha",
+    "outfit": "sarafan florido e kokoshnik",
+    "hat": "kokoshnik",
+    "palette": [
+      "#ffffff",
+      "#0039a6",
+      "#d52b1e"
+    ],
+    "tales": [
+      "O Galo Dourado",
+      "Baba Yaga",
+      "Ivan Tsarevitch e o lobo cinzento",
+      "A Rainha da Neve",
+      "O cavalinho corcunda"
+    ],
+    "cities": [
+      {
+        "city": "Moscou",
+        "spots": "Praça Vermelha, Kremlin, Basílica de São Basílio"
+      },
+      {
+        "city": "São Petersburgo",
+        "spots": "Ermitage, Palácio de Inverno, Avenida Nevsky"
+      },
+      {
+        "city": "Suzdal",
+        "spots": "Kremlin de Suzdal, mosteiros brancos, anel de ouro"
+      }
+    ],
+    "iso": "ru",
+    "portrait": true
+  },
+  "ng": {
+    "name": "Nigéria",
+    "aliases": [
+      "Nigeria"
+    ],
+    "hello": "Hello! Sannu!",
+    "who": "Amara",
+    "outfit": "iro e buba com gele estampado",
+    "hat": "gele",
+    "palette": [
+      "#008751",
+      "#ffffff",
+      "#008751"
+    ],
+    "tales": [
+      "Anansi e a sabedoria",
+      "A tartaruga Ijapa",
+      "Como o céu se afastou da Terra",
+      "O leão e o rato da savana",
+      "A menina e o rio Níger"
+    ],
+    "cities": [
+      {
+        "city": "Lagos",
+        "spots": "Nike Art Gallery, praia de Tarkwa Bay, Lekki Conservation Centre"
+      },
+      {
+        "city": "Abuja",
+        "spots": "Mesquita Nacional, Aso Rock, Millennium Park"
+      },
+      {
+        "city": "Calabar",
+        "spots": "Carnival de Calabar, Reserva de Drill, Marina Resort"
+      }
+    ],
+    "iso": "ng",
+    "portrait": true
+  },
+  "ke": {
+    "name": "Quênia",
+    "aliases": [
+      "Kenya"
+    ],
+    "hello": "Jambo!",
+    "who": "Amani",
+    "outfit": "shuka maasai vermelha com contas",
+    "hat": "beads",
+    "palette": [
+      "#000000",
+      "#bb0000",
+      "#006600"
+    ],
+    "tales": [
+      "Como o leopardo ganhou as pintas",
+      "Hare e o poço",
+      "A origem do Monte Quênia",
+      "O elefante e o pássaro-tecelão",
+      "Nyai e o gado do céu"
+    ],
+    "cities": [
+      {
+        "city": "Nairóbi",
+        "spots": "Parque Nacional de Nairóbi, Giraffe Centre, Museu Nacional"
+      },
+      {
+        "city": "Mombasa",
+        "spots": "Forte Jesus, praias de Diani, Old Town"
+      },
+      {
+        "city": "Masai Mara",
+        "spots": "safári da Grande Migração, balões, vilarejos maasai"
+      }
+    ],
+    "iso": "ke",
+    "portrait": true
+  },
+  "ma": {
+    "name": "Marrocos",
+    "aliases": [
+      "Morocco"
+    ],
+    "hello": "Salam!",
+    "who": "Yasmin",
+    "outfit": "caftan bordado e babouches",
+    "hat": "flower",
+    "palette": [
+      "#c1272d",
+      "#006233",
+      "#ffffff"
+    ],
+    "tales": [
+      "A lenda de Aicha Kandicha (versão suave)",
+      "O tesouro do sultão",
+      "O tapete que voava sobre o Atlas",
+      "A pomba de Fez",
+      "O gato e o cuscuz"
+    ],
+    "cities": [
+      {
+        "city": "Marraquexe",
+        "spots": "Jemaa el-Fnaa, Jardins Majorelle, palácio Bahia"
+      },
+      {
+        "city": "Fez",
+        "spots": "Medina de Fez, curtidouros Chouara, Universidade Al Quaraouiyine"
+      },
+      {
+        "city": "Chefchaouen",
+        "spots": "cidade azul, medina nas montanhas, catarata Ras El Maa"
+      }
+    ],
+    "iso": "ma",
+    "portrait": true
+  },
+  "nl": {
+    "name": "Países Baixos",
+    "aliases": [
+      "Netherlands"
+    ],
+    "hello": "Hallo!",
+    "who": "Finn",
+    "outfit": "klompen, calças bombachas e gorro de pescador",
+    "hat": "beanie",
+    "palette": [
+      "#ae1c28",
+      "#ffffff",
+      "#21468b"
+    ],
+    "tales": [
+      "O menino do dique",
+      "Hans Brinker",
+      "A cegonha de Haia",
+      "O moinho encantado",
+      "Pietje Bell"
+    ],
+    "cities": [
+      {
+        "city": "Amsterdã",
+        "spots": "Canais, Museu Van Gogh, casa de Anne Frank"
+      },
+      {
+        "city": "Roterdã",
+        "spots": "Markthal, Euromast, porto"
+      },
+      {
+        "city": "Giethoorn",
+        "spots": "vilarejo sem ruas, canais, pontes de madeira"
+      }
+    ],
+    "iso": "nl",
+    "portrait": true
+  },
+  "se": {
+    "name": "Suécia",
+    "aliases": [
+      "Sweden"
+    ],
+    "hello": "Hej!",
+    "who": "Freja",
+    "outfit": "traje folclórico com avental e coroa de flores",
+    "hat": "flower",
+    "palette": [
+      "#006aa7",
+      "#fecc00",
+      "#006aa7"
+    ],
+    "tales": [
+      "Pippi Meialonga",
+      "Os Irmãos Coração de Leão",
+      "O tomte da fazenda",
+      "Nils Holgersson",
+      "A senhora da floresta"
+    ],
+    "cities": [
+      {
+        "city": "Estocolmo",
+        "spots": "Gamla Stan, Vasa Museum, prefeitura"
+      },
+      {
+        "city": "Gotemburgo",
+        "spots": "Jardim Botânico, Liseberg, arquipélago"
+      },
+      {
+        "city": "Kiruna",
+        "spots": "aurora boreal, Icehotel, montanhas de Lapônia"
+      }
+    ],
+    "iso": "se",
+    "portrait": true
+  },
+  "ie": {
+    "name": "Irlanda",
+    "aliases": [
+      "Ireland"
+    ],
+    "hello": "Dia dhuit!",
+    "who": "Niamh",
+    "outfit": "saia verde, colete e broche celta",
+    "hat": "beret",
+    "palette": [
+      "#169b62",
+      "#ffffff",
+      "#ff883e"
+    ],
+    "tales": [
+      "O Leprechaun e o pote de ouro",
+      "Cú Chulainn",
+      "A Banshee (versão suave)",
+      "Fionn mac Cumhaill",
+      "O selkie do mar"
+    ],
+    "cities": [
+      {
+        "city": "Dublin",
+        "spots": "Trinity College, Castelo de Dublin, Ha'penny Bridge"
+      },
+      {
+        "city": "Galway",
+        "spots": "Latin Quarter, Baía de Galway, Cliffs of Moher por perto"
+      },
+      {
+        "city": "Cork",
+        "spots": "Mercado inglês, Blarney Castle, rio Lee"
+      }
+    ],
+    "iso": "ie",
+    "portrait": true
+  },
+  "pl": {
+    "name": "Polônia",
+    "aliases": [
+      "Poland"
+    ],
+    "hello": "Cześć!",
+    "who": "Kasia",
+    "outfit": "traje de Cracóvia com colete bordado e flores",
+    "hat": "flower",
+    "palette": [
+      "#ffffff",
+      "#dc143c",
+      "#ffffff"
+    ],
+    "tales": [
+      "O dragão de Wawel",
+      "Lech, Czech e Rus",
+      "A sereia de Varsóvia",
+      "Pan Twardowski",
+      "A flor de feto na noite de Ivan"
+    ],
+    "cities": [
+      {
+        "city": "Cracóvia",
+        "spots": "Castelo de Wawel, Praça do Mercado, Wieliczka"
+      },
+      {
+        "city": "Varsóvia",
+        "spots": "Cidade Velha, Palácio da Cultura, Parque Łazienki"
+      },
+      {
+        "city": "Gdańsk",
+        "spots": "Rua Longa, Motława, praia de Sopot"
+      }
+    ],
+    "iso": "pl",
+    "portrait": true
+  },
+  "id": {
+    "name": "Indonésia",
+    "aliases": [
+      "Indonesia"
+    ],
+    "hello": "Halo!",
+    "who": "Putri",
+    "outfit": "kebaya e sarongue batik",
+    "hat": "flower",
+    "palette": [
+      "#ff0000",
+      "#ffffff",
+      "#ff0000"
+    ],
+    "tales": [
+      "Timun Mas",
+      "Malin Kundang",
+      "A lenda do Lago Toba",
+      "Roro Jonggrang",
+      "O dragão de Komodo (lenda da ilha)"
+    ],
+    "cities": [
+      {
+        "city": "Jacarta",
+        "spots": "Monas, Kota Tua, Ilha das Mil Ilhas"
+      },
+      {
+        "city": "Bali (Denpasar/Ubud)",
+        "spots": "Templo Tanah Lot, terraços de Ubud, praias de Kuta"
+      },
+      {
+        "city": "Yogyakarta",
+        "spots": "Templo de Borobudur, Prambanan, Kraton"
+      }
+    ],
+    "iso": "id",
+    "portrait": true
+  },
+  "vn": {
+    "name": "Vietnã",
+    "aliases": [
+      "Vietnam"
+    ],
+    "hello": "Xin chào!",
+    "who": "Lan",
+    "outfit": "áo dài branco com flores",
+    "hat": "nón",
+    "palette": [
+      "#da251d",
+      "#ffff00",
+      "#da251d"
+    ],
+    "tales": [
+      "Sơn Tinh e Thủy Tinh",
+      "A lenda do lago Hoàn Kiếm",
+      "Bánh chưng e Bánh giầy",
+      "Thạch Sanh",
+      "O casal de pedra de Hạ Long"
+    ],
+    "cities": [
+      {
+        "city": "Hanói",
+        "spots": "Lago Hoàn Kiếm, Cidadeela de Thăng Long, Templo da Literatura"
+      },
+      {
+        "city": "Baía de Hạ Long",
+        "spots": "ilhas de calcário, cavernas, cruzeiros"
+      },
+      {
+        "city": "Cidade de Ho Chi Minh",
+        "spots": "Mercado Ben Thanh, Palácio da Reunificação, túneis de Củ Chi"
+      }
+    ],
+    "iso": "vn",
+    "portrait": true
+  },
+  "co": {
+    "name": "Colômbia",
+    "aliases": [
+      "Colombia"
+    ],
+    "hello": "¡Hola!",
+    "who": "Cielo",
+    "outfit": "pollera colorida de Barranquilla e flores",
+    "hat": "flower",
+    "palette": [
+      "#fcd116",
+      "#003893",
+      "#ce1126"
+    ],
+    "tales": [
+      "El Mohán",
+      "La Madremonte",
+      "El Hombre Caimán",
+      "La Patasola",
+      "El Sombrerón"
+    ],
+    "cities": [
+      {
+        "city": "Cartagena",
+        "spots": "Cidade amuralhada, Castelo San Felipe, Ilhas do Rosário"
+      },
+      {
+        "city": "Bogotá",
+        "spots": "Monserrate, Museu do Ouro, La Candelaria"
+      },
+      {
+        "city": "Medellín",
+        "spots": "Plaza Botero, Pueblito Paisa, Comuna 13"
+      }
+    ],
+    "iso": "co",
+    "portrait": true
+  },
+  "cl": {
+    "name": "Chile",
+    "aliases": [
+      "Chile"
+    ],
+    "hello": "¡Hola!",
+    "who": "Andes",
+    "outfit": "huaso com manta e chapéu chupalla",
+    "hat": "cowboy",
+    "palette": [
+      "#d52b1e",
+      "#ffffff",
+      "#0039a6"
+    ],
+    "tales": [
+      "El Caleuche",
+      "La Pincoya",
+      "El Trauco",
+      "La Llorona do Pacífico",
+      "O condor dos Andes"
+    ],
+    "cities": [
+      {
+        "city": "Santiago",
+        "spots": "Cerro San Cristóbal, Plaza de Armas, Cajón del Maipo"
+      },
+      {
+        "city": "Valparaíso",
+        "spots": "cerros coloridos, ascensores, porto"
+      },
+      {
+        "city": "San Pedro de Atacama",
+        "spots": "Vale da Lua, géiseres El Tatio, observatórios"
+      }
+    ],
+    "iso": "cl",
+    "portrait": true
+  },
+  "nz": {
+    "name": "Nova Zelândia",
+    "aliases": [
+      "New Zealand"
+    ],
+    "hello": "Kia ora!",
+    "who": "Aroha",
+    "outfit": "piupiu maori e pingentes de pounamu",
+    "hat": "flower",
+    "palette": [
+      "#00247d",
+      "#cc142b",
+      "#ffffff"
+    ],
+    "tales": [
+      "Maui pesca as ilhas",
+      "A lenda do kiwi",
+      "Tāne e as florestas",
+      "Kupe, o navegador",
+      "O taniwha do rio"
+    ],
+    "cities": [
+      {
+        "city": "Auckland",
+        "spots": "Sky Tower, ilha Waiheke, museu marítimo"
+      },
+      {
+        "city": "Wellington",
+        "spots": "Te Papa, monte Victoria, Cuba Street"
+      },
+      {
+        "city": "Queenstown",
+        "spots": "lago Wakatipu, Remarkables, fiordes de Milford"
+      }
+    ],
+    "iso": "nz",
+    "portrait": true
+  },
+  "sa": {
+    "name": "Arábia Saudita",
+    "aliases": [
+      "Saudi Arabia"
+    ],
+    "hello": "مرحبا!",
+    "who": "Omar",
+    "outfit": "thobe branco e ghutra",
+    "hat": "ghutra",
+    "palette": [
+      "#006c35",
+      "#ffffff",
+      "#006c35"
+    ],
+    "tales": [
+      "As noites da caravana",
+      "O café do deserto",
+      "A gazela e o oásis",
+      "Sindbad nas dunas",
+      "O cavalo árabe encantado"
+    ],
+    "cities": [
+      {
+        "city": "Riade",
+        "spots": "Diriyah, Kingdom Centre, Boulevard"
+      },
+      {
+        "city": "Jeddah",
+        "spots": "Corniche, Cidade Velha Al-Balad, Fonte do Rei Fahd"
+      },
+      {
+        "city": "AlUla",
+        "spots": "Hegra, formações de arenito, oásis antigo"
+      }
+    ],
+    "iso": "sa",
+    "portrait": true
+  },
+  "ao": {
+    "name": "Angola",
+    "aliases": [
+      "Angola"
+    ],
+    "hello": "Olá!",
+    "who": "Nzinga",
+    "outfit": "pano africano estampado e colares",
+    "hat": "beads",
+    "palette": [
+      "#cc0000",
+      "#000000",
+      "#ffcc00"
+    ],
+    "tales": [
+      "A kianda do mar",
+      "O soba e a árvore sagrada",
+      "Como o imbondeiro ficou torto",
+      "O coelho e o leão",
+      "A princesa Nzinga nas estrelas"
+    ],
+    "cities": [
+      {
+        "city": "Luanda",
+        "spots": "Fortaleza de São Miguel, Ilha de Luanda, Miradouro da Lua"
+      },
+      {
+        "city": "Lubango",
+        "spots": "Cristo Rei, Tundavala, Serra da Leba"
+      },
+      {
+        "city": "Benguela",
+        "spots": "praias do Restinga, Cidade das Acácias, porto"
+      }
+    ],
+    "iso": "ao",
+    "portrait": true
+  },
+  "mz": {
+    "name": "Moçambique",
+    "aliases": [
+      "Mozambique"
+    ],
+    "hello": "Olá! Moni!",
+    "who": "Tito",
+    "outfit": "capulana colorida e colares",
+    "hat": "beads",
+    "palette": [
+      "#000000",
+      "#ffcc00",
+      "#007168"
+    ],
+    "tales": [
+      "A lenda da Ilha de Moçambique",
+      "O espírito da floresta de Gorongosa",
+      "Como o milho chegou à aldeia",
+      "O coelho e o leão",
+      "A sereia da baía de Maputo"
+    ],
+    "cities": [
+      {
+        "city": "Maputo",
+        "spots": "Estação Central, Mercado Municipal, Praia da Costa do Sol"
+      },
+      {
+        "city": "Ilha de Moçambique",
+        "spots": "cidade património, capela, palácio dos capitães"
+      },
+      {
+        "city": "Parque Nacional da Gorongosa",
+        "spots": "safáris, cascata, vida selvagem"
+      }
+    ],
+    "iso": "mz",
+    "portrait": true
+  },
+  "cv": {
+    "name": "Cabo Verde",
+    "aliases": [
+      "Cape Verde"
+    ],
+    "hello": "Olá! Tudu dretu?",
+    "who": "Lara",
+    "outfit": "saia de morna e lenço da Praia",
+    "hat": "flower",
+    "palette": [
+      "#003893",
+      "#cf2027",
+      "#f7d116"
+    ],
+    "tales": [
+      "A lenda do Pico do Fogo",
+      "A bruxa do mindelo (versão suave)",
+      "O navio fantasma da Praia",
+      "Como nasceu a morna",
+      "O tubarão amigo de São Vicente"
+    ],
+    "cities": [
+      {
+        "city": "Praia",
+        "spots": "Platô, sucupira, praia de Quebra Canela"
+      },
+      {
+        "city": "Mindelo",
+        "spots": "mercado, pontão, carnival de São Vicente"
+      },
+      {
+        "city": "Cidade Velha",
+        "spots": "Pelourinho, ruínas históricas, baía"
+      }
+    ],
+    "iso": "cv",
+    "portrait": true
+  },
+  "gw": {
+    "name": "Guiné-Bissau",
+    "aliases": [
+      "Guinea-Bissau"
+    ],
+    "hello": "Olá!",
+    "who": "Binta",
+    "outfit": "pano di pinti e colares",
+    "hat": "gele",
+    "palette": [
+      "#ce1126",
+      "#fcd116",
+      "#009e49"
+    ],
+    "tales": [
+      "N'Pará e os animais da floresta",
+      "A tartaruga sábia do Geba",
+      "Como o caju ficou doce",
+      "O irã da palmeira",
+      "A raposa e o crocodilo"
+    ],
+    "cities": [
+      {
+        "city": "Bissau",
+        "spots": "porto Pidjiguiti, mercado de Bandim, avenida Amílcar Cabral"
+      },
+      {
+        "city": "Bolama",
+        "spots": "ilha património, palácios coloniais, praias"
+      },
+      {
+        "city": "Arquipélago dos Bijagós",
+        "spots": "ilhas, hipopótamos marinhos, praias desertas"
+      }
+    ],
+    "iso": "gw",
+    "portrait": true
+  },
+  "st": {
+    "name": "São Tomé e Príncipe",
+    "aliases": [
+      "Sao Tome and Principe"
+    ],
+    "hello": "Olá!",
+    "who": "Nina",
+    "outfit": "túnica tropical e flores de jasmim",
+    "hat": "flower",
+    "palette": [
+      "#12ad2b",
+      "#ffd100",
+      "#d21034"
+    ],
+    "tales": [
+      "A lenda do Pico Cão Grande",
+      "O papagaio das sete cores",
+      "A sereia de Praia das Conchas",
+      "O cacau mágico",
+      "O tchiloli do rei"
+    ],
+    "cities": [
+      {
+        "city": "São Tomé",
+        "spots": "catedral, Mercado Municipal, Fortaleza de São Sebastião"
+      },
+      {
+        "city": "Príncipe",
+        "spots": "Santo António, floresta, praias de banana"
+      },
+      {
+        "city": "Roca Sundy",
+        "spots": "plantação de cacau, miradouros, natureza"
+      }
+    ],
+    "iso": "st",
+    "portrait": true
+  },
+  "tl": {
+    "name": "Timor-Leste",
+    "aliases": [
+      "Timor-Leste",
+      "East Timor"
+    ],
+    "hello": "Olá! Bondia!",
+    "who": "Rui",
+    "outfit": "tais tecido à mão e colar de conchas",
+    "hat": "beads",
+    "palette": [
+      "#dc241f",
+      "#ffc61e",
+      "#000000"
+    ],
+    "tales": [
+      "O crocodilo amigo de Timor",
+      "A lenda do Monte Ramelau",
+      "O irmão sol e a irmã lua",
+      "A origem do tais",
+      "O peixe de Ataúro"
+    ],
+    "cities": [
+      {
+        "city": "Díli",
+        "spots": "Cristo Rei, palácio do governo, mercado de Tais"
+      },
+      {
+        "city": "Baucau",
+        "spots": "cidade antiga, piscinas, praias"
+      },
+      {
+        "city": "Ataúro",
+        "spots": "recifes, trilhos, aldeias de pescadores"
+      }
+    ],
+    "iso": "tl",
+    "portrait": true
+  },
+  "gq": {
+    "name": "Guiné Equatorial",
+    "aliases": [
+      "Equatorial Guinea",
+      "Eq. Guinea"
+    ],
+    "hello": "Olá! Hola!",
+    "who": "Malabo",
+    "outfit": "traje fang com tecido estampado",
+    "hat": "beads",
+    "palette": [
+      "#3e9a00",
+      "#e32118",
+      "#0073ce"
+    ],
+    "tales": [
+      "O espírito da selva de Monte Alén",
+      "A tartaruga e o leopardo",
+      "Como nasceu a ilha de Bioko",
+      "O tambor falante",
+      "A princesa do rio Uoro"
+    ],
+    "cities": [
+      {
+        "city": "Malabo",
+        "spots": "catedral, praia de Sipopo, Pico Basilé"
+      },
+      {
+        "city": "Bata",
+        "spots": "porto, avenida da costa, mercado"
+      },
+      {
+        "city": "Parque Nacional de Monte Alén",
+        "spots": "floresta, cascata, gorilas"
+      }
+    ],
+    "iso": "gq",
+    "portrait": true
+  },
+  "fi": {
+    "name": "Finlândia",
+    "aliases": [
+      "Finland"
+    ],
+    "hello": "Hei!",
+    "who": "Aino",
+    "outfit": "traje de verão finlandês com coroa de flores",
+    "hat": "flower",
+    "palette": [
+      "#003580",
+      "#ffffff",
+      "#003580"
+    ],
+    "tales": [
+      "O Kalevala para crianças",
+      "A raposa e o urso da taiga",
+      "Os trolls da Lapónia",
+      "A origem da sauna",
+      "A estrela polar e a rena"
+    ],
+    "cities": [
+      {
+        "city": "Helsínquia",
+        "spots": "catedral branca, Suomenlinna, mercado da praça"
+      },
+      {
+        "city": "Rovaniemi",
+        "spots": "Aldeia do Pai Natal, aurora boreal, rio Kemijoki"
+      },
+      {
+        "city": "Turku",
+        "spots": "castelo, catedral, arquipélago"
+      }
+    ],
+    "iso": "fi",
+    "portrait": true
+  },
+  "no": {
+    "name": "Noruega",
+    "aliases": [
+      "Norway"
+    ],
+    "hello": "Hei!",
+    "who": "Siri",
+    "outfit": "bunad bordado com colete e broche de prata",
+    "hat": "flower",
+    "palette": [
+      "#ba0c2f",
+      "#00205b",
+      "#ffffff"
+    ],
+    "tales": [
+      "Os três cabritos de Bouzen",
+      "Askeladden, o rapaz das cinzas",
+      "O troll da montanha",
+      "A raposa e o urso",
+      "O barco de Oseberg (lenda viking suave)"
+    ],
+    "cities": [
+      {
+        "city": "Oslo",
+        "spots": "ópera, parque Vigeland, museu dos barcos vikings"
+      },
+      {
+        "city": "Bergen",
+        "spots": "Bryggen, monte Fløyen, fiordes"
+      },
+      {
+        "city": "Tromsø",
+        "spots": "aurora, catedral ártica, teleférico"
+      }
+    ],
+    "iso": "no",
+    "portrait": true
+  },
+  "dk": {
+    "name": "Dinamarca",
+    "aliases": [
+      "Denmark"
+    ],
+    "hello": "Hej!",
+    "who": "Hans",
+    "outfit": "traje folclórico com colete vermelho",
+    "hat": "beanie",
+    "palette": [
+      "#c60c30",
+      "#ffffff",
+      "#c60c30"
+    ],
+    "tales": [
+      "O Patinho Feio",
+      "A Pequena Sereia",
+      "O soldadinho de chumbo",
+      "A princesa e a ervilha",
+      " polegarzinha"
+    ],
+    "cities": [
+      {
+        "city": "Copenhaga",
+        "spots": "A Pequena Sereia, Tivoli, Nyhavn"
+      },
+      {
+        "city": "Aarhus",
+        "spots": "Den Gamle By, ARoS, baía"
+      },
+      {
+        "city": "Odense",
+        "spots": "casa de Andersen, catedral, jardins"
+      }
+    ],
+    "iso": "dk",
+    "portrait": true
+  },
+  "ch": {
+    "name": "Suíça",
+    "aliases": [
+      "Switzerland"
+    ],
+    "hello": "Grüezi! Ciao! Bonjour!",
+    "who": "Heidi",
+    "outfit": "dirndl alpino com avental e botas",
+    "hat": "flower",
+    "palette": [
+      "#ff0000",
+      "#ffffff",
+      "#ff0000"
+    ],
+    "tales": [
+      "Heidi",
+      "Guilherme Tell",
+      "O dragão do Pilatus",
+      "A vaca que tocou o sino de ouro",
+      "O gnomo dos Alpes"
+    ],
+    "cities": [
+      {
+        "city": "Berna",
+        "spots": "casas medievais, urso da cidade, relógio Zytglogge"
+      },
+      {
+        "city": "Zurique",
+        "spots": "lago, Bahnhofstrasse, jardim chinês"
+      },
+      {
+        "city": "Zermatt",
+        "spots": "Matterhorn, comboio Gornergrat, Alpes"
+      }
+    ],
+    "iso": "ch",
+    "portrait": true
+  },
+  "be": {
+    "name": "Bélgica",
+    "aliases": [
+      "Belgium"
+    ],
+    "hello": "Hallo! Bonjour!",
+    "who": "Faye",
+    "outfit": "traje de Bruges com avental e renda",
+    "hat": "flower",
+    "palette": [
+      "#000000",
+      "#fdda24",
+      "#ef3340"
+    ],
+    "tales": [
+      "Tijl Uilenspiegel",
+      "O Manneken Pis (lenda da criança)",
+      "A bruxa de Damme (versão suave)",
+      "Os gigantes de Ath",
+      "O dragão de Mons"
+    ],
+    "cities": [
+      {
+        "city": "Bruxelas",
+        "spots": "Grand-Place, Atomium, Manneken Pis"
+      },
+      {
+        "city": "Bruges",
+        "spots": "canais, beffroi, mercado de rendas"
+      },
+      {
+        "city": "Antuérpia",
+        "spots": "catedral, rio Escalda, zoo"
+      }
+    ],
+    "iso": "be",
+    "portrait": true
+  },
+  "at": {
+    "name": "Áustria",
+    "aliases": [
+      "Austria"
+    ],
+    "hello": "Servus!",
+    "who": "Liesel",
+    "outfit": "dirndl tirolês com avental xadrez",
+    "hat": "flower",
+    "palette": [
+      "#ed2939",
+      "#ffffff",
+      "#ed2939"
+    ],
+    "tales": [
+      "A noiva da floresta de Viena",
+      "O dragão de Klagenfurt",
+      "A flauta mágica (conto da ópera)",
+      "Os anões das minas de sal",
+      "O rei dos lagos alpinos"
+    ],
+    "cities": [
+      {
+        "city": "Viena",
+        "spots": "Schönbrunn, catedral de Santo Estêvão, Prater"
+      },
+      {
+        "city": "Salzburgo",
+        "spots": "fortaleza, casa de Mozart, lagos"
+      },
+      {
+        "city": "Innsbruck",
+        "spots": "Goldenes Dachl, Alpes, trampolim de Bergisel"
+      }
+    ],
+    "iso": "at",
+    "portrait": true
+  },
+  "cz": {
+    "name": "Chéquia",
+    "aliases": [
+      "Czechia",
+      "Czech Republic"
+    ],
+    "hello": "Ahoj!",
+    "who": "Jana",
+    "outfit": "kroj da Morávia com flores e fitas",
+    "hat": "flower",
+    "palette": [
+      "#11457e",
+      "#d7141a",
+      "#ffffff"
+    ],
+    "tales": [
+      "O Golem de Praga (versão suave)",
+      "A princesa de ouro de Boémia",
+      "O espírito da floresta Šumava",
+      "Ferda, a formiga",
+      "O relógio astronómico encantado"
+    ],
+    "cities": [
+      {
+        "city": "Praga",
+        "spots": "Castelo, Ponte Carlos, relógio astronómico"
+      },
+      {
+        "city": "Český Krumlov",
+        "spots": "castelo, rio Vltava, cidade velha"
+      },
+      {
+        "city": "Brno",
+        "spots": "catedral, vila Tugendhat, ossuário"
+      }
+    ],
+    "iso": "cz",
+    "portrait": true
+  },
+  "hu": {
+    "name": "Hungria",
+    "aliases": [
+      "Hungary"
+    ],
+    "hello": "Szia!",
+    "who": "Panna",
+    "outfit": "matyó bordado com saia rodada e lenço",
+    "hat": "flower",
+    "palette": [
+      "#ce2939",
+      "#ffffff",
+      "#477050"
+    ],
+    "tales": [
+      "A ponta do nariz do rei Mathias",
+      "O cavalo milagroso",
+      "A lenda do Parlamento dourado",
+      "O pastor e o dragão do Danúbio",
+      "Háry János"
+    ],
+    "cities": [
+      {
+        "city": "Budapeste",
+        "spots": "Parlamento, banhos Széchenyi, Castelo de Buda"
+      },
+      {
+        "city": "Eger",
+        "spots": "minarete, castelo, vale das mulheres"
+      },
+      {
+        "city": "Lago Balaton",
+        "spots": "praias, Tihany, vila de pescadores"
+      }
+    ],
+    "iso": "hu",
+    "portrait": true
+  },
+  "ro": {
+    "name": "Roménia",
+    "aliases": [
+      "Romania"
+    ],
+    "hello": "Salut!",
+    "who": "Ileana",
+    "outfit": "ie bordada com saia e cinto",
+    "hat": "flower",
+    "palette": [
+      "#002b7f",
+      "#fcd116",
+      "#ce1126"
+    ],
+    "tales": [
+      "Ileana Cosânzeana",
+      "Prâslea cel voinic",
+      "O Conde Drácula (versão de conto suave)",
+      "O pastor e a ovelha mágica",
+      "A floresta de Hoia (lenda)"
+    ],
+    "cities": [
+      {
+        "city": "Bucareste",
+        "spots": "Palácio do Parlamento, Ateneu, Parque Herăstrău"
+      },
+      {
+        "city": "Brașov",
+        "spots": "Monte Tampa, Conselho, Castelo de Bran"
+      },
+      {
+        "city": "Sibiu",
+        "spots": "praça grande, casas com olhos, montanhas Făgăraș"
+      }
+    ],
+    "iso": "ro",
+    "portrait": true
+  },
+  "ua": {
+    "name": "Ucrânia",
+    "aliases": [
+      "Ukraine"
+    ],
+    "hello": "Привіт!",
+    "who": "Oksana",
+    "outfit": "vyshyvanka bordada e coroa de flores vinok",
+    "hat": "flower",
+    "palette": [
+      "#0057b7",
+      "#ffd700",
+      "#0057b7"
+    ],
+    "tales": [
+      "A sereia do Dnipro",
+      "Ivasyk-Telesyk",
+      "A raposa e o grou",
+      "Kozak Mamai",
+      "A origem do girassol"
+    ],
+    "cities": [
+      {
+        "city": "Kyiv",
+        "spots": "Sofia de Kyiv, Pechersk Lavra, Khreshchatyk"
+      },
+      {
+        "city": "Lviv",
+        "spots": "praça Rynok, catedral, cidade velha"
+      },
+      {
+        "city": "Odesa",
+        "spots": "escadaria Potemkin, ópera, praia do mar Negro"
+      }
+    ],
+    "iso": "ua",
+    "portrait": true
+  },
+  "ph": {
+    "name": "Filipinas",
+    "aliases": [
+      "Philippines"
+    ],
+    "hello": "Kamusta!",
+    "who": "Maya",
+    "outfit": "baro't saya com tecido bordado",
+    "hat": "flower",
+    "palette": [
+      "#0038a8",
+      "#ce1126",
+      "#fcd116"
+    ],
+    "tales": [
+      "Malakas e Maganda",
+      "A lenda do Monte Mayon",
+      "Maria Makiling",
+      "O bakunawa que come a lua (versão suave)",
+      "A origem do mango"
+    ],
+    "cities": [
+      {
+        "city": "Manila",
+        "spots": "Intramuros, baía, Rizal Park"
+      },
+      {
+        "city": "Cebu",
+        "spots": "Magellan's Cross, templo, ilhas"
+      },
+      {
+        "city": "Palawan",
+        "spots": "Puerto Princesa, El Nido, lago subterrâneo"
+      }
+    ],
+    "iso": "ph",
+    "portrait": true
+  },
+  "my": {
+    "name": "Malásia",
+    "aliases": [
+      "Malaysia"
+    ],
+    "hello": "Helo!",
+    "who": "Ayu",
+    "outfit": "baju kurung de seda com lenço floral",
+    "hat": "flower",
+    "palette": [
+      "#cc0001",
+      "#010066",
+      "#fcdd09"
+    ],
+    "tales": [
+      "Sang Kancil, o veado-rato esperto",
+      "A princesa da montanha Gunung Ledang",
+      "O tigre de Malaca",
+      "Puteri Gunung",
+      "A origem do durião"
+    ],
+    "cities": [
+      {
+        "city": "Kuala Lumpur",
+        "spots": "Torres Petronas, Batu Caves, mercado Chinatown"
+      },
+      {
+        "city": "George Town (Penang)",
+        "spots": "rua de murais, templo, comida de rua"
+      },
+      {
+        "city": "Malaca",
+        "spots": "A Famosa, rio, cidade velha"
+      }
+    ],
+    "iso": "my",
+    "portrait": true
+  },
+  "gh": {
+    "name": "Gana",
+    "aliases": [
+      "Ghana"
+    ],
+    "hello": "Akwaaba!",
+    "who": "Kwame",
+    "outfit": "kente brilhante com faixa no ombro",
+    "hat": "beads",
+    "palette": [
+      "#ce1126",
+      "#fcd116",
+      "#006b3f"
+    ],
+    "tales": [
+      "Anansi, a aranha das histórias",
+      "Como as histórias chegaram ao mundo",
+      "O tambor falante",
+      "A tartaruga e o leopardo",
+      "O rio Volta encantado"
+    ],
+    "cities": [
+      {
+        "city": "Acra",
+        "spots": "Independence Square, Jamestown, mercado Makola"
+      },
+      {
+        "city": "Cape Coast",
+        "spots": "castelo, praia, Kakum"
+      },
+      {
+        "city": "Kumasi",
+        "spots": "palácio Ashanti, mercado, kente"
+      }
+    ],
+    "iso": "gh",
+    "portrait": true
+  },
+  "et": {
+    "name": "Etiópia",
+    "aliases": [
+      "Ethiopia"
+    ],
+    "hello": "Selam!",
+    "who": "Hana",
+    "outfit": "habesha kemis branco com bordados coloridos",
+    "hat": "flower",
+    "palette": [
+      "#078930",
+      "#fcd116",
+      "#da121a"
+    ],
+    "tales": [
+      "A rainha de Sabá",
+      "O leão de Judá",
+      "Como o café foi descoberto",
+      "O pastor e o lobo das terras altas",
+      "A arca no monte"
+    ],
+    "cities": [
+      {
+        "city": "Adis Abeba",
+        "spots": "Mercato, Museu Nacional, Entoto"
+      },
+      {
+        "city": "Lalibela",
+        "spots": "igrejas esculpidas na rocha, cerimónias, montanhas"
+      },
+      {
+        "city": "Axum",
+        "spots": "obeliscos, ruínas, igreja de Santa Maria de Sião"
+      }
+    ],
+    "iso": "et",
+    "portrait": true
+  },
+  "tz": {
+    "name": "Tanzânia",
+    "aliases": [
+      "Tanzania"
+    ],
+    "hello": "Jambo! Habari!",
+    "who": "Zuri",
+    "outfit": "kanga estampado e colares maasai",
+    "hat": "beads",
+    "palette": [
+      "#1eb53a",
+      "#fcd116",
+      "#00a3dd"
+    ],
+    "tales": [
+      "Como nasceu o Kilimanjaro",
+      "A lebre e o elefante",
+      "A origem do lago Vitória",
+      "O espírito da baobá",
+      "A tartaruga da ilha de Zanzibar"
+    ],
+    "cities": [
+      {
+        "city": "Dar es Salaam",
+        "spots": "Museu Nacional, praia, mercado Kariakoo"
+      },
+      {
+        "city": "Zanzibar (Stone Town)",
+        "spots": "cidade de pedra, praias, especiarias"
+      },
+      {
+        "city": "Arusha / Serengeti",
+        "spots": "safári, Ngorongoro, Kilimanjaro"
+      }
+    ],
+    "iso": "tz",
+    "portrait": true
+  },
+  "cu": {
+    "name": "Cuba",
+    "aliases": [
+      "Cuba"
+    ],
+    "hello": "¡Hola!",
+    "who": "Celia",
+    "outfit": "rumba dress vermelho com babados e flores",
+    "hat": "flower",
+    "palette": [
+      "#002590",
+      "#ffffff",
+      "#cc0d0d"
+    ],
+    "tales": [
+      "El Güije do rio",
+      "A Virgen de la Caridad del Cobre",
+      "Cecilia Valdés (versão infantil)",
+      "O tesouro dos piratas de Havana",
+      "El monte e os orishas (conto suave)"
+    ],
+    "cities": [
+      {
+        "city": "Havana",
+        "spots": "Malecón, Havana Velha, Capitolio"
+      },
+      {
+        "city": "Trinidad",
+        "spots": "praça Mayor, palácios, vale de los Ingenios"
+      },
+      {
+        "city": "Varadero",
+        "spots": "praias, dunas, recife"
+      }
+    ],
+    "iso": "cu",
+    "portrait": true
+  },
+  "jm": {
+    "name": "Jamaica",
+    "aliases": [
+      "Jamaica"
+    ],
+    "hello": "Wah gwaan!",
+    "who": "Irie",
+    "outfit": "cores da bandeira, saia rodada e lenço",
+    "hat": "beanie",
+    "palette": [
+      "#009b3a",
+      "#fed100",
+      "#000000"
+    ],
+    "tales": [
+      "Anansi na Jamaica",
+      "O rio das lendas de Dunn's",
+      "O espírito da Blue Mountain",
+      "O papagaio de Port Royal",
+      "Como o reggae nasceu (conto)"
+    ],
+    "cities": [
+      {
+        "city": "Kingston",
+        "spots": "Bob Marley Museum, Devon House, Blue Mountains"
+      },
+      {
+        "city": "Montego Bay",
+        "spots": "Hip Strip, praias, Doctor's Cave"
+      },
+      {
+        "city": "Ocho Rios",
+        "spots": "Dunn's River Falls, baía, recifes"
+      }
+    ],
+    "iso": "jm",
+    "portrait": true
+  },
+  "cr": {
+    "name": "Costa Rica",
+    "aliases": [
+      "Costa Rica"
+    ],
+    "hello": "¡Pura vida!",
+    "who": "Sol",
+    "outfit": "traje de guanacaste com saia florida e lenço",
+    "hat": "flower",
+    "palette": [
+      "#002b7f",
+      "#ffffff",
+      "#ce1126"
+    ],
+    "tales": [
+      "A lenda da Cegonha de pedra",
+      "El Cadejos (versão suave)",
+      "A origem do vulcão Poás",
+      "A preguiça sábia da selva",
+      "O tesouro da ilha do Coco"
+    ],
+    "cities": [
+      {
+        "city": "San José",
+        "spots": "Teatro Nacional, mercado central, museus"
+      },
+      {
+        "city": "La Fortuna",
+        "spots": "vulcão Arenal, termas, floresta nublada"
+      },
+      {
+        "city": "Parque Manuel Antonio",
+        "spots": "praias, macacos, trilhos"
+      }
+    ],
+    "iso": "cr",
+    "portrait": true
+  },
+  "il": {
+    "name": "Israel",
+    "aliases": [
+      "Israel"
+    ],
+    "hello": "Shalom!",
+    "who": "Noa",
+    "outfit": "vestido branco bordado e sandálias",
+    "hat": "flower",
+    "palette": [
+      "#0038b8",
+      "#ffffff",
+      "#0038b8"
+    ],
+    "tales": [
+      "David e Golias (versão infantil)",
+      "Jonas e o grande peixe",
+      "A rainha de Sabá visita o rei",
+      "O deserto que deu água",
+      "A pomba da oliveira"
+    ],
+    "cities": [
+      {
+        "city": "Jerusalém",
+        "spots": "Cidade Velha, Muro Ocidental, Monte das Oliveiras"
+      },
+      {
+        "city": "Telavive",
+        "spots": "praias, Jaffa, mercado Carmel"
+      },
+      {
+        "city": "Mar Morto / Massada",
+        "spots": "flutuação no sal, fortaleza, deserto"
+      }
+    ],
+    "iso": "il",
+    "portrait": true
+  },
+  "is": {
+    "name": "Islândia",
+    "aliases": [
+      "Iceland"
+    ],
+    "hello": "Halló!",
+    "who": "Birta",
+    "outfit": "peysuföt de lã com colete e saia",
+    "hat": "beanie",
+    "palette": [
+      "#02529c",
+      "#dc1e35",
+      "#ffffff"
+    ],
+    "tales": [
+      "Os 13 Yule Lads (versão suave)",
+      "As fadas escondidas nas rochas",
+      "Como nasceu o geyser",
+      "O troll que virou pedra ao sol",
+      "A baleia da baía de Reykjavík"
+    ],
+    "cities": [
+      {
+        "city": "Reykjavík",
+        "spots": "Hallgrímskirkja, lago Tjörnin, porto"
+      },
+      {
+        "city": "Círculo Dourado",
+        "spots": "Gullfoss, Geysir, Thingvellir"
+      },
+      {
+        "city": "Vik",
+        "spots": "praia negra, Reynisdrangar, glaciares"
+      }
+    ],
+    "iso": "is",
+    "portrait": true
+  },
+  "py": {
+    "name": "Paraguai",
+    "aliases": [
+      "Paraguay"
+    ],
+    "hello": "¡Hola! Mba'éichapa!",
+    "who": "Nanduti",
+    "outfit": "ao po'i bordado e saia rodada",
+    "hat": "flower",
+    "palette": [
+      "#d52b1e",
+      "#ffffff",
+      "#0038a8"
+    ],
+    "tales": [
+      "O pombero",
+      "A lenda do tereré",
+      "Yasy Yateré (versão suave)",
+      "O rio Paraguai encantado",
+      "A origem do ñandutí"
+    ],
+    "cities": [
+      {
+        "city": "Assunção",
+        "spots": "Costanera, Palácio de López, Mercado 4"
+      },
+      {
+        "city": "Ciudad del Este",
+        "spots": "Cataratas de Monday, Ponte da Amizade"
+      },
+      {
+        "city": "Itaipú",
+        "spots": "barragem, miradouro, rio Paraná"
+      }
+    ],
+    "iso": "py",
+    "portrait": true
+  },
+  "uy": {
+    "name": "Uruguai",
+    "aliases": [
+      "Uruguay"
+    ],
+    "hello": "¡Hola!",
+    "who": "Cielo",
+    "outfit": "traje de gaúcho com bombacha e lenço",
+    "hat": "cowboy",
+    "palette": [
+      "#0038a8",
+      "#ffffff",
+      "#0038a8"
+    ],
+    "tales": [
+      "El lobizón",
+      "La luz mala (versão suave)",
+      "O tesouro da Fortaleza de Santa Teresa",
+      "A sereia do Río de la Plata",
+      "O mate encantado"
+    ],
+    "cities": [
+      {
+        "city": "Montevidéu",
+        "spots": "Rambla, Ciudad Vieja, Mercado del Puerto"
+      },
+      {
+        "city": "Colónia do Sacramento",
+        "spots": "bairro histórico, farol, rio"
+      },
+      {
+        "city": "Punta del Este",
+        "spots": "praias, casapueblo, mão de Punta"
+      }
+    ],
+    "iso": "uy",
+    "portrait": true
+  },
+  "bo": {
+    "name": "Bolívia",
+    "aliases": [
+      "Bolivia"
+    ],
+    "hello": "¡Hola! Jallalla!",
+    "who": "Luz",
+    "outfit": "pollera, manta e chapéu borsalino",
+    "hat": "sombrero",
+    "palette": [
+      "#d52b1e",
+      "#f9e300",
+      "#007934"
+    ],
+    "tales": [
+      "Ekeko, o deus da abundância",
+      "A lenda do lago Titicaca",
+      "El Kharisiri (versão suave)",
+      "O condor e a llama",
+      "A origem do Salar de Uyuni"
+    ],
+    "cities": [
+      {
+        "city": "La Paz",
+        "spots": "Valle de la Luna, teleférico, Mercado das Bruxas"
+      },
+      {
+        "city": "Sucre",
+        "spots": "casa da liberdade, telhados brancos, Cal Orck'o"
+      },
+      {
+        "city": "Uyuni",
+        "spots": "Salar, ilha Incahuasi, comboio cemitério"
+      }
+    ],
+    "iso": "bo",
+    "portrait": true
+  },
+  "ec": {
+    "name": "Equador",
+    "aliases": [
+      "Ecuador"
+    ],
+    "hello": "¡Hola!",
+    "who": "Pacha",
+    "outfit": "poncho andino e chapéu de palha toquilla",
+    "hat": "straw",
+    "palette": [
+      "#ffd100",
+      "#0072ce",
+      "#ef3340"
+    ],
+    "tales": [
+      "A lenda do Cotopaxi",
+      "O tesouro dos incas em Quito",
+      "As tartarugas de Galápagos",
+      "El duende dos Andes",
+      "A origem do chapéu do Panamá (toquilla)"
+    ],
+    "cities": [
+      {
+        "city": "Quito",
+        "spots": "centro histórico, Mitad del Mundo, teleférico"
+      },
+      {
+        "city": "Guayaquil",
+        "spots": "Malecón 2000, iguanas do parque, cerro Santa Ana"
+      },
+      {
+        "city": "Galápagos",
+        "spots": "tartarugas gigantes, leões-marinhos, vulcões"
+      }
+    ],
+    "iso": "ec",
+    "portrait": true
+  },
+  "ve": {
+    "name": "Venezuela",
+    "aliases": [
+      "Venezuela"
+    ],
+    "hello": "¡Hola!",
+    "who": "Oriana",
+    "outfit": "liquiliqui / vestido de joropo com flores",
+    "hat": "flower",
+    "palette": [
+      "#ffcc00",
+      "#00247d",
+      "#cf142b"
+    ],
+    "tales": [
+      "La Sayona (versão suave)",
+      "El Silbón (versão suave)",
+      "A origem do Salto Ángel",
+      "Maria Lionza",
+      "O tesouro de Canaima"
+    ],
+    "cities": [
+      {
+        "city": "Caracas",
+        "spots": "teleférico do Ávila, Praça Bolívar, museus"
+      },
+      {
+        "city": "Canaima",
+        "spots": "Salto Ángel, tepuis, rio Carrao"
+      },
+      {
+        "city": "Los Roques",
+        "spots": "cayo, recifes, praias de areia branca"
+      }
+    ],
+    "iso": "ve",
+    "portrait": true
+  },
+  "pk": {
+    "name": "Paquistão",
+    "aliases": [
+      "Pakistan"
+    ],
+    "hello": "Assalamu alaikum!",
+    "who": "Ayla",
+    "outfit": "shalwar kameez bordado com dupatta",
+    "hat": "flower",
+    "palette": [
+      "#01411c",
+      "#ffffff",
+      "#01411c"
+    ],
+    "tales": [
+      "As fábulas de Karachi à montanha",
+      "O vale de Hunza encantado",
+      "A lenda de Sohni Mahiwal (versão suave)",
+      "O tigre dos pântanos",
+      "Como nasceu o rio Indo"
+    ],
+    "cities": [
+      {
+        "city": "Lahore",
+        "spots": "Badshahi Mosque, Fortaleza, jardins Shalimar"
+      },
+      {
+        "city": "Islamabad",
+        "spots": "Mesquita Faisal, Margalla Hills, monumento"
+      },
+      {
+        "city": "Carachi",
+        "spots": "Mazar-e-Quaid, Clifton Beach, bazar"
+      }
+    ],
+    "iso": "pk",
+    "portrait": true
+  },
+  "bd": {
+    "name": "Bangladesh",
+    "aliases": [
+      "Bangladesh"
+    ],
+    "hello": "Namaskar!",
+    "who": "Riya",
+    "outfit": "sari vermelho e branco com pulseiras",
+    "hat": "flower",
+    "palette": [
+      "#006a4e",
+      "#f42a41",
+      "#006a4e"
+    ],
+    "tales": [
+      "As histórias de Thakurmar Jhuli",
+      "O tigre dos Sundarbans",
+      "A princesa do rio Padma",
+      "O barco de mil cores",
+      "Como o chá chegou a Sylhet"
+    ],
+    "cities": [
+      {
+        "city": "Daca",
+        "spots": "Lalbagh, Ahsan Manzil, mercado Sadarghat"
+      },
+      {
+        "city": "Sundarbans",
+        "spots": "mangais, tigres, barcos"
+      },
+      {
+        "city": "Cox's Bazar",
+        "spots": "praia mais longa, pôr do sol, pescadores"
+      }
+    ],
+    "iso": "bd",
+    "portrait": true
+  },
+  "np": {
+    "name": "Nepal",
+    "aliases": [
+      "Nepal"
+    ],
+    "hello": "Namaste!",
+    "who": "Pasang",
+    "outfit": "daura suruwal / sari nepali com dhaka topi",
+    "hat": "beanie",
+    "palette": [
+      "#dc143c",
+      "#003893",
+      "#ffffff"
+    ],
+    "tales": [
+      "A origem do Everest (Sagarmatha)",
+      "O yeti da montanha (versão suave)",
+      "A deusa Kumari",
+      "O macaco de Swayambhunath",
+      "A lenda do lago Fewa"
+    ],
+    "cities": [
+      {
+        "city": "Catmandu",
+        "spots": "Durbar Square, Swayambhunath, Boudhanath"
+      },
+      {
+        "city": "Pokhara",
+        "spots": "lago Fewa, vista do Annapurna, Paragliding"
+      },
+      {
+        "city": "Everest / Namche",
+        "spots": "trilho, mosteiros, picos"
+      }
+    ],
+    "iso": "np",
+    "portrait": true
+  },
+  "lk": {
+    "name": "Sri Lanka",
+    "aliases": [
+      "Sri Lanka"
+    ],
+    "hello": "Ayubowan!",
+    "who": "Nimal",
+    "outfit": "osariya / sarong com faixa dourada",
+    "hat": "flower",
+    "palette": [
+      "#ffb718",
+      "#8d153a",
+      "#00534e"
+    ],
+    "tales": [
+      "A origem do Ceilão",
+      "O príncipe e o elefante de Kandy",
+      "Sigiriya, a fortaleza no céu",
+      "A tartaruga da praia de Mirissa",
+      "O tesouro de Galle"
+    ],
+    "cities": [
+      {
+        "city": "Colombo",
+        "spots": "Galle Face, templo Gangaramaya, mercado Pettah"
+      },
+      {
+        "city": "Kandy",
+        "spots": "Templo do Dente, lago, jardim botânico"
+      },
+      {
+        "city": "Sigiriya / Galle",
+        "spots": "rocha-leão, fortaleza holandesa, praias"
+      }
+    ],
+    "iso": "lk",
+    "portrait": true
+  },
+  "sn": {
+    "name": "Senegal",
+    "aliases": [
+      "Senegal"
+    ],
+    "hello": "As-salaam alaikum! Nanga def?",
+    "who": "Awa",
+    "outfit": "boubou colorido com turbante",
+    "hat": "gele",
+    "palette": [
+      "#00853f",
+      "#fdef42",
+      "#e31b23"
+    ],
+    "tales": [
+      "Leuk-le-Lièvre, a lebre esperta",
+      "A origem da ilha de Gorée",
+      "O baobá falante",
+      "Anansi no Sahel",
+      "A sereia do rio Senegal"
+    ],
+    "cities": [
+      {
+        "city": "Dacar",
+        "spots": "Monumento da Renascença, mercado Sandaga, ilha de Gorée"
+      },
+      {
+        "city": "Saint-Louis",
+        "spots": "ilha colonial, pontes, aves do Parque Nacional"
+      },
+      {
+        "city": "Lac Rose",
+        "spots": "lago rosa, dunas, barcos de sal"
+      }
+    ],
+    "iso": "sn",
+    "portrait": true
+  },
+  "tn": {
+    "name": "Tunísia",
+    "aliases": [
+      "Tunisia"
+    ],
+    "hello": "Salam!",
+    "who": "Yasmine",
+    "outfit": "jebba bordada e sapatos babouche",
+    "hat": "fez",
+    "palette": [
+      "#e70013",
+      "#ffffff",
+      "#e70013"
+    ],
+    "tales": [
+      "A princesa de Cartago",
+      "O tesouro do deserto do Sahara",
+      "Ali Babá das medinas",
+      "A tartaruga de Djerba",
+      "O oásis de Tozeur"
+    ],
+    "cities": [
+      {
+        "city": "Tunes",
+        "spots": "medina, Museu do Bardo, sítio de Cartago"
+      },
+      {
+        "city": "Sidi Bou Said",
+        "spots": "casas azuis e brancas, café, miradouro"
+      },
+      {
+        "city": "El Djem / Tozeur",
+        "spots": "anfiteatro romano, oásis, deserto"
+      }
+    ],
+    "iso": "tn",
+    "portrait": true
+  },
+  "dz": {
+    "name": "Argélia",
+    "aliases": [
+      "Algeria"
+    ],
+    "hello": "Salam!",
+    "who": "Amel",
+    "outfit": "karakou bordado de Argel",
+    "hat": "flower",
+    "palette": [
+      "#006233",
+      "#ffffff",
+      "#d21034"
+    ],
+    "tales": [
+      "A princesa da Casbah",
+      "O tesouro do Tassili",
+      "O camelo e a estrela do Sahara",
+      "Djinn da oásis (versão suave)",
+      "A origem do cuscuz"
+    ],
+    "cities": [
+      {
+        "city": "Argel",
+        "spots": "Casbah, Notre-Dame d'Afrique, jardim do Testamento"
+      },
+      {
+        "city": "Constantina",
+        "spots": "pontes suspensas, gorges, palácio"
+      },
+      {
+        "city": "Tamanrasset / Tassili",
+        "spots": "deserto, arte rupestre, dunas"
+      }
+    ],
+    "iso": "dz",
+    "portrait": true
+  },
+  "cm": {
+    "name": "Camarões",
+    "aliases": [
+      "Cameroon"
+    ],
+    "hello": "Bonjour! Hello!",
+    "who": "Estelle",
+    "outfit": "kabba e tecido kente camaronês",
+    "hat": "gele",
+    "palette": [
+      "#007a5e",
+      "#ce1126",
+      "#fcd116"
+    ],
+    "tales": [
+      "O caracol e o leopardo",
+      "A origem do monte Camarões",
+      "O rio Wouri encantado",
+      "Anansi da floresta",
+      "O papagaio de Yaoundé"
+    ],
+    "cities": [
+      {
+        "city": "Yaoundé",
+        "spots": "Monte Fébé, museu nacional, mercado"
+      },
+      {
+        "city": "Duala",
+        "spots": "rio Wouri, porto, praias próximas"
+      },
+      {
+        "city": "Limbe",
+        "spots": "praia negra, jardim botânico, monte Camarões"
+      }
+    ],
+    "iso": "cm",
+    "portrait": true
+  },
+  "tw": {
+    "name": "Taiwan",
+    "aliases": [
+      "Taiwan"
+    ],
+    "hello": "你好!",
+    "who": "Mei-Lin",
+    "outfit": "qipao floral e laço no cabelo",
+    "hat": "flower",
+    "palette": [
+      "#fe0000",
+      "#000095",
+      "#ffffff"
+    ],
+    "tales": [
+      "A lenda da deusa Matsu",
+      "O lago do Sol e da Lua",
+      "O espírito da montanha Jade",
+      "O panda vermelho da floresta",
+      "Como nasceu o chá de bolhas (conto moderno)"
+    ],
+    "cities": [
+      {
+        "city": "Taipé",
+        "spots": "Taipei 101, mercado noturno, templo Longshan"
+      },
+      {
+        "city": "Taichung / Sun Moon Lake",
+        "spots": "lago, templos, ciclovia"
+      },
+      {
+        "city": "Kaohsiung",
+        "spots": "porto, templo Fo Guang Shan, Lotus Pond"
+      }
+    ],
+    "iso": "tw",
+    "portrait": true
+  },
+  "bg": {
+    "name": "Bulgária",
+    "aliases": [
+      "Bulgaria"
+    ],
+    "hello": "Здравей!",
+    "who": "Mila",
+    "outfit": "traje folclórico com avental bordado e coroa de flores",
+    "hat": "flower",
+    "palette": [
+      "#ffffff",
+      "#00966e",
+      "#d62612"
+    ],
+    "tales": [
+      "Krali Marko",
+      "A baba Marta e os martenitsi",
+      "O dragão das montanhas Ródope",
+      "A raposa e o ouriço",
+      "O vale das rosas"
+    ],
+    "cities": [
+      {
+        "city": "Sófia",
+        "spots": "Catedral Alexandre Nevsky, Monte Vitosha, serdika"
+      },
+      {
+        "city": "Plovdiv",
+        "spots": "teatro romano, cidade velha, colinas"
+      },
+      {
+        "city": "Veliko Tarnovo",
+        "spots": "fortaleza Tsarevets, rio Yantra, casas"
+      }
+    ],
+    "iso": "bg",
+    "portrait": true
+  },
+  "hr": {
+    "name": "Croácia",
+    "aliases": [
+      "Croatia"
+    ],
+    "hello": "Bok!",
+    "who": "Iva",
+    "outfit": "traje dálmata com colete bordado",
+    "hat": "flower",
+    "palette": [
+      "#171796",
+      "#ffffff",
+      "#ff0000"
+    ],
+    "tales": [
+      "O gravata nasceu aqui (conto da cravata)",
+      "O dragão de Dubrovnik",
+      "Vila das cascatas de Plitvice",
+      "O marinheiro de Split",
+      "A sereia do Adriático"
+    ],
+    "cities": [
+      {
+        "city": "Dubrovnik",
+        "spots": "muralhas, Stradun, ilha Lokrum"
+      },
+      {
+        "city": "Split",
+        "spots": "Palácio de Diocleciano, Riva, mercado"
+      },
+      {
+        "city": "Lagos de Plitvice",
+        "spots": "cascata, passerelles, bosques"
+      }
+    ],
+    "iso": "hr",
+    "portrait": true
+  },
+  "rs": {
+    "name": "Sérvia",
+    "aliases": [
+      "Serbia"
+    ],
+    "hello": "Zdravo!",
+    "who": "Mila",
+    "outfit": "traje šumadija com colete e saia",
+    "hat": "flower",
+    "palette": [
+      "#c6363c",
+      "#0c4076",
+      "#ffffff"
+    ],
+    "tales": [
+      "Marko Kraljević",
+      "A origem do Danúbio",
+      "O dragão de Belgrado",
+      "A raposa e o corvo",
+      "O mosteiro encantado"
+    ],
+    "cities": [
+      {
+        "city": "Belgrado",
+        "spots": "Kalemegdan, Skadarlija, rio Sava"
+      },
+      {
+        "city": "Novi Sad",
+        "spots": "Petrovaradin, praça da liberdade, Danúbio"
+      },
+      {
+        "city": "Niš",
+        "spots": "fortaleza, torre da caveira, termas"
+      }
+    ],
+    "iso": "rs",
+    "portrait": true
+  },
+  "sk": {
+    "name": "Eslováquia",
+    "aliases": [
+      "Slovakia"
+    ],
+    "hello": "Ahoj!",
+    "who": "Tatra",
+    "outfit": "kroj com avental bordado e fita",
+    "hat": "flower",
+    "palette": [
+      "#0b4ea2",
+      "#ee1c25",
+      "#ffffff"
+    ],
+    "tales": [
+      "Jánošík, o herói das montanhas",
+      "O dragão dos Tatras",
+      "A princesa de Bojnice",
+      "O espírito da floresta",
+      "O rio Danúbio cantor"
+    ],
+    "cities": [
+      {
+        "city": "Bratislava",
+        "spots": "castelo, centro histórico, Danúbio"
+      },
+      {
+        "city": "Košice",
+        "spots": "catedral, praça, teatro"
+      },
+      {
+        "city": "Montes Tatras",
+        "spots": "picos, lagos, comboio elétrico"
+      }
+    ],
+    "iso": "sk",
+    "portrait": true
+  },
+  "si": {
+    "name": "Eslovénia",
+    "aliases": [
+      "Slovenia"
+    ],
+    "hello": "Živjo!",
+    "who": "Lana",
+    "outfit": "traje alpino com avental e flor",
+    "hat": "flower",
+    "palette": [
+      "#0000ff",
+      "#ff0000",
+      "#ffffff"
+    ],
+    "tales": [
+      "O dragão de Liubliana",
+      "A origem do lago Bled",
+      "O pastor das montanhas Julianas",
+      "A abelha carniola",
+      "O rio esmeralda Soča"
+    ],
+    "cities": [
+      {
+        "city": "Liubliana",
+        "spots": "castelo, dragão da ponte, mercado"
+      },
+      {
+        "city": "Bled",
+        "spots": "ilha da igreja, castelo, lago"
+      },
+      {
+        "city": "Postojna",
+        "spots": "grutas, comboio subterrâneo, castelo Predjama"
+      }
+    ],
+    "iso": "si",
+    "portrait": true
+  },
+  "ae": {
+    "name": "Emirados Árabes Unidos",
+    "aliases": [
+      "United Arab Emirates"
+    ],
+    "hello": "Marhaba!",
+    "who": "Fatima",
+    "outfit": "abaya clara com xale dourado (ou kandura)",
+    "hat": "ghutra",
+    "palette": [
+      "#00732f",
+      "#ffffff",
+      "#ff0000"
+    ],
+    "tales": [
+      "A origem do oásis de Al Ain",
+      "O falcão e o deserto",
+      "Sindbad no Golfo",
+      "A pérola de Abu Dhabi",
+      "Como nasceu o Burj (conto moderno)"
+    ],
+    "cities": [
+      {
+        "city": "Dubai",
+        "spots": "Burj Khalifa, Dubai Mall, deserto"
+      },
+      {
+        "city": "Abu Dhabi",
+        "spots": "Mesquita Sheikh Zayed, Louvre Abu Dhabi, Yas Island"
+      },
+      {
+        "city": "Sharjah",
+        "spots": "museus, souq, praias"
+      }
+    ],
+    "iso": "ae",
+    "portrait": true
+  },
+  "iq": {
+    "name": "Iraque",
+    "aliases": [
+      "Iraq"
+    ],
+    "hello": "Salam!",
+    "who": "Rami",
+    "outfit": "dishdasha e keffiyeh",
+    "hat": "ghutra",
+    "palette": [
+      "#ce1126",
+      "#ffffff",
+      "#007a3d"
+    ],
+    "tales": [
+      "Gilgamesh para crianças",
+      "A origem da escrita em tábuas",
+      "Os jardins suspensos (lenda)",
+      "O rio Tigre e o rio Eufrates",
+      "Alibabá de Bagdade"
+    ],
+    "cities": [
+      {
+        "city": "Bagdade",
+        "spots": "Museu do Iraque, Tigre, mercados"
+      },
+      {
+        "city": "Babilónia / Hillah",
+        "spots": "ruínas, leão de Babilónia, rio"
+      },
+      {
+        "city": "Erbil",
+        "spots": "cidadela, bazar, parques"
+      }
+    ],
+    "iso": "iq",
+    "portrait": true
+  },
+  "pa": {
+    "name": "Panamá",
+    "aliases": [
+      "Panama"
+    ],
+    "hello": "¡Hola!",
+    "who": "Coco",
+    "outfit": "pollera panamenha com tembleques no cabelo",
+    "hat": "flower",
+    "palette": [
+      "#da121a",
+      "#ffffff",
+      "#072357"
+    ],
+    "tales": [
+      "A lenda do canal",
+      "El Chivato (versão suave)",
+      "A origem da pollera",
+      "O sapo dourado da floresta",
+      "O tesouro de Portobelo"
+    ],
+    "cities": [
+      {
+        "city": "Cidade do Panamá",
+        "spots": "Casco Viejo, Canal, Biomuseo"
+      },
+      {
+        "city": "Bocas del Toro",
+        "spots": "ilhas, praias, recifes"
+      },
+      {
+        "city": "Boquete",
+        "spots": "vulcão Barú, café, florestas nubladas"
+      }
+    ],
+    "iso": "pa",
+    "portrait": true
+  },
+  "ht": {
+    "name": "Haiti",
+    "aliases": [
+      "Haiti"
+    ],
+    "hello": "Bonjou!",
+    "who": "Nadège",
+    "outfit": "karabela colorida com lenço",
+    "hat": "flower",
+    "palette": [
+      "#00209f",
+      "#d21034",
+      "#00209f"
+    ],
+    "tales": [
+      "Bouki e Malice",
+      "A lenda da Citadelle",
+      "O espírito da montanha",
+      "Como nasceu a bandeira",
+      "A sereia do Caribe"
+    ],
+    "cities": [
+      {
+        "city": "Porto Príncipe",
+        "spots": "Museu, mercado Iron Market, palácio"
+      },
+      {
+        "city": "Cap-Haïtien",
+        "spots": "Citadelle Laferrière, Sans-Souci, praias"
+      },
+      {
+        "city": "Jacmel",
+        "spots": "carnival, baía, artesanato"
+      }
+    ],
+    "iso": "ht",
+    "portrait": true
+  },
+  "do": {
+    "name": "República Dominicana",
+    "aliases": [
+      "Dominican Rep.",
+      "Dominican Republic"
+    ],
+    "hello": "¡Hola!",
+    "who": "Luz",
+    "outfit": "vestido de carnaval e flores",
+    "hat": "flower",
+    "palette": [
+      "#002d62",
+      "#ffffff",
+      "#ce1126"
+    ],
+    "tales": [
+      "Ciguapa (versão suave)",
+      "A lenda de merengue",
+      "El tesoro de Santo Domingo",
+      "A origem do cacao",
+      "O pirata da ilha Saona"
+    ],
+    "cities": [
+      {
+        "city": "Santo Domingo",
+        "spots": "Zona Colonial, farol de Colombo, malecón"
+      },
+      {
+        "city": "Punta Cana",
+        "spots": "praias, recifes, Saona"
+      },
+      {
+        "city": "Puerto Plata",
+        "spots": "teleférico, fortaleza, âmbar"
+      }
+    ],
+    "iso": "do",
+    "portrait": true
+  },
+  "gl": {
+    "name": "Gronelândia",
+    "aliases": [
+      "Greenland"
+    ],
+    "hello": "Aluu!",
+    "who": "Nuka",
+    "outfit": "kofia de peles coloridas inuit (versão cartoon)",
+    "hat": "beanie",
+    "palette": [
+      "#c8102e",
+      "#ffffff",
+      "#c8102e"
+    ],
+    "tales": [
+      "A mãe do mar",
+      "O corvo que trouxe a luz",
+      "O cão de trenó herói",
+      "A aurora dançante",
+      "O gigante de gelo"
+    ],
+    "cities": [
+      {
+        "city": "Nuuk",
+        "spots": "fiordes, museu nacional, casas coloridas"
+      },
+      {
+        "city": "Ilulissat",
+        "spots": "icebergs, fiordes património, cães de trenó"
+      },
+      {
+        "city": "Sisimiut",
+        "spots": "porto, montanhas, aurora"
+      }
+    ],
+    "iso": "gl",
+    "portrait": true
+  },
+  "aq": {
+    "name": "Antártida",
+    "aliases": [
+      "Antarctica"
+    ],
+    "hello": "Olá, explorador!",
+    "who": "Pingu",
+    "outfit": "casaco de explorador polar e gorro",
+    "hat": "beanie",
+    "palette": [
+      "#7ecbff",
+      "#ffffff",
+      "#2b1b4e"
+    ],
+    "tales": [
+      "A marcha dos pinguins-imperadores",
+      "Como o continente ficou no Polo Sul",
+      "A aurora austral",
+      "O navio preso no gelo (Shackleton, versão suave)",
+      "A baleia-jubarte viajante"
+    ],
+    "cities": [
+      {
+        "city": "Estação McMurdo",
+        "spots": "base científica, vista para o monte Erebus"
+      },
+      {
+        "city": "Península Antártica",
+        "spots": "pinguins, icebergs, baleias"
+      },
+      {
+        "city": "Polo Sul (Amundsen-Scott)",
+        "spots": "cúpula científica, bandeiras, gelo eterno"
+      }
+    ],
+    "iso": "aq",
+    "portrait": true
+  },
+  "md": {
+    "name": "Moldávia",
+    "aliases": [
+      "Moldova",
+      "Moldavia",
+      "República da Moldávia"
+    ],
+    "hello": "Bună!",
+    "who": "Ioana",
+    "outfit": "ie bordada e coroa de flores",
+    "hat": "flower",
+    "palette": [
+      "#003da5",
+      "#ffd200",
+      "#c8102e"
+    ],
+    "tales": [
+      "Făt-Frumos e o Sol",
+      "O cavalo năzdrăvan",
+      "Baba Dochia e as nove capas",
+      "O balaur do lago",
+      "A estrela da manhã e a estrela da tarde"
+    ],
+    "cities": [
+      {
+        "city": "Chișinău",
+        "spots": "arco do triunfo, catedral, parque Valea Morilor"
+      },
+      {
+        "city": "Orhei",
+        "spots": "Orheiul Vechi, mosteiro na falésia, rio Răut"
+      },
+      {
+        "city": "Soroca",
+        "spots": "fortaleza, margens do Nistru, colinas"
+      }
+    ],
+    "iso": "md",
+    "portrait": true
+  },
+  "me": {
+    "name": "Montenegro",
+    "aliases": [
+      "Crna Gora",
+      "Montenegrin"
+    ],
+    "hello": "Zdravo!",
+    "who": "Lara",
+    "outfit": "traje crnogorski dourado",
+    "hat": "flower",
+    "palette": [
+      "#c40308",
+      "#f6d100",
+      "#1c4e89"
+    ],
+    "tales": [
+      "A vila do lago Skadar",
+      "O veado de chifres de ouro",
+      "As três irmãs de Kotor",
+      "O dragão adormecido de Lovćen",
+      "A maçã de ouro e os nove pavões"
+    ],
+    "cities": [
+      {
+        "city": "Podgorica",
+        "spots": "margens do Morača, parque, pontes"
+      },
+      {
+        "city": "Kotor",
+        "spots": "baía, muralhas, telhados laranja"
+      },
+      {
+        "city": "Cetinje",
+        "spots": "velha capital, Lovćen, mosteiro"
+      }
+    ],
+    "iso": "me",
+    "portrait": true
+  },
+  "al": {
+    "name": "Albânia",
+    "aliases": [
+      "Albania",
+      "Shqipëria"
+    ],
+    "hello": "Tungjatjeta!",
+    "who": "Arta",
+    "outfit": "traje folclórico com colete vermelho",
+    "hat": "flower",
+    "palette": [
+      "#e41e20",
+      "#1a1a1a",
+      "#f4d35e"
+    ],
+    "tales": [
+      "Rozafa e o castelo de Shkodër",
+      "A zana do Tomorr",
+      "O dragua e a kulshedra",
+      "Gjergj e a irmã",
+      "A águia de duas cabeças"
+    ],
+    "cities": [
+      {
+        "city": "Tirana",
+        "spots": "praça Skanderbeg, montanha Dajti, mercados"
+      },
+      {
+        "city": "Berat",
+        "spots": "casas otomanas, castelo, rio Osum"
+      },
+      {
+        "city": "Shkodër",
+        "spots": "castelo de Rozafa, lago, ponte"
+      }
+    ],
+    "iso": "al",
+    "portrait": true
+  },
+  "mk": {
+    "name": "Macedónia do Norte",
+    "aliases": [
+      "North Macedonia",
+      "Македонија"
+    ],
+    "hello": "Здраво!",
+    "who": "Elena",
+    "outfit": "traje folclórico macedónio bordado",
+    "hat": "flower",
+    "palette": [
+      "#d20000",
+      "#ffe600",
+      "#1a1a1a"
+    ],
+    "tales": [
+      "O poço de Ohrid",
+      "Itar Pejo e o mel",
+      "As samovilas do Pelister",
+      "O cavalo Šarac",
+      "A pedra do Kale"
+    ],
+    "cities": [
+      {
+        "city": "Skopje",
+        "spots": "fortaleza do Kale, ponte de pedra, bazar"
+      },
+      {
+        "city": "Ohrid",
+        "spots": "lago, cidade velha, igrejas à beira da água"
+      },
+      {
+        "city": "Bitola",
+        "spots": "mercado, rua antiga, Pelister ao fundo"
+      }
+    ],
+    "iso": "mk",
+    "portrait": true
+  },
+  "ba": {
+    "name": "Bósnia e Herzegovina",
+    "aliases": [
+      "Bosnia",
+      "Bosnia and Herzegovina"
+    ],
+    "hello": "Zdravo!",
+    "who": "Emina",
+    "outfit": "dimije e colete bordado",
+    "hat": "flower",
+    "palette": [
+      "#002395",
+      "#fcd116",
+      "#ffffff"
+    ],
+    "tales": [
+      "A ponte de Mostar",
+      "A vila de Blagaj",
+      "O dragão de Vranduk",
+      "As duas torres de Sarajevo",
+      "A colher do bazar"
+    ],
+    "cities": [
+      {
+        "city": "Sarajevo",
+        "spots": "bazar, rio Miljacka, colinas"
+      },
+      {
+        "city": "Mostar",
+        "spots": "ponte velha, Neretva, casas de pedra"
+      },
+      {
+        "city": "Blagaj",
+        "spots": "nascente na falésia, casa junto à água"
+      }
+    ],
+    "iso": "ba",
+    "portrait": true
+  },
+  "xk": {
+    "name": "Kosovo",
+    "aliases": [
+      "Kosova",
+      "Kosovë"
+    ],
+    "hello": "Tungjatjeta!",
+    "who": "Drita",
+    "outfit": "traje folclórico do Kosovo",
+    "hat": "flower",
+    "palette": [
+      "#244aa5",
+      "#d0a650",
+      "#ffffff"
+    ],
+    "tales": [
+      "A nascente do Drin Branco",
+      "O fio de Prizren",
+      "O cordeiro na neblina",
+      "As andorinhas de Gračanica",
+      "O plátano de Pristina"
+    ],
+    "cities": [
+      {
+        "city": "Pristina",
+        "spots": "largo dos plátanos, mercado, biblioteca"
+      },
+      {
+        "city": "Prizren",
+        "spots": "rio, ourives, ponte de pedra"
+      },
+      {
+        "city": "Gračanica",
+        "spots": "igreja antiga, andorinhas, campos"
+      }
+    ],
+    "iso": "xk",
+    "portrait": true
+  },
+  "cy": {
+    "name": "Chipre",
+    "aliases": [
+      "Cyprus",
+      "Kypros"
+    ],
+    "hello": "Γειά σου!",
+    "who": "Nikos",
+    "outfit": "vraka e colete folclórico",
+    "hat": "fez",
+    "palette": [
+      "#d57800",
+      "#ffffff",
+      "#2e7d32"
+    ],
+    "tales": [
+      "A rocha branca de Pafos",
+      "O muflão de Troodos",
+      "O bordado de Lefkara",
+      "A laranjeira carregada",
+      "Os papagaios de Nicósia"
+    ],
+    "cities": [
+      {
+        "city": "Nicósia",
+        "spots": "muralhas, cidade velha, portões"
+      },
+      {
+        "city": "Pafos",
+        "spots": "rocha branca, mosaicos, porto"
+      },
+      {
+        "city": "Lefkara",
+        "spots": "bordados, ruelas, montanhas"
+      }
+    ],
+    "iso": "cy",
+    "portrait": true
+  },
+  "ge": {
+    "name": "Geórgia",
+    "aliases": [
+      "Georgia",
+      "Sakartvelo"
+    ],
+    "hello": "გამარჯობა!",
+    "who": "Nino",
+    "outfit": "chokha georgiano com cartucheiras",
+    "hat": "none",
+    "palette": [
+      "#ffffff",
+      "#e10600",
+      "#1a1a1a"
+    ],
+    "tales": [
+      "Amirani e a cerca de neve",
+      "A vindima de Kakheti",
+      "O tapete da curva",
+      "A água quente de Tbilisi",
+      "O veado no inverno"
+    ],
+    "cities": [
+      {
+        "city": "Tbilisi",
+        "spots": "banhos quentes, varandas, rio Mtkvari"
+      },
+      {
+        "city": "Telavi",
+        "spots": "vinhas de Kakheti, muralhas, planície"
+      },
+      {
+        "city": "Mestia",
+        "spots": "torres svan, Cáucaso, neve"
+      }
+    ],
+    "iso": "ge",
+    "portrait": true
+  },
+  "am": {
+    "name": "Arménia",
+    "aliases": [
+      "Armenia",
+      "Hayastan"
+    ],
+    "hello": "Բարեւ!",
+    "who": "Ani",
+    "outfit": "taraz arménio bordado e cinto",
+    "hat": "flower",
+    "palette": [
+      "#d90012",
+      "#0033a0",
+      "#f2a800"
+    ],
+    "tales": [
+      "O caroço de alperce",
+      "A cegonha do lago Sevan",
+      "A tábua do nome",
+      "A vela e a flor",
+      "O lavash partido"
+    ],
+    "cities": [
+      {
+        "city": "Erevã",
+        "spots": "mercado, cascata, vista do Aragats"
+      },
+      {
+        "city": "Sevan",
+        "spots": "lago alto, cegonhas, mosteiro"
+      },
+      {
+        "city": "Dilijan",
+        "spots": "florestas, casas de madeira, ribeiros"
+      }
+    ],
+    "iso": "am",
+    "portrait": true
+  },
+  "az": {
+    "name": "Azerbaijão",
+    "aliases": [
+      "Azerbaijan",
+      "Azərbaycan"
+    ],
+    "hello": "Salam!",
+    "who": "Leyla",
+    "outfit": "vestido de seda e lenço kalaghai",
+    "hat": "flower",
+    "palette": [
+      "#00b5e2",
+      "#e4002b",
+      "#509e2f"
+    ],
+    "tales": [
+      "A torre da donzela",
+      "A romã de Ganja",
+      "A chama do chão",
+      "O tapete da cidade velha",
+      "O trigo da primavera"
+    ],
+    "cities": [
+      {
+        "city": "Baku",
+        "spots": "cidade velha, torre, mar Cáspio"
+      },
+      {
+        "city": "Ganja",
+        "spots": "romãzeiras, parques, centro antigo"
+      },
+      {
+        "city": "Sheki",
+        "spots": "palácio, vitrais, montanhas"
+      }
+    ],
+    "iso": "az",
+    "portrait": true
+  },
+  "by": {
+    "name": "Bielorrússia",
+    "aliases": [
+      "Belarus",
+      "Bielorrússia"
+    ],
+    "hello": "Вітаю!",
+    "who": "Vasilisa",
+    "outfit": "vyshyvanka e coroa de flores",
+    "hat": "flower",
+    "palette": [
+      "#c8313e",
+      "#4aa02c",
+      "#ffffff"
+    ],
+    "tales": [
+      "O bisão da clareira",
+      "A luz no castelo de Mir",
+      "O linho azul",
+      "As flores de gelo",
+      "A cegonha do telhado"
+    ],
+    "cities": [
+      {
+        "city": "Minsque",
+        "spots": "rios, avenidas, parques"
+      },
+      {
+        "city": "Mir",
+        "spots": "castelo vermelho, lago, muralhas"
+      },
+      {
+        "city": "Brest",
+        "spots": "fortaleza, floresta, rio"
+      }
+    ],
+    "iso": "by",
+    "portrait": true
+  },
+  "lt": {
+    "name": "Lituânia",
+    "aliases": [
+      "Lithuania",
+      "Lietuva"
+    ],
+    "hello": "Labas!",
+    "who": "Gabija",
+    "outfit": "saia às riscas e coroa de flores",
+    "hat": "flower",
+    "palette": [
+      "#fdb913",
+      "#006a44",
+      "#c1272d"
+    ],
+    "tales": [
+      "O lume chamado Gabija",
+      "A ponte de Trakai",
+      "A tijela de leite",
+      "A duna de Neringa",
+      "A canção do linho"
+    ],
+    "cities": [
+      {
+        "city": "Vilnius",
+        "spots": "cidade velha, rio Neris, colina do castelo"
+      },
+      {
+        "city": "Trakai",
+        "spots": "castelo na ilha, lago, patos"
+      },
+      {
+        "city": "Nida",
+        "spots": "dunas, laguna, casas de madeira"
+      }
+    ],
+    "iso": "lt",
+    "portrait": true
+  },
+  "lv": {
+    "name": "Letónia",
+    "aliases": [
+      "Latvia",
+      "Latvija"
+    ],
+    "hello": "Sveiki!",
+    "who": "Maija",
+    "outfit": "saia de lã e cinto Lielvārde",
+    "hat": "flower",
+    "palette": [
+      "#9e3039",
+      "#ffffff",
+      "#1a1a1a"
+    ],
+    "tales": [
+      "O cinto de Lielvārde",
+      "O gelo do Daugava",
+      "Lāčplēsis e o urso",
+      "A flor do feto",
+      "O âmbar de Jūrmala"
+    ],
+    "cities": [
+      {
+        "city": "Riga",
+        "spots": "Daugava, centro antigo, mercados"
+      },
+      {
+        "city": "Jūrmala",
+        "spots": "praia, pinheiros, âmbar"
+      },
+      {
+        "city": "Cēsis",
+        "spots": "castelo, rio, colinas"
+      }
+    ],
+    "iso": "lv",
+    "portrait": true
+  },
+  "ee": {
+    "name": "Estónia",
+    "aliases": [
+      "Estonia",
+      "Eesti"
+    ],
+    "hello": "Tere!",
+    "who": "Liisa",
+    "outfit": "saia folclórica às riscas e grinalda",
+    "hat": "flower",
+    "palette": [
+      "#0072CE",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "O dia partilhado",
+      "O ajudante de tralha",
+      "As pedras do caminho",
+      "O peixe do lago Peipsi",
+      "A canção em duas vozes"
+    ],
+    "cities": [
+      {
+        "city": "Talim",
+        "spots": "cidade velha, mar Báltico, muralhas"
+      },
+      {
+        "city": "Tartu",
+        "spots": "rio, colinas, casas de madeira"
+      },
+      {
+        "city": "Kuressaare",
+        "spots": "ilha, castelo, costa"
+      }
+    ],
+    "iso": "ee",
+    "portrait": true
+  },
+  "lu": {
+    "name": "Luxemburgo",
+    "aliases": [
+      "Luxembourg",
+      "Lëtzebuerg"
+    ],
+    "hello": "Moien!",
+    "who": "Lina",
+    "outfit": "traje rural com avental e touca",
+    "hat": "flower",
+    "palette": [
+      "#ED2939",
+      "#FFFFFF",
+      "#00A1DE"
+    ],
+    "tales": [
+      "O dia quieto de Melusina",
+      "A dança de Echternach",
+      "A chave das casamatas",
+      "A ponte de Vianden",
+      "A última pera"
+    ],
+    "cities": [
+      {
+        "city": "Luxemburgo",
+        "spots": "casamatas, casco antigo, rio Alzette"
+      },
+      {
+        "city": "Echternach",
+        "spots": "ponte, dança, rio"
+      },
+      {
+        "city": "Vianden",
+        "spots": "castelo, ponte, pomar"
+      }
+    ],
+    "iso": "lu",
+    "portrait": true
+  },
+  "kz": {
+    "name": "Cazaquistão",
+    "aliases": [
+      "Kazakhstan",
+      "Qazaqstan"
+    ],
+    "hello": "Сәлем!",
+    "who": "Aigerim",
+    "outfit": "chapan de veludo e saukele",
+    "hat": "kokoshnik",
+    "palette": [
+      "#00AFCA",
+      "#F9D616",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "O anel do telhado",
+      "A águia e o cordeiro",
+      "Aldar Kose e o kumis",
+      "A canção do kobyz",
+      "O cavalo da estepe"
+    ],
+    "cities": [
+      {
+        "city": "Astana",
+        "spots": "estepe, yurtas, céu largo"
+      },
+      {
+        "city": "Almaty",
+        "spots": "montanhas, mercados, maçãs"
+      },
+      {
+        "city": "Turquestão",
+        "spots": "pastos, cidade antiga, estepe"
+      }
+    ],
+    "iso": "kz",
+    "portrait": true
+  },
+  "uz": {
+    "name": "Uzbequistão",
+    "aliases": [
+      "Uzbekistan",
+      "Oʻzbekiston"
+    ],
+    "hello": "Salom!",
+    "who": "Gulnara",
+    "outfit": "chapan ikat atlas e tubeteika",
+    "hat": "non",
+    "palette": [
+      "#0099B5",
+      "#1EB53A",
+      "#CE1126"
+    ],
+    "tales": [
+      "Afandi e o tacho",
+      "O plov da rua",
+      "A escada da torre",
+      "O melão de Samarcanda",
+      "O fio de seda"
+    ],
+    "cities": [
+      {
+        "city": "Samarcanda",
+        "spots": "Registão, melões, azulejos"
+      },
+      {
+        "city": "Bucara",
+        "spots": "vielas, torre, plov"
+      },
+      {
+        "city": "Tasquente",
+        "spots": "bazar, seda, chá"
+      }
+    ],
+    "iso": "uz",
+    "portrait": true
+  },
+  "ir": {
+    "name": "Irão",
+    "aliases": [
+      "Iran",
+      "ایران"
+    ],
+    "hello": "سلام!",
+    "who": "Azar",
+    "outfit": "vestido tribal persa com lenço floral",
+    "hat": "flower",
+    "palette": [
+      "#239F40",
+      "#FFFFFF",
+      "#DA0000"
+    ],
+    "tales": [
+      "A pena da Simorq",
+      "O qanat partilhado",
+      "A ponte de Isfahan",
+      "A mesa da primavera",
+      "O rouxinol e a romã"
+    ],
+    "cities": [
+      {
+        "city": "Teerão",
+        "spots": "jardins, qanat, festa da primavera"
+      },
+      {
+        "city": "Isfahan",
+        "spots": "ponte dos arcos, rio, chá"
+      },
+      {
+        "city": "Xiraz",
+        "spots": "jardins, romãzeiras, poesia"
+      }
+    ],
+    "iso": "ir",
+    "portrait": true
+  },
+  "jo": {
+    "name": "Jordânia",
+    "aliases": [
+      "Jordan",
+      "الأردن"
+    ],
+    "hello": "مرحبا!",
+    "who": "Lina",
+    "outfit": "thobe bordado e shemagh",
+    "hat": "flower",
+    "palette": [
+      "#007A3D",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "tales": [
+      "O desfiladeiro rosa",
+      "O café do hóspede",
+      "A oliveira do terraço",
+      "O vento de Wadi Rum",
+      "A água que não se bebe"
+    ],
+    "cities": [
+      {
+        "city": "Amã",
+        "spots": "terraços, oliveiras, colinas"
+      },
+      {
+        "city": "Petra",
+        "spots": "desfiladeiro rosa, pedra, trilho"
+      },
+      {
+        "city": "Wadi Rum",
+        "spots": "areia, rochas, vento"
+      }
+    ],
+    "iso": "jo",
+    "portrait": true
+  },
+  "lb": {
+    "name": "Líbano",
+    "aliases": [
+      "Lebanon",
+      "لبنان"
+    ],
+    "hello": "مرحبا!",
+    "who": "Yasmin",
+    "outfit": "traje aldeão libanês bordado",
+    "hat": "flower",
+    "palette": [
+      "#ED1C24",
+      "#FFFFFF",
+      "#00A651"
+    ],
+    "tales": [
+      "A pinha do cedro",
+      "O rio de terra vermelha",
+      "O jasmim do poço",
+      "O barco de Biblos",
+      "O pão e o tomilho"
+    ],
+    "cities": [
+      {
+        "city": "Beirute",
+        "spots": "escadas, pão, mar"
+      },
+      {
+        "city": "Biblos",
+        "spots": "porto, barcos, pedras antigas"
+      },
+      {
+        "city": "Cedros",
+        "spots": "montanha, cedros, trilhos"
+      }
+    ],
+    "iso": "lb",
+    "portrait": true
+  },
+  "om": {
+    "name": "Omã",
+    "aliases": [
+      "Oman",
+      "عُمان"
+    ],
+    "hello": "مرحبا!",
+    "who": "Amal",
+    "outfit": "dishdasha e gorro kumma",
+    "hat": "none",
+    "palette": [
+      "#DB161B",
+      "#FFFFFF",
+      "#008000"
+    ],
+    "tales": [
+      "A lágrima de incenso",
+      "A vez da água",
+      "A tartaruga na areia",
+      "A tâmara de Nizwa",
+      "O bode que voltou"
+    ],
+    "cities": [
+      {
+        "city": "Mascate",
+        "spots": "mar, forte, mercado"
+      },
+      {
+        "city": "Nizwa",
+        "spots": "forte, tâmaras, souq"
+      },
+      {
+        "city": "Salalah",
+        "spots": "incenso, verde, costa"
+      }
+    ],
+    "iso": "om",
+    "portrait": true
+  },
+  "qa": {
+    "name": "Catar",
+    "aliases": [
+      "Qatar",
+      "قطر"
+    ],
+    "hello": "مرحبا!",
+    "who": "Maryam",
+    "outfit": "thawb branco e ghutra",
+    "hat": "ghutra",
+    "palette": [
+      "#8A1538",
+      "#FFFFFF",
+      "#8A1538"
+    ],
+    "tales": [
+      "O órix que passa",
+      "O falcão que volta",
+      "O mangue e o caranguejo",
+      "A pérola da avó",
+      "O café do souq"
+    ],
+    "cities": [
+      {
+        "city": "Doha",
+        "spots": "pátio, falcão, cidade"
+      },
+      {
+        "city": "Al Zubarah",
+        "spots": "costa, história, vento"
+      },
+      {
+        "city": "Souq Waqif",
+        "spots": "café, doces, ruelas"
+      }
+    ],
+    "iso": "qa",
+    "portrait": true
+  },
+  "af": {
+    "name": "Afeganistão",
+    "aliases": [
+      "Afghanistan",
+      "افغانستان"
+    ],
+    "hello": "سلام!",
+    "who": "Laila",
+    "outfit": "vestido kuchi bordado com moedas",
+    "hat": "beads",
+    "palette": [
+      "#000000",
+      "#D32011",
+      "#007A36"
+    ],
+    "tales": [
+      "Os lagos azuis",
+      "Os dois papagaios",
+      "A romã partida",
+      "O pão e o chá da porta",
+      "O fio de Herat"
+    ],
+    "cities": [
+      {
+        "city": "Cabul",
+        "spots": "colinas, pão, papagaios"
+      },
+      {
+        "city": "Herat",
+        "spots": "teares, pátios, luz"
+      },
+      {
+        "city": "Band-e Amir",
+        "spots": "lagos azuis, montanhas, peixes"
+      }
+    ],
+    "iso": "af",
+    "portrait": true
+  },
+  "ly": {
+    "name": "Líbia",
+    "aliases": [
+      "Libya",
+      "ليبيا"
+    ],
+    "hello": "سلام!",
+    "who": "Amal",
+    "outfit": "farmla bordada e vestido colorido",
+    "hat": "flower",
+    "palette": [
+      "#E70013",
+      "#000000",
+      "#239E46"
+    ],
+    "tales": [
+      "A lanterna da rua coberta",
+      "A raposa do deserto",
+      "A pedra que fica",
+      "As tâmaras do oásis",
+      "A gazela e o poço"
+    ],
+    "cities": [
+      {
+        "city": "Trípoli",
+        "spots": "medina, mar, casas brancas"
+      },
+      {
+        "city": "Ghadames",
+        "spots": "ruas cobertas, lanternas"
+      },
+      {
+        "city": "Ghat",
+        "spots": "oásis, palmeiras, deserto"
+      }
+    ],
+    "iso": "ly",
+    "portrait": true
+  },
+  "kw": {
+    "name": "Kuwait",
+    "aliases": [
+      "Kuwait",
+      "الكويت"
+    ],
+    "hello": "مرحبا!",
+    "who": "Noor",
+    "outfit": "dishdasha e ghutra",
+    "hat": "ghutra",
+    "palette": [
+      "#007A3D",
+      "#FFFFFF",
+      "#CE1126"
+    ],
+    "tales": [
+      "A ostra e a conta",
+      "O barco na maré",
+      "O poço da ilha",
+      "A conta do souq",
+      "A vela antes do vento"
+    ],
+    "cities": [
+      {
+        "city": "Cidade do Kuwait",
+        "spots": "mar, dhow, torres"
+      },
+      {
+        "city": "Failaka",
+        "spots": "ilha, poço, costa"
+      },
+      {
+        "city": "Souq",
+        "spots": "contas, lojas, chá"
+      }
+    ],
+    "iso": "kw",
+    "portrait": true
+  },
+  "kg": {
+    "name": "Quirguistão",
+    "aliases": [
+      "Kyrgyzstan",
+      "Кыргызстан"
+    ],
+    "hello": "Салам!",
+    "who": "Aigul",
+    "outfit": "chapan e chapéu kalpak",
+    "hat": "non",
+    "palette": [
+      "#E8112D",
+      "#FFEF00",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "O chapéu que não vai ao chão",
+      "As luzes do lago",
+      "O tapete que é um mapa",
+      "As três cordas",
+      "O leopardo na crista"
+    ],
+    "cities": [
+      {
+        "city": "Bisqueque",
+        "spots": "montanhas, tapetes, cidade"
+      },
+      {
+        "city": "Karakol",
+        "spots": "lago Issyk-Kul, margem, flores"
+      },
+      {
+        "city": "Osh",
+        "spots": "iurtas, mercado, montanha"
+      }
+    ],
+    "iso": "kg",
+    "portrait": true
+  },
+  "tj": {
+    "name": "Tajiquistão",
+    "aliases": [
+      "Tajikistan",
+      "Тоҷикистон"
+    ],
+    "hello": "Салом!",
+    "who": "Parvina",
+    "outfit": "chapan de atlas e tubeteika",
+    "hat": "non",
+    "palette": [
+      "#CC0000",
+      "#FFFFFF",
+      "#006600"
+    ],
+    "tales": [
+      "A nascente do Pamir",
+      "O pássaro e a semente",
+      "A amoreira da seda",
+      "A canção da lareira",
+      "O pão partido na estrada"
+    ],
+    "cities": [
+      {
+        "city": "Duchambe",
+        "spots": "vale, pão, estrada"
+      },
+      {
+        "city": "Khujand",
+        "spots": "amoreiras, hortas, rio"
+      },
+      {
+        "city": "Khorog",
+        "spots": "Pamir, lareira, montanhas"
+      }
+    ],
+    "iso": "tj",
+    "portrait": true
+  },
+  "tm": {
+    "name": "Turquemenistão",
+    "aliases": [
+      "Turkmenistan",
+      "Türkmenistan"
+    ],
+    "hello": "Salam!",
+    "who": "Gozel",
+    "outfit": "robe vermelho turcomeno",
+    "hat": "beanie",
+    "palette": [
+      "#00843D",
+      "#D22630",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "O cavalo dourado",
+      "A chama longe",
+      "O tapete e o poço",
+      "A romã de Merv",
+      "O fio do robe vermelho"
+    ],
+    "cities": [
+      {
+        "city": "Asgabate",
+        "spots": "cavalo dourado, cidade, deserto"
+      },
+      {
+        "city": "Merv",
+        "spots": "oásis, romãs, tapetes"
+      },
+      {
+        "city": "Dashoguz",
+        "spots": "robe vermelho, mercado"
+      }
+    ],
+    "iso": "tm",
+    "portrait": true
+  },
+  "mn": {
+    "name": "Mongólia",
+    "aliases": [
+      "Mongolia",
+      "Монгол"
+    ],
+    "hello": "Сайн уу!",
+    "who": "Temuulen",
+    "outfit": "deel de seda azul e chapéu de pelo",
+    "hat": "beanie",
+    "palette": [
+      "#DA2032",
+      "#0066B3",
+      "#F9D616"
+    ],
+    "tales": [
+      "A porta da ger",
+      "O monte de pedras",
+      "A canção do cavalo",
+      "O camelo e a água",
+      "As sete estrelas"
+    ],
+    "cities": [
+      {
+        "city": "Ulan Bator",
+        "spots": "estepe, cidade, céu"
+      },
+      {
+        "city": "Karakorum",
+        "spots": "pedras, instrumento, planície"
+      },
+      {
+        "city": "Lago Khövsgöl",
+        "spots": "estrelas, água, ger"
+      }
+    ],
+    "iso": "mn",
+    "portrait": true
+  },
+  "gt": {
+    "name": "Guatemala",
+    "aliases": [
+      "Guatemala"
+    ],
+    "hello": "¡Hola!",
+    "who": "Ixchel",
+    "outfit": "huipil e corte tecidos à mão",
+    "hat": "flower",
+    "palette": [
+      "#4997D0",
+      "#FFFFFF",
+      "#4997D0"
+    ],
+    "tales": [
+      "O quetzal livre",
+      "As três sementes",
+      "A ceiba que não se corta",
+      "Os vulcões adormecidos",
+      "O coelho na lua"
+    ],
+    "cities": [
+      {
+        "city": "Antígua",
+        "spots": "praça, ceiba, vulcão ao longe"
+      },
+      {
+        "city": "Santiago Atitlán",
+        "spots": "lago, barcos, milho"
+      },
+      {
+        "city": "Floresta alta",
+        "spots": "quetzal, nuvens, árvores"
+      }
+    ],
+    "iso": "gt",
+    "portrait": true
+  },
+  "hn": {
+    "name": "Honduras",
+    "aliases": [
+      "Honduras"
+    ],
+    "hello": "¡Hola!",
+    "who": "Rosa",
+    "outfit": "vestido folclórico branco e vermelho",
+    "hat": "flower",
+    "palette": [
+      "#0073CF",
+      "#FFFFFF",
+      "#0073CF"
+    ],
+    "tales": [
+      "A arara de Copán",
+      "O cão branco do caminho",
+      "O tambor que chama o barco",
+      "O beija-flor",
+      "A ilha das aves"
+    ],
+    "cities": [
+      {
+        "city": "Copán",
+        "spots": "araras, pedras, árvores"
+      },
+      {
+        "city": "Tegucigalpa",
+        "spots": "colinas, jardim, caminho"
+      },
+      {
+        "city": "Lago de Yojoa",
+        "spots": "aves, barco lento, água"
+      }
+    ],
+    "iso": "hn",
+    "portrait": true
+  },
+  "sv": {
+    "name": "El Salvador",
+    "aliases": [
+      "El Salvador"
+    ],
+    "hello": "¡Hola!",
+    "who": "Carmen",
+    "outfit": "vestido carbonera com fitas",
+    "hat": "flower",
+    "palette": [
+      "#0F47AF",
+      "#FFFFFF",
+      "#0F47AF"
+    ],
+    "tales": [
+      "A luz do vulcão",
+      "O pássaro de cauda de remo",
+      "As pupusas da praça",
+      "A árvore cor-de-rosa",
+      "As andorinhas de Suchitoto"
+    ],
+    "cities": [
+      {
+        "city": "San Salvador",
+        "spots": "praça, pupusas, colinas"
+      },
+      {
+        "city": "Suchitoto",
+        "spots": "lago, andorinhas, telhados"
+      },
+      {
+        "city": "Izalco",
+        "spots": "luz ao longe, outeiro seguro"
+      }
+    ],
+    "iso": "sv",
+    "portrait": true
+  },
+  "ni": {
+    "name": "Nicarágua",
+    "aliases": [
+      "Nicaragua"
+    ],
+    "hello": "¡Hola!",
+    "who": "Marisol",
+    "outfit": "traje mestiza nicaraguense",
+    "hat": "flower",
+    "palette": [
+      "#0067C6",
+      "#FFFFFF",
+      "#0067C6"
+    ],
+    "tales": [
+      "A ilha dos dois vulcões",
+      "O peixe grande do lago",
+      "A dança que responde",
+      "As ilhotas",
+      "O pinol da avó"
+    ],
+    "cities": [
+      {
+        "city": "Granada",
+        "spots": "lago, ilhotas, casas amarelas"
+      },
+      {
+        "city": "Ometepe",
+        "spots": "dois vulcões, barco, espiral"
+      },
+      {
+        "city": "León",
+        "spots": "mercado, música, rua"
+      }
+    ],
+    "iso": "ni",
+    "portrait": true
+  },
+  "ncyp": {
+    "name": "Chipre do Norte",
+    "aliases": [
+      "Northern Cyprus",
+      "Chipre do Norte"
+    ],
+    "hello": "Merhaba!",
+    "who": "Defne",
+    "outfit": "traje folclórico cipriota",
+    "hat": "flower",
+    "palette": [
+      "#E30A17",
+      "#FFFFFF",
+      "#E30A17"
+    ],
+    "tales": [
+      "A mão da montanha",
+      "O lago salgado",
+      "A oliveira paciente",
+      "Os gatos do porto",
+      "A fonte do caminho"
+    ],
+    "cities": [
+      {
+        "city": "Girne",
+        "spots": "porto, gatos, muralha"
+      },
+      {
+        "city": "os cinco dedos",
+        "spots": "serra, fonte, pinheiros"
+      },
+      {
+        "city": "o lago",
+        "spots": "sal, branco, flamingos ao longe"
+      }
+    ],
+    "iso": "ncyp",
+    "portrait": true
+  },
+  "fj": {
+    "name": "Fiji",
+    "aliases": [
+      "Fiji"
+    ],
+    "hello": "Bula!",
+    "who": "Lani",
+    "outfit": "sulu de tapa e flor no cabelo",
+    "hat": "flower",
+    "palette": [
+      "#68BFE5",
+      "#FFFFFF",
+      "#CE1126"
+    ],
+    "tales": [
+      "O fogo que se respeita",
+      "O recife que deu espaço",
+      "A tartaruga mensageira",
+      "A promessa da baleia",
+      "O peixe partido"
+    ],
+    "cities": [
+      {
+        "city": "Suva",
+        "spots": "mercado, baía, museu"
+      },
+      {
+        "city": "Beqa",
+        "spots": "aldeia do fogo, recife, praia"
+      },
+      {
+        "city": "Bau",
+        "spots": "ilha antiga, passagem dos barcos, recife"
+      }
+    ],
+    "iso": "fj",
+    "portrait": true
+  },
+  "sb": {
+    "name": "Ilhas Salomão",
+    "aliases": [
+      "Solomon Islands"
+    ],
+    "hello": "Halo!",
+    "who": "Tasi",
+    "outfit": "saia de fibras e colar de conchas",
+    "hat": "flower",
+    "palette": [
+      "#0051BA",
+      "#1E6B3C",
+      "#FCD116"
+    ],
+    "tales": [
+      "A senhora que deu forma à ilha",
+      "A gente pequena da floresta",
+      "A onda que pede hora",
+      "O primeiro peixe",
+      "As conchas que selam a palavra"
+    ],
+    "cities": [
+      {
+        "city": "Honiara",
+        "spots": "mercado, costa, colina"
+      },
+      {
+        "city": "Makira",
+        "spots": "floresta, aldeias, enseada"
+      },
+      {
+        "city": "Gizo",
+        "spots": "enseada, ilhas, praia calma"
+      }
+    ],
+    "iso": "sb",
+    "portrait": true
+  },
+  "vu": {
+    "name": "Vanuatu",
+    "aliases": [
+      "Vanuatu"
+    ],
+    "hello": "Halo!",
+    "who": "Lali",
+    "outfit": "saia de fibras e flores",
+    "hat": "flower",
+    "palette": [
+      "#009543",
+      "#D21034",
+      "#FDCE12"
+    ],
+    "tales": [
+      "Quem trouxe a noite para descansar",
+      "O desenho na areia",
+      "A canoa de duas pessoas",
+      "A cauda do rato",
+      "Não assobies para o mar"
+    ],
+    "cities": [
+      {
+        "city": "Port Vila",
+        "spots": "mercado, baía, porto"
+      },
+      {
+        "city": "Banks",
+        "spots": "ilhas, aldeias, canoas"
+      },
+      {
+        "city": "Malekula",
+        "spots": "desenhos na areia, aldeias, costa"
+      }
+    ],
+    "iso": "vu",
+    "portrait": true
+  },
+  "nc": {
+    "name": "Nova Caledónia",
+    "aliases": [
+      "New Caledonia"
+    ],
+    "hello": "Bonjour!",
+    "who": "Téa",
+    "outfit": "robe mission canaca com flores",
+    "hat": "flower",
+    "palette": [
+      "#009543",
+      "#ED2939",
+      "#002395"
+    ],
+    "tales": [
+      "A gaivota e os mexilhões",
+      "O sol, a lua e a senhora",
+      "O inhame da família",
+      "A casa que recebe",
+      "A concha de náutilo"
+    ],
+    "cities": [
+      {
+        "city": "Nouméa",
+        "spots": "baía, mercado, pinhal"
+      },
+      {
+        "city": "Lifou",
+        "spots": "praia, aldeias, recife"
+      },
+      {
+        "city": "Hienghène",
+        "spots": "falésias, casa grande, recife"
+      }
+    ],
+    "iso": "nc",
+    "portrait": true
+  },
+  "pg": {
+    "name": "Papua-Nova Guiné",
+    "aliases": [
+      "Papua New Guinea"
+    ],
+    "hello": "Halo!",
+    "who": "Kora",
+    "outfit": "bilas com plumas do paraíso",
+    "hat": "beads",
+    "palette": [
+      "#CE1126",
+      "#000000",
+      "#FCD116"
+    ],
+    "tales": [
+      "Os dois irmãos do comércio",
+      "O sol e a lua à vez",
+      "A pena que não se arranca",
+      "O pote de barro",
+      "O dono do lugar"
+    ],
+    "cities": [
+      {
+        "city": "Port Moresby",
+        "spots": "mercado, costa, colinas"
+      },
+      {
+        "city": "Milne Bay",
+        "spots": "potes de barro, ilhas, canoas"
+      },
+      {
+        "city": "Sepik",
+        "spots": "rio, casas, curva quieta"
+      }
+    ],
+    "iso": "pg",
+    "portrait": true
+  },
+  "tf": {
+    "name": "Terras Austrais Francesas",
+    "aliases": [
+      "French Southern Territories"
+    ],
+    "hello": "Bonjour!",
+    "who": "Polo",
+    "outfit": "casaco de expedição polar",
+    "hat": "beanie",
+    "palette": [
+      "#002395",
+      "#FFFFFF",
+      "#ED2939"
+    ],
+    "tales": [
+      "O albatroz que volta",
+      "O ovo nos pés",
+      "A couve que salvou a refeição",
+      "A praia do elefante-marinho",
+      "O cobertor de luz"
+    ],
+    "cities": [
+      {
+        "city": "Kerguelen",
+        "spots": "couve selvagem, falésias, abrigo"
+      },
+      {
+        "city": "Crozet",
+        "spots": "colónia de pinguins, praia, enseada"
+      },
+      {
+        "city": "Amesterdão",
+        "spots": "ninhos de albatroz, falésia, corda"
+      }
+    ],
+    "iso": "tf",
+    "portrait": true
+  },
+  "bs": {
+    "name": "Baamas",
+    "aliases": [
+      "Bahamas"
+    ],
+    "hello": "Hello!",
+    "who": "Maya",
+    "outfit": "fantasia Junkanoo de papel crepe",
+    "hat": "flower",
+    "palette": [
+      "#00ABC8",
+      "#FFC72C",
+      "#000000"
+    ],
+    "tales": [
+      "A festa que chama a manhã",
+      "O pequeno da floresta",
+      "A água funda",
+      "A palha que vira cesto",
+      "A concha que chama"
+    ],
+    "cities": [
+      {
+        "city": "Nassau",
+        "spots": "mercado de palha, fortes à beira-mar, ruas do desfile da manhã"
+      },
+      {
+        "city": "Andros",
+        "spots": "pinhal alto, água azul, trilhos entre árvores"
+      },
+      {
+        "city": "A ilha do porto",
+        "spots": "ruas de areia, casinhas de madeira, barcos no canal"
+      }
+    ],
+    "iso": "bs",
+    "portrait": true
+  },
+  "bz": {
+    "name": "Belize",
+    "aliases": [
+      "Belize"
+    ],
+    "hello": "¡Hola!",
+    "who": "Itzel",
+    "outfit": "huipil maia bordado",
+    "hat": "flower",
+    "palette": [
+      "#003F87",
+      "#D21034",
+      "#003F87"
+    ],
+    "tales": [
+      "O guardião da milpa",
+      "O macaco que riu",
+      "As pegadas do jaguar",
+      "O tambor que chama o barco",
+      "O milho de quatro cores"
+    ],
+    "cities": [
+      {
+        "city": "Cidade de Belize",
+        "spots": "casas de madeira sobre a água, mercado do cais, ponte do porto"
+      },
+      {
+        "city": "San Ignacio",
+        "spots": "rio lento, milpas, caminho da reserva"
+      },
+      {
+        "city": "Dangriga",
+        "spots": "praia, tambores na areia, mercado"
+      }
+    ],
+    "iso": "bz",
+    "portrait": true
+  },
+  "gy": {
+    "name": "Guiana",
+    "aliases": [
+      "Guyana"
+    ],
+    "hello": "Hello!",
+    "who": "Amara",
+    "outfit": "vestido floral e colar indígena",
+    "hat": "flower",
+    "palette": [
+      "#009E49",
+      "#FCD116",
+      "#CE1126"
+    ],
+    "tales": [
+      "O pote da sensatez",
+      "A senhora do rio",
+      "A árvore que se cumprimenta",
+      "A luz que conta grãos",
+      "O pão de mandioca"
+    ],
+    "cities": [
+      {
+        "city": "Georgetown",
+        "spots": "mercado coberto, cais de madeira, jardim de palmeiras"
+      },
+      {
+        "city": "Bartica",
+        "spots": "encontro dos rios, cais dos barcos, orla da floresta"
+      },
+      {
+        "city": "Rio Essequibo",
+        "spots": "água muito larga, ilhas no meio, canoas"
+      }
+    ],
+    "iso": "gy",
+    "portrait": true
+  },
+  "sr": {
+    "name": "Suriname",
+    "aliases": [
+      "Suriname"
+    ],
+    "hello": "Hallo!",
+    "who": "Kiki",
+    "outfit": "koto e angisa dobrada",
+    "hat": "gele",
+    "palette": [
+      "#377E3F",
+      "#FFFFFF",
+      "#B40A2D"
+    ],
+    "tales": [
+      "A aranha e o tigre",
+      "O atalho do ouro",
+      "A senhora da água",
+      "O pano da cabeça",
+      "O rio que é estrada"
+    ],
+    "cities": [
+      {
+        "city": "Paramaribo",
+        "spots": "casas de madeira, mercado central, rua junto ao rio"
+      },
+      {
+        "city": "Rio Suriname",
+        "spots": "canoas, palmeiras na margem, água calma"
+      },
+      {
+        "city": "Albina",
+        "spots": "cais pequeno, mercado da margem, barcos de visita"
+      }
+    ],
+    "iso": "sr",
+    "portrait": true
+  },
+  "pr": {
+    "name": "Porto Rico",
+    "aliases": [
+      "Puerto Rico"
+    ],
+    "hello": "¡Hola!",
+    "who": "Luz",
+    "outfit": "vestido de bomba com babados",
+    "hat": "flower",
+    "palette": [
+      "#ED0000",
+      "#FFFFFF",
+      "#0050F0"
+    ],
+    "tales": [
+      "O leite no cesto",
+      "O sapo que diz o nome",
+      "Os pés ao contrário",
+      "A árvore de fogo",
+      "A máscara da festa"
+    ],
+    "cities": [
+      {
+        "city": "San Juan",
+        "spots": "muralhas coloridas, ruas de pedra, mar azul"
+      },
+      {
+        "city": "Ponce",
+        "spots": "praça central, casas pintadas, festa das máscaras"
+      },
+      {
+        "city": "A floresta de Yunque",
+        "spots": "árvores altas, nevoeiro, riachos"
+      }
+    ],
+    "iso": "pr",
+    "portrait": true
+  },
+  "fk": {
+    "name": "Ilhas Falkland",
+    "aliases": [
+      "Falkland Islands"
+    ],
+    "hello": "Hello!",
+    "who": "Pip",
+    "outfit": "camisola de lã e gorro",
+    "hat": "beanie",
+    "palette": [
+      "#00247D",
+      "#FFFFFF",
+      "#CF142B"
+    ],
+    "tales": [
+      "O pássaro atrevido",
+      "A gansa do kelp",
+      "A luz no turfeira",
+      "Quem conta as ovelhas",
+      "A baga pequena"
+    ],
+    "cities": [
+      {
+        "city": "Stanley",
+        "spots": "casas coloridas, porto abrigado, rua principal"
+      },
+      {
+        "city": "Saunders",
+        "spots": "praias abertas, colinas de ovelhas, campo de vento"
+      },
+      {
+        "city": "A campina",
+        "spots": "turfeiras, caminhos de terra, rebanhos"
+      }
+    ],
+    "iso": "fk",
+    "portrait": true
+  },
+  "tt": {
+    "name": "Trindade e Tobago",
+    "aliases": [
+      "Trinidad and Tobago"
+    ],
+    "hello": "Hello!",
+    "who": "Kaila",
+    "outfit": "fantasia de carnival com plumas",
+    "hat": "flower",
+    "palette": [
+      "#CE1126",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "tales": [
+      "O pai da floresta",
+      "Os pezinhos ao contrário",
+      "O beija-flor e a flor",
+      "O tambor que virou música",
+      "A sumaúma da encruzilhada"
+    ],
+    "cities": [
+      {
+        "city": "Porto de Espanha",
+        "spots": "mercado, colinas verdes, pátio da música"
+      },
+      {
+        "city": "Tobago",
+        "spots": "praias calmas, jardins, caminhos na floresta"
+      },
+      {
+        "city": "San Fernando",
+        "spots": "colina da cidade, mercado, encruzilhada de árvores"
+      }
+    ],
+    "iso": "tt",
+    "portrait": true
+  },
+  "bt": {
+    "name": "Butão",
+    "aliases": [
+      "Bhutan",
+      "Butão"
+    ],
+    "hello": "Kuzu zangpo!",
+    "who": "Pema",
+    "outfit": "kira do Butão com tego e koma",
+    "hat": "flower",
+    "palette": [
+      "#FFCC00",
+      "#FF4E12",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "Os quatro amigos",
+      "O dragão da chuva",
+      "O vizinho da neve",
+      "O animal que parece feito de bocados",
+      "As bandeiras do vento"
+    ],
+    "cities": [
+      {
+        "city": "Thimphu",
+        "spots": "mercado do fim de semana, ponte do centro, lojas de tecido"
+      },
+      {
+        "city": "Paro",
+        "spots": "vale verde, trilho da montanha, casas na encosta"
+      },
+      {
+        "city": "Bumthang",
+        "spots": "campos do vale, rio calmo, casas de madeira"
+      }
+    ],
+    "iso": "bt",
+    "portrait": true
+  },
+  "kh": {
+    "name": "Camboja",
+    "aliases": [
+      "Cambodia",
+      "Camboja"
+    ],
+    "hello": "Soursdey!",
+    "who": "Srey",
+    "outfit": "sampot e blusa tradicional",
+    "hat": "flower",
+    "palette": [
+      "#032EA1",
+      "#E00025",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "Os dois irmãos",
+      "O coelho na lua",
+      "A serpente do rio",
+      "O passo do templo",
+      "O arroz que cheira"
+    ],
+    "cities": [
+      {
+        "city": "Phnom Penh",
+        "spots": "palácio junto ao rio, mercado coberto, jardim da margem"
+      },
+      {
+        "city": "Siem Reap",
+        "spots": "pátio de pedra antiga, lago tranquilo, mercado da noite"
+      },
+      {
+        "city": "o rio Mekong",
+        "spots": "barcos baixos, margens verdes, degraus da água"
+      }
+    ],
+    "iso": "kh",
+    "portrait": true
+  },
+  "la": {
+    "name": "Laos",
+    "aliases": [
+      "Laos",
+      "Lao"
+    ],
+    "hello": "Sabaidee!",
+    "who": "Mali",
+    "outfit": "saia sinh de seda e cinto de prata",
+    "hat": "flower",
+    "palette": [
+      "#CE1126",
+      "#002868",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "A cabaça grande",
+      "Os cogumelos orelha",
+      "As luzes do rio",
+      "O arroz no bambu",
+      "O búfalo que reparte o campo"
+    ],
+    "cities": [
+      {
+        "city": "Luang Prabang",
+        "spots": "mercado da manhã, escadaria do rio, colinas"
+      },
+      {
+        "city": "Vientiane",
+        "spots": "praça do arco, mercado, margem calma"
+      },
+      {
+        "city": "o Mekong",
+        "spots": "degraus da margem, barcos, luzes da água"
+      }
+    ],
+    "iso": "la",
+    "portrait": true
+  },
+  "mm": {
+    "name": "Mianmar",
+    "aliases": [
+      "Myanmar",
+      "Mianmar"
+    ],
+    "hello": "Mingalaba!",
+    "who": "Hla",
+    "outfit": "longyi e blusa tradicional",
+    "hat": "flower",
+    "palette": [
+      "#FECB00",
+      "#34B233",
+      "#EA2839"
+    ],
+    "tales": [
+      "O lavrador que dava",
+      "A pergunta do avô",
+      "O bigode do tigre",
+      "Os sinos e o vento",
+      "O barco do lago"
+    ],
+    "cities": [
+      {
+        "city": "Yangon",
+        "spots": "mercado, lago do centro, ruas de árvores"
+      },
+      {
+        "city": "Bagan",
+        "spots": "planície dos templos, caminho de terra, sinos ao vento"
+      },
+      {
+        "city": "o lago Inle",
+        "spots": "barcos, hortas sobre a água, casas de estacas"
+      }
+    ],
+    "iso": "mm",
+    "portrait": true
+  },
+  "bn": {
+    "name": "Brunei",
+    "aliases": [
+      "Brunei",
+      "Brunei Darussalam"
+    ],
+    "hello": "Selamat!",
+    "who": "Putri",
+    "outfit": "baju kurung e tudung",
+    "hat": "none",
+    "palette": [
+      "#F7E017",
+      "#FFFFFF",
+      "#CF1126"
+    ],
+    "tales": [
+      "O filho que fingiu não ver",
+      "O veado pequeno e o tigre",
+      "A aldeia sobre a água",
+      "O primeiro peixe da rede",
+      "O tudung no vento"
+    ],
+    "cities": [
+      {
+        "city": "Bandar Seri Begawan",
+        "spots": "mercado da cidade, jardim do rio, praça da margem"
+      },
+      {
+        "city": "Kampong Ayer",
+        "spots": "casas sobre a água, pontes de madeira, barcos"
+      },
+      {
+        "city": "o rio",
+        "spots": "rocha no meio da água, barcos pequenos, varandas"
+      }
+    ],
+    "iso": "bn",
+    "portrait": true
+  },
+  "kp": {
+    "name": "Coreia do Norte",
+    "aliases": [
+      "North Korea",
+      "Coreia do Norte"
+    ],
+    "hello": "Annyeong!",
+    "who": "Min",
+    "outfit": "hanbok rosa e branco",
+    "hat": "flower",
+    "palette": [
+      "#024FA2",
+      "#FFFFFF",
+      "#ED1C27"
+    ],
+    "tales": [
+      "O sapo que fazia o contrário",
+      "O tigre e o diospiró",
+      "O irmão e a irmã no céu",
+      "As duas cabaças",
+      "A pega e o sino"
+    ],
+    "cities": [
+      {
+        "city": "uma aldeia de pinheiros",
+        "spots": "pinheiros altos, alpendre de madeira, caminho de terra"
+      },
+      {
+        "city": "um rio largo",
+        "spots": "margem de pedras, barcos de pesca, água calma"
+      },
+      {
+        "city": "um mercado pequeno",
+        "spots": "cestos de fruta, bancas baixas, panos coloridos"
+      }
+    ],
+    "iso": "kp",
+    "portrait": true
+  },
+  "ye": {
+    "name": "Iémen",
+    "aliases": [
+      "Yemen",
+      "Iémen",
+      "Iemen"
+    ],
+    "hello": "Marhaba!",
+    "who": "Amat",
+    "outfit": "sitara iemenita colorida",
+    "hat": "flower",
+    "palette": [
+      "#CE1126",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "tales": [
+      "A árvore da seiva vermelha",
+      "A rainha que fazia perguntas",
+      "As cabras e o grão",
+      "O íbex do caminho",
+      "A canção da chuva"
+    ],
+    "cities": [
+      {
+        "city": "Sana",
+        "spots": "casas altas de terra, janelas coloridas, mercado"
+      },
+      {
+        "city": "Socotra",
+        "spots": "árvore da seiva, praia, montanha"
+      },
+      {
+        "city": "Moca",
+        "spots": "porto antigo, chávena de bebida quente, caminho das cabras"
+      }
+    ],
+    "iso": "ye",
+    "portrait": true
+  },
+  "ps": {
+    "name": "Palestina",
+    "aliases": [
+      "Palestine",
+      "Palestina"
+    ],
+    "hello": "Marhaba!",
+    "who": "Noor",
+    "outfit": "thobe palestino com tatreez",
+    "hat": "flower",
+    "palette": [
+      "#007A3D",
+      "#FFFFFF",
+      "#CE1126"
+    ],
+    "tales": [
+      "A oliveira da avó",
+      "A cabra esperta",
+      "O tomilho do pão",
+      "A poupa da coroa",
+      "A laranja partida"
+    ],
+    "cities": [
+      {
+        "city": "Jerusalém",
+        "spots": "casas antigas, mercado, ruelas de pedra"
+      },
+      {
+        "city": "Belém",
+        "spots": "padaria, oliveiras, mercado"
+      },
+      {
+        "city": "Jafa",
+        "spots": "laranjas, porto antigo, mercado à beira-mar"
+      }
+    ],
+    "iso": "ps",
+    "portrait": true
+  },
+  "sy": {
+    "name": "Síria",
+    "aliases": [
+      "Syria",
+      "Síria"
+    ],
+    "hello": "Marhaba!",
+    "who": "Rima",
+    "outfit": "thobe sírio bordado",
+    "hat": "flower",
+    "palette": [
+      "#CE1126",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "tales": [
+      "As rodas que cantam",
+      "O jasmim do muro",
+      "O burro do mercado",
+      "O sabão que espera",
+      "O peso certo"
+    ],
+    "cities": [
+      {
+        "city": "Damasco",
+        "spots": "mercado coberto, muros de jasmim, pátios"
+      },
+      {
+        "city": "Alepo",
+        "spots": "mercado vivo, bancas de sabão, ruelas"
+      },
+      {
+        "city": "Hama",
+        "spots": "noras do rio, hortas, casas junto à água"
+      }
+    ],
+    "iso": "sy",
+    "portrait": true
+  },
+  "bf": {
+    "name": "Burquina Faso",
+    "aliases": [
+      "Burkina Faso",
+      "Burkina"
+    ],
+    "hello": "Ne y yibeogo!",
+    "who": "Fati",
+    "outfit": "pano Faso Dan Fani tecido à mão",
+    "hat": "gele",
+    "palette": [
+      "#EF2B2D",
+      "#009E49",
+      "#FCD116"
+    ],
+    "tales": [
+      "A máscara que espera",
+      "A lebre e a hiena",
+      "O baobá e a sede",
+      "O tear da avó",
+      "O sol e a lua de turno"
+    ],
+    "cities": [
+      {
+        "city": "Uagadugu",
+        "spots": "mercados, artesanato, praças largas"
+      },
+      {
+        "city": "Bobo-Dioulasso",
+        "spots": "cidade velha, músicos, mercado de pano"
+      },
+      {
+        "city": "A savana",
+        "spots": "baobás, aldeias, céu aberto"
+      }
+    ],
+    "iso": "bf",
+    "portrait": true
+  },
+  "bj": {
+    "name": "Benim",
+    "aliases": [
+      "Benin",
+      "Bénin"
+    ],
+    "hello": "Kú àbọ̀!",
+    "who": "Afi",
+    "outfit": "pano wax e gele",
+    "hat": "gele",
+    "palette": [
+      "#008751",
+      "#FCD116",
+      "#E8112D"
+    ],
+    "tales": [
+      "O nome de toda a gente",
+      "A aldeia sobre estacas",
+      "O guardião da noite",
+      "O azeite de palma",
+      "A encruzilhada"
+    ],
+    "cities": [
+      {
+        "city": "Porto-Novo",
+        "spots": "museu, palácio, ruas baixas"
+      },
+      {
+        "city": "Cotonu",
+        "spots": "mercado Dantokpa, praia, porto"
+      },
+      {
+        "city": "Ganvié",
+        "spots": "casas sobre estacas, pirogas, lagoa"
+      }
+    ],
+    "iso": "bj",
+    "portrait": true
+  },
+  "ci": {
+    "name": "Costa do Marfim",
+    "aliases": [
+      "Côte d'Ivoire",
+      "Ivory Coast"
+    ],
+    "hello": "Bonjour!",
+    "who": "Aya",
+    "outfit": "tecido wax e gele",
+    "hat": "gele",
+    "palette": [
+      "#FF8200",
+      "#FFFFFF",
+      "#009E60"
+    ],
+    "tales": [
+      "A cabaça das histórias",
+      "O coração do macaco",
+      "O inhame novo",
+      "O peso de ouro",
+      "O tambor da aldeia"
+    ],
+    "cities": [
+      {
+        "city": "Abidjã",
+        "spots": "laguna, mercado, pontes"
+      },
+      {
+        "city": "Yamoussoukro",
+        "spots": "basílica, lagos, avenidas largas"
+      },
+      {
+        "city": "Grand-Bassam",
+        "spots": "casas antigas, praia, rio"
+      }
+    ],
+    "iso": "ci",
+    "portrait": true
+  },
+  "gm": {
+    "name": "Gâmbia",
+    "aliases": [
+      "The Gambia",
+      "Gambia"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Awa",
+    "outfit": "grand boubou dourado",
+    "hat": "gele",
+    "palette": [
+      "#CE1126",
+      "#0C1C8C",
+      "#3A7728"
+    ],
+    "tales": [
+      "A cora do griô",
+      "O barco do rio",
+      "O crocodilo da margem",
+      "A lebre e a hiena no poço",
+      "O amendoim partido"
+    ],
+    "cities": [
+      {
+        "city": "Banjul",
+        "spots": "mercado, arco, porto"
+      },
+      {
+        "city": "O rio Gâmbia",
+        "spots": "pirogas, margens, aves"
+      },
+      {
+        "city": "Juffureh",
+        "spots": "aldeia, griôs, margem do rio"
+      }
+    ],
+    "iso": "gm",
+    "portrait": true
+  },
+  "gn": {
+    "name": "Guiné",
+    "aliases": [
+      "Guinea",
+      "Guiné-Conacri"
+    ],
+    "hello": "I ni sogoma!",
+    "who": "Mariama",
+    "outfit": "boubou de wax indigo",
+    "hat": "gele",
+    "palette": [
+      "#CE1126",
+      "#FCD116",
+      "#009460"
+    ],
+    "tales": [
+      "O carvão bem embrulhado",
+      "Os gémeos da horta",
+      "O pilão",
+      "A palmeira e a corda",
+      "A água da nascente"
+    ],
+    "cities": [
+      {
+        "city": "Conacri",
+        "spots": "ilhas de Loos, mercados, porto"
+      },
+      {
+        "city": "Fouta Djallon",
+        "spots": "cascatas, nascentes, colinas"
+      },
+      {
+        "city": "Kindia",
+        "spots": "hortas, fruta, colinas"
+      }
+    ],
+    "iso": "gn",
+    "portrait": true
+  },
+  "lr": {
+    "name": "Libéria",
+    "aliases": [
+      "Liberia"
+    ],
+    "hello": "Hello!",
+    "who": "Kpweh",
+    "outfit": "lappa e lenço",
+    "hat": "gele",
+    "palette": [
+      "#BF0A30",
+      "#FFFFFF",
+      "#002868"
+    ],
+    "tales": [
+      "A aranha e o leopardo",
+      "O pano do país",
+      "O pássaro da pimenta",
+      "A panela que só cozinha partilhada",
+      "O vizinho da floresta"
+    ],
+    "cities": [
+      {
+        "city": "Monróvia",
+        "spots": "mercado, praia, porto"
+      },
+      {
+        "city": "O rio",
+        "spots": "pirogas, margens verdes, aves"
+      },
+      {
+        "city": "A floresta",
+        "spots": "árvores altas, trilhos, pássaros"
+      }
+    ],
+    "iso": "lr",
+    "portrait": true
+  },
+  "sl": {
+    "name": "Serra Leoa",
+    "aliases": [
+      "Sierra Leone"
+    ],
+    "hello": "Kushe!",
+    "who": "Isha",
+    "outfit": "lappa de country cloth",
+    "hat": "gele",
+    "palette": [
+      "#1EB53A",
+      "#FFFFFF",
+      "#0072C6"
+    ],
+    "tales": [
+      "A tartaruga e o cesto de fruta",
+      "A árvore grande da praça",
+      "O tear estreito",
+      "O pássaro do arroz",
+      "A primeira chuva"
+    ],
+    "cities": [
+      {
+        "city": "Freetown",
+        "spots": "praia, colinas, mercado"
+      },
+      {
+        "city": "A península",
+        "spots": "praias, palmeiras, aldeias"
+      },
+      {
+        "city": "Bo",
+        "spots": "mercado, pano tecido, ruas"
+      }
+    ],
+    "iso": "sl",
+    "portrait": true
+  },
+  "tg": {
+    "name": "Togo",
+    "aliases": [
+      "Togo"
+    ],
+    "hello": "Bonjour!",
+    "who": "Akosua",
+    "outfit": "pano wax togolês e gele",
+    "hat": "gele",
+    "palette": [
+      "#006A4E",
+      "#FFCE00",
+      "#D21034"
+    ],
+    "tales": [
+      "O tambor que ouve",
+      "O mercado das cores",
+      "A serpente do caminho",
+      "O inhame de Kpalimé",
+      "O lago ao fim do dia"
+    ],
+    "cities": [
+      {
+        "city": "Lomé",
+        "spots": "mercado de panos, praia, artesanato"
+      },
+      {
+        "city": "Kpalimé",
+        "spots": "colinas, cascatas, inhame"
+      },
+      {
+        "city": "O lago Togo",
+        "spots": "barcos, aldeias, entardecer"
+      }
+    ],
+    "iso": "tg",
+    "portrait": true
+  },
+  "ml": {
+    "name": "Mali",
+    "aliases": [
+      "Mali"
+    ],
+    "hello": "I ni ce!",
+    "who": "Aminata",
+    "outfit": "boubou de bogolan",
+    "hat": "gele",
+    "palette": [
+      "#14B53A",
+      "#FCD116",
+      "#CE1126"
+    ],
+    "tales": [
+      "O pano de lama",
+      "A tia búfalo",
+      "A lebre e a hiena no mercado",
+      "O poço do viajante",
+      "A cabaça das histórias"
+    ],
+    "cities": [
+      {
+        "city": "Bamaco",
+        "spots": "mercado, oficinas de bogolan, cais do Níger"
+      },
+      {
+        "city": "Tombuctu",
+        "spots": "ruas de areia, livros de couro, portas da cidade"
+      },
+      {
+        "city": "Rio Níger",
+        "spots": "margem, pirogas, poço de viajante"
+      }
+    ],
+    "iso": "ml",
+    "portrait": true
+  },
+  "mr": {
+    "name": "Mauritânia",
+    "aliases": [
+      "Mauritania",
+      "Mauritânia"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Aissata",
+    "outfit": "milhfa azul da Mauritânia",
+    "hat": "none",
+    "palette": [
+      "#006233",
+      "#FFD700",
+      "#D21034"
+    ],
+    "tales": [
+      "Os três chás",
+      "A gazela da sombra",
+      "O chacal que coxeava",
+      "A estrela da caravana",
+      "O odre"
+    ],
+    "cities": [
+      {
+        "city": "Nouakchott",
+        "spots": "mercado, porto, chá da tarde"
+      },
+      {
+        "city": "Chinguetti",
+        "spots": "bibliotecas de pedra, ruas, palmeiras"
+      },
+      {
+        "city": "Deserto",
+        "spots": "dunas, caravana, acampamento de estrelas"
+      }
+    ],
+    "iso": "mr",
+    "portrait": true
+  },
+  "ne": {
+    "name": "Níger",
+    "aliases": [
+      "Niger",
+      "Níger"
+    ],
+    "hello": "Fofo!",
+    "who": "Ibrahim",
+    "outfit": "tagelmust índigo tuaregue",
+    "hat": "none",
+    "palette": [
+      "#E05206",
+      "#FFFFFF",
+      "#0DB02B"
+    ],
+    "tales": [
+      "O camelo que sabia as estrelas",
+      "O pano que dá sombra",
+      "O sal que viaja",
+      "As pegadas certas",
+      "O poço coberto"
+    ],
+    "cities": [
+      {
+        "city": "Niamei",
+        "spots": "rio Níger, Grande Mercado, margem"
+      },
+      {
+        "city": "Agadez",
+        "spots": "ruas de barro, sal, mercado tuaregue"
+      },
+      {
+        "city": "Sahel",
+        "spots": "acampamento, poços cobertos, estrelas"
+      }
+    ],
+    "iso": "ne",
+    "portrait": true
+  },
+  "td": {
+    "name": "Chade",
+    "aliases": [
+      "Chad",
+      "Chade"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Hawa",
+    "outfit": "boubou açafrão e índigo",
+    "hat": "gele",
+    "palette": [
+      "#002664",
+      "#FECB00",
+      "#C60C30"
+    ],
+    "tales": [
+      "A tigela do lago",
+      "O peixe do Chari",
+      "A lebre e a hiena na savana",
+      "O mercado de N'Djamena",
+      "A esteira"
+    ],
+    "cities": [
+      {
+        "city": "N'Djamena",
+        "spots": "mercado, laranjas, esteiras à porta"
+      },
+      {
+        "city": "Rio Chari",
+        "spots": "margem, redes, barcos"
+      },
+      {
+        "city": "Lago Chade",
+        "spots": "água larga, bilhas, tigela do lago"
+      }
+    ],
+    "iso": "td",
+    "portrait": true
+  },
+  "cf": {
+    "name": "República Centro-Africana",
+    "aliases": [
+      "Central African Republic",
+      "República Centro-Africana"
+    ],
+    "hello": "Balao!",
+    "who": "Binta",
+    "outfit": "pagne estampado e lenço",
+    "hat": "gele",
+    "palette": [
+      "#003082",
+      "#FFFFFF",
+      "#289728"
+    ],
+    "tales": [
+      "O cupinzeiro",
+      "A lebre e o elefante",
+      "O papagaio",
+      "O rio que alimenta",
+      "O tambor baixo"
+    ],
+    "cities": [
+      {
+        "city": "Bangui",
+        "spots": "mercado, pátio, tambor à porta"
+      },
+      {
+        "city": "Rio Ubangi",
+        "spots": "barco, cais, laranjas"
+      },
+      {
+        "city": "Floresta",
+        "spots": "cupinzeiros, papagaios, horta"
+      }
+    ],
+    "iso": "cf",
+    "portrait": true
+  },
+  "cd": {
+    "name": "República Democrática do Congo",
+    "aliases": [
+      "Democratic Republic of the Congo",
+      "RD Congo",
+      "República Democrática do Congo"
+    ],
+    "hello": "Mbote!",
+    "who": "Amina",
+    "outfit": "vestido de wax print e lenço",
+    "hat": "gele",
+    "palette": [
+      "#007FFF",
+      "#CE1021",
+      "#F7D618"
+    ],
+    "tales": [
+      "O tambor que fala",
+      "A tartaruga e o leopardo",
+      "A manga partida",
+      "O rio que é uma estrada larga",
+      "A máscara na caixa"
+    ],
+    "cities": [
+      {
+        "city": "Kinshasa",
+        "spots": "mercado, pátio, mangas"
+      },
+      {
+        "city": "Rio Congo",
+        "spots": "barco colectivo, cais, margem"
+      },
+      {
+        "city": "Kisangani",
+        "spots": "rio, floresta, recados de tambor"
+      }
+    ],
+    "iso": "cd",
+    "portrait": true
+  },
+  "cg": {
+    "name": "Congo",
+    "aliases": [
+      "Republic of the Congo",
+      "Congo-Brazzaville",
+      "Congo"
+    ],
+    "hello": "Mbote!",
+    "who": "Malaika",
+    "outfit": "vestido wax de Brazzaville",
+    "hat": "gele",
+    "palette": [
+      "#009543",
+      "#FBDE4A",
+      "#DC241F"
+    ],
+    "tales": [
+      "A senhora do rio limpo",
+      "A noz de cola",
+      "O papagaio verde",
+      "A máscara e o passo",
+      "O peixe da manhã"
+    ],
+    "cities": [
+      {
+        "city": "Brazzaville",
+        "spots": "margem, festa, noz de cola"
+      },
+      {
+        "city": "Rio Congo",
+        "spots": "água limpa, barcos, margem"
+      },
+      {
+        "city": "Pointe-Noire",
+        "spots": "porto, manhã, peixe fresco"
+      }
+    ],
+    "iso": "cg",
+    "portrait": true
+  },
+  "ga": {
+    "name": "Gabão",
+    "aliases": [
+      "Gabon",
+      "Gabão"
+    ],
+    "hello": "Mbolo!",
+    "who": "Nyanga",
+    "outfit": "pano wax verde e amarelo",
+    "hat": "gele",
+    "palette": [
+      "#009E60",
+      "#FCD116",
+      "#3A75C4"
+    ],
+    "tales": [
+      "A tartaruga na festa",
+      "O vizinho grande da floresta",
+      "O rio da piroga",
+      "A máscara branca",
+      "A banana-pão"
+    ],
+    "cities": [
+      {
+        "city": "Libreville",
+        "spots": "festa, esteira, mercado"
+      },
+      {
+        "city": "Floresta",
+        "spots": "gorilas ao longe, caminho, máscaras"
+      },
+      {
+        "city": "Port-Gentil",
+        "spots": "cais, piroga, porto"
+      }
+    ],
+    "iso": "ga",
+    "portrait": true
+  },
+  "bi": {
+    "name": "Burundi",
+    "aliases": [
+      "República do Burundi"
+    ],
+    "hello": "Bwakeye!",
+    "who": "Keza",
+    "outfit": "mushanana drapeado ao ombro",
+    "hat": "flower",
+    "palette": [
+      "#CE1126",
+      "#1EB53A",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "A vaca de duas casas",
+      "Os tambores reais",
+      "A lebre e o leopardo na colina",
+      "O fogo da cozinha",
+      "A esteira da colina"
+    ],
+    "cities": [
+      {
+        "city": "Gitega",
+        "spots": "tambores da festa, museu nacional, mercado"
+      },
+      {
+        "city": "Bujumbura",
+        "spots": "lago Tanganica, praia, mercado"
+      },
+      {
+        "city": "As colinas",
+        "spots": "vacas, hortas e caminhos entre casas"
+      }
+    ],
+    "iso": "bi",
+    "portrait": true
+  },
+  "dj": {
+    "name": "Djibuti",
+    "aliases": [
+      "Djibouti",
+      "Jibuti"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Hodan",
+    "outfit": "dirac coral e ouro",
+    "hat": "flower",
+    "palette": [
+      "#6AB2E7",
+      "#12AD2B",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "O poço e o camelo",
+      "A árvore que cheira",
+      "O lago de sal",
+      "A cabra do pátio",
+      "O mar do golfo"
+    ],
+    "cities": [
+      {
+        "city": "Djibuti",
+        "spots": "porto, mercado e praia do golfo"
+      },
+      {
+        "city": "O lago Assal",
+        "spots": "crosta de sal, água azul e margem"
+      },
+      {
+        "city": "Tadjourah",
+        "spots": "golfo, casas e camelos"
+      }
+    ],
+    "iso": "dj",
+    "portrait": true
+  },
+  "er": {
+    "name": "Eritreia",
+    "aliases": [
+      "Eritrea"
+    ],
+    "hello": "Selam!",
+    "who": "Senait",
+    "outfit": "zuria branca com netela bordada",
+    "hat": "flower",
+    "palette": [
+      "#3C8BDC",
+      "#43B02A",
+      "#CE1126"
+    ],
+    "tales": [
+      "O café que espera",
+      "O íbex da rocha",
+      "A caravana do sal",
+      "O pão partido",
+      "A tartaruga do mar"
+    ],
+    "cities": [
+      {
+        "city": "Asmara",
+        "spots": "cafés, avenidas e mercado"
+      },
+      {
+        "city": "Massawa",
+        "spots": "cais, mar e tartarugas ao largo"
+      },
+      {
+        "city": "As terras altas",
+        "spots": "miradouros, íbex ao longe e caminhos"
+      }
+    ],
+    "iso": "er",
+    "portrait": true
+  },
+  "rw": {
+    "name": "Ruanda",
+    "aliases": [
+      "Rwanda"
+    ],
+    "hello": "Muraho!",
+    "who": "Uwase",
+    "outfit": "mushanana ruandês de seda",
+    "hat": "flower",
+    "palette": [
+      "#00A1DE",
+      "#FAD201",
+      "#20603D"
+    ],
+    "tales": [
+      "A vaca emprestada",
+      "O tambor no seu lugar",
+      "A lebre e a colina",
+      "A horta de cada colina",
+      "O barco do Kivu"
+    ],
+    "cities": [
+      {
+        "city": "Kigali",
+        "spots": "colinas, mercados e jardins"
+      },
+      {
+        "city": "As mil colinas",
+        "spots": "hortas, vacas e caminhos"
+      },
+      {
+        "city": "O lago Kivu",
+        "spots": "barcos, praias e água calma"
+      }
+    ],
+    "iso": "rw",
+    "portrait": true
+  },
+  "so": {
+    "name": "Somália",
+    "aliases": [
+      "Somalia"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Hodan",
+    "outfit": "dirac somali com lenço",
+    "hat": "flower",
+    "palette": [
+      "#4189DD",
+      "#FFFFFF",
+      "#4189DD"
+    ],
+    "tales": [
+      "O leão e o poço da lua",
+      "O camelo que se ajoelha",
+      "O incenso no bornal",
+      "O mar de Mogadíscio",
+      "A voz que chama"
+    ],
+    "cities": [
+      {
+        "city": "Mogadíscio",
+        "spots": "praia, barcos de pesca e mercado"
+      },
+      {
+        "city": "Berbera",
+        "spots": "porto, areia e camelos"
+      },
+      {
+        "city": "O mato",
+        "spots": "acácias, poços e rebanhos"
+      }
+    ],
+    "iso": "so",
+    "portrait": true
+  },
+  "somaliland": {
+    "name": "Somalilândia",
+    "aliases": [
+      "Somaliland"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Ayaan",
+    "outfit": "dirac de teal e ouro",
+    "hat": "flower",
+    "palette": [
+      "#008000",
+      "#FFFFFF",
+      "#CE1126"
+    ],
+    "tales": [
+      "A estrela do incenso",
+      "A ovelha do caminho",
+      "O dik-dik",
+      "Os dois poços",
+      "O poema em vez do grito"
+    ],
+    "cities": [
+      {
+        "city": "Hargeisa",
+        "spots": "mercado, pátios e poetas"
+      },
+      {
+        "city": "Berbera",
+        "spots": "mar, caminho do curral e barcos"
+      },
+      {
+        "city": "As montanhas",
+        "spots": "árvores de incenso, estrelas e trilhos"
+      }
+    ],
+    "iso": "somaliland",
+    "portrait": true
+  },
+  "sd": {
+    "name": "Sudão",
+    "aliases": [
+      "Sudan"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Fatima",
+    "outfit": "tobe branco sudanês",
+    "hat": "none",
+    "palette": [
+      "#D21034",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "tales": [
+      "Os dois rios",
+      "O crocodilo da margem",
+      "A tamareira",
+      "O juiz do mercado",
+      "O tobe branco"
+    ],
+    "cities": [
+      {
+        "city": "Cartum",
+        "spots": "mercado, Nilo e ruas"
+      },
+      {
+        "city": "A confluência dos Nilos",
+        "spots": "encontro das águas, margem e barcos"
+      },
+      {
+        "city": "Um palmar",
+        "spots": "tamareiras, sombra e rega"
+      }
+    ],
+    "iso": "sd",
+    "portrait": true
+  },
+  "ss": {
+    "name": "Sudão do Sul",
+    "aliases": [
+      "South Sudan"
+    ],
+    "hello": "Hello!",
+    "who": "Nyandeng",
+    "outfit": "colete de contas Dinka",
+    "hat": "beads",
+    "palette": [
+      "#0F47AF",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "tales": [
+      "A canção da vaca",
+      "O rio de animais",
+      "O peixe que já chega",
+      "A chávena de leite",
+      "O pássaro da chuva"
+    ],
+    "cities": [
+      {
+        "city": "Juba",
+        "spots": "mercado, rio e colinas"
+      },
+      {
+        "city": "O Nilo",
+        "spots": "margem, barcos e aves"
+      },
+      {
+        "city": "Um acampamento de gado",
+        "spots": "currais, canções e leite"
+      }
+    ],
+    "iso": "ss",
+    "portrait": true
+  },
+  "ug": {
+    "name": "Uganda",
+    "aliases": [
+      "Uganda"
+    ],
+    "hello": "Oli otya!",
+    "who": "Namu",
+    "outfit": "gomesi colorido com faixa",
+    "hat": "flower",
+    "palette": [
+      "#000000",
+      "#FCDC04",
+      "#D90000"
+    ],
+    "tales": [
+      "A grua do caminho",
+      "A lebre e o elefante",
+      "A banana da casa",
+      "A nascente",
+      "O barco do lago"
+    ],
+    "cities": [
+      {
+        "city": "Kampala",
+        "spots": "colinas, mercado e jardins"
+      },
+      {
+        "city": "Jinja",
+        "spots": "nascente do Nilo, margem e passeio"
+      },
+      {
+        "city": "As margens do lago Vitória",
+        "spots": "barcos, praias e acenos"
+      }
+    ],
+    "iso": "ug",
+    "portrait": true
+  },
+  "bw": {
+    "name": "Botsuana",
+    "aliases": [
+      "Botswana",
+      "Botsuana"
+    ],
+    "hello": "Dumela!",
+    "who": "Naledi",
+    "outfit": "vestido leteisi e doek",
+    "hat": "gele",
+    "palette": [
+      "#75AADB",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "tales": [
+      "A lebre e a mensagem da lua",
+      "O suricata à entrada",
+      "A avestruz e o ovo",
+      "O cudo",
+      "A sombra do baobá"
+    ],
+    "cities": [
+      {
+        "city": "Gaborone",
+        "spots": "ruas, suricatas, caminho de areia"
+      },
+      {
+        "city": "o delta do Okavango",
+        "spots": "canoa, erva alta, ovo de avestruz"
+      },
+      {
+        "city": "uma aldeia tswana",
+        "spots": "lua, baobá, recados"
+      }
+    ],
+    "iso": "bw",
+    "portrait": true
+  },
+  "ls": {
+    "name": "Lesoto",
+    "aliases": [
+      "Lesotho",
+      "Lesoto"
+    ],
+    "hello": "Lumela!",
+    "who": "Thabo",
+    "outfit": "cobertor Basotho e chapéu mokorotlo",
+    "hat": "straw",
+    "palette": [
+      "#00209F",
+      "#FFFFFF",
+      "#009543"
+    ],
+    "tales": [
+      "O chapéu que parece montanha",
+      "O cobertor de duas pessoas",
+      "A água que se ouve primeiro",
+      "O pónei da montanha",
+      "A lebre e o babuíno"
+    ],
+    "cities": [
+      {
+        "city": "Maseru",
+        "spots": "loja, mokorotlo, rua"
+      },
+      {
+        "city": "as montanhas",
+        "spots": "cobertor, pónei, frio"
+      },
+      {
+        "city": "as cataratas Maletsunyane",
+        "spots": "rumor, grade, névoa"
+      }
+    ],
+    "iso": "ls",
+    "portrait": true
+  },
+  "mg": {
+    "name": "Madagáscar",
+    "aliases": [
+      "Madagascar",
+      "Madagáscar"
+    ],
+    "hello": "Salama!",
+    "who": "Soa",
+    "outfit": "lamba malgaxe com flor no cabelo",
+    "hat": "flower",
+    "palette": [
+      "#FC3D32",
+      "#FFFFFF",
+      "#007E3A"
+    ],
+    "tales": [
+      "O camaleão que chega",
+      "O lémure da noite",
+      "O fossa no trilho",
+      "O lamba aos ombros",
+      "O arroz da família"
+    ],
+    "cities": [
+      {
+        "city": "Antananarivo",
+        "spots": "rua íngreme, camaleão, arroz"
+      },
+      {
+        "city": "a floresta",
+        "spots": "aye-aye, fossa, trilho"
+      },
+      {
+        "city": "a costa",
+        "spots": "mar, lamba, vento"
+      }
+    ],
+    "iso": "mg",
+    "portrait": true
+  },
+  "mw": {
+    "name": "Malawi",
+    "aliases": [
+      "Malawi"
+    ],
+    "hello": "Moni!",
+    "who": "Chikondi",
+    "outfit": "chitenje estampado",
+    "hat": "gele",
+    "palette": [
+      "#CE1126",
+      "#000000",
+      "#339E35"
+    ],
+    "tales": [
+      "O cabo de guerra invisível",
+      "O lago das estrelas",
+      "O camaleão e o recado",
+      "O tambor",
+      "O peixe pequeno"
+    ],
+    "cities": [
+      {
+        "city": "Lilongwe",
+        "spots": "pátio, escola, corda"
+      },
+      {
+        "city": "o lago Malawi",
+        "spots": "estrelas, margem, peixe"
+      },
+      {
+        "city": "Zomba",
+        "spots": "tambor, canto, festa"
+      }
+    ],
+    "iso": "mw",
+    "portrait": true
+  },
+  "na": {
+    "name": "Namíbia",
+    "aliases": [
+      "Namibia",
+      "Namíbia"
+    ],
+    "hello": "Hallo!",
+    "who": "Nangula",
+    "outfit": "vestido herero e touca de cornos",
+    "hat": "gele",
+    "palette": [
+      "#003580",
+      "#FFCE00",
+      "#D21034"
+    ],
+    "tales": [
+      "O lume da avestruz",
+      "A planta que vive devagar",
+      "O chacal e a hiena",
+      "O elefante do deserto",
+      "A touca e o vento"
+    ],
+    "cities": [
+      {
+        "city": "Windhoek",
+        "spots": "lareira, brasa, conto"
+      },
+      {
+        "city": "a duna",
+        "spots": "vento, touca, alfinete"
+      },
+      {
+        "city": "o deserto",
+        "spots": "welwitschia, elefante, sombra"
+      }
+    ],
+    "iso": "na",
+    "portrait": true
+  },
+  "sz": {
+    "name": "Essuatíni",
+    "aliases": [
+      "Eswatini",
+      "Essuatíni"
+    ],
+    "hello": "Sawubona!",
+    "who": "Nomcebo",
+    "outfit": "emáhiya e colar de contas",
+    "hat": "beads",
+    "palette": [
+      "#3E5EB9",
+      "#FFD900",
+      "#B10C0C"
+    ],
+    "tales": [
+      "A cana que se tece",
+      "O leão do outro lado da cerca",
+      "A andorinha",
+      "O fogo da avó",
+      "O facocero de joelhos"
+    ],
+    "cities": [
+      {
+        "city": "Mbabane",
+        "spots": "varanda, andorinha, escola"
+      },
+      {
+        "city": "o vale",
+        "spots": "cerca, leão, facocero"
+      },
+      {
+        "city": "Lobamba",
+        "spots": "canas, esteira, canto"
+      }
+    ],
+    "iso": "sz",
+    "portrait": true
+  },
+  "zm": {
+    "name": "Zâmbia",
+    "aliases": [
+      "Zambia",
+      "Zâmbia"
+    ],
+    "hello": "Muli bwanji!",
+    "who": "Mutinta",
+    "outfit": "chitenge zambiano",
+    "hat": "gele",
+    "palette": [
+      "#198A00",
+      "#DE2010",
+      "#000000"
+    ],
+    "tales": [
+      "A lebre Kalulu e o leão",
+      "O fumo que troveja",
+      "O pássaro do mel",
+      "O pano que dá a volta",
+      "O rio de todos"
+    ],
+    "cities": [
+      {
+        "city": "Lusaca",
+        "spots": "bomba, fila, chitenge"
+      },
+      {
+        "city": "as cataratas Vitória",
+        "spots": "névoa, grade, fumo"
+      },
+      {
+        "city": "o rio Zambeze",
+        "spots": "canoa, papel, margem"
+      }
+    ],
+    "iso": "zm",
+    "portrait": true
+  },
+  "zw": {
+    "name": "Zimbabué",
+    "aliases": [
+      "Zimbabwe",
+      "Zimbabué"
+    ],
+    "hello": "Mhoro!",
+    "who": "Rudo",
+    "outfit": "chitenge e lenço",
+    "hat": "gele",
+    "palette": [
+      "#006400",
+      "#FFD200",
+      "#D40000"
+    ],
+    "tales": [
+      "As pedras que encaixam",
+      "O hirax da rocha",
+      "A lebre e o babuíno",
+      "O pássaro da trovoada",
+      "A serpente do rio"
+    ],
+    "cities": [
+      {
+        "city": "Harare",
+        "spots": "pátio, janela, manga"
+      },
+      {
+        "city": "as ruínas de pedra",
+        "spots": "muralha, hirax, caminho"
+      },
+      {
+        "city": "o Zambeze",
+        "spots": "margem, aceno, rio limpo"
+      }
+    ],
+    "iso": "zw",
+    "portrait": true
+  },
+  "eh": {
+    "name": "Sara Ocidental",
+    "aliases": [
+      "Western Sahara",
+      "Sara Ocidental"
+    ],
+    "hello": "Salaam aleikum!",
+    "who": "Zahra",
+    "outfit": "milhfa azul saharaui",
+    "hat": "none",
+    "palette": [
+      "#000000",
+      "#FFFFFF",
+      "#007A3D"
+    ],
+    "tales": [
+      "Os três copos de chá",
+      "A gazela",
+      "O vento e os rastos",
+      "O poço de todos",
+      "O camelo que lembra o caminho"
+    ],
+    "cities": [
+      {
+        "city": "um acampamento",
+        "spots": "tenda, chá, três copos"
+      },
+      {
+        "city": "o deserto",
+        "spots": "gazela, vento, rastos"
+      },
+      {
+        "city": "o mar",
+        "spots": "camelo, regresso, areia"
+      }
+    ],
+    "iso": "eh",
+    "portrait": true
+  }
+}
