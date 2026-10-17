@@ -1,0 +1,25 @@
+Children's storybook illustration, warm painterly digital painting matching the attached project reference: soft brush texture, soft natural light, muted earthy landscape, one clear clothing accent color.
+
+Main character (locked — identical on every page of this tale):
+[paste character.json: name, face, clothing, proportions, dominantColor, distinctiveFeatures]
+
+Age: about 8 years old. Natural child proportions (not large-head chibi). Two arms, two legs, five fingers per hand.
+
+Scene (page [N] of 5): [1–2 sentence visual brief from the page text — actions, place, props, supporting figures. No dialogue quoted.]
+
+Scale anchors for THIS page only:
+- child vs adult: [e.g. top of child's head at adult's chest]
+- child vs animal/object: [e.g. standing cow about child's shoulder height; rabbit much smaller than the child]
+Animals are life-size and correctly proportioned to the child.
+
+Composition: wide storybook frame, full-bleed, clear focal character, readable silhouette.
+No text, letters, words, speech bubbles, captions, watermarks, borders, or UI.
+No anime, no photoreal skin, no plastic CGI, no modern phones/cars/logos.
+
+Avoid: aged-up character, teenager or adult face on child body, chibi/large-head proportions, oversized protagonist, child taller than adults or large animals, wrong animal scale, inconsistent face or hairstyle, outfit change between pages, photorealistic skin, plastic CGI, extra limbs, deformed hands, fused fingers, speech bubbles, any text or letters, watermark, border, anime eyes, low resolution, blurry background, duplicate pose from another page
+
+How we’ll fill it per page
+Lock character.json once per tale (approve before bulk).
+For each page: visual brief + concrete scale anchors from that scene.
+Generate with 4:3, reference = one good finished page (e.g. bi-0-0.jpg or bw-0-0.jpg) + optional character ref if you have one.
+Save as public/stories/pages/{iso}-{tale}-{page}.jpg.
