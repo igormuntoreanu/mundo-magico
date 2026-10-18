@@ -1,0 +1,102 @@
+{
+  "br": {
+    "Rio de Janeiro": [
+      {
+        "src": "/cities/br/rio-de-janeiro-0.jpg",
+        "caption": "Rio de Janeiro — Igreja de Nossa Senhora do Monte do Carmo, Rio de Janeiro, Brasil",
+        "credit": "Fotografia pública de Wilfredor. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AIgreja_de_Nossa_Senhora_do_Monte_do_Carmo%2C_Rio_de_Janeiro%2C_Brasil.jpg",
+        "kind": "photo"
+      },
+      {
+        "src": "/cities/br/rio-de-janeiro-1.jpg",
+        "caption": "Rio de Janeiro — Rio skyline and Cristo Redentor from Sugarloaf Mountain, Brazil",
+        "credit": "Fotografia pública de Wilfredor. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ARio_skyline_and_Cristo_Redentor_from_Sugarloaf_Mountain%2C_Brazil.jpg",
+        "kind": "photo"
+      }
+    ],
+    "São Paulo": [
+      {
+        "src": "/cities/br/sao-paulo-0.jpg",
+        "caption": "São Paulo — Catedral Metropolitana de Sao Paulo, Brasil",
+        "credit": "Fotografia pública de Wilfredor. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACatedral_Metropolitana_de_Sao_Paulo%2C_Brasil.jpg",
+        "kind": "photo"
+      },
+      {
+        "src": "/cities/br/sao-paulo-1.jpg",
+        "caption": "São Paulo — Jamones y bacalao en el Mercado Municipal de Sao Paulo",
+        "credit": "Fotografia pública de Wilfredor. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AJamones_y_bacalao_en_el_Mercado_Municipal_de_Sao_Paulo.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Salvador": [
+      {
+        "src": "/cities/br/salvador-0.jpg",
+        "caption": "Salvador — Raul Golinelli Elevador Lacerda Mercado Modelo Salvador Bahia Brasil",
+        "credit": "Fotografia pública de Raul Golinelli. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ARaul_Golinelli_Elevador_Lacerda_Mercado_Modelo_Salvador_Bahia_Brasil.jpg",
+        "kind": "photo"
+      },
+      {
+        "src": "/cities/br/salvador-1.jpg",
+        "caption": "Salvador — Forte de Santo Antônio--Farol da Barra Salvador Bahia Vista Aérea -",
+        "credit": "Fotografia pública de Paul R. Burley. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AForte_de_Santo_Ant%C3%B4nio--Farol_da_Barra_Salvador_Bahia_Vista_A%C3%A9rea_2021-0149.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "uy": {
+    "Montevidéu": [
+      {
+        "src": "/cities/uy/montevideu-0.jpg",
+        "caption": "Montevidéu — Montevideo pkindsvater 01",
+        "credit": "Fotografia pública de Paulakindsvater. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMontevideo_pkindsvater_01.jpg",
+        "kind": "photo"
+      },
+      {
+        "src": "/cities/uy/montevideu-1.jpg",
+        "caption": "Montevidéu — Montevideo pkindsvater 09",
+        "credit": "Fotografia pública de Paulakindsvater. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMontevideo_pkindsvater_09.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Colónia do Sacramento": [
+      {
+        "src": "/cities/uy/colonia-do-sacramento-0.jpg",
+        "caption": "Colónia do Sacramento — Uruguay - Colonia del Sacramento 06",
+        "credit": "Fotografia pública de P. Hughes. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AUruguay_-_Colonia_del_Sacramento_06.jpg",
+        "kind": "photo"
+      },
+      {
+        "src": "/cities/uy/colonia-do-sacramento-1.jpg",
+        "caption": "Colónia do Sacramento — Colonia-MuseoAzulejo",
+        "credit": "Fotografia pública de Heretiq. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AColonia-MuseoAzulejo.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Punta del Este": [
+      {
+        "src": "/cities/uy/punta-del-este-0.jpg",
+        "caption": "Punta del Este — La mano de Punta del Este 2",
+        "credit": "Fotografia pública de No machine-readable author provided. Da dinges assumed (based on copyright claims).. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALa_mano_de_Punta_del_Este_2.JPG",
+        "kind": "photo"
+      },
+      {
+        "src": "/cities/uy/punta-del-este-1.jpg",
+        "caption": "Punta del Este — Wedding in Casapueblo",
+        "credit": "Fotografia pública de Irenuchi. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AWedding_in_Casapueblo.jpg",
+        "kind": "photo"
+      }
+    ]
+  }
+}

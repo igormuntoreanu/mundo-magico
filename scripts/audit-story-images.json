@@ -1,0 +1,1297 @@
+{
+  "totals": {
+    "countriesWithStories": 179,
+    "complete": 160,
+    "partial": 3,
+    "withoutAny": 16,
+    "imageFiles": 4017,
+    "expectedPages": 4475,
+    "havePages": 4017,
+    "missingPages": 458
+  },
+  "complete": [
+    {
+      "iso": "af",
+      "name": "Afeganistão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "za",
+      "name": "África do Sul",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "al",
+      "name": "Albânia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "de",
+      "name": "Alemanha",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ao",
+      "name": "Angola",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "aq",
+      "name": "Antártida",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sa",
+      "name": "Arábia Saudita",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "dz",
+      "name": "Argélia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ar",
+      "name": "Argentina",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "am",
+      "name": "Armênia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "au",
+      "name": "Austrália",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "at",
+      "name": "Áustria",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "az",
+      "name": "Azerbaijão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bs",
+      "name": "Bahamas",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bd",
+      "name": "Bangladesh",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "be",
+      "name": "Bélgica",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bz",
+      "name": "Belize",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bj",
+      "name": "Benin",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "by",
+      "name": "Bielorrússia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bo",
+      "name": "Bolívia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ba",
+      "name": "Bósnia e Herzegovina",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bw",
+      "name": "Botsuana",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "br",
+      "name": "Brasil",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bn",
+      "name": "Brunei",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bg",
+      "name": "Bulgária",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bf",
+      "name": "Burquina Faso",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bi",
+      "name": "Burundi",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "bt",
+      "name": "Butão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cv",
+      "name": "Cabo Verde",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cm",
+      "name": "Camarões",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "kh",
+      "name": "Camboja",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ca",
+      "name": "Canadá",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "qa",
+      "name": "Catar",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "kz",
+      "name": "Cazaquistão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "td",
+      "name": "Chade",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cl",
+      "name": "Chile",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cn",
+      "name": "China",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cy",
+      "name": "Chipre",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ncyp",
+      "name": "Chipre do Norte",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "co",
+      "name": "Colômbia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "kp",
+      "name": "Coreia do Norte",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "kr",
+      "name": "Coreia do Sul",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ci",
+      "name": "Costa do Marfim",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cr",
+      "name": "Costa Rica",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "hr",
+      "name": "Croácia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cu",
+      "name": "Cuba",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "dk",
+      "name": "Dinamarca",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "eg",
+      "name": "Egito",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sv",
+      "name": "El Salvador",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ae",
+      "name": "Emirados Árabes Unidos",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ec",
+      "name": "Equador",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sk",
+      "name": "Eslováquia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "si",
+      "name": "Eslovênia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "es",
+      "name": "Espanha",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "us",
+      "name": "Estados Unidos",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ee",
+      "name": "Estônia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "et",
+      "name": "Etiópia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "fj",
+      "name": "Fiji",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ph",
+      "name": "Filipinas",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "fi",
+      "name": "Finlândia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "fr",
+      "name": "França",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gm",
+      "name": "Gâmbia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gh",
+      "name": "Gana",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ge",
+      "name": "Geórgia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gr",
+      "name": "Grécia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gl",
+      "name": "Groenlândia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gt",
+      "name": "Guatemala",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gy",
+      "name": "Guiana",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gn",
+      "name": "Guiné",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gq",
+      "name": "Guiné Equatorial",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gw",
+      "name": "Guiné-Bissau",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ht",
+      "name": "Haiti",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "hn",
+      "name": "Honduras",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "hu",
+      "name": "Hungria",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ye",
+      "name": "Iêmen",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "fk",
+      "name": "Ilhas Malvinas",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sb",
+      "name": "Ilhas Salomão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "in",
+      "name": "Índia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "id",
+      "name": "Indonésia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ir",
+      "name": "Irã",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "iq",
+      "name": "Iraque",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ie",
+      "name": "Irlanda",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "is",
+      "name": "Islândia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "il",
+      "name": "Israel",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "it",
+      "name": "Itália",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "jm",
+      "name": "Jamaica",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "jp",
+      "name": "Japão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "jo",
+      "name": "Jordânia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "xk",
+      "name": "Kosovo",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "kw",
+      "name": "Kuwait",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "la",
+      "name": "Laos",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "lv",
+      "name": "Letônia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "lb",
+      "name": "Líbano",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "lr",
+      "name": "Libéria",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ly",
+      "name": "Líbia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "lt",
+      "name": "Lituânia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "lu",
+      "name": "Luxemburgo",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "mk",
+      "name": "Macedônia do Norte",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "my",
+      "name": "Malásia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ml",
+      "name": "Mali",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ma",
+      "name": "Marrocos",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "mr",
+      "name": "Mauritânia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "mx",
+      "name": "México",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "mm",
+      "name": "Mianmar (Birmânia)",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "mz",
+      "name": "Moçambique",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "md",
+      "name": "Moldávia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "mn",
+      "name": "Mongólia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "me",
+      "name": "Montenegro",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "np",
+      "name": "Nepal",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ni",
+      "name": "Nicarágua",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ne",
+      "name": "Níger",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ng",
+      "name": "Nigéria",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "no",
+      "name": "Noruega",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "nc",
+      "name": "Nova Caledônia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "nz",
+      "name": "Nova Zelândia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "om",
+      "name": "Omã",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "nl",
+      "name": "Países Baixos",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "pa",
+      "name": "Panamá",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "pg",
+      "name": "Papua-Nova Guiné",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "pk",
+      "name": "Paquistão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "py",
+      "name": "Paraguai",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "pe",
+      "name": "Peru",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "pl",
+      "name": "Polônia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "pr",
+      "name": "Porto Rico",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "pt",
+      "name": "Portugal",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ke",
+      "name": "Quênia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "kg",
+      "name": "Quirguistão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "gb",
+      "name": "Reino Unido",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cf",
+      "name": "República Centro-Africana",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "do",
+      "name": "República Dominicana",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ro",
+      "name": "Romênia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ru",
+      "name": "Rússia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "st",
+      "name": "São Tomé e Príncipe",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sn",
+      "name": "Senegal",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sl",
+      "name": "Serra Leoa",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "rs",
+      "name": "Sérvia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sy",
+      "name": "Síria",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "lk",
+      "name": "Sri Lanka",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "se",
+      "name": "Suécia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ch",
+      "name": "Suíça",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sr",
+      "name": "Suriname",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tj",
+      "name": "Tadjiquistão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "th",
+      "name": "Tailândia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tw",
+      "name": "Taiwan",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tz",
+      "name": "Tanzânia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cz",
+      "name": "Tchéquia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tf",
+      "name": "Territórios Franceses do Sul",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ps",
+      "name": "Territórios palestinos",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tl",
+      "name": "Timor-Leste",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tg",
+      "name": "Togo",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tt",
+      "name": "Trinidad e Tobago",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tn",
+      "name": "Tunísia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tm",
+      "name": "Turcomenistão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "tr",
+      "name": "Turquia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ua",
+      "name": "Ucrânia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "uy",
+      "name": "Uruguai",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "uz",
+      "name": "Uzbequistão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "vu",
+      "name": "Vanuatu",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ve",
+      "name": "Venezuela",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "vn",
+      "name": "Vietnã",
+      "tales": 5,
+      "pages": 25
+    }
+  ],
+  "partial": [
+    {
+      "iso": "dj",
+      "name": "Djibuti",
+      "tales": 5,
+      "pages": 25,
+      "have": 5,
+      "missing": 20,
+      "completeTales": 0,
+      "emptyTales": 3,
+      "partialTales": 2,
+      "taleStatus": [
+        {
+          "index": 0,
+          "title": "O poço e o camelo",
+          "pages": 5,
+          "have": 4,
+          "missing": [
+            1
+          ],
+          "status": "partial"
+        },
+        {
+          "index": 1,
+          "title": "A árvore que cheira",
+          "pages": 5,
+          "have": 1,
+          "missing": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "status": "partial"
+        },
+        {
+          "index": 2,
+          "title": "O lago de sal",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        },
+        {
+          "index": 3,
+          "title": "A cabra do pátio",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        },
+        {
+          "index": 4,
+          "title": "O mar do golfo",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "iso": "mg",
+      "name": "Madagascar",
+      "tales": 5,
+      "pages": 25,
+      "have": 6,
+      "missing": 19,
+      "completeTales": 0,
+      "emptyTales": 3,
+      "partialTales": 2,
+      "taleStatus": [
+        {
+          "index": 0,
+          "title": "O camaleão que chega",
+          "pages": 5,
+          "have": 4,
+          "missing": [
+            2
+          ],
+          "status": "partial"
+        },
+        {
+          "index": 1,
+          "title": "O lémure da noite",
+          "pages": 5,
+          "have": 2,
+          "missing": [
+            1,
+            3,
+            4
+          ],
+          "status": "partial"
+        },
+        {
+          "index": 2,
+          "title": "O fossa no trilho",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        },
+        {
+          "index": 3,
+          "title": "O lamba aos ombros",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        },
+        {
+          "index": 4,
+          "title": "O arroz da família",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        }
+      ]
+    },
+    {
+      "iso": "eh",
+      "name": "Saara Ocidental",
+      "tales": 5,
+      "pages": 25,
+      "have": 6,
+      "missing": 19,
+      "completeTales": 1,
+      "emptyTales": 3,
+      "partialTales": 1,
+      "taleStatus": [
+        {
+          "index": 1,
+          "title": "A gazela",
+          "pages": 5,
+          "have": 1,
+          "missing": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "status": "partial"
+        },
+        {
+          "index": 2,
+          "title": "O vento e os rastos",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        },
+        {
+          "index": 3,
+          "title": "O poço de todos",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        },
+        {
+          "index": 4,
+          "title": "O camelo que lembra o caminho",
+          "pages": 5,
+          "have": 0,
+          "missing": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "empty"
+        }
+      ]
+    }
+  ],
+  "withoutAny": [
+    {
+      "iso": "cd",
+      "name": "Congo - Kinshasa",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "er",
+      "name": "Eritreia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sz",
+      "name": "Essuatíni",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ga",
+      "name": "Gabão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ls",
+      "name": "Lesoto",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "mw",
+      "name": "Malaui",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "na",
+      "name": "Namíbia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "cg",
+      "name": "República do Congo",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "rw",
+      "name": "Ruanda",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "so",
+      "name": "Somália",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "somaliland",
+      "name": "Somalilândia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "sd",
+      "name": "Sudão",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ss",
+      "name": "Sudão do Sul",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "ug",
+      "name": "Uganda",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "zm",
+      "name": "Zâmbia",
+      "tales": 5,
+      "pages": 25
+    },
+    {
+      "iso": "zw",
+      "name": "Zimbábue",
+      "tales": 5,
+      "pages": 25
+    }
+  ]
+}

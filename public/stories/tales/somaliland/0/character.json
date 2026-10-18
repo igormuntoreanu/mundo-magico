@@ -1,8 +1,17 @@
 {
   "name": "Ayaan",
-  "face": "Young Somaliland girl with warm brown skin, a round face, large dark brown eyes, soft brows, and a bright open smile.",
-  "clothing": "Teal dirac with gold leafy embroidery and a gold hem, a pale mint headscarf with a gold edge, a yellow sash, gold hoop earrings, a gold bead necklace, and brown sandals.",
-  "proportions": "A real child of about eight, with a natural head-to-body ratio, two arms, two legs, and five fingers on each hand.",
-  "dominantColor": "Teal and gold",
-  "distinctiveFeatures": "Dark shoulder-length hair under a pale mint headscarf with a gold edge, gold hoops, a gold bead necklace, a yellow sash, and gold leafy embroidery on the teal dirac."
+  "face": "Heart-shaped face with a wide forehead, wide-set round eyes, a short upturned nose, full cheeks, and a wide open smile that shows even teeth without a gap.",
+  "clothing": "Teal Somaliland dirac with gold leafy embroidery and a gold hem, a pale mint headscarf edged in gold worn loosely over one shoulder, a mustard-yellow sash, small gold stud earrings (not hoops), a short coral bead necklace, and brown sandals.",
+  "proportions": "A real child of about eight, natural head-to-body ratio, two arms, two legs, five fingers on each hand.",
+  "dominantColor": "Teal, mint, and mustard",
+  "distinctiveFeatures": "Dense black two-strand twists with a mustard ribbon on the right side only, a spray of freckles across the nose bridge, and a pale mint headscarf draped loosely — never a tall wrapped gele.",
+  "faceShape": "heart-shaped",
+  "eyeShape": "wide-set round",
+  "nose": "short upturned",
+  "mouth": "wide open smile, even teeth",
+  "hair": "two-strand twists with mustard ribbon on right",
+  "skinTone": "medium warm brown with golden undertone",
+  "cheekbonesJaw": "full cheeks, soft rounded jaw",
+  "rareTrait": "freckle spray across the nose",
+  "countryLook": "Somaliland highland child — teal-and-gold dirac, mint scarf, freckles; visually distinct from coastal Somali indigo Hodan"
 }

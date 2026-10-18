@@ -1,25 +1,55 @@
-Children's storybook illustration, warm painterly digital painting matching the attached project reference: soft brush texture, soft natural light, muted earthy landscape, one clear clothing accent color.
+Children's storybook illustration, warm painterly digital painting matching the attached STYLE reference: soft brush texture, soft natural light, muted earthy landscape, one clear clothing accent color.
 
-Main character (locked — identical on every page of this tale):
-[paste character.json: name, face, clothing, proportions, dominantColor, distinctiveFeatures]
+The attached image is a STYLE reference only (brush, lighting, palette, composition). Do NOT copy that child's face, hairstyle, skin tone, age look, or body type.
+
+MAIN CHARACTER (locked for this entire tale only — must be identical across all 5 pages of THIS tale):
+Name: [name]
+Country / regional look: [one concrete line for this country]
+Face signature (must be unique to this country/tale — fill ALL fields):
+- faceShape: […]
+- eyeShape: […]
+- nose: […]
+- mouth: […]
+- hair: […]
+- skinTone: [specific, not just "warm brown"]
+- cheekbones/jaw: […]
+- rareTrait: [one distinctive trait: gap tooth, birthmark, asymmetric braid, freckle cluster, etc.]
+Clothing: [country-specific traditional dress from character.json]
+Proportions: [from character.json]
+Dominant color: […]
+Distinctive features: […]
 
 Age: about 8 years old. Natural child proportions (not large-head chibi). Two arms, two legs, five fingers per hand.
+This character is unique to this country/tale. Do not reuse facial features, hairstyle, skin tone, or clothing silhouette from any other tale.
 
-Scene (page [N] of 5): [1–2 sentence visual brief from the page text — actions, place, props, supporting figures. No dialogue quoted.]
+SUPPORTING CHARACTERS (locked for this tale only):
+[Each recurring adult/child: name + face signature + country-specific clothing — must stay identical every page they appear. No generic "kind grandmother."]
+Supporting characters must also be unique to this tale and visually distinct from supporting characters in other countries.
+
+Scene (page [N] of 5): [1–2 sentence visual brief — actions, place, props, supporting figures. No dialogue.]
 
 Scale anchors for THIS page only:
-- child vs adult: [e.g. top of child's head at adult's chest]
-- child vs animal/object: [e.g. standing cow about child's shoulder height; rabbit much smaller than the child]
-Animals are life-size and correctly proportioned to the child.
+- child vs adult: [concrete, e.g. top of child's head reaches adult's chest]
+- child vs animal/object: [concrete, e.g. standing cow is roughly the child's shoulder height; rabbit is much smaller than the child]
+Animals are life-size and correctly proportioned relative to the child.
 
 Composition: wide storybook frame, full-bleed, clear focal character, readable silhouette.
-No text, letters, words, speech bubbles, captions, watermarks, borders, or UI.
-No anime, no photoreal skin, no plastic CGI, no modern phones/cars/logos.
 
-Avoid: aged-up character, teenager or adult face on child body, chibi/large-head proportions, oversized protagonist, child taller than adults or large animals, wrong animal scale, inconsistent face or hairstyle, outfit change between pages, photorealistic skin, plastic CGI, extra limbs, deformed hands, fused fingers, speech bubbles, any text or letters, watermark, border, anime eyes, low resolution, blurry background, duplicate pose from another page
+NEGATIVE / AVOID:
+- Reusing the same face, hairstyle, skin tone, or body proportions as characters from other countries/tales
+- Generic "default child" or "default old lady" look
+- Aged-up character, teenager or adult face on child body
+- Chibi / large-head proportions
+- Oversized protagonist, child taller than adults or large animals
+- Wrong animal scale
+- Inconsistent face or hairstyle within this tale
+- Outfit change within this tale
+- Photorealistic skin, plastic CGI, anime style, anime eyes
+- Extra limbs, deformed hands, fused fingers
+- Speech bubbles, any text, letters, words, captions, watermarks, borders, UI
+- Modern phones, cars, logos
+- Duplicate pose from another page of this same tale
+- Low resolution, blurry background
+- Copying the face from the STYLE reference image
 
-How we’ll fill it per page
-Lock character.json once per tale (approve before bulk).
-For each page: visual brief + concrete scale anchors from that scene.
-Generate with 4:3, reference = one good finished page (e.g. bi-0-0.jpg or bw-0-0.jpg) + optional character ref if you have one.
-Save as public/stories/pages/{iso}-{tale}-{page}.jpg.
+Style lock: warm painterly digital painting, soft brush texture, soft natural light, muted earthy tones, matching the project STYLE reference images (not their faces).

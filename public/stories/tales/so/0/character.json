@@ -1,8 +1,17 @@
 {
   "name": "Hodan",
-  "face": "Young Somali girl about eight with warm brown skin, a round face, large dark brown eyes, soft brows, and a bright smile.",
-  "clothing": "A red dirac with green and yellow panels covered in white, pink, and blue flowers, a wide gold-trimmed headscarf in red, green, and yellow, a yellow bow at the waist, gold drop earrings, a gold bead necklace, a gold bracelet, and brown sandals.",
-  "proportions": "A real child of about eight, with a natural head-to-body ratio, two arms, two legs, and five fingers on each hand.",
-  "dominantColor": "Red, green, and yellow",
-  "distinctiveFeatures": "Dark shoulder-length hair under a wide red, green, and yellow gold-trimmed headscarf, a yellow waist bow, gold drop earrings, a gold bead necklace, and a gold bracelet over the floral dirac."
+  "face": "Long oval face with high sharp cheekbones, slightly hooded almond eyes, a narrow bridged nose, and a soft closed-lip smile that shows a small gap between the front teeth when she grins.",
+  "clothing": "Deep indigo Somali dirac with coral and cream floral panels, a matching indigo-and-coral guntiino-style draped headscarf tied low at the nape (not a tall gele), thin gold hoop earrings, a single strand of amber beads, and brown leather sandals.",
+  "proportions": "A real child of about eight, natural head-to-body ratio, two arms, two legs, five fingers on each hand.",
+  "dominantColor": "Indigo and coral",
+  "distinctiveFeatures": "Tight cornrows ending in two thin braids with amber beads at the tips, a small gap between the front teeth, a faint freckle under the left eye, and a low-tied indigo-coral headscarf that leaves the cornrows visible at the hairline.",
+  "faceShape": "long oval",
+  "eyeShape": "hooded almond",
+  "nose": "narrow bridge",
+  "mouth": "soft smile with small gap tooth",
+  "hair": "cornrows into two beaded braids",
+  "skinTone": "deep mahogany brown with cool undertone",
+  "cheekbonesJaw": "high cheekbones, soft jaw",
+  "rareTrait": "gap between front teeth and freckle under left eye",
+  "countryLook": "Somali child from the Mogadishu coast — indigo dirac and low headscarf, not Djibouti coral dirac silhouette"
 }

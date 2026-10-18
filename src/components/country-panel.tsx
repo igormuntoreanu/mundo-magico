@@ -2,6 +2,7 @@ import { BookOpen, ChevronRight, Landmark, RotateCcw } from "lucide-react";
 import { useEffect, useState } from "react";
 import { Costume } from "@/components/costume";
 import { flagUrl, portraitUrl } from "@/data/catalog";
+import { cityPhotos, type CityPhoto } from "@/data/city-photos";
 import { hasStory } from "@/data/stories";
 import type { CitySpot, CountryProfile } from "@/data/types";
 import { fill } from "@/i18n/content";
@@ -106,6 +107,91 @@ function NumberedTable({
 
 function cityRows(cities: CitySpot[]) {
   return cities.map((c) => ({ title: c.city, detail: c.spots }));
+}
+
+function CityPhotoRow({
+  index,
+  city,
+  spots,
+  photos,
+}: {
+  index: number;
+  city: string;
+  spots: string;
+  photos: CityPhoto[];
+}) {
+  return (
+    <li className="rounded-xl border-2 border-stroke bg-cream">
+      <div className="flex gap-0">
+        <span
+          className="flex w-10 shrink-0 items-center justify-center rounded-l-[0.65rem] border-r-2 border-stroke font-display text-lg font-bold text-ink"
+          style={{ background: "#4ade80" }}
+          aria-hidden
+        >
+          {index + 1}
+        </span>
+        <div className="min-w-0 flex-1 px-3 py-2">
+          <p className="text-sm font-bold text-ink">{city}</p>
+          {spots ? <p className="mt-0.5 text-xs font-semibold text-ink/70">{spots}</p> : null}
+          {photos.length ? (
+            <div className="mt-2 grid grid-cols-2 gap-2">
+              {photos.slice(0, 2).map((photo) => (
+                <figure key={photo.src} className="min-w-0">
+                  <a
+                    href={photo.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block overflow-hidden rounded-lg border-2 border-stroke"
+                  >
+                    <img
+                      src={photo.src}
+                      alt={photo.caption}
+                      className="aspect-[4/3] w-full object-cover"
+                      loading="lazy"
+                    />
+                  </a>
+                  <figcaption className="mt-1 text-[10px] leading-snug font-semibold text-ink/55">
+                    <a
+                      href={photo.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="underline decoration-ink/20 underline-offset-2 hover:text-ink/80"
+                    >
+                      {photo.credit}
+                    </a>
+                  </figcaption>
+                </figure>
+              ))}
+            </div>
+          ) : null}
+        </div>
+      </div>
+    </li>
+  );
+}
+
+function CitiesSection({ iso, cities }: { iso: string; cities: CitySpot[] }) {
+  const withPhotos = cities.map((c) => ({
+    ...c,
+    photos: cityPhotos(iso, c.city),
+  }));
+  const anyPhotos = withPhotos.some((c) => c.photos.length >= 1);
+
+  if (!anyPhotos) {
+    return <NumberedTable accent="#4ade80" rows={cityRows(cities)} />;
+  }
+
+  return (
+    <ol className="flex list-none flex-col gap-2 p-0">
+      {withPhotos.map((c, i) =>
+        c.photos.length ? (
+          <CityPhotoRow key={c.city} index={i} city={c.city} spots={c.spots} photos={c.photos} />
+        ) : (
+          <CityPhotoRow key={c.city} index={i} city={c.city} spots={c.spots} photos={[]} />
+        ),
+      )}
+    </ol>
+  );
 }
 
 export function CountryPanel({ country, onPick, onClear, onTale, featured }: Props) {
@@ -231,7 +317,7 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
           </span>
           {t.citiesTitle}
         </h3>
-        <NumberedTable accent="#4ade80" rows={cityRows(country.cities)} />
+        <CitiesSection iso={country.iso} cities={country.cities} />
       </section>
     </div>
   );
