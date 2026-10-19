@@ -1,7 +1,8 @@
-import { useEffect, useMemo, useRef, useState } from "react";
-import { Search, X } from "lucide-react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { BookOpen, Search, X } from "lucide-react";
 import { createFileRoute } from "@tanstack/react-router";
 import { CountryPanel } from "@/components/country-panel";
+import { FableCatalog } from "@/components/fable-catalog";
 import { GlobeCanvas, type GlobeApi } from "@/components/globe-canvas";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { StoryBook } from "@/components/story-book";
@@ -19,6 +20,7 @@ function Home() {
   const [taleIndex, setTaleIndex] = useState<number | null>(null);
   const [query, setQuery] = useState("");
   const [openSuggest, setOpenSuggest] = useState(false);
+  const [fablesOpen, setFablesOpen] = useState(false);
   const globeApi = useRef<GlobeApi | null>(null);
   const [story, setStory] = useState<FolkStory | null>(null);
 
@@ -49,7 +51,7 @@ function Home() {
     };
   }, [country, taleIndex]);
 
-  function pick(iso: string, lat?: number, lng?: number) {
+  const pick = useCallback((iso: string, lat?: number, lng?: number) => {
     setSelectedIso(iso);
     setTaleIndex(null);
     setQuery("");
@@ -59,7 +61,16 @@ function Home() {
     } else {
       globeApi.current?.flyToIso(iso);
     }
-  }
+  }, []);
+  const closeFables = useCallback(() => setFablesOpen(false), []);
+  const openFable = useCallback(
+    (iso: string, index: number) => {
+      closeFables();
+      pick(iso);
+      setTaleIndex(index);
+    },
+    [closeFables, pick],
+  );
 
   return (
     <main className="relative min-h-dvh overflow-hidden bg-night text-ink">
@@ -87,33 +98,35 @@ function Home() {
               <LanguageSwitcher />
             </div>
             <div className="pointer-events-auto relative min-w-0 flex-1">
-              <Search className="absolute top-1/2 left-3 size-4 -translate-y-1/2 text-ink/50" aria-hidden />
-              <input
-                value={query}
-                onChange={(e) => {
-                  setQuery(e.target.value);
-                  setOpenSuggest(true);
-                }}
-                onFocus={() => setOpenSuggest(true)}
-                placeholder={t.searchPlaceholder}
-                className="w-full rounded-2xl border-3 border-stroke bg-cream py-2.5 pr-10 pl-9 font-sans text-sm font-bold text-ink shadow-[4px_4px_0_#2b1b4e] outline-none placeholder:text-ink/40"
-                aria-label={t.searchLabel}
-              />
-              {query ? (
-                <button
-                  type="button"
-                  className="absolute top-1/2 right-2 -translate-y-1/2 rounded-full p-1 text-ink/60"
-                  onClick={() => {
-                    setQuery("");
-                    setOpenSuggest(false);
+              <div className="relative">
+                <Search className="absolute top-1/2 left-3 size-4 -translate-y-1/2 text-ink/50" aria-hidden />
+                <input
+                  value={query}
+                  onChange={(e) => {
+                    setQuery(e.target.value);
+                    setOpenSuggest(true);
                   }}
-                  aria-label={t.clearSearch}
-                >
-                  <X className="size-4" />
-                </button>
-              ) : null}
+                  onFocus={() => setOpenSuggest(true)}
+                  placeholder={t.searchPlaceholder}
+                  className="w-full rounded-2xl border-3 border-stroke bg-cream py-2.5 pr-10 pl-9 font-sans text-sm font-bold text-ink shadow-[4px_4px_0_#2b1b4e] outline-none placeholder:text-ink/40"
+                  aria-label={t.searchLabel}
+                />
+                {query ? (
+                  <button
+                    type="button"
+                    className="absolute top-1/2 right-2 -translate-y-1/2 rounded-full p-1 text-ink/60"
+                    onClick={() => {
+                      setQuery("");
+                      setOpenSuggest(false);
+                    }}
+                    aria-label={t.clearSearch}
+                  >
+                    <X className="size-4" />
+                  </button>
+                ) : null}
+              </div>
               {openSuggest && hits.length > 0 ? (
-                <div className="absolute inset-x-0 top-[110%] z-30 overflow-hidden rounded-2xl border-3 border-stroke bg-cream shadow-[5px_5px_0_#2b1b4e]">
+                <div className="absolute inset-x-0 top-[3.25rem] z-30 overflow-hidden rounded-2xl border-3 border-stroke bg-cream shadow-[5px_5px_0_#2b1b4e]">
                   {hits.map((c) => (
                     <button
                       key={c.iso}
@@ -134,6 +147,17 @@ function Home() {
                   ))}
                 </div>
               ) : null}
+              <button
+                type="button"
+                onClick={() => {
+                  setOpenSuggest(false);
+                  setFablesOpen(true);
+                }}
+                className="mt-2 flex min-h-11 w-full items-center justify-center gap-2 rounded-xl border-3 border-stroke bg-sun px-3 py-2 text-sm font-extrabold text-ink shadow-[3px_3px_0_#2b1b4e] transition-transform hover:-translate-y-0.5 active:scale-[0.98]"
+              >
+                <BookOpen className="size-4" aria-hidden />
+                {t.openFables}
+              </button>
             </div>
           </div>
 
@@ -164,6 +188,12 @@ function Home() {
           story={story}
           country={country}
           onClose={() => setTaleIndex(null)}
+        />
+      ) : null}
+      {fablesOpen ? (
+        <FableCatalog
+          onClose={closeFables}
+          onOpenFable={openFable}
         />
       ) : null}
     </main>

@@ -1,0 +1,50 @@
+Unfinished work
+================
+
+1. Source-verify and expand all 100 fable texts
+   All 100 catalogue entries currently resolve to five story pages, but the
+   existing page text has not been checked against a traceable primary text or
+   reliable historical edition for every tale. No extra historical detail was
+   added where a source could not be verified. Complete this only after
+   recording an appropriate source for each story; do not invent episodes or
+   present uncertain retellings as documented history.
+
+2. Translate complete story narratives
+   The catalogue interface and all 100 fable titles now have Portuguese,
+   English, German, and French wording. The five-page narrative text itself is
+   still Portuguese. When another language is selected, the story reader now
+   explicitly identifies that Portuguese fallback. Source-checked translations
+   for each supported language remain outstanding; translating unverified text
+   would preserve and spread possible historical errors.
+
+3. Finish city-content localization
+   City names and landmark descriptions are still stored largely in
+   Portuguese. They have not been comprehensively translated for English,
+   German, and French. Translate only where an established local-language
+   name exists; preserve proper names where translation is not appropriate.
+
+4. Decide whether to use a measurable ranking for the Top 100
+   The catalogue now uses an approximate editorial order that puts broadly
+   familiar stories first, and it explicitly says there is no definitive
+   worldwide ranking. No globally representative popularity dataset was
+   verified, so this order is not a statistical ranking.
+
+5. Find acceptable public-source photos for remaining city gaps
+   A strict Wikimedia Commons retry found and added suitable, sharp, freely
+   licensed images for Melbourne, Palawan, Islamabad, and Baghdad. These eight
+   city slots remain blank because the available searches did not produce an
+   image that passed the relevance and quality filters:
+   - Mexico City
+   - Lake Yojoa
+   - Port-au-Prince
+   - Madrid
+   - Poznań
+   - Tirana
+   - Ohrid
+   - Tunis
+
+   Commons rate limits interrupted several searches, and retrying did not find
+   acceptable candidates for these eight places. Keep them blank rather than
+   use unrelated landmarks, low-quality images, or generated images. All four
+   added photos include Commons attribution and license details in the
+   manifest.

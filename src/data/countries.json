@@ -71,6 +71,14 @@
       {
         "city": "Sintra",
         "spots": "Palácio da Pena, Quinta da Regaleira, Castelo dos Mouros"
+      },
+      {
+        "city": "Coimbra",
+        "spots": "Universidade de Coimbra, Biblioteca Joanina, Sé Velha"
+      },
+      {
+        "city": "Évora",
+        "spots": "Templo Romano, Capela dos Ossos, Praça do Giraldo"
       }
     ],
     "iso": "pt",
@@ -151,6 +159,14 @@
       {
         "city": "Liverpool",
         "spots": "Albert Dock, Cavern Club, Catedral Metropolitana"
+      },
+      {
+        "city": "Oxford",
+        "spots": "Universidade de Oxford, Radcliffe Camera, Biblioteca Bodleiana"
+      },
+      {
+        "city": "Bath",
+        "spots": "Termas Romanas, Royal Crescent, Abadia de Bath"
       }
     ],
     "iso": "gb",
@@ -189,6 +205,14 @@
       {
         "city": "Nice",
         "spots": "Promenade des Anglais, Colina do Castelo, Mercado de flores"
+      },
+      {
+        "city": "Lyon",
+        "spots": "Basílica de Fourvière, Vieux Lyon, Place Bellecour"
+      },
+      {
+        "city": "Bordeaux",
+        "spots": "Place de la Bourse, Miroir d'eau, Cité du Vin"
       }
     ],
     "iso": "fr",
@@ -227,6 +251,14 @@
       {
         "city": "Colônia",
         "spots": "Catedral de Colônia, Hohenzollernbrücke, Museu do Chocolate"
+      },
+      {
+        "city": "Dresden",
+        "spots": "Frauenkirche, Palácio Zwinger, Ópera Semper"
+      },
+      {
+        "city": "Hamburgo",
+        "spots": "Elbphilharmonie, Speicherstadt, Miniatur Wunderland"
       }
     ],
     "iso": "de",
@@ -265,6 +297,14 @@
       {
         "city": "Florença",
         "spots": "Duomo, Ponte Vecchio, Galeria Uffizi"
+      },
+      {
+        "city": "Nápoles",
+        "spots": "Castel dell'Ovo, Museu Arqueológico Nacional, Spaccanapoli"
+      },
+      {
+        "city": "Milão",
+        "spots": "Duomo de Milão, Galeria Vittorio Emanuele II, Castelo Sforzesco"
       }
     ],
     "iso": "it",
@@ -303,6 +343,14 @@
       {
         "city": "Sevilha",
         "spots": "Alcázar, Catedral e Giralda, Plaza de España"
+      },
+      {
+        "city": "Valência",
+        "spots": "Cidade das Artes e das Ciências, Lonja de la Seda, Catedral de Valência"
+      },
+      {
+        "city": "Granada",
+        "spots": "Alhambra, Generalife, Albaicín"
       }
     ],
     "iso": "es",
@@ -798,6 +846,14 @@
       {
         "city": "Rodes",
         "spots": "Cidade medieval, Acropolis de Lindos, Vale das Borboletas"
+      },
+      {
+        "city": "Tessalónica",
+        "spots": "Torre Branca, Rotunda, Arco de Galério"
+      },
+      {
+        "city": "Mykonos",
+        "spots": "Moinhos de vento de Mykonos, Pequena Veneza, Igreja Panagia Paraportiani"
       }
     ],
     "iso": "gr",
@@ -836,6 +892,14 @@
       {
         "city": "Ancara",
         "spots": "Anıtkabir, Museu das Civilizações, Cidadela"
+      },
+      {
+        "city": "Izmir",
+        "spots": "Torre do Relógio de Konak, Ágora de Esmirna, Bazar Kemeraltı"
+      },
+      {
+        "city": "Antália",
+        "spots": "Kaleiçi, Porta de Adriano, Cascatas Düden"
       }
     ],
     "iso": "tr",
@@ -874,6 +938,14 @@
       {
         "city": "Suzdal",
         "spots": "Kremlin de Suzdal, mosteiros brancos, anel de ouro"
+      },
+      {
+        "city": "Kazan",
+        "spots": "Kremlin de Kazan, Mesquita Kul Sharif, Rua Bauman"
+      },
+      {
+        "city": "Sochi",
+        "spots": "Parque Olímpico, Rosa Khutor, Arboreto de Sochi"
       }
     ],
     "iso": "ru",
@@ -1026,6 +1098,14 @@
       {
         "city": "Giethoorn",
         "spots": "vilarejo sem ruas, canais, pontes de madeira"
+      },
+      {
+        "city": "Utrecht",
+        "spots": "Torre Dom, canais de Oudegracht, Catedral de São Martinho"
+      },
+      {
+        "city": "Delft",
+        "spots": "Nieuwe Kerk, Oude Kerk, Praça do Mercado"
       }
     ],
     "iso": "nl",
@@ -1140,6 +1220,14 @@
       {
         "city": "Gdańsk",
         "spots": "Rua Longa, Motława, praia de Sopot"
+      },
+      {
+        "city": "Wrocław",
+        "spots": "Praça do Mercado, Panorama de Racławice, Ilha da Catedral"
+      },
+      {
+        "city": "Poznań",
+        "spots": "Praça do Mercado, Câmara Municipal, Catedral de Poznań"
       }
     ],
     "iso": "pl",
@@ -1712,6 +1800,14 @@
       {
         "city": "Tromsø",
         "spots": "aurora, catedral ártica, teleférico"
+      },
+      {
+        "city": "Stavanger",
+        "spots": "Gamle Stavanger, Catedral de Stavanger, Preikestolen"
+      },
+      {
+        "city": "Ålesund",
+        "spots": "miradouro Aksla, arquitetura Art Nouveau, Parque Atlântico"
       }
     ],
     "iso": "no",
@@ -1788,6 +1884,14 @@
       {
         "city": "Zermatt",
         "spots": "Matterhorn, trem Gornergrat, Alpes"
+      },
+      {
+        "city": "Lucerna",
+        "spots": "Ponte da Capela, Monumento do Leão, Museu Suíço dos Transportes"
+      },
+      {
+        "city": "Genebra",
+        "spots": "Jet d'Eau, Catedral de São Pedro, Palais des Nations"
       }
     ],
     "iso": "ch",
@@ -1864,6 +1968,14 @@
       {
         "city": "Innsbruck",
         "spots": "Goldenes Dachl, Alpes, trampolim de Bergisel"
+      },
+      {
+        "city": "Graz",
+        "spots": "Schlossberg, Kunsthaus Graz, Torre do Relógio"
+      },
+      {
+        "city": "Hallstatt",
+        "spots": "Lago Hallstatt, praça do mercado, mina de sal"
       }
     ],
     "iso": "at",
@@ -1904,6 +2016,14 @@
       {
         "city": "Brno",
         "spots": "catedral, vila Tugendhat, ossuário"
+      },
+      {
+        "city": "Kutná Hora",
+        "spots": "Ossuário de Sedlec, Catedral de Santa Bárbara, Corte Italiana"
+      },
+      {
+        "city": "Karlovy Vary",
+        "spots": "Colunata do Moinho, fontes termais, Hotel Thermal"
       }
     ],
     "iso": "cz",
@@ -1980,6 +2100,14 @@
       {
         "city": "Sibiu",
         "spots": "praça grande, casas com olhos, montanhas Făgăraș"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "spots": "Igreja de São Miguel, Praça Unirii, Jardim Botânico"
+      },
+      {
+        "city": "Sighișoara",
+        "spots": "Cidadela de Sighișoara, Torre do Relógio, Casa de Vlad Dracul"
       }
     ],
     "iso": "ro",
@@ -2018,6 +2146,14 @@
       {
         "city": "Odesa",
         "spots": "escadaria Potemkin, ópera, praia do mar Negro"
+      },
+      {
+        "city": "Chernivtsi",
+        "spots": "Universidade de Chernivtsi, Praça Central, Teatro Olga Kobylianska"
+      },
+      {
+        "city": "Kamianets-Podilskyi",
+        "spots": "Castelo de Kamianets-Podilskyi, cânion do rio Smotrych, Ponte do Castelo"
       }
     ],
     "iso": "ua",
@@ -3006,6 +3142,14 @@
       {
         "city": "Lagos de Plitvice",
         "spots": "cascata, passerelles, bosques"
+      },
+      {
+        "city": "Zagreb",
+        "spots": "Igreja de São Marcos, Praça Ban Jelačić, Museu das Relações Quebradas"
+      },
+      {
+        "city": "Zadar",
+        "spots": "Órgão do Mar, Saudação ao Sol, Fórum Romano"
       }
     ],
     "iso": "hr",

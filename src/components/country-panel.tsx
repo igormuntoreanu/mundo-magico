@@ -1,6 +1,7 @@
 import { BookOpen, ChevronRight, Landmark, RotateCcw } from "lucide-react";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { Costume } from "@/components/costume";
+import { CityImageViewer } from "@/components/city-image-viewer";
 import { flagUrl, portraitUrl } from "@/data/catalog";
 import { cityPhotos, type CityPhoto } from "@/data/city-photos";
 import { hasStory } from "@/data/stories";
@@ -114,12 +115,16 @@ function CityPhotoRow({
   city,
   spots,
   photos,
+  onOpenPhoto,
 }: {
   index: number;
   city: string;
   spots: string;
   photos: CityPhoto[];
+  onOpenPhoto: (photo: CityPhoto) => void;
 }) {
+  const { t } = useI18n();
+
   return (
     <li className="rounded-xl border-2 border-stroke bg-cream">
       <div className="flex gap-0">
@@ -137,19 +142,20 @@ function CityPhotoRow({
             <div className="mt-2 grid grid-cols-2 gap-2">
               {photos.slice(0, 2).map((photo) => (
                 <figure key={photo.src} className="min-w-0">
-                  <a
-                    href={photo.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block overflow-hidden rounded-lg border-2 border-stroke"
+                  <button
+                    type="button"
+                    onClick={() => onOpenPhoto(photo)}
+                    aria-label={fill(t.openPhoto, { title: photo.caption })}
+                    className="block w-full overflow-hidden rounded-lg border-2 border-stroke bg-night focus-visible:outline-4 focus-visible:outline-offset-2 focus-visible:outline-candy"
                   >
                     <img
                       src={photo.src}
                       alt={photo.caption}
                       className="aspect-[4/3] w-full object-cover"
+                      style={photo.objectPosition ? { objectPosition: photo.objectPosition } : undefined}
                       loading="lazy"
                     />
-                  </a>
+                  </button>
                   <figcaption className="mt-1 text-[10px] leading-snug font-semibold text-ink/55">
                     <a
                       href={photo.href}
@@ -170,7 +176,15 @@ function CityPhotoRow({
   );
 }
 
-function CitiesSection({ iso, cities }: { iso: string; cities: CitySpot[] }) {
+function CitiesSection({
+  iso,
+  cities,
+  onOpenPhoto,
+}: {
+  iso: string;
+  cities: CitySpot[];
+  onOpenPhoto: (photo: CityPhoto) => void;
+}) {
   const withPhotos = cities.map((c) => ({
     ...c,
     photos: cityPhotos(iso, c.city),
@@ -185,9 +199,23 @@ function CitiesSection({ iso, cities }: { iso: string; cities: CitySpot[] }) {
     <ol className="flex list-none flex-col gap-2 p-0">
       {withPhotos.map((c, i) =>
         c.photos.length ? (
-          <CityPhotoRow key={c.city} index={i} city={c.city} spots={c.spots} photos={c.photos} />
+          <CityPhotoRow
+            key={c.city}
+            index={i}
+            city={c.city}
+            spots={c.spots}
+            photos={c.photos}
+            onOpenPhoto={onOpenPhoto}
+          />
         ) : (
-          <CityPhotoRow key={c.city} index={i} city={c.city} spots={c.spots} photos={[]} />
+          <CityPhotoRow
+            key={c.city}
+            index={i}
+            city={c.city}
+            spots={c.spots}
+            photos={[]}
+            onOpenPhoto={onOpenPhoto}
+          />
         ),
       )}
     </ol>
@@ -197,6 +225,8 @@ function CitiesSection({ iso, cities }: { iso: string; cities: CitySpot[] }) {
 export function CountryPanel({ country, onPick, onClear, onTale, featured }: Props) {
   const { t } = useI18n();
   const [portraitFailed, setPortraitFailed] = useState(false);
+  const [selectedPhoto, setSelectedPhoto] = useState<CityPhoto | null>(null);
+  const closePhoto = useCallback(() => setSelectedPhoto(null), []);
 
   useEffect(() => {
     setPortraitFailed(false);
@@ -317,8 +347,13 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
           </span>
           {t.citiesTitle}
         </h3>
-        <CitiesSection iso={country.iso} cities={country.cities} />
+        <CitiesSection
+          iso={country.iso}
+          cities={country.cities}
+          onOpenPhoto={setSelectedPhoto}
+        />
       </section>
+      {selectedPhoto ? <CityImageViewer photo={selectedPhoto} onClose={closePhoto} /> : null}
     </div>
   );
 }

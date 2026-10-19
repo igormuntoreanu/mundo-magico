@@ -6,6 +6,7 @@ export type CityPhoto = {
   credit: string;
   href: string;
   kind: "photo";
+  objectPosition?: "top" | "center" | "bottom";
 };
 
 const MANIFEST = raw as Record<string, Record<string, CityPhoto[]>>;

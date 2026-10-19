@@ -15,7 +15,7 @@ type Props = {
 };
 
 export function StoryBook({ story, country, onClose }: Props) {
-  const { t } = useI18n();
+  const { locale, t } = useI18n();
   const [page, setPage] = useState(0);
   const touchX = useRef<number | null>(null);
   const scroller = useRef<HTMLDivElement>(null);
@@ -106,7 +106,10 @@ export function StoryBook({ story, country, onClose }: Props) {
             <p className="truncate text-[11px] font-extrabold tracking-wide text-ink/70 uppercase">
               {fill(t.taleOf, { name: country.name })}
             </p>
-            <h2 id="story-title" className="truncate font-display text-lg font-bold leading-tight text-ink sm:text-2xl">
+            <h2
+              id="story-title"
+              className="truncate font-display text-lg font-bold leading-tight text-ink sm:text-2xl"
+            >
               {story.title}
             </h2>
           </div>
@@ -138,6 +141,15 @@ export function StoryBook({ story, country, onClose }: Props) {
             key={`${story.iso}-${story.title}-${page}-text`}
             className="flex flex-col justify-center gap-4 p-4 sm:p-6 motion-safe:animate-[fadeInUp_280ms_ease-out]"
           >
+            {locale === "pt-BR" ? null : (
+              <p
+                role="note"
+                className="rounded-xl border-2 border-stroke bg-sun/70 px-3 py-2 text-xs font-bold leading-relaxed text-ink"
+              >
+                {t.storyLanguageFallback}
+              </p>
+            )}
+
             {page === 0 ? (
               <div className="flex items-center gap-3 rounded-2xl border-3 border-stroke bg-panel-start px-3 py-2">
                 {portrait ? (
