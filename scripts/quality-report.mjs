@@ -71,6 +71,12 @@ ${Object.entries(stats)
 Pages outside the 60–110 word band: **${outOfBand.length}**.
 Tales under 280 words total: **${shortTales.length}**.
 
+## Pages outside the 60–110 word band
+
+| Locale | Tale | Page | Words |
+| --- | --- | --- | --- |
+${outOfBand.map((x) => `| ${x.locale} | ${x.key} | ${x.page} | ${x.words} |`).join("\n") || "| — | — | — | — |"}
+
 ## Longest sentences (top ${top.length})
 
 | Locale | Tale | Page | Words |
