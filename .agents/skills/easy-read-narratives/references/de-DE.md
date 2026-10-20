@@ -31,7 +31,7 @@ Bundesdeutsch. Not Austrian, not Swiss. The locale tag is `de-DE`; every variant
 - Avoid long subordinate chains: one subordinate clause per sentence at most.
 - No Konjunktiv in narration. No indirect speech. Use direct speech with `„ “`.
 - Avoid the genitive where a `von` phrase is clearer: `das Haus von der alten Frau` rather than a genitive chain.
-- Past: `Perfekt` for spoken narration (`Er hat gelaufen`); `Präteritum` only for common narration verbs (`war`, `hatte`, `ging`) and keep it short.
+- Past tense: narration uses `Präteritum` for the storybook voice, as German children's books do (`Er ging`, `Sie sagte`). Use `Perfekt` for spoken lines inside the story and for direct speech. Do not mix both in the same narrative voice.
 - Avoid passive. Name the actor.
 - Relative pronoun `der/die/das`, not `welche/r/s`.
 
