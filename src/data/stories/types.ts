@@ -7,4 +7,5 @@ export type FolkStory = {
   iso: string;
   title: string;
   pages: StoryPage[];
+  translated: boolean;
 };

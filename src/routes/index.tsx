@@ -7,6 +7,7 @@ import { GlobeCanvas, type GlobeApi } from "@/components/globe-canvas";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { StoryBook } from "@/components/story-book";
 import { FEATURED, getCountry, searchCountries } from "@/data/catalog";
+import { loadTranslationPack } from "@/data/stories/translations";
 import { countryName } from "@/i18n/country-name";
 import { localizeCountry } from "@/i18n/content";
 import { useI18n } from "@/i18n/use-i18n";
@@ -44,13 +45,15 @@ function Home() {
     const iso = country.iso;
     const title = country.tales[taleIndex] ?? "";
     const index = taleIndex;
-    void import("@/data/stories").then((mod) => {
-      if (!cancel) setStory(mod.getStory(iso, title, index));
-    });
+    void Promise.all([import("@/data/stories"), loadTranslationPack(locale)]).then(
+      ([mod, pack]) => {
+        if (!cancel) setStory(mod.getStory(iso, title, index, pack[`${iso}:${index}`]));
+      },
+    );
     return () => {
       cancel = true;
     };
-  }, [country, taleIndex]);
+  }, [country, taleIndex, locale]);
 
   const pick = useCallback((iso: string, lat?: number, lng?: number) => {
     setSelectedIso(iso);

@@ -15,7 +15,7 @@ type Props = {
 };
 
 export function StoryBook({ story, country, onClose }: Props) {
-  const { locale, t } = useI18n();
+  const { t } = useI18n();
   const [page, setPage] = useState(0);
   const touchX = useRef<number | null>(null);
   const scroller = useRef<HTMLDivElement>(null);
@@ -141,7 +141,7 @@ export function StoryBook({ story, country, onClose }: Props) {
             key={`${story.iso}-${story.title}-${page}-text`}
             className="flex flex-col justify-center gap-4 p-4 sm:p-6 motion-safe:animate-[fadeInUp_280ms_ease-out]"
           >
-            {locale === "pt-BR" ? null : (
+            {story.translated ? null : (
               <p
                 role="note"
                 className="rounded-xl border-2 border-stroke bg-sun/70 px-3 py-2 text-xs font-bold leading-relaxed text-ink"

@@ -1,0 +1,11 @@
+const PART: Record<string, string[]> = {
+  "br:0": [
+    "Auf dem Land in Brasilien, wenn der Wind die Blätter zu einem Wirbel dreht, sagt man: Jetzt kommt Saci-Pererê. Er ist ein Junge mit nur einem Bein. Seine Haut ist dunkel, er trägt eine rote Mütze und eine Pfeife im Mund. Er geht nicht. Er dreht sich. Der Wirbel ist sein Pferd. Er stammt aus den indigenen und afrikanischen Geschichten, die in Brasilien zusammenkamen. So wurde er der frechste Geist des Waldes.",
+    "Saci liebt Streiche, aber er will niemandem wirklich wehtun. Er versteckt den Hut von Leuten, die aufs Feld gehen. Er knotet die Mähne des Pferdes zu unmöglichen Knoten. Er löscht das Feuer in der Küche, auch wenn das Holz trocken ist. Er pfeift so hoch, dass die Hühner erschrecken. Wer unaufmerksam ist oder ein Tier quält, den wählt er zuerst. Wer das Haus gut behandelt, merkt ihn kaum.",
+    "Man sagt, Saci wird in einer Freitagnacht geboren und lebt sieben Jahre. Wer ihn fangen will, nimmt kein Netz und keine Falle aus Eisen. Er wirft ein Sieb mitten in den Wirbel. Das Sieb zerbricht den Wind, und der Junge fällt. Ohne die rote Mütze ist seine Kraft klein. Dann, so erzählt die Legende, erfüllt er einen Wunsch. Nur einen. Dafür bekommt er zurück, was ihm gehört.",
+    "Einmal verlor ein Mädchen seinen Strohhut im Hof. Es folgte dem Wirbel bis zum Zaun und warf das Sieb der Großmutter. Saci fiel, wütend und klein ohne seine Mütze. Das Mädchen bat nicht um Gold. Es sagte: \u201eGib den Hut zurück, mach den Knoten in der Mähne auf und lösche heute Nacht das Feuer nicht.\u201c Er tat alle drei Dinge und brummte dabei. Sie gab ihm die Mütze sofort zurück, wie die Großmutter es gelehrt hatte.",
+    "Saci setzte die Mütze auf, pfiff und verschwand in einem trockenen Blatt, das höher flog als es sollte. Am nächsten Tag lag der Hut auf der Bank. Die Mähne des Pferdes war glatt, und das Feuer hatte lange genug gebrannt, um die Bohnen zu kochen. Das Mädchen jagte ihn nie wieder. Auf Dorffesten verkleiden sich noch heute Menschen mit roter Mütze und einem Bein und lachen. Der Handel gilt weiter: Saci ist niemandes Sklave, und der Wald mag Menschen, die zurückgeben, was sie nehmen.",
+  ],
+};
+
+export default PART;
