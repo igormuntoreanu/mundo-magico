@@ -67,7 +67,7 @@ console.log(
       firstKey: slice[0],
       lastKey: slice[slice.length - 1],
       keys: slice,
-      command: `node scripts/stories-dump.mjs --start ${start} --count ${slice.length}`,
+      command: `node scripts/stories-dump.mjs --keys ${slice.join(",")}`,
     },
     null,
     2,

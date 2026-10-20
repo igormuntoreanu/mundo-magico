@@ -27,9 +27,17 @@ function arg(name, fallback) {
   const i = args.indexOf(name);
   return i >= 0 ? Number(args[i + 1]) : fallback;
 }
+const keysArg = args.indexOf("--keys") >= 0 ? args[args.indexOf("--keys") + 1] : "";
 const start = arg("--start", 0);
 const count = arg("--count", 15);
-const keys = Object.keys(LIBRARY).slice(start, start + count);
+const keys = keysArg
+  ? keysArg.split(",").map((key) => key.trim()).filter(Boolean)
+  : Object.keys(LIBRARY).slice(start, start + count);
+const unknown = keys.filter((key) => !(key in LIBRARY));
+if (unknown.length > 0) {
+  console.error(`Unknown keys: ${unknown.join(", ")}`);
+  process.exit(1);
+}
 const batch = Object.fromEntries(keys.map((key) => [key, LIBRARY[key]]));
 
 console.log(
