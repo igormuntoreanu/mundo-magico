@@ -48,6 +48,22 @@ Mundo Mágico is read by children of about 8 to 10, often aloud with an adult. E
 - `references/fr-FR.md`
 - `scripts/check-locale.mjs` — regex checker for high-signal locale mistakes.
 
+## Batch translation workflow
+
+The library has 895 tales, five pages each. Translations live in `src/data/stories/translations/<locale>/part-NNN.ts`, one default export per file:
+
+```ts
+const PART: Record<string, string[]> = { "br:1": ["page 1", "page 2", "page 3", "page 4", "page 5"] };
+export default PART;
+```
+
+- `node scripts/next-batch.mjs --locale en-GB --size 10` — the next untranslated slice and its dump command.
+- `node scripts/stories-dump.mjs --start N --count 10` — the Portuguese source for a slice.
+- `node scripts/validate-translations.mjs` — structural gate: 5 pages, known keys, no duplicates, length and sentence warnings.
+- `node scripts/translation-status.mjs` — coverage per locale.
+
+Translate one locale per run. Keep proper nouns as in the source (Pedro, Inês de Castro, Momotarō, Fuji); translate only the telling. Do not translate a tale you cannot check: a missing tale falls back to Portuguese and shows the in-app notice.
+
 ## Not this
 
 This skill does not make the text compliant with Leichte Sprache (DIN SPEC 33429) or FALC. Those are accessibility formats for people with cognitive disabilities and are stricter than a children's book. Borrow their clarity, never claim their compliance.

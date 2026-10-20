@@ -19,8 +19,8 @@ const RULES = {
     [/\b(id[ée]ia|v[ôo]o|alug[úu]el|her[óo]ico|jib[óo]ia|ling[üu]i[çc]a|conseq[üu][êe]ncia)\b/giu, "pre-Acordo spelling"],
   ],
   "en-GB": [
-    [/\b(colou?r|favorite|honou?r|center|theater|organize|recognize|realize|defense|license|traveled|canceled|modeling|catalog|dialog|gray|mom|truck|sidewalk|vacation|math|diaper|elevator|apartment|garbage|cookie|fries)\b/giu, "American spelling or vocabulary"],
-    [/\b(traveling|modeling|signaling|canceling)\b/giu, "American doubled consonant"],
+    [/\b(color|honor|favor|center|theater|organize|recognize|realize|defense|traveled|canceled|modeling|catalog|dialog|gray|mom|truck|sidewalk|vacation|math|diaper|elevator|apartment|garbage|cookie|fries)\b/giu, "American spelling or vocabulary"],
+    [/\b(traveling|signaling|canceling)\b/giu, "American doubled consonant"],
   ],
   "de-DE": [
     [/\b(J[äa]nner|Erdapfel|Paradeiser|Karfiol|Sackerl|Trottoir|Velo|Gr[üu]ezi|Obers|Semmel)\b/gu, "Austrian or Swiss term"],
