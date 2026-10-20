@@ -65,12 +65,15 @@ for (const [locale, dir] of [
         }
         const count = text.split(/\s+/).filter(Boolean).length;
         words += count;
-        if (count < 45 || count > 130) {
+        if (count < 40 || count > 130) {
           warnings.push(`${locale} ${key}: page ${i + 1} has ${count} words (target 60-110)`);
         }
-        const sentences = text.split(/[.!?…]+/).map((s) => s.trim()).filter(Boolean);
+        const norm = text
+          .replace(/([.!?…])\s*["'”’»]+/g, "$1 ")
+          .replace(/([.!?…])\s*["'‘“„«]+/g, " $1 ");
+        const sentences = norm.split(/(?<=[.!?…])\s+/).map((s) => s.trim()).filter(Boolean);
         const longest = Math.max(0, ...sentences.map((s) => s.split(/\s+/).filter(Boolean).length));
-        if (longest > 28) warnings.push(`${locale} ${key}: page ${i + 1} has a ${longest}-word sentence`);
+        if (longest > 20) errors.push(`${locale} ${key}: page ${i + 1} has a ${longest}-word sentence (max 20)`);
         if (locale !== "pt-BR" && PT_MARKERS.test(text)) {
           warnings.push(`${locale} ${key}: page ${i + 1} contains a Portuguese-looking word`);
         }
