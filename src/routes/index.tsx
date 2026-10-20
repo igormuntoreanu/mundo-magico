@@ -22,6 +22,7 @@ function Home() {
   const [openSuggest, setOpenSuggest] = useState(false);
   const [fablesOpen, setFablesOpen] = useState(false);
   const globeApi = useRef<GlobeApi | null>(null);
+  const asideRef = useRef<HTMLElement | null>(null);
   const [story, setStory] = useState<FolkStory | null>(null);
 
   const country = useMemo(() => {
@@ -61,6 +62,9 @@ function Home() {
     } else {
       globeApi.current?.flyToIso(iso);
     }
+    if (window.matchMedia("(max-width: 1023px)").matches) {
+      asideRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   }, []);
   const closeFables = useCallback(() => setFablesOpen(false), []);
   const openFable = useCallback(
@@ -76,30 +80,22 @@ function Home() {
     <main className="relative min-h-dvh overflow-hidden bg-night text-ink">
       <Stars />
       <div className="relative z-10 mx-auto grid min-h-dvh w-full max-w-[1400px] grid-cols-1 lg:grid-cols-[minmax(0,1.15fr)_minmax(320px,0.85fr)]">
-        <section className="relative min-h-[46vh] lg:min-h-dvh">
-          <GlobeCanvas
-            selectedIso={selectedIso}
-            onSelect={(iso, lat, lng) => pick(iso, lat, lng)}
-            onReady={(api) => {
-              globeApi.current = api;
-            }}
-          />
-
-          <div className="pointer-events-none absolute inset-x-3 top-3 z-20 flex flex-col gap-2">
+        <section className="relative flex min-h-[60vh] flex-col lg:min-h-dvh">
+          <div className="relative z-20 flex shrink-0 flex-col gap-2 px-3 pt-3 pb-3">
             <div className="flex items-start gap-2">
-              <div className="pointer-events-auto flex min-w-0 flex-1 flex-wrap items-center gap-2">
+              <div className="flex min-w-0 flex-1 flex-wrap items-center gap-2">
                 <h1 className="font-display text-[1.7rem] font-bold leading-none text-sun drop-shadow-[0_3px_0_#2b1b4e] sm:text-3xl">
                   Mundo Mágico
                 </h1>
-                <span className="hidden rounded-full border-3 border-stroke bg-cream px-3 py-1 text-xs font-extrabold text-ink shadow-[4px_4px_0_#2b1b4e] sm:inline">
-                  {t.tagline}
-                </span>
               </div>
               <LanguageSwitcher />
             </div>
-            <div className="pointer-events-auto relative min-w-0 flex-1">
+            <div className="relative min-w-0">
               <div className="relative">
-                <Search className="absolute top-1/2 left-3 size-4 -translate-y-1/2 text-ink/50" aria-hidden />
+                <Search
+                  className="absolute top-1/2 left-3 size-4 -translate-y-1/2 text-ink/50"
+                  aria-hidden
+                />
                 <input
                   value={query}
                   onChange={(e) => {
@@ -161,12 +157,21 @@ function Home() {
             </div>
           </div>
 
-          <p className="pointer-events-none absolute bottom-3 left-3 z-20 max-w-[220px] rounded-2xl border-3 border-stroke bg-sun px-3 py-2 text-xs font-extrabold text-ink shadow-[4px_4px_0_#2b1b4e] sm:max-w-none">
-            {t.dragHint}
-          </p>
+          <div className="relative min-h-0 flex-1">
+            <GlobeCanvas
+              selectedIso={selectedIso}
+              onSelect={(iso, lat, lng) => pick(iso, lat, lng)}
+              onReady={(api) => {
+                globeApi.current = api;
+              }}
+            />
+          </div>
         </section>
 
-        <aside className="relative max-h-[54vh] overflow-y-auto border-t-4 border-stroke bg-linear-to-b from-panel-start via-panel-mid to-panel-end lg:max-h-none lg:border-t-0 lg:border-l-4">
+        <aside
+          ref={asideRef}
+          className="relative max-h-[54vh] overflow-y-auto border-t-4 border-stroke bg-linear-to-b from-panel-start via-panel-mid to-panel-end lg:max-h-none lg:border-t-0 lg:border-l-4"
+        >
           <CountryPanel
             country={country}
             onPick={(iso) => pick(iso)}
@@ -190,12 +195,7 @@ function Home() {
           onClose={() => setTaleIndex(null)}
         />
       ) : null}
-      {fablesOpen ? (
-        <FableCatalog
-          onClose={closeFables}
-          onOpenFable={openFable}
-        />
-      ) : null}
+      {fablesOpen ? <FableCatalog onClose={closeFables} onOpenFable={openFable} /> : null}
     </main>
   );
 }
