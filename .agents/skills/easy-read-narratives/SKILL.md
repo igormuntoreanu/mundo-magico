@@ -42,6 +42,7 @@ Mundo Mágico is read by children of about 8 to 10, often aloud with an adult. E
 ## References
 
 - `references/shared-rules.md` — narrative structure, vocabulary, the read-aloud test, worked examples.
+- `references/lean-brief.md` — one-page condensed brief for cheap batch agents.
 - `references/pt-BR.md`
 - `references/en-GB.md`
 - `references/de-DE.md`
