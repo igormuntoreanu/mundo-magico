@@ -267,6 +267,15 @@ if (existsSync(SOURCES)) {
   Object.assign(DISHES, JSON.parse(readFileSync(SOURCES, "utf8")));
 }
 
+/**
+ * A per-country source file (used by parallel workers) can be layered on top:
+ *   node scripts/fetch-dish-photos.mjs --candidates de --sources scripts/fragments/de.sources.json
+ */
+const EXTRA_SOURCES = arg("--sources");
+if (EXTRA_SOURCES && existsSync(EXTRA_SOURCES)) {
+  Object.assign(DISHES, JSON.parse(readFileSync(EXTRA_SOURCES, "utf8")));
+}
+
 const MIN_SOURCE_WIDTH = 1920;
 const PREVIEW_WIDTH = 1280;
 const OUTPUT_WIDTH = 1920;

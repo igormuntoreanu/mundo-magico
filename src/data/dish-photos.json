@@ -462,5 +462,807 @@
         "kind": "photo"
       }
     ]
+  },
+  "ad": {
+    "escudella": [
+      {
+        "src": "/dishes/ad/escudella-0.jpg",
+        "credit": "Juan Emilio Prades Bel. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Escudella_catalana_plato_de_cuchara_con_carne,_verduras_y_pasta.jpg",
+        "kind": "photo"
+      }
+    ],
+    "canelons": [
+      {
+        "src": "/dishes/ad/canelons-0.jpg",
+        "credit": "Juan Emilio Prades Bel. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:%22Canelons_de_rostit%22,_gastronom%C3%ADa_de_la_comarca_Conca_de_Barber%C3%A0.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "al": {
+    "byrek": [
+      {
+        "src": "/dishes/al/byrek-0.jpg",
+        "credit": "Rrahmani.v. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Byrek_me_mishh.jpg",
+        "kind": "photo"
+      }
+    ],
+    "tave-kosi": [
+      {
+        "src": "/dishes/al/tave-kosi-0.jpg",
+        "credit": "MirelaAndoni. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Tav%C3%AB_kosi.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "bg": {
+    "shopska-salad": [
+      {
+        "src": "/dishes/bg/shopska-salad-0.jpg",
+        "credit": "Biso. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Shopska_salad_bg.JPG",
+        "kind": "photo"
+      }
+    ],
+    "tarator": [
+      {
+        "src": "/dishes/bg/tarator-0.jpg",
+        "credit": "Sumit Surai. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Bulgarian_Tarator.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cy": {
+    "halloumi": [
+      {
+        "src": "/dishes/cy/halloumi-0.jpg",
+        "credit": "Hmioannou. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Grilled_Halloumi.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cz": {
+    "gulas": [
+      {
+        "src": "/dishes/cz/gulas-0.jpg",
+        "credit": "Dezidor. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Gul%C3%A1%C5%A1_s_knedl%C3%ADky.jpg",
+        "kind": "photo"
+      }
+    ],
+    "vepro-knedlo-zelo": [
+      {
+        "src": "/dishes/cz/vepro-knedlo-zelo-0.jpg",
+        "credit": "VANOCE2022. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Vepro_knedlo_zelo_20250304_150354.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "es": {
+    "paella": [
+      {
+        "src": "/dishes/es/paella-0.jpg",
+        "credit": "Wilfredor. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Paella_de_fruit_de_mer.jpg",
+        "kind": "photo"
+      }
+    ],
+    "tortilla-de-patatas": [
+      {
+        "src": "/dishes/es/tortilla-de-patatas-0.jpg",
+        "credit": "El Nuevo Doge. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Tortilla_espa%C3%B1ola,_Mazatl%C3%A1n,_19_de_abril_de_2023_02.jpg",
+        "kind": "photo"
+      }
+    ],
+    "churros": [
+      {
+        "src": "/dishes/es/churros-0.jpg",
+        "credit": "Juan Emilio Prades Bel. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Churros_de_lazo.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "fr": {
+    "quiche-lorraine": [
+      {
+        "src": "/dishes/fr/quiche-lorraine-0.jpg",
+        "credit": "Benreis. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Quiche_lorraine_Salat_Metz.jpg",
+        "kind": "photo"
+      }
+    ],
+    "ratatouille": [
+      {
+        "src": "/dishes/fr/ratatouille-0.jpg",
+        "credit": "Benoit5656. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ratatouille-Dish.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "gb": {
+    "fish-and-chips": [
+      {
+        "src": "/dishes/gb/fish-and-chips-0.jpg",
+        "credit": "JIP. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Fish_and_chips_at_restaurant_Jyv%C3%A4nen.jpg",
+        "kind": "photo"
+      }
+    ],
+    "scone": [
+      {
+        "src": "/dishes/gb/scone-0.jpg",
+        "credit": "Takeaway. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Scones_cream_jam.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "gr": {
+    "moussaka": [
+      {
+        "src": "/dishes/gr/moussaka-0.jpg",
+        "credit": "Joey Doll. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Eggplant_Potato_Moussaka_(43128264982).jpg",
+        "kind": "photo"
+      }
+    ],
+    "souvlaki": [
+      {
+        "src": "/dishes/gr/souvlaki-0.jpg",
+        "credit": "Anagoria. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:20240429_Souvlaki_Restaurant_Achilles_anagoria.jpg",
+        "kind": "photo"
+      }
+    ],
+    "greek-salad": [
+      {
+        "src": "/dishes/gr/greek-salad-0.jpg",
+        "credit": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:-2019-06-05_Tomato,_black_olive_and_feta_Greek_salad.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "hu": {
+    "goulash": [
+      {
+        "src": "/dishes/hu/goulash-0.jpg",
+        "credit": "Gerda Arendt. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Veal_goulash,_Steckenroth.jpg",
+        "kind": "photo"
+      }
+    ],
+    "kurtoskalacs": [
+      {
+        "src": "/dishes/hu/kurtoskalacs-0.jpg",
+        "credit": "MichalPL. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:K%C3%BCrt%C5%91skal%C3%A1cs_with_chocolate.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ie": {
+    "irish-stew": [
+      {
+        "src": "/dishes/ie/irish-stew-0.jpg",
+        "credit": "jeffreyw. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Irish_Stew_(10320713316).jpg",
+        "kind": "photo"
+      }
+    ],
+    "soda-bread": [
+      {
+        "src": "/dishes/ie/soda-bread-0.jpg",
+        "credit": "Jim Lukach. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Irish_soda_bread_(25292114472).jpg",
+        "kind": "photo"
+      }
+    ],
+    "colcannon": [
+      {
+        "src": "/dishes/ie/colcannon-0.jpg",
+        "credit": "TheCulinaryGeek from Chicago, USA. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Colcannon_(4438873634)_(2).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "it": {
+    "pizza-margherita": [
+      {
+        "src": "/dishes/it/pizza-margherita-0.jpg",
+        "credit": "jeffreyw. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Pizza_Margherita_(14565452088).jpg",
+        "kind": "photo"
+      }
+    ],
+    "lasagne": [
+      {
+        "src": "/dishes/it/lasagne-0.jpg",
+        "credit": "jules / stonesoup. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Lasagne_-_stonesoup.jpg",
+        "kind": "photo"
+      }
+    ],
+    "gelato": [
+      {
+        "src": "/dishes/it/gelato-0.jpg",
+        "credit": "Rebecrs. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Amorino_Gelato_Flowers_and_Macaroons.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "li": {
+    "kasknopfle": [
+      {
+        "src": "/dishes/li/kasknopfle-0.jpg",
+        "credit": "© 1971markus. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_(3).jpg",
+        "kind": "photo"
+      }
+    ],
+    "ribel": [
+      {
+        "src": "/dishes/li/ribel-0.jpg",
+        "credit": "Schofför. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ribel_s5.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "lt": {
+    "cepelinai": [
+      {
+        "src": "/dishes/lt/cepelinai-0.jpg",
+        "credit": "Jpatokal. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Cepelinai_Sauce.JPG",
+        "kind": "photo"
+      }
+    ],
+    "saltibarsciai": [
+      {
+        "src": "/dishes/lt/saltibarsciai-0.jpg",
+        "credit": "Bdx. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:%C5%A0altibar%C5%A1%C4%8Diai,_Pirmas_blynas,_Vilnius,_June_2026.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "lv": {
+    "sklandrausis": [
+      {
+        "src": "/dishes/lv/sklandrausis-0.jpg",
+        "credit": "Liga Eglite from Cesis, Latvia. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Sklandrausis_2.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mt": {
+    "pastizzi": [
+      {
+        "src": "/dishes/mt/pastizzi-0.jpg",
+        "credit": "Renata Apan. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Welcome_to_Pastizzi_Paradise._Traditional_maltese_pastry.jpg",
+        "kind": "photo"
+      }
+    ],
+    "stuffat-tal-fenek": [
+      {
+        "src": "/dishes/mt/stuffat-tal-fenek-0.jpg",
+        "credit": "El Mono Español. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Stuffat_tal-fenek_(Las_Siete_Orillas_project).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "pl": {
+    "pierogi": [
+      {
+        "src": "/dishes/pl/pierogi-0.jpg",
+        "credit": "Aw58. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Pierogi_ruskie_ze_skwarkami_-_20240127.jpg",
+        "kind": "photo"
+      }
+    ],
+    "bigos": [
+      {
+        "src": "/dishes/pl/bigos-0.jpg",
+        "credit": "Aw58. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Bigos_-_2025.02.15.jpg",
+        "kind": "photo"
+      }
+    ],
+    "kotlet-schabowy": [
+      {
+        "src": "/dishes/pl/kotlet-schabowy-0.jpg",
+        "credit": "Aw58. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Kotlet_schabowy_z_ziemniakami_i_kiszonymi_og%C3%B3rkami_-_2025.01.02.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "pt": {
+    "pastel-de-nata": [
+      {
+        "src": "/dishes/pt/pastel-de-nata-0.jpg",
+        "credit": "Werner100359. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Past%C3%A9is_de_nata_(Dec.2022)_02.jpg",
+        "kind": "photo"
+      }
+    ],
+    "bacalhau-a-bras": [
+      {
+        "src": "/dishes/pt/bacalhau-a-bras-0.jpg",
+        "credit": "MollySVH. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:One_of_many_orders_of_Molly%27s_favorite_Bacalhau_%C3%A0_Br%C3%A1s_(32906838837).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ro": {
+    "sarmale": [
+      {
+        "src": "/dishes/ro/sarmale-0.jpg",
+        "credit": "Andrei. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Sarmale_Romania.jpg",
+        "kind": "photo"
+      }
+    ],
+    "mamaliga": [
+      {
+        "src": "/dishes/ro/mamaliga-0.jpg",
+        "credit": "Ion.bostan. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Mamaliga_bucatarie_moldoveneasca.jpg",
+        "kind": "photo"
+      }
+    ],
+    "papanasi": [
+      {
+        "src": "/dishes/ro/papanasi-0.jpg",
+        "credit": "Josep Renalias Lohen11. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Papana%C8%99i.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ru": {
+    "pelmeni": [
+      {
+        "src": "/dishes/ru/pelmeni-0.jpg",
+        "credit": "Jorge Cancela @ Flickr. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Pelmeni_in_Russia.jpg",
+        "kind": "photo"
+      }
+    ],
+    "syrniki": [
+      {
+        "src": "/dishes/ru/syrniki-0.jpg",
+        "credit": "Kunetskiy. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:RusSyrnikiKissel.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "si": {
+    "potica": [
+      {
+        "src": "/dishes/si/potica-0.jpg",
+        "credit": "Selena N. B. H. from Fayetteville, USA. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Potica_na_Bledu.jpg",
+        "kind": "photo"
+      }
+    ],
+    "kranjska-klobasa": [
+      {
+        "src": "/dishes/si/kranjska-klobasa-0.jpg",
+        "credit": "J.O.. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Kranjska_klobasa.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "sk": {
+    "halusky": [
+      {
+        "src": "/dishes/sk/halusky-0.jpg",
+        "credit": "Oldsoft. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File:BryndzoveHaluskySeSlaninou.JPG",
+        "kind": "photo"
+      }
+    ],
+    "kapustnica": [
+      {
+        "src": "/dishes/sk/kapustnica-0.jpg",
+        "credit": "young shanahan. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Kapustnica_(Sauerkraut_soup).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "sm": {
+    "piadina": [
+      {
+        "src": "/dishes/sm/piadina-0.jpg",
+        "credit": "Lasagnolo9 at Italian Wikipedia. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Piadina_prosciutto_e_Asiago_DOP.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ua": {
+    "borscht": [
+      {
+        "src": "/dishes/ua/borscht-0.jpg",
+        "credit": "JIP. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Borscht_at_Dylan_Marmoripiha.jpg",
+        "kind": "photo"
+      }
+    ],
+    "varenyky": [
+      {
+        "src": "/dishes/ua/varenyky-0.jpg",
+        "credit": "DemieK07. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Varenyky_with_Potatoes_-_2026_-01.jpg",
+        "kind": "photo"
+      }
+    ],
+    "chicken-kyiv": [
+      {
+        "src": "/dishes/ua/chicken-kyiv-0.jpg",
+        "credit": "David Jackmanson @ Flickr. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chicken_Kiev_5.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "xk": {
+    "flija": [
+      {
+        "src": "/dishes/xk/flija-0.jpg",
+        "credit": "Violetamyftari. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Flija..JPG",
+        "kind": "photo"
+      }
+    ],
+    "pite": [
+      {
+        "src": "/dishes/xk/pite-0.jpg",
+        "credit": "Nok Selmani. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Pite_me_djath,_shoq%C3%ABruar_me_kos.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "de": {
+    "bratwurst": [
+      {
+        "src": "/dishes/de/bratwurst-0.jpg",
+        "credit": "Benreis. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Wildbratw%C3%BCrste_Blecksteinhaus.jpg",
+        "kind": "photo"
+      }
+    ],
+    "brezel": [
+      {
+        "src": "/dishes/de/brezel-0.jpg",
+        "credit": "LenaRaisch. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Brezel_l_B%C3%A4ckerei-Raisch.jpg",
+        "kind": "photo"
+      }
+    ],
+    "schwarzwalder-kirschtorte": [
+      {
+        "src": "/dishes/de/schwarzwalder-kirschtorte-0.jpg",
+        "credit": "Mikel Ortega from Errenteria, Spain. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Eine_Schwarzw%C3%A4lder_Kirschtorte.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "at": {
+    "wiener-schnitzel": [
+      {
+        "src": "/dishes/at/wiener-schnitzel-0.jpg",
+        "credit": "Burkhard Mücke. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:2022-12-29_Wiener_Schnitzel_im_Hotel_Kaiserin_Elisabeth.jpg",
+        "kind": "photo"
+      }
+    ],
+    "sachertorte": [
+      {
+        "src": "/dishes/at/sachertorte-0.jpg",
+        "credit": "Roozitaa. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Sachertorte_2012.jpg",
+        "kind": "photo"
+      }
+    ],
+    "kaiserschmarrn": [
+      {
+        "src": "/dishes/at/kaiserschmarrn-0.jpg",
+        "credit": "Superbass. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:2021-08-10-Kaiserschmarrn-1467.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ch": {
+    "fondue": [
+      {
+        "src": "/dishes/ch/fondue-0.jpg",
+        "credit": "Rosmarie Voegtli. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Vive_la_Fondue.jpg",
+        "kind": "photo"
+      }
+    ],
+    "rosti": [
+      {
+        "src": "/dishes/ch/rosti-0.jpg",
+        "credit": "Poupou l'quourouce. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:R%C3%B6sti_auf_blauem_Teller.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "nl": {
+    "stroopwafel": [
+      {
+        "src": "/dishes/nl/stroopwafel-0.jpg",
+        "credit": "Ziko van Dijk. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:2025-10-09_stroopwafel.jpg",
+        "kind": "photo"
+      }
+    ],
+    "poffertjes": [
+      {
+        "src": "/dishes/nl/poffertjes-0.jpg",
+        "credit": "Illustratedjc. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Poffertjes-Melkhuis_(cropped).jpg",
+        "kind": "photo"
+      }
+    ],
+    "bitterballen": [
+      {
+        "src": "/dishes/nl/bitterballen-0.jpg",
+        "credit": "Andy Li. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Bitterballen_with_Dijon_mustard_-_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "be": {
+    "moules-frites": [
+      {
+        "src": "/dishes/be/moules-frites-0.jpg",
+        "credit": "Georges Seguin ( Okki ). Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Moules-frites_Aix-en-Provence_2017.jpg",
+        "kind": "photo"
+      }
+    ],
+    "gaufre": [
+      {
+        "src": "/dishes/be/gaufre-0.jpg",
+        "credit": "Ji-Elle. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:FIG_2016-Gaufres_belges_(2).jpg",
+        "kind": "photo"
+      }
+    ],
+    "carbonnade": [
+      {
+        "src": "/dishes/be/carbonnade-0.jpg",
+        "credit": "Jiel Beaumadier. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Jielbeaumadier_carbonade_flamande_2010.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "lu": {
+    "judd-mat-gaardebounen": [
+      {
+        "src": "/dishes/lu/judd-mat-gaardebounen-0.jpg",
+        "credit": "UnorthodoxY. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Judd_mat_Gaardebounen.jpg",
+        "kind": "photo"
+      }
+    ],
+    "bouneschlupp": [
+      {
+        "src": "/dishes/lu/bouneschlupp-0.jpg",
+        "credit": "SITCK at lb.wikipedia. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Bouneschlupp16.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "dk": {
+    "smorrebrod": [
+      {
+        "src": "/dishes/dk/smorrebrod-0.jpg",
+        "credit": "Kritzolina. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Sm%C3%B8rrebr%C3%B8d_in_Copenhagen_01.jpg",
+        "kind": "photo"
+      }
+    ],
+    "frikadeller": [
+      {
+        "src": "/dishes/dk/frikadeller-0.jpg",
+        "credit": "cyclonebill from Copenhagen, Denmark. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Frikadeller_med_kartofler,_brun_sovs_og_salat_(8927180853).jpg",
+        "kind": "photo"
+      }
+    ],
+    "wienerbrod": [
+      {
+        "src": "/dishes/dk/wienerbrod-0.jpg",
+        "credit": "JIP. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Danish_pastry_on_a_plate.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "se": {
+    "kottbullar": [
+      {
+        "src": "/dishes/se/kottbullar-0.jpg",
+        "credit": "Carlosdisogra. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:K%C3%B6ttbullar_argentino.jpg",
+        "kind": "photo"
+      }
+    ],
+    "kanelbulle": [
+      {
+        "src": "/dishes/se/kanelbulle-0.jpg",
+        "credit": "optische_taeuschung. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Kanelbulle_in_Stockholm.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "fi": {
+    "karjalanpiirakka": [
+      {
+        "src": "/dishes/fi/karjalanpiirakka-0.jpg",
+        "credit": "Armineaghayan. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Karjalanpiirakka_(Karelian_pies).jpg",
+        "kind": "photo"
+      }
+    ],
+    "lohikeitto": [
+      {
+        "src": "/dishes/fi/lohikeitto-0.jpg",
+        "credit": "Nonepse. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Lohikeitto_dish.jpg",
+        "kind": "photo"
+      }
+    ],
+    "korvapuusti": [
+      {
+        "src": "/dishes/fi/korvapuusti-0.jpg",
+        "credit": "JIP. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Korvapuusti_at_home.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "is": {
+    "plokkfiskur": [
+      {
+        "src": "/dishes/is/plokkfiskur-0.jpg",
+        "credit": "Jasnaah. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Plokkfiskur.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "no": {
+    "krumkake": [
+      {
+        "src": "/dishes/no/krumkake-0.jpg",
+        "credit": "Jonathunder. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Krumkaker.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "hr": {
+    "sarma": [
+      {
+        "src": "/dishes/hr/sarma-0.jpg",
+        "credit": "Bdx. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Sarma_in_Skopje,_2026.jpg",
+        "kind": "photo"
+      }
+    ],
+    "pasticada": [
+      {
+        "src": "/dishes/hr/pasticada-0.jpg",
+        "credit": "Imbehind. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Pa%C5%A1ticada_-_Dalmatinska_pa%C5%A1ticada.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ba": {
+    "cevapi": [
+      {
+        "src": "/dishes/ba/cevapi-0.jpg",
+        "credit": "Hibasi. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Cevapi_in_Bosnia.jpg",
+        "kind": "photo"
+      }
+    ],
+    "sarma": [
+      {
+        "src": "/dishes/ba/sarma-0.jpg",
+        "credit": "Bdx. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Sarma_in_Skopje,_2026.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "rs": {
+    "pljeskavica": [
+      {
+        "src": "/dishes/rs/pljeskavica-0.jpg",
+        "credit": "Fred Cherrygarden. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Pljeskavica_at_Znak_Pitanja.jpg",
+        "kind": "photo"
+      }
+    ],
+    "sarma": [
+      {
+        "src": "/dishes/rs/sarma-0.jpg",
+        "credit": "Petar Milošević. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Postna_sarma_(vegetarian_sarma,_Cuisine_of_Serbia).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "me": {
+    "kacamak": [
+      {
+        "src": "/dishes/me/kacamak-0.jpg",
+        "credit": "Berishasinan. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ka%C3%A7amak_i_shpis%C3%AB.jpg",
+        "kind": "photo"
+      }
+    ],
+    "crni-rizot": [
+      {
+        "src": "/dishes/me/crni-rizot-0.jpg",
+        "credit": "Sumit Surai. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Black_Risotto.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mk": {
+    "pastrmajlija": [
+      {
+        "src": "/dishes/mk/pastrmajlija-0.jpg",
+        "credit": "Slavica Panova. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:PastrmajlijaAngela.JPG",
+        "kind": "photo"
+      }
+    ],
+    "shopska-salata": [
+      {
+        "src": "/dishes/mk/shopska-salata-0.jpg",
+        "credit": "Fred Cherrygarden. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Shopska_Salad_at_Happy.jpg",
+        "kind": "photo"
+      }
+    ]
   }
 }

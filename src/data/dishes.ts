@@ -1,4 +1,5 @@
 import type { Locale } from "@/i18n/types";
+import copyRaw from "./dish-copy.json";
 import raw from "./dish-photos.json";
 
 /** A photograph of one national dish, always free for commercial reuse and credited. */
@@ -670,6 +671,14 @@ const DISHES: Partial<Record<string, Editorial[]>> = {
 };
 
 const MANIFEST = raw as Record<string, Record<string, DishPhoto[]>>;
+
+/**
+ * Countries from the newer waves (Europe, Africa) keep their copy in
+ * src/data/dish-copy.json instead of this file, so a wave can be merged from
+ * per-country fragments without editing TypeScript by hand.
+ */
+const COPY = copyRaw as Record<string, Editorial[]>;
+Object.assign(DISHES, COPY);
 
 export function dishesFor(iso: string): Dish[] {
   const editorial = DISHES[iso] ?? [];

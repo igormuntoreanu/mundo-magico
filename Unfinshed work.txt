@@ -142,3 +142,30 @@ Unfinished work
    weakest of the Americas (home-style snaps, paper plates, a salt sachet in
    the taco frame) and are the first candidates for a second pass with
    candidates three and four.
+
+   Europe shipped on 2026-10-21 as a parallel wave. Four workers each owned a
+   disjoint set of countries and wrote a fragment per country; the fragments
+   are merged by scripts/merge-dish-fragments.mjs into src/data/dish-copy.json
+   (name/note/plated for the newer waves), scripts/dish-picks.json and
+   scripts/dish-sources.json. Countries with dishes so far: Portugal, Spain,
+   France, Italy, Greece, Malta, Cyprus, Andorra, San Marino, Germany, Austria,
+   Switzerland, Netherlands, Belgium, Luxembourg, Denmark, Sweden, Norway,
+   Finland, Iceland, Ireland, United Kingdom, Poland, Czechia, Slovakia,
+   Hungary, Slovenia, Croatia, Bosnia, Serbia, Montenegro, North Macedonia,
+   Albania, Kosovo, Romania, Bulgaria, Russia, Lithuania, Latvia, Ukraine.
+
+   Blank on purpose: Monaco (barbagiuan has no licence-passing photo; socca
+   candidates show a cook's hands, a menu or the pan), Vatican City (no
+   national cuisine), Moldova (candidates duplicated the Romanian photos or
+   were cluttered home shots), Belarus (draniki always with cutlery roll or
+   beer; machanka had a plastic bag in frame), Estonia (kohuke half-eaten or
+   in a hand; verivorst a dim bowl).
+
+   Quality notes for a later pass: Switzerland carries two dishes because
+   raclette has no presentable photograph (a smear of cheese on a plate); the
+   Swiss fondue shot is a pot with forks, not a plated dish. Several small
+   countries have one or two dishes only.
+
+   Worker hint: they wrote fragments through PowerShell, which double-encodes
+   UTF-8. The merger now repairs CP1252 mojibake on read, so accents and
+   Commons titles survive; do not remove that repair.

@@ -1,47 +1,946 @@
 {
   "bz": [
-    { "slug": "rice-and-beans", "search": ["rice and beans belize"] },
-    { "slug": "panades", "search": ["belize panades", "panades belize"] },
-    { "slug": "fry-jacks", "search": ["fry jacks"] }
+    {
+      "slug": "rice-and-beans",
+      "search": [
+        "rice and beans belize"
+      ]
+    },
+    {
+      "slug": "panades",
+      "search": [
+        "belize panades",
+        "panades belize"
+      ]
+    },
+    {
+      "slug": "fry-jacks",
+      "search": [
+        "fry jacks"
+      ]
+    }
   ],
   "cr": [
-    { "slug": "gallo-pinto", "search": ["gallo pinto costa rica", "gallo pinto"] },
-    { "slug": "casado", "search": ["casado costarricense", "casado costa rica"] },
-    { "slug": "chifrijo", "search": ["chifrijo"] }
+    {
+      "slug": "gallo-pinto",
+      "search": [
+        "gallo pinto costa rica",
+        "gallo pinto"
+      ]
+    },
+    {
+      "slug": "casado",
+      "search": [
+        "casado costarricense",
+        "casado costa rica"
+      ]
+    },
+    {
+      "slug": "chifrijo",
+      "search": [
+        "chifrijo"
+      ]
+    }
   ],
   "sv": [
-    { "slug": "pupusas", "search": ["pupusas salvadoreñas", "pupusas"] },
-    { "slug": "yuca-frita", "search": ["yuca frita"] }
+    {
+      "slug": "pupusas",
+      "search": [
+        "pupusas salvadoreñas",
+        "pupusas"
+      ]
+    },
+    {
+      "slug": "yuca-frita",
+      "search": [
+        "yuca frita"
+      ]
+    }
   ],
   "gt": [
-    { "slug": "kakik", "search": ["kak'ik guatemala"] },
-    { "slug": "tamales", "search": ["tamales guatemaltecos", "tamal guatemalteco"] }
+    {
+      "slug": "kakik",
+      "search": [
+        "kak'ik guatemala"
+      ]
+    },
+    {
+      "slug": "tamales",
+      "search": [
+        "tamales guatemaltecos",
+        "tamal guatemalteco"
+      ]
+    }
   ],
   "hn": [
-    { "slug": "baleadas", "search": ["baleadas"] },
-    { "slug": "tajadas", "search": ["tajadas con pollo", "tajadas"] }
+    {
+      "slug": "baleadas",
+      "search": [
+        "baleadas"
+      ]
+    },
+    {
+      "slug": "tajadas",
+      "search": [
+        "tajadas con pollo",
+        "tajadas"
+      ]
+    }
   ],
   "ni": [
-    { "slug": "nacatamal", "search": ["nacatamal"] },
-    { "slug": "vigoron", "search": ["vigoron"] }
+    {
+      "slug": "nacatamal",
+      "search": [
+        "nacatamal"
+      ]
+    },
+    {
+      "slug": "vigoron",
+      "search": [
+        "vigoron"
+      ]
+    }
   ],
   "pa": [
-    { "slug": "patacones", "search": ["patacones panamá"] },
-    { "slug": "tortilla", "search": ["tortilla panameña"] }
+    {
+      "slug": "patacones",
+      "search": [
+        "patacones panamá"
+      ]
+    },
+    {
+      "slug": "tortilla",
+      "search": [
+        "tortilla panameña"
+      ]
+    }
   ],
   "ca": [
-    { "slug": "poutine", "search": ["poutine quebec", "poutine"] },
-    { "slug": "tourtiere", "search": ["tourtière québécois", "tourtiere"] },
-    { "slug": "butter-tarts", "search": ["butter tarts canada", "butter tart"] }
+    {
+      "slug": "poutine",
+      "search": [
+        "poutine quebec",
+        "poutine"
+      ]
+    },
+    {
+      "slug": "tourtiere",
+      "search": [
+        "tourtière québécois",
+        "tourtiere"
+      ]
+    },
+    {
+      "slug": "butter-tarts",
+      "search": [
+        "butter tarts canada",
+        "butter tart"
+      ]
+    }
   ],
   "mx": [
-    { "slug": "tacos", "search": ["tacos al pastor"] },
-    { "slug": "mole-poblano", "search": ["mole poblano"] },
-    { "slug": "chiles-en-nogada", "search": ["chiles en nogada"] }
+    {
+      "slug": "tacos",
+      "search": [
+        "tacos al pastor"
+      ]
+    },
+    {
+      "slug": "mole-poblano",
+      "search": [
+        "mole poblano"
+      ]
+    },
+    {
+      "slug": "chiles-en-nogada",
+      "search": [
+        "chiles en nogada"
+      ]
+    }
   ],
   "us": [
-    { "slug": "hamburger", "search": ["cheeseburger plate", "hamburger"] },
-    { "slug": "bbq-ribs", "search": ["barbecue ribs", "bbq ribs"] },
-    { "slug": "apple-pie", "search": ["apple pie slice", "apple pie"] }
+    {
+      "slug": "hamburger",
+      "search": [
+        "cheeseburger plate",
+        "hamburger"
+      ]
+    },
+    {
+      "slug": "bbq-ribs",
+      "search": [
+        "barbecue ribs",
+        "bbq ribs"
+      ]
+    },
+    {
+      "slug": "apple-pie",
+      "search": [
+        "apple pie slice",
+        "apple pie"
+      ]
+    }
+  ],
+  "ad": [
+    {
+      "slug": "escudella",
+      "search": [
+        "escudella andorrana",
+        "escudella"
+      ]
+    },
+    {
+      "slug": "canelons",
+      "search": [
+        "canelons andorra",
+        "canelons"
+      ]
+    }
+  ],
+  "al": [
+    {
+      "slug": "byrek",
+      "search": [
+        "Byrek",
+        "Byrek me spinaq",
+        "Albanian byrek"
+      ]
+    },
+    {
+      "slug": "tave-kosi",
+      "search": [
+        "Tavë kosi",
+        "Tave kosi",
+        "Tavë kosi shqiptare"
+      ]
+    }
+  ],
+  "bg": [
+    {
+      "slug": "shopska-salad",
+      "search": [
+        "Shopska salad",
+        "Shopska salata",
+        "Bulgarian shopska salad",
+        "Shopska salad plate"
+      ]
+    },
+    {
+      "slug": "tarator",
+      "search": [
+        "Tarator",
+        "Bulgarian tarator",
+        "Tarator soup"
+      ]
+    }
+  ],
+  "cy": [
+    {
+      "slug": "halloumi",
+      "search": [
+        "halloumi plate",
+        "halloumi grilled cheese"
+      ]
+    }
+  ],
+  "cz": [
+    {
+      "slug": "gulas",
+      "search": []
+    },
+    {
+      "slug": "vepro-knedlo-zelo",
+      "search": [
+        "vepřo knedlo zelo",
+        "vepro knedlo zelo",
+        "vepřo se zelím"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "slug": "paella",
+      "search": [
+        "paella valenciana",
+        "paella"
+      ]
+    },
+    {
+      "slug": "tortilla-de-patatas",
+      "search": [
+        "tortilla de patatas",
+        "tortilla española"
+      ]
+    },
+    {
+      "slug": "churros",
+      "search": [
+        "churros con chocolate",
+        "churros"
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "slug": "quiche-lorraine",
+      "search": [
+        "quiche lorraine",
+        "quiche à la lorraine"
+      ]
+    },
+    {
+      "slug": "ratatouille",
+      "search": [
+        "ratatouille provençale",
+        "ratatouille"
+      ]
+    }
+  ],
+  "gb": [
+    {
+      "slug": "fish-and-chips",
+      "search": [
+        "fish and chips",
+        "fish and chips plate",
+        "fish and chips with mushy peas"
+      ]
+    },
+    {
+      "slug": "scone",
+      "search": [
+        "scone with clotted cream and jam",
+        "fruit scone with clotted cream",
+        "scones with jam and cream"
+      ]
+    }
+  ],
+  "gr": [
+    {
+      "slug": "moussaka",
+      "search": [
+        "eggplant moussaka",
+        "moussaka casserole"
+      ]
+    },
+    {
+      "slug": "souvlaki",
+      "search": [
+        "souvlaki greek",
+        "souvlaki"
+      ]
+    },
+    {
+      "slug": "greek-salad",
+      "search": [
+        "greek salad feta",
+        "greek salad tomato cucumber"
+      ]
+    }
+  ],
+  "hu": [
+    {
+      "slug": "goulash",
+      "search": [
+        "goulash in budapest",
+        "veal goulash steckenroth",
+        "goulash soup 2014"
+      ]
+    },
+    {
+      "slug": "kurtoskalacs",
+      "search": [
+        "kürtőskalács",
+        "kurtoskalacs",
+        "kürtős kalács"
+      ]
+    }
+  ],
+  "ie": [
+    {
+      "slug": "irish-stew",
+      "search": [
+        "irish stew",
+        "irish stew plate",
+        "irish stew bowl"
+      ]
+    },
+    {
+      "slug": "soda-bread",
+      "search": [
+        "soda bread",
+        "irish soda bread",
+        "soda bread loaf"
+      ]
+    },
+    {
+      "slug": "colcannon",
+      "search": [
+        "colcannon",
+        "colcannon plate",
+        "colcannon irish"
+      ]
+    }
+  ],
+  "it": [
+    {
+      "slug": "pizza-margherita",
+      "search": [
+        "pizza margherita napoletana",
+        "pizza margherita",
+        "pizza margherita pizza"
+      ]
+    },
+    {
+      "slug": "lasagne",
+      "search": [
+        "lasagne al forno",
+        "lasagne"
+      ]
+    },
+    {
+      "slug": "gelato",
+      "search": [
+        "gelato italiano",
+        "gelato"
+      ]
+    }
+  ],
+  "li": [
+    {
+      "slug": "kasknopfle",
+      "search": [
+        "Käsknöpfle",
+        "Kasknopfle",
+        "Liechtenstein käsknöpfle"
+      ]
+    },
+    {
+      "slug": "ribel",
+      "search": [
+        "Ribel",
+        "Liechtenstein ribel"
+      ]
+    }
+  ],
+  "lt": [
+    {
+      "slug": "cepelinai",
+      "search": [
+        "Cepelinai",
+        "Lithuanian cepelinai",
+        "Zeppelin dumplings"
+      ]
+    },
+    {
+      "slug": "saltibarsciai",
+      "search": [
+        "Šaltibarščiai",
+        "Saltibarsciai",
+        "Lithuanian cold beet soup"
+      ]
+    }
+  ],
+  "lv": [
+    {
+      "slug": "sklandrausis",
+      "search": [
+        "Sklandrausis",
+        "Latvian sklandrausis"
+      ]
+    }
+  ],
+  "mt": [
+    {
+      "slug": "pastizzi",
+      "search": [
+        "pastizzi maltese",
+        "pastizzi"
+      ]
+    },
+    {
+      "slug": "stuffat-tal-fenek",
+      "search": [
+        "stuffat tal-fenek",
+        "rabbit stew malta"
+      ]
+    }
+  ],
+  "pl": [
+    {
+      "slug": "pierogi",
+      "search": [
+        "pierogi",
+        "pierogi plate",
+        "pierogi ruskie"
+      ]
+    },
+    {
+      "slug": "bigos",
+      "search": [
+        "bigos 2024 11 15",
+        "bigos 2025 02 15",
+        "bigos z ziemniakami 2024 01 20"
+      ]
+    },
+    {
+      "slug": "kotlet-schabowy",
+      "search": [
+        "kotlet schabowy",
+        "kotlet schabowy plate",
+        "schabowy kotlet"
+      ]
+    }
+  ],
+  "pt": [
+    {
+      "slug": "pastel-de-nata",
+      "search": [
+        "pastel de nata",
+        "pastéis de nata",
+        "pasteis de belem"
+      ]
+    },
+    {
+      "slug": "bacalhau-a-bras",
+      "search": [
+        "bacalhau à brás",
+        "bacalhau a bras"
+      ]
+    }
+  ],
+  "ro": [
+    {
+      "slug": "sarmale",
+      "search": [
+        "Sarmale",
+        "Sarmale romanesti",
+        "Romanian sarmale"
+      ]
+    },
+    {
+      "slug": "mamaliga",
+      "search": [
+        "Mămăligă",
+        "Mămăligă cu brânză",
+        "Mamaliga cu smantana",
+        "Romanian mamaliga"
+      ]
+    },
+    {
+      "slug": "papanasi",
+      "search": [
+        "Papanași",
+        "Papanasi cu smantana",
+        "Romanian papanasi"
+      ]
+    }
+  ],
+  "ru": [
+    {
+      "slug": "pelmeni",
+      "search": [
+        "Pelmeni",
+        "Russian pelmeni",
+        "Pelmeni with sour cream"
+      ]
+    },
+    {
+      "slug": "syrniki",
+      "search": [
+        "Syrniki",
+        "Russian syrniki",
+        "Syrniki with jam"
+      ]
+    }
+  ],
+  "si": [
+    {
+      "slug": "potica",
+      "search": [
+        "potica",
+        "potica sliced",
+        "potica walnut"
+      ]
+    },
+    {
+      "slug": "kranjska-klobasa",
+      "search": [
+        "kranjska klobasa",
+        "kranjska sausage",
+        "kranjska klobasa plate"
+      ]
+    }
+  ],
+  "sk": [
+    {
+      "slug": "halusky",
+      "search": [
+        "bryndzové halušky",
+        "halusky",
+        "bryndzove halusky"
+      ]
+    },
+    {
+      "slug": "kapustnica",
+      "search": [
+        "kapustnica",
+        "kapustnica soup",
+        "kapustnica slovak"
+      ]
+    }
+  ],
+  "sm": [
+    {
+      "slug": "piadina",
+      "search": [
+        "piadina romagnola",
+        "piadina"
+      ]
+    }
+  ],
+  "ua": [
+    {
+      "slug": "borscht",
+      "search": [
+        "Borscht",
+        "Borsch soup",
+        "Ukrainian borscht"
+      ]
+    },
+    {
+      "slug": "varenyky",
+      "search": [
+        "Varenyky",
+        "Vareniki",
+        "Ukrainian varenyky"
+      ]
+    },
+    {
+      "slug": "chicken-kyiv",
+      "search": [
+        "Chicken Kiev",
+        "Chicken Kyiv",
+        "Kotleta po kievski"
+      ]
+    }
+  ],
+  "xk": [
+    {
+      "slug": "flija",
+      "search": [
+        "Flija",
+        "Flija kosovare",
+        "Albanian flija"
+      ]
+    },
+    {
+      "slug": "pite",
+      "search": [
+        "Pite me spinaq",
+        "Pite kosovare",
+        "Albanian pite"
+      ]
+    }
+  ],
+  "at": [
+    {
+      "slug": "wiener-schnitzel",
+      "search": [
+        "wiener schnitzel mit kartoffelsalat",
+        "wiener schnitzel teller",
+        "wiener schnitzel"
+      ]
+    },
+    {
+      "slug": "sachertorte",
+      "search": [
+        "sachertorte stück",
+        "sacher torte",
+        "sachertorte"
+      ]
+    },
+    {
+      "slug": "kaiserschmarrn",
+      "search": [
+        "kaiserschmarrn mit zwetschkenröster",
+        "kaiserschmarrn teller",
+        "kaiserschmarrn"
+      ]
+    }
+  ],
+  "ba": [
+    {
+      "slug": "cevapi",
+      "search": [
+        "ćevapi",
+        "cevapi somun",
+        "bosnian cevapi"
+      ]
+    },
+    {
+      "slug": "sarma",
+      "search": []
+    }
+  ],
+  "be": [
+    {
+      "slug": "moules-frites",
+      "search": [
+        "mosselen met friet",
+        "moules frites plat",
+        "moules frites"
+      ]
+    },
+    {
+      "slug": "gaufre",
+      "search": [
+        "gaufre de liège",
+        "waffle bruxelles",
+        "gaufre"
+      ]
+    },
+    {
+      "slug": "carbonnade",
+      "search": [
+        "stoofvlees met frieten",
+        "carbonade flamande",
+        "carbonnade"
+      ]
+    }
+  ],
+  "ch": [
+    {
+      "slug": "fondue",
+      "search": [
+        "cheese fondue pot",
+        "käsefondue",
+        "fondue"
+      ]
+    },
+    {
+      "slug": "rosti",
+      "search": [
+        "rösti mit spiegelei",
+        "rösti teller",
+        "rösti"
+      ]
+    }
+  ],
+  "de": [
+    {
+      "slug": "bratwurst",
+      "search": [
+        "bratwurst mit senf",
+        "bratwurst auf teller",
+        "bratwurst"
+      ]
+    },
+    {
+      "slug": "brezel",
+      "search": [
+        "laugenbrezel brett",
+        "breze",
+        "salzbrezel"
+      ]
+    },
+    {
+      "slug": "schwarzwalder-kirschtorte",
+      "search": [
+        "schwarzwälder kirschtorte",
+        "black forest cake slice"
+      ]
+    }
+  ],
+  "dk": [
+    {
+      "slug": "smorrebrod",
+      "search": [
+        "smørrebrød anretning",
+        "smørrebrød tallerken",
+        "smørrebrød"
+      ]
+    },
+    {
+      "slug": "frikadeller",
+      "search": [
+        "frikadeller med kartofler",
+        "frikadeller tallerken",
+        "frikadeller"
+      ]
+    },
+    {
+      "slug": "wienerbrod",
+      "search": [
+        "wienerbrød tallerken",
+        "wienerbrød",
+        "danish pastry"
+      ]
+    }
+  ],
+  "fi": [
+    {
+      "slug": "karjalanpiirakka",
+      "search": [
+        "karjalanpiirakka munavoi",
+        "karjalanpiirakka"
+      ]
+    },
+    {
+      "slug": "lohikeitto",
+      "search": [
+        "lohikeitto kulho",
+        "lohikeitto"
+      ]
+    },
+    {
+      "slug": "korvapuusti",
+      "search": [
+        "korvapuusti lautanen",
+        "korvapuusti"
+      ]
+    }
+  ],
+  "hr": [
+    {
+      "slug": "sarma",
+      "search": [
+        "sarma",
+        "sarma croatian",
+        "croatian sarma"
+      ]
+    },
+    {
+      "slug": "pasticada",
+      "search": [
+        "pašticada",
+        "pasticada",
+        "pasticada croatian"
+      ]
+    }
+  ],
+  "is": [
+    {
+      "slug": "plokkfiskur",
+      "search": [
+        "plokkfiskur diskur",
+        "plokkfiskur"
+      ]
+    }
+  ],
+  "lu": [
+    {
+      "slug": "judd-mat-gaardebounen",
+      "search": [
+        "judd mat gaardebounen",
+        "judd mat gardebounen"
+      ]
+    },
+    {
+      "slug": "bouneschlupp",
+      "search": [
+        "bouneschlupp",
+        "bouneschlupp supp"
+      ]
+    }
+  ],
+  "me": [
+    {
+      "slug": "kacamak",
+      "search": [
+        "kačamak",
+        "kacamak",
+        "kacamak montenegro"
+      ]
+    },
+    {
+      "slug": "crni-rizot",
+      "search": [
+        "crni rižot",
+        "crni rizot",
+        "black risotto"
+      ]
+    }
+  ],
+  "nl": [
+    {
+      "slug": "stroopwafel",
+      "search": [
+        "stroopwafel open",
+        "stroopwafel syrup",
+        "stroopwafel"
+      ]
+    },
+    {
+      "slug": "poffertjes",
+      "search": [
+        "poffertjes met poedersuiker",
+        "poffertjes plate",
+        "poffertjes"
+      ]
+    },
+    {
+      "slug": "bitterballen",
+      "search": [
+        "bitterballen met mosterd",
+        "bitterballen plate",
+        "bitterballen"
+      ]
+    }
+  ],
+  "no": [
+    {
+      "slug": "krumkake",
+      "search": []
+    }
+  ],
+  "rs": [
+    {
+      "slug": "pljeskavica",
+      "search": [
+        "pljeskavica",
+        "pljeskavica serbian",
+        "pljeskavica plate"
+      ]
+    },
+    {
+      "slug": "sarma",
+      "search": []
+    }
+  ],
+  "se": [
+    {
+      "slug": "kottbullar",
+      "search": [
+        "k�ttbullar med lingonsylt",
+        "k�ttbullar tallrik",
+        "k�ttbullar"
+      ]
+    },
+    {
+      "slug": "kanelbulle",
+      "search": [
+        "kanelbulle kanel",
+        "kanelbullar",
+        "kanelbulle"
+      ]
+    }
+  ],
+  "mk": [
+    {
+      "slug": "pastrmajlija",
+      "search": [
+        "pastrmajlija",
+        "pastrmajlija macedonian",
+        "macedonian pastrmajlija"
+      ]
+    },
+    {
+      "slug": "shopska-salata",
+      "search": [
+        "shopska salata",
+        "shopska salad",
+        "macedonian salad"
+      ]
+    }
   ]
 }

@@ -1,0 +1,1524 @@
+{
+  "ad": [
+    {
+      "slug": "escudella",
+      "plated": true,
+      "name": {
+        "pt-BR": "Escudella",
+        "en-GB": "Escudella",
+        "de-DE": "Escudella",
+        "fr-FR": "Escudella"
+      },
+      "note": {
+        "pt-BR": "Ensopado grosso de inverno, com massa, grão-de-bico, batata e carne. É servido numa tigela funda e bem quente.",
+        "en-GB": "A thick winter stew with pasta, chickpeas, potato and meat. It is served in a deep bowl, very hot.",
+        "de-DE": "Ein dicker Wintereintopf mit Nudeln, Kichererbsen, Kartoffel und Fleisch. Man serviert ihn in einer tiefen Schale, sehr heiß.",
+        "fr-FR": "Un ragoût épais avec des pâtes, des pois chiches et de la viande. On le sert dans un bol profond, très chaud."
+      }
+    },
+    {
+      "slug": "canelons",
+      "plated": true,
+      "name": {
+        "pt-BR": "Canelons",
+        "en-GB": "Canelons",
+        "de-DE": "Canelons",
+        "fr-FR": "Canelons"
+      },
+      "note": {
+        "pt-BR": "Tubos de massa recheados com carne, cobertos com molho branco e queijo. Assam-se no forno e servem-se bem quentes.",
+        "en-GB": "Tubes of pasta filled with meat, covered with white sauce and cheese. They are baked in the oven and served hot.",
+        "de-DE": "Teigröhren mit Fleischfüllung, mit weißer Sauce und Käse bedeckt. Man backt sie im Ofen und isst sie heiß.",
+        "fr-FR": "Des tubes farcis à la viande, couverts de sauce blanche et de fromage. On les fait gratiner au four et on les sert chauds."
+      }
+    }
+  ],
+  "al": [
+    {
+      "slug": "byrek",
+      "plated": true,
+      "name": {
+        "pt-BR": "Byrek",
+        "en-GB": "Byrek",
+        "de-DE": "Byrek",
+        "fr-FR": "Byrek"
+      },
+      "note": {
+        "pt-BR": "Uma torta fina, feita com massa em camadas, recheada com carne ou espinafre. Nas padarias, ela é assada em tabuleiros grandes e cortada em fatias.",
+        "en-GB": "A thin layered pastry pie filled with meat or spinach. Bakers bake it in big trays and cut it into slices.",
+        "de-DE": "Eine dünne Teigpastete mit Fleisch- oder Spinatfüllung. Bäcker backen sie in großen Blechen und schneiden sie in Stücke.",
+        "fr-FR": "Une tourte fine en couches de pâte, garnie de viande ou d'épinards. Les boulangers la cuisent dans de grands plats et la coupent en parts."
+      }
+    },
+    {
+      "slug": "tave-kosi",
+      "plated": true,
+      "name": {
+        "pt-BR": "Tavë kosi",
+        "en-GB": "Tavë kosi",
+        "de-DE": "Tavë kosi",
+        "fr-FR": "Tavë kosi"
+      },
+      "note": {
+        "pt-BR": "Carne de cordeiro assada num molho de iogurte. Ela chega à mesa no pote de barro em que foi assada.",
+        "en-GB": "Lamb baked in a yogurt sauce. It arrives at the table in the clay pot where it was baked.",
+        "de-DE": "Lammfleisch, in einer Joghurtsauce gebacken. Es kommt im Tontopf auf den Tisch, in dem es gebacken wurde.",
+        "fr-FR": "De l'agneau cuit dans une sauce au yaourt. Il arrive sur la table dans le plat en terre où il a cuit."
+      }
+    }
+  ],
+  "bg": [
+    {
+      "slug": "shopska-salad",
+      "plated": true,
+      "name": {
+        "pt-BR": "Shopska salata",
+        "en-GB": "Shopska salata",
+        "de-DE": "Shopska salata",
+        "fr-FR": "Shopska salata"
+      },
+      "note": {
+        "pt-BR": "Uma salada de tomate, pepino e pimentão, coberta com queijo branco ralado. As pessoas costumam comê-la antes do prato principal.",
+        "en-GB": "A salad of tomatoes, cucumbers and peppers, topped with grated white cheese. People often eat it before the main dish.",
+        "de-DE": "Ein Salat aus Tomaten, Gurken und Paprika, mit geriebenem Weißkäse bestreut. Man isst ihn oft vor dem Hauptgericht.",
+        "fr-FR": "Une salade de tomates, de concombres et de poivrons, couverte de fromage blanc râpé. On la mange souvent avant le plat principal."
+      }
+    },
+    {
+      "slug": "tarator",
+      "plated": false,
+      "name": {
+        "pt-BR": "Tarator",
+        "en-GB": "Tarator",
+        "de-DE": "Tarator",
+        "fr-FR": "Tarator"
+      },
+      "note": {
+        "pt-BR": "Uma sopa fria feita com iogurte, pepino e nozes. As pessoas comem no verão, muitas vezes antes do prato principal.",
+        "en-GB": "A cold soup made with yogurt, cucumber and walnuts. People eat it in summer, often before the main dish.",
+        "de-DE": "Eine kalte Suppe aus Joghurt, Gurke und Walnüssen. Man isst sie im Sommer, oft vor dem Hauptgericht.",
+        "fr-FR": "Une soupe froide au yaourt, au concombre et aux noix. On la mange en été, souvent avant le plat principal."
+      }
+    }
+  ],
+  "cy": [
+    {
+      "slug": "halloumi",
+      "plated": true,
+      "name": {
+        "pt-BR": "Halloumi",
+        "en-GB": "Halloumi",
+        "de-DE": "Halloumi",
+        "fr-FR": "Halloumi"
+      },
+      "note": {
+        "pt-BR": "Queijo firme do Chipre, grelhado até ficar dourado. Come-se quente, muitas vezes com pão ou salada.",
+        "en-GB": "A firm cheese from Cyprus, grilled until golden. People eat it warm, often with bread or salad.",
+        "de-DE": "Ein fester Käse aus Zypern, gegrillt, bis er goldbraun ist. Man isst ihn warm, oft mit Brot oder Salat.",
+        "fr-FR": "Un fromage ferme de Chypre, grillé jusqu'à ce qu'il soit doré. On le mange chaud, souvent avec du pain ou de la salade."
+      }
+    }
+  ],
+  "cz": [
+    {
+      "slug": "gulas",
+      "plated": true,
+      "name": {
+        "pt-BR": "Guláš",
+        "en-GB": "Guláš",
+        "de-DE": "Guláš",
+        "fr-FR": "Guláš"
+      },
+      "note": {
+        "pt-BR": "Ensopado de carne com pimentão e um molho escuro. Serve-se com knedlíky, bolinhos de pão cozidos no vapor.",
+        "en-GB": "A beef stew with paprika and a dark sauce. It is served with knedlíky, steamed bread dumplings.",
+        "de-DE": "Ein Rindfleischeintopf mit Paprika und dunkler Sauce. Dazu gibt es Knedlíky, gedämpfte Brotklöße.",
+        "fr-FR": "Un ragoût de bœuf au paprika, avec une sauce sombre. On le sert avec des knedlíky, des boules de pain cuites à la vapeur."
+      }
+    },
+    {
+      "slug": "vepro-knedlo-zelo",
+      "plated": true,
+      "name": {
+        "pt-BR": "Vepřo knedlo zelo",
+        "en-GB": "Vepřo knedlo zelo",
+        "de-DE": "Vepřo knedlo zelo",
+        "fr-FR": "Vepřo knedlo zelo"
+      },
+      "note": {
+        "pt-BR": "Carne de porco assada com repolho azedo e bolinhos de pão. Serve-se com molho por cima.",
+        "en-GB": "Roast pork with pickled cabbage and bread dumplings. It comes with gravy on top.",
+        "de-DE": "Ein gebratener Schweinebraten mit Sauerkraut und Brotklößen. Er kommt mit einer dunklen Sauce auf den Teller.",
+        "fr-FR": "Du porc rôti avec de la choucroute et des boules de pain. On le sert avec une sauce brune."
+      }
+    }
+  ],
+  "es": [
+    {
+      "slug": "paella",
+      "plated": true,
+      "name": {
+        "pt-BR": "Paella",
+        "en-GB": "Paella",
+        "de-DE": "Paella",
+        "fr-FR": "Paella"
+      },
+      "note": {
+        "pt-BR": "Arroz com açafrão, frutos do mar e legumes, cozido numa panela larga chamada paella. A panela vai para a mesa e cada pessoa se serve.",
+        "en-GB": "Rice with saffron, seafood and vegetables, cooked in a wide pan called a paella. The pan goes to the table, and everyone takes a spoonful.",
+        "de-DE": "Reis mit Safran, Meeresfrüchten und Gemüse, in einer breiten Pfanne namens Paella gekocht. Die Pfanne kommt auf den Tisch, und jeder nimmt sich.",
+        "fr-FR": "Un riz au safran avec des légumes et des fruits de mer. On le cuit dans une grande poêle appelée paella, posée sur la table."
+      }
+    },
+    {
+      "slug": "tortilla-de-patatas",
+      "plated": true,
+      "name": {
+        "pt-BR": "Tortilla de patatas",
+        "en-GB": "Tortilla de patatas",
+        "de-DE": "Tortilla de patatas",
+        "fr-FR": "Tortilla de patatas"
+      },
+      "note": {
+        "pt-BR": "Omelete grossa de batata e ovo, cortada em fatias. Pode comer-se fria ou morna, como entrada.",
+        "en-GB": "A thick omelette of potato and egg, cut into slices. People eat it cold or warm, as a starter.",
+        "de-DE": "Ein dickes Omelett aus Kartoffeln und Ei, in Scheiben geschnitten. Man isst es kalt oder warm, als Vorspeise.",
+        "fr-FR": "Une omelette épaisse aux pommes de terre et à l'œuf, coupée en tranches. On la mange froide ou tiède, en entrée."
+      }
+    },
+    {
+      "slug": "churros",
+      "plated": false,
+      "name": {
+        "pt-BR": "Churros",
+        "en-GB": "Churros",
+        "de-DE": "Churros",
+        "fr-FR": "Churros"
+      },
+      "note": {
+        "pt-BR": "Massa fina frita em forma de tira, coberta de açúcar. Muitas pessoas mergulham o churro no chocolate quente.",
+        "en-GB": "Thin fried dough in long strips, rolled in sugar. Many people dip them in thick hot chocolate.",
+        "de-DE": "Dünner frittierter Teig in langen Streifen, in Zucker gewälzt. Viele Menschen tauchen ihn in dicke heiße Schokolade.",
+        "fr-FR": "Une pâte fine frite en longs bâtons, roulée dans le sucre. Beaucoup de gens la trempent dans un chocolat chaud épais."
+      }
+    }
+  ],
+  "fr": [
+    {
+      "slug": "quiche-lorraine",
+      "plated": true,
+      "name": {
+        "pt-BR": "Quiche lorraine",
+        "en-GB": "Quiche lorraine",
+        "de-DE": "Quiche lorraine",
+        "fr-FR": "Quiche lorraine"
+      },
+      "note": {
+        "pt-BR": "Torta salgada de massa fina, com ovos, creme e bacon. Corta-se em fatias e come-se morna ou fria.",
+        "en-GB": "A savoury tart with a thin pastry base, eggs, cream and bacon. People cut it in slices and eat it warm or cold.",
+        "de-DE": "Eine salzige Torte mit dünnem Teig, Eiern, Sahne und Speck. Man schneidet sie in Stücke und isst sie warm oder kalt.",
+        "fr-FR": "Une tarte à pâte fine, avec des œufs, de la crème et du lard. On la coupe en parts et on la mange chaude ou froide."
+      }
+    },
+    {
+      "slug": "ratatouille",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ratatouille",
+        "en-GB": "Ratatouille",
+        "de-DE": "Ratatouille",
+        "fr-FR": "Ratatouille"
+      },
+      "note": {
+        "pt-BR": "Legumes cozidos devagar: berinjela, abobrinha, tomate e pimentão. Serve-se morno e muitas vezes come-se com pão.",
+        "en-GB": "Vegetables cooked slowly: aubergine, courgette, tomato and pepper. It is served warm, often with bread.",
+        "de-DE": "Langsam gekochtes Gemüse: Aubergine, Zucchini, Tomate und Paprika. Man isst es warm, oft mit Brot.",
+        "fr-FR": "Des légumes cuits lentement : aubergine, courgette, tomate et poivron. On la sert tiède, souvent avec du pain."
+      }
+    }
+  ],
+  "gb": [
+    {
+      "slug": "fish-and-chips",
+      "plated": true,
+      "name": {
+        "pt-BR": "Fish and chips",
+        "en-GB": "Fish and chips",
+        "de-DE": "Fish and chips",
+        "fr-FR": "Fish and chips"
+      },
+      "note": {
+        "pt-BR": "Peixe frito com uma casquinha crocante e batatas fritas grossas. Serve-se com molho tártaro e uma rodela de limão.",
+        "en-GB": "Fish fried in a crisp batter, with thick chips. It comes with tartare sauce and lemon.",
+        "de-DE": "Fisch in knusprigem Teig, mit dicken Pommes. Dazu gibt es Tartarsauce und Zitrone.",
+        "fr-FR": "Du poisson frit dans une pâte croustillante, avec des frites épaisses. On le sert avec de la sauce tartare et du citron."
+      }
+    },
+    {
+      "slug": "scone",
+      "plated": false,
+      "name": {
+        "pt-BR": "Scone",
+        "en-GB": "Scone",
+        "de-DE": "Scone",
+        "fr-FR": "Scone"
+      },
+      "note": {
+        "pt-BR": "Pãozinho doce e macio, com geleia e creme espesso. Come-se com chá, no lanche da tarde.",
+        "en-GB": "A small soft bread, served with jam and thick cream. It is eaten with tea in the afternoon.",
+        "de-DE": "Ein kleines weiches Brötchen mit Marmelade und dicker Sahne. Es wird nachmittags mit Tee gegessen.",
+        "fr-FR": "Un petit pain moelleux, servi avec de la confiture et de la crème épaisse. On le mange au goûter, avec du thé."
+      }
+    }
+  ],
+  "gr": [
+    {
+      "slug": "moussaka",
+      "plated": true,
+      "name": {
+        "pt-BR": "Moussaka",
+        "en-GB": "Moussaka",
+        "de-DE": "Moussaka",
+        "fr-FR": "Moussaka"
+      },
+      "note": {
+        "pt-BR": "Camadas de berinjela, batata e carne moída, cobertas com um creme branco e assadas. Corta-se em pedaços grandes e serve-se bem quente.",
+        "en-GB": "Layers of aubergine, potato and minced beef, topped with white sauce and baked. It is cut into big pieces and served hot.",
+        "de-DE": "Schichten aus Aubergine, Kartoffel und Hackfleisch, mit weißer Sauce bedeckt und gebacken. Man schneidet sie in große Stücke und isst sie heiß.",
+        "fr-FR": "Des couches d'aubergine, de pomme de terre et de viande hachée, cuites au four. On la coupe et on la sert chaude, en grands morceaux."
+      }
+    },
+    {
+      "slug": "souvlaki",
+      "plated": true,
+      "name": {
+        "pt-BR": "Souvlaki",
+        "en-GB": "Souvlaki",
+        "de-DE": "Souvlaki",
+        "fr-FR": "Souvlaki"
+      },
+      "note": {
+        "pt-BR": "Pedaços de carne espetados num pau e grelhados. Servem-se com pão achatado, batata frita e molho.",
+        "en-GB": "Pieces of meat on a stick, cooked over the grill. They are served with flat bread, chips and sauce.",
+        "de-DE": "Fleischstücke auf einem Spieß, über dem Grill gegart. Man isst sie mit Fladenbrot, Pommes und Sauce.",
+        "fr-FR": "Des morceaux de viande sur une brochette, cuits sur le grill. On les sert avec du pain plat, des frites et une sauce."
+      }
+    },
+    {
+      "slug": "greek-salad",
+      "plated": true,
+      "name": {
+        "pt-BR": "Greek salad",
+        "en-GB": "Greek salad",
+        "de-DE": "Greek salad",
+        "fr-FR": "Greek salad"
+      },
+      "note": {
+        "pt-BR": "Tomate, pepino, cebola, azeitonas e queijo feta, com azeite e orégãos. Serve-se numa tigela ou num prato, sem alface.",
+        "en-GB": "Tomato, cucumber, onion, olives and feta cheese, with olive oil and oregano. It is served on a plate or in a bowl, with no lettuce.",
+        "de-DE": "Tomate, Gurke, Zwiebel, Oliven und Feta-Käse, mit Olivenöl und Oregano. Man serviert es auf einem Teller, ohne Blattsalat.",
+        "fr-FR": "Tomate, concombre, oignon, olives et feta, avec de l'huile d'olive et de l'origan. On la sert dans un plat, sans laitue."
+      }
+    }
+  ],
+  "hu": [
+    {
+      "slug": "goulash",
+      "plated": true,
+      "name": {
+        "pt-BR": "Goulash",
+        "en-GB": "Goulash",
+        "de-DE": "Gulasch",
+        "fr-FR": "Goulash"
+      },
+      "note": {
+        "pt-BR": "Ensopado de carne com pimentão e legumes. Serve-se com massa ou batata.",
+        "en-GB": "A beef stew with paprika and vegetables. It is served with pasta or potatoes.",
+        "de-DE": "Ein Rindfleischeintopf mit Paprika und Gemüse. Er wird mit Nudeln oder Kartoffeln serviert.",
+        "fr-FR": "Un ragoût de bœuf au paprika et aux légumes. On le sert avec des pâtes ou des pommes de terre."
+      }
+    },
+    {
+      "slug": "kurtoskalacs",
+      "plated": false,
+      "name": {
+        "pt-BR": "Kürtőskalács",
+        "en-GB": "Kürtőskalács",
+        "de-DE": "Kürtőskalács",
+        "fr-FR": "Kürtőskalács"
+      },
+      "note": {
+        "pt-BR": "Massa doce assada em espiral, coberta com açúcar e canela. Come-se quente, como lanche.",
+        "en-GB": "Sweet dough baked in a spiral and rolled in sugar and cinnamon. It is eaten warm as a snack.",
+        "de-DE": "Süßer Teig, spiralförmig gebacken und in Zucker und Zimt gewälzt. Er wird warm als Snack gegessen.",
+        "fr-FR": "Une pâte sucrée cuite en spirale, roulée dans le sucre et la cannelle. On la mange chaude comme goûter."
+      }
+    }
+  ],
+  "ie": [
+    {
+      "slug": "irish-stew",
+      "plated": true,
+      "name": {
+        "pt-BR": "Irish stew",
+        "en-GB": "Irish stew",
+        "de-DE": "Irish stew",
+        "fr-FR": "Irish stew"
+      },
+      "note": {
+        "pt-BR": "Ensopado de carne de carneiro com batata, cenoura e cebola. Serve-se bem quente, num prato fundo.",
+        "en-GB": "A lamb stew with potato, carrot and onion. It is served hot in a deep bowl.",
+        "de-DE": "Ein Eintopf aus Lammfleisch, Kartoffeln, Karotten und Zwiebeln. Er wird heiß in einer tiefen Schale serviert.",
+        "fr-FR": "Un ragoût d'agneau avec des pommes de terre, des carottes et des oignons. On le sert chaud dans une assiette creuse."
+      }
+    },
+    {
+      "slug": "soda-bread",
+      "plated": false,
+      "name": {
+        "pt-BR": "Soda bread",
+        "en-GB": "Soda bread",
+        "de-DE": "Soda bread",
+        "fr-FR": "Soda bread"
+      },
+      "note": {
+        "pt-BR": "Pão redondo de farinha, leite e bicarbonato. Come-se em fatias, com manteiga.",
+        "en-GB": "A round bread made with flour, milk and bicarbonate of soda. It is eaten in slices with butter.",
+        "de-DE": "Ein rundes Brot aus Mehl, Milch und Natron. Es wird in Scheiben mit Butter gegessen.",
+        "fr-FR": "Un pain rond à la farine, au lait et au bicarbonate. On le mange en tranches avec du beurre."
+      }
+    },
+    {
+      "slug": "colcannon",
+      "plated": true,
+      "name": {
+        "pt-BR": "Colcannon",
+        "en-GB": "Colcannon",
+        "de-DE": "Colcannon",
+        "fr-FR": "Colcannon"
+      },
+      "note": {
+        "pt-BR": "Purê de batata com repolho e cebolinha, muitas vezes com manteiga. Serve-se quente, num prato fundo.",
+        "en-GB": "Mashed potato mixed with cabbage and spring onion, often with butter. It is served hot in a bowl.",
+        "de-DE": "Kartoffelpüree mit Kohl und Frühlingszwiebeln, oft mit Butter. Es wird heiß in einer Schale serviert.",
+        "fr-FR": "De la purée de pommes de terre avec du chou et des oignons nouveaux. On ajoute souvent du beurre et on la sert chaude."
+      }
+    }
+  ],
+  "it": [
+    {
+      "slug": "pizza-margherita",
+      "plated": false,
+      "name": {
+        "pt-BR": "Pizza margherita",
+        "en-GB": "Pizza margherita",
+        "de-DE": "Pizza margherita",
+        "fr-FR": "Pizza margherita"
+      },
+      "note": {
+        "pt-BR": "Pão redondo e fino, assado com tomate, mussarela e manjericão. Corta-se em fatias e come-se com as mãos.",
+        "en-GB": "A round, thin bread baked with tomato, mozzarella and basil. People cut it into slices and eat it with their hands.",
+        "de-DE": "Ein rundes, dünnes Brot, mit Tomate, Mozzarella und Basilikum gebacken. Man schneidet es in Stücke und isst es mit den Händen.",
+        "fr-FR": "Un pain rond et fin, cuit avec tomate, mozzarella et basilic. On le coupe en parts et on le mange à la main."
+      }
+    },
+    {
+      "slug": "lasagne",
+      "plated": true,
+      "name": {
+        "pt-BR": "Lasagne",
+        "en-GB": "Lasagne",
+        "de-DE": "Lasagne",
+        "fr-FR": "Lasagne"
+      },
+      "note": {
+        "pt-BR": "Camadas de massa com molho de carne e molho branco, assadas com queijo. Corta-se em quadrados e serve-se bem quente.",
+        "en-GB": "Layers of pasta with meat sauce and white sauce, baked with cheese. It is cut into squares and served hot.",
+        "de-DE": "Schichten aus Nudelteig mit Fleischsauce und weißer Sauce, mit Käse gebacken. Man schneidet sie in Vierecke und isst sie heiß.",
+        "fr-FR": "Des couches de pâtes, de viande et de sauce blanche, gratinées au fromage. On la coupe en carrés et on la sert chaude."
+      }
+    },
+    {
+      "slug": "gelato",
+      "plated": false,
+      "name": {
+        "pt-BR": "Gelato",
+        "en-GB": "Gelato",
+        "de-DE": "Gelato",
+        "fr-FR": "Gelato"
+      },
+      "note": {
+        "pt-BR": "Sorvete italiano, feito com leite, açúcar e fruta. Serve-se em casquinha ou em copo, em bolas.",
+        "en-GB": "Italian ice cream, made with milk, sugar and fruit. It is served in cones or cups, in scoops.",
+        "de-DE": "Italienisches Eis, aus Milch, Zucker und Früchten gemacht. Man bekommt es in Kugeln, in der Waffel oder im Becher.",
+        "fr-FR": "De la glace italienne, faite avec du lait, du sucre et des fruits. On la sert en boules, dans un cornet ou une coupe."
+      }
+    }
+  ],
+  "li": [
+    {
+      "slug": "kasknopfle",
+      "plated": true,
+      "name": {
+        "pt-BR": "Käsknöpfle",
+        "en-GB": "Käsknöpfle",
+        "de-DE": "Käsknöpfle",
+        "fr-FR": "Käsknöpfle"
+      },
+      "note": {
+        "pt-BR": "Pequenos bolinhos de queijo e massa, cozidos na água e fritos com cebola. As pessoas costumam comer com molho de maçã.",
+        "en-GB": "Small cheese dumplings scraped into hot water, then fried with onions. People often eat them with apple sauce.",
+        "de-DE": "Kleine Käseknöpfle, in heißes Wasser geschabt und mit Zwiebeln gebraten. Man isst sie oft mit Apfelmus.",
+        "fr-FR": "De petits raviolis au fromage, grattés dans l'eau chaude puis frits avec des oignons. On les mange souvent avec de la compote de pommes."
+      }
+    },
+    {
+      "slug": "ribel",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ribel",
+        "en-GB": "Ribel",
+        "de-DE": "Ribel",
+        "fr-FR": "Ribel"
+      },
+      "note": {
+        "pt-BR": "Um prato quente de fubá e migalhas de centeio torradas. As pessoas comem com leite, geleia ou fruta.",
+        "en-GB": "A warm dish of roasted cornmeal and rye crumbs. People eat it with milk, jam or fruit.",
+        "de-DE": "Ein warmes Gericht aus geröstetem Maisgrieß und Roggenbröseln. Man isst es mit Milch, Marmelade oder Obst.",
+        "fr-FR": "Un plat chaud de semoule de maïs et de miettes de seigle grillées. On le mange avec du lait, de la confiture ou des fruits."
+      }
+    }
+  ],
+  "lt": [
+    {
+      "slug": "cepelinai",
+      "plated": true,
+      "name": {
+        "pt-BR": "Cepelinai",
+        "en-GB": "Cepelinai",
+        "de-DE": "Cepelinai",
+        "fr-FR": "Cepelinai"
+      },
+      "note": {
+        "pt-BR": "Bolinhos grandes de batata em forma de zepelim, recheados com carne. Eles vêm com um molho cremoso e pedacinhos de bacon.",
+        "en-GB": "Big potato dumplings shaped like zeppelins, filled with meat. They come with a creamy sauce and bacon bits.",
+        "de-DE": "Große Kartoffelklöße in Zeppelinform, mit Fleisch gefüllt. Sie kommen mit einer cremigen Sauce und Speckwürfeln.",
+        "fr-FR": "De gros raviolis de pomme de terre en forme de zeppelin, fourrés de viande. Ils arrivent avec une sauce crémeuse et des lardons."
+      }
+    },
+    {
+      "slug": "saltibarsciai",
+      "plated": false,
+      "name": {
+        "pt-BR": "Šaltibarščiai",
+        "en-GB": "Šaltibarščiai",
+        "de-DE": "Šaltibarščiai",
+        "fr-FR": "Šaltibarščiai"
+      },
+      "note": {
+        "pt-BR": "Uma sopa fria e rosa feita com beterraba e kefir. Ela é servida com batatas quentes ao lado.",
+        "en-GB": "A cold pink soup made with beetroot and kefir. It is served with hot potatoes on the side.",
+        "de-DE": "Eine kalte rosa Suppe aus Roter Bete und Kefir. Sie wird mit heißen Kartoffeln serviert.",
+        "fr-FR": "Une soupe froide et rose à base de betterave et de kéfir. On la sert avec des pommes de terre chaudes."
+      }
+    }
+  ],
+  "lv": [
+    {
+      "slug": "sklandrausis",
+      "plated": false,
+      "name": {
+        "pt-BR": "Sklandrausis",
+        "en-GB": "Sklandrausis",
+        "de-DE": "Sklandrausis",
+        "fr-FR": "Sklandrausis"
+      },
+      "note": {
+        "pt-BR": "Um pequeno pastel de centeio recheado com cenoura e batata amassadas. As pessoas comem como lanche.",
+        "en-GB": "A small rye pastry filled with mashed carrot and potato. People eat it as a snack.",
+        "de-DE": "Ein kleines Roggengebäck mit einer Füllung aus Karotte und Kartoffel. Man isst es als Snack.",
+        "fr-FR": "Une petite pâtisserie de seigle fourrée de carotte et de pomme de terre. On la mange comme en-cas."
+      }
+    }
+  ],
+  "mt": [
+    {
+      "slug": "pastizzi",
+      "plated": false,
+      "name": {
+        "pt-BR": "Pastizzi",
+        "en-GB": "Pastizzi",
+        "de-DE": "Pastizzi",
+        "fr-FR": "Pastizzi"
+      },
+      "note": {
+        "pt-BR": "Pastéis folhados pequenos, recheados com ricota ou ervilha. Comem-se quentes, a qualquer hora do dia.",
+        "en-GB": "Small flaky pastries filled with ricotta or mushy peas. People eat them warm, at any time of day.",
+        "de-DE": "Kleine Blätterteigtaschen, gefüllt mit Ricotta oder Erbsenmus. Man isst sie warm, zu jeder Tageszeit.",
+        "fr-FR": "De petits chaussons feuilletés, fourrés à la ricotta ou aux petits pois. On les mange chauds, à toute heure de la journée."
+      }
+    },
+    {
+      "slug": "stuffat-tal-fenek",
+      "plated": true,
+      "name": {
+        "pt-BR": "Stuffat tal-fenek",
+        "en-GB": "Stuffat tal-fenek",
+        "de-DE": "Stuffat tal-fenek",
+        "fr-FR": "Stuffat tal-fenek"
+      },
+      "note": {
+        "pt-BR": "Coelho cozinhado devagar num molho de tomate e vinho. Serve-se com batata frita ou com massa.",
+        "en-GB": "Rabbit cooked slowly in a tomato and wine sauce. It is served with chips or pasta.",
+        "de-DE": "Kaninchen, langsam in einer Sauce aus Tomate und Wein gegart. Man isst es mit Pommes oder Nudeln.",
+        "fr-FR": "Du lapin cuit lentement dans une sauce à la tomate et au vin. On le sert avec des frites ou des pâtes."
+      }
+    }
+  ],
+  "pl": [
+    {
+      "slug": "pierogi",
+      "plated": true,
+      "name": {
+        "pt-BR": "Pierogi",
+        "en-GB": "Pierogi",
+        "de-DE": "Pierogi",
+        "fr-FR": "Pierogi"
+      },
+      "note": {
+        "pt-BR": "Massa cozida recheada com batata e queijo. Serve-se com pedacinhos de bacon e creme azedo.",
+        "en-GB": "Dough parcels filled with potato and cheese. They are served with bacon bits and sour cream.",
+        "de-DE": "Teigtaschen mit Kartoffel- und Käsefüllung. Sie werden mit Speckwürfeln und saurer Sahne serviert.",
+        "fr-FR": "Des pâtes farcies de pommes de terre et de fromage. On les sert avec des lardons et de la crème fraîche."
+      }
+    },
+    {
+      "slug": "bigos",
+      "plated": true,
+      "name": {
+        "pt-BR": "Bigos",
+        "en-GB": "Bigos",
+        "de-DE": "Bigos",
+        "fr-FR": "Bigos"
+      },
+      "note": {
+        "pt-BR": "Ensopado de repolho fresco e repolho azedo com carne e linguiça. Cozinha-se devagar e serve-se bem quente.",
+        "en-GB": "A stew of fresh and pickled cabbage with meat and sausage. It cooks slowly and is served hot.",
+        "de-DE": "Ein Eintopf aus frischem und eingelegtem Kohl mit Fleisch und Wurst. Er gart langsam und wird heiß serviert.",
+        "fr-FR": "Un ragoût de chou frais et mariné, avec de la viande et des saucisses. Il cuit lentement et se sert bien chaud."
+      }
+    },
+    {
+      "slug": "kotlet-schabowy",
+      "plated": true,
+      "name": {
+        "pt-BR": "Kotlet schabowy",
+        "en-GB": "Kotlet schabowy",
+        "de-DE": "Kotlet schabowy",
+        "fr-FR": "Kotlet schabowy"
+      },
+      "note": {
+        "pt-BR": "Costeleta de porco empanada e frita, com batata e picles. É um prato quente e crocante.",
+        "en-GB": "A breaded pork cutlet, fried and served with potatoes and pickles. It is hot and crisp.",
+        "de-DE": "Ein paniertes Schweineschnitzel mit Kartoffeln und sauren Gurken. Es kommt heiß und knusprig auf den Teller.",
+        "fr-FR": "Une escalope de porc panée, servie avec des pommes de terre et des cornichons. Elle est chaude et croustillante."
+      }
+    }
+  ],
+  "pt": [
+    {
+      "slug": "pastel-de-nata",
+      "plated": false,
+      "name": {
+        "pt-BR": "Pastel de nata",
+        "en-GB": "Pastel de nata",
+        "de-DE": "Pastel de nata",
+        "fr-FR": "Pastel de nata"
+      },
+      "note": {
+        "pt-BR": "Tortinha de creme de ovos, com massa crocante e manchas escuras. Muitas pessoas comem morna, com canela e açúcar.",
+        "en-GB": "A small egg custard tart with crisp pastry and dark spots on top. People eat it warm, with cinnamon and sugar.",
+        "de-DE": "Ein kleines Törtchen aus Eiercreme, mit knusprigem Teig und dunklen Flecken. Man isst es warm, mit Zimt und Zucker.",
+        "fr-FR": "Une petite tarte à la crème d'œufs, avec une pâte croustillante et des taches brunes. On la mange tiède, avec de la cannelle et du sucre."
+      }
+    },
+    {
+      "slug": "bacalhau-a-bras",
+      "plated": true,
+      "name": {
+        "pt-BR": "Bacalhau à Brás",
+        "en-GB": "Bacalhau à Brás",
+        "de-DE": "Bacalhau à Brás",
+        "fr-FR": "Bacalhau à Brás"
+      },
+      "note": {
+        "pt-BR": "Bacalhau desfiado com batata palha, cebola e ovos mexidos. Serve-se num prato e costuma levar azeitonas por cima.",
+        "en-GB": "Dried cod fish, shredded, with straw potatoes, onion and eggs. It is served on a plate with olives on top.",
+        "de-DE": "Getrockneter Kabeljau, zerpflückt, mit feinen Kartoffelstreifen, Zwiebel und Ei. Man serviert es auf einem Teller, mit Oliven oben drauf.",
+        "fr-FR": "Du cabillaud séché, effiloché, avec des frites fines, de l'oignon et des œufs. On le sert sur une assiette, avec des olives par-dessus."
+      }
+    }
+  ],
+  "ro": [
+    {
+      "slug": "sarmale",
+      "plated": true,
+      "name": {
+        "pt-BR": "Sarmale",
+        "en-GB": "Sarmale",
+        "de-DE": "Sarmale",
+        "fr-FR": "Sarmale"
+      },
+      "note": {
+        "pt-BR": "Folhas de repolho enroladas em torno de carne e arroz. Elas cozinham devagar e vão à mesa com creme de leite.",
+        "en-GB": "Cabbage leaves rolled around meat and rice. They cook slowly and come to the table with sour cream.",
+        "de-DE": "Kohlblätter, um Fleisch und Reis gerollt. Sie garen langsam und kommen mit saurer Sahne auf den Tisch.",
+        "fr-FR": "Des feuilles de chou roulées autour de viande et de riz. Elles cuisent lentement et arrivent sur la table avec de la crème."
+      }
+    },
+    {
+      "slug": "mamaliga",
+      "plated": true,
+      "name": {
+        "pt-BR": "Mămăligă",
+        "en-GB": "Mămăligă",
+        "de-DE": "Mămăligă",
+        "fr-FR": "Mămăligă"
+      },
+      "note": {
+        "pt-BR": "Um mingau macio de milho, cortado em fatias. As pessoas comem com queijo e creme de leite.",
+        "en-GB": "A soft porridge made from maize, cut into slices. People eat it with cheese and sour cream.",
+        "de-DE": "Ein weicher Brei aus Mais, in Scheiben geschnitten. Man isst ihn mit Käse und saurer Sahne.",
+        "fr-FR": "Une bouillie molle à base de maïs, coupée en tranches. On la mange avec du fromage et de la crème."
+      }
+    },
+    {
+      "slug": "papanasi",
+      "plated": true,
+      "name": {
+        "pt-BR": "Papanași",
+        "en-GB": "Papanași",
+        "de-DE": "Papanași",
+        "fr-FR": "Papanași"
+      },
+      "note": {
+        "pt-BR": "Bolinhos doces de queijo fritos, cobertos com creme e geleia. Eles chegam quentes, e a geleia escorre pelas laterais.",
+        "en-GB": "Sweet fried cheese doughnuts topped with cream and jam. They arrive warm, and the jam runs down the sides.",
+        "de-DE": "Süße, frittierte Käsekrapfen mit Sahne und Marmelade. Sie kommen warm auf den Tisch, und die Marmelade läuft an den Seiten herunter.",
+        "fr-FR": "Des beignets sucrés au fromage, garnis de crème et de confiture. Ils arrivent chauds, et la confiture coule sur les côtés."
+      }
+    }
+  ],
+  "ru": [
+    {
+      "slug": "pelmeni",
+      "plated": true,
+      "name": {
+        "pt-BR": "Pelmeni",
+        "en-GB": "Pelmeni",
+        "de-DE": "Pelmeni",
+        "fr-FR": "Pelmeni"
+      },
+      "note": {
+        "pt-BR": "Bolinhos de massa cozidos na água, recheados com carne. Eles são servidos com manteiga ou creme de leite.",
+        "en-GB": "Small dumplings filled with meat, boiled in water. They are served with butter or sour cream.",
+        "de-DE": "Kleine Teigtaschen mit Fleischfüllung, in Wasser gekocht. Sie werden mit Butter oder saurer Sahne serviert.",
+        "fr-FR": "De petits raviolis fourrés de viande, cuits à l'eau. On les sert avec du beurre ou de la crème."
+      }
+    },
+    {
+      "slug": "syrniki",
+      "plated": true,
+      "name": {
+        "pt-BR": "Syrniki",
+        "en-GB": "Syrniki",
+        "de-DE": "Syrniki",
+        "fr-FR": "Syrniki"
+      },
+      "note": {
+        "pt-BR": "Pequenas panquecas de queijo fritas até ficarem douradas. Elas vêm com geleia ou creme de leite no café da manhã.",
+        "en-GB": "Small cheese pancakes fried until golden. They come with jam or sour cream for breakfast.",
+        "de-DE": "Kleine Käsepfannkuchen, goldbraun gebraten. Sie kommen mit Marmelade oder saurer Sahne auf den Frühstückstisch.",
+        "fr-FR": "De petites crêpes au fromage, frites jusqu'à être dorées. Elles arrivent avec de la confiture ou de la crème au petit-déjeuner."
+      }
+    }
+  ],
+  "si": [
+    {
+      "slug": "potica",
+      "plated": false,
+      "name": {
+        "pt-BR": "Potica",
+        "en-GB": "Potica",
+        "de-DE": "Potica",
+        "fr-FR": "Potica"
+      },
+      "note": {
+        "pt-BR": "Pão doce em espiral, recheado com nozes e mel. Corta-se em fatias para o café da manhã.",
+        "en-GB": "A sweet spiral bread filled with walnuts and honey. It is cut into slices for breakfast.",
+        "de-DE": "Ein süßes Spiralbrot mit Walnuss- und Honigfüllung. Es wird in Scheiben zum Frühstück gegessen.",
+        "fr-FR": "Un pain sucré en spirale, fourré aux noix et au miel. On le coupe en tranches pour le petit-déjeuner."
+      }
+    },
+    {
+      "slug": "kranjska-klobasa",
+      "plated": true,
+      "name": {
+        "pt-BR": "Kranjska klobasa",
+        "en-GB": "Kranjska klobasa",
+        "de-DE": "Kranjska klobasa",
+        "fr-FR": "Kranjska klobasa"
+      },
+      "note": {
+        "pt-BR": "Uma linguiça de porco levemente defumada, cozida e servida quente. Come-se com pão, mostarda e rábano.",
+        "en-GB": "A lightly smoked pork sausage, cooked and served hot. It is eaten with bread, mustard and horseradish.",
+        "de-DE": "Eine leicht geräucherte Schweinswurst, gekocht und heiß serviert. Dazu gibt es Brot, Senf und Meerrettich.",
+        "fr-FR": "Une saucisse de porc légèrement fumée, cuite et servie chaude. On la mange avec du pain, de la moutarde et du raifort."
+      }
+    }
+  ],
+  "sk": [
+    {
+      "slug": "halusky",
+      "plated": true,
+      "name": {
+        "pt-BR": "Bryndzové halušky",
+        "en-GB": "Bryndzové halušky",
+        "de-DE": "Bryndzové halušky",
+        "fr-FR": "Bryndzové halušky"
+      },
+      "note": {
+        "pt-BR": "Bolinhos macios de batata e farinha, cobertos com queijo de ovelha e bacon. É um prato salgado e cremoso.",
+        "en-GB": "Soft potato and flour dumplings, topped with sheep cheese and bacon. It is a salty, creamy dish.",
+        "de-DE": "Weiche Knödel aus Kartoffeln und Mehl, mit Schafskäse und Speck. Es ist ein salziges, cremiges Gericht.",
+        "fr-FR": "Des boules de pomme de terre et de farine, avec du fromage de brebis et des lardons. C'est un plat salé et crémeux."
+      }
+    },
+    {
+      "slug": "kapustnica",
+      "plated": true,
+      "name": {
+        "pt-BR": "Kapustnica",
+        "en-GB": "Kapustnica",
+        "de-DE": "Kapustnica",
+        "fr-FR": "Kapustnica"
+      },
+      "note": {
+        "pt-BR": "Sopa de repolho azedo com linguiça e carne defumada. Serve-se quente, em tigela funda.",
+        "en-GB": "A sauerkraut soup with sausage and smoked meat. It is served hot in a deep bowl.",
+        "de-DE": "Eine Suppe aus Sauerkraut mit Wurst und geräuchertem Fleisch. Sie wird heiß in einer tiefen Schale serviert.",
+        "fr-FR": "Une soupe à la choucroute avec des saucisses et de la viande fumée. On la sert chaude dans un bol profond."
+      }
+    }
+  ],
+  "sm": [
+    {
+      "slug": "piadina",
+      "plated": true,
+      "name": {
+        "pt-BR": "Piadina",
+        "en-GB": "Piadina",
+        "de-DE": "Piadina",
+        "fr-FR": "Piadina"
+      },
+      "note": {
+        "pt-BR": "Pão achatado e fino, assado numa chapa quente. Dobra-se em volta de presunto e queijo, e come-se quente.",
+        "en-GB": "A thin flat bread, baked on a hot plate. It is folded around ham and cheese and eaten warm.",
+        "de-DE": "Ein dünnes Fladenbrot, auf einer heißen Platte gebacken. Man faltet es um Schinken und Käse und isst es warm.",
+        "fr-FR": "Un pain plat et fin, cuit sur une plaque chaude. On le plie autour du jambon et du fromage, et on le mange chaud."
+      }
+    }
+  ],
+  "ua": [
+    {
+      "slug": "borscht",
+      "plated": false,
+      "name": {
+        "pt-BR": "Borscht",
+        "en-GB": "Borscht",
+        "de-DE": "Borschtsch",
+        "fr-FR": "Bortsch"
+      },
+      "note": {
+        "pt-BR": "Uma sopa vermelho-brilhante feita com beterraba e repolho. É servida quente com creme de leite e pão.",
+        "en-GB": "A bright red soup made with beetroot and cabbage. It is served hot with sour cream and bread.",
+        "de-DE": "Eine leuchtend rote Suppe aus Roter Bete und Kohl. Sie wird heiß mit saurer Sahne und Brot serviert.",
+        "fr-FR": "Une soupe rouge vif à base de betterave et de chou. On la sert chaude avec de la crème et du pain."
+      }
+    },
+    {
+      "slug": "varenyky",
+      "plated": true,
+      "name": {
+        "pt-BR": "Varenyky",
+        "en-GB": "Varenyky",
+        "de-DE": "Varenyky",
+        "fr-FR": "Varenyky"
+      },
+      "note": {
+        "pt-BR": "Bolinhos de massa cozidos, recheados com batata e queijo. Eles vêm com creme de leite e são comidos quentes.",
+        "en-GB": "Boiled dumplings filled with potato and cheese. They come with sour cream, and people eat them hot.",
+        "de-DE": "Gekochte Teigtaschen mit Kartoffel- und Käsefüllung. Sie kommen mit saurer Sahne auf den Tisch und werden heiß gegessen.",
+        "fr-FR": "Des raviolis bouillis fourrés de pommes de terre et de fromage. Ils arrivent avec de la crème et se mangent chauds."
+      }
+    },
+    {
+      "slug": "chicken-kyiv",
+      "plated": true,
+      "name": {
+        "pt-BR": "Chicken Kyiv",
+        "en-GB": "Chicken Kyiv",
+        "de-DE": "Chicken Kyiv",
+        "fr-FR": "Chicken Kyiv"
+      },
+      "note": {
+        "pt-BR": "Um peito de frango enrolado em manteiga fria, empanado e frito. Quando você o corta, a manteiga escorre.",
+        "en-GB": "A chicken breast rolled around cold butter, then breaded and fried. When you cut it, the butter runs out.",
+        "de-DE": "Eine Hähnchenbrust, um kalte Butter gerollt, paniert und gebraten. Beim Aufschneiden läuft die Butter heraus.",
+        "fr-FR": "Un blanc de poulet roulé autour de beurre froid, pané puis frit. Quand on le coupe, le beurre coule."
+      }
+    }
+  ],
+  "xk": [
+    {
+      "slug": "flija",
+      "plated": false,
+      "name": {
+        "pt-BR": "Flija",
+        "en-GB": "Flija",
+        "de-DE": "Flija",
+        "fr-FR": "Flija"
+      },
+      "note": {
+        "pt-BR": "Uma torta em camadas assada numa assadeira redonda, com brasas quentes na tampa. As pessoas cortam em fatias e comem com creme.",
+        "en-GB": "A layered pie baked in a round pan, with hot embers on the lid. People cut it into wedges and eat it with cream.",
+        "de-DE": "Eine geschichtete Pastete, in einer runden Pfanne mit heißen Glutstücken auf dem Deckel gebacken. Man schneidet sie in Stücke und isst sie mit Sahne.",
+        "fr-FR": "Une tourte en couches cuite dans un plat rond, avec des braises chaudes sur le couvercle. On la coupe en parts et on la mange avec de la crème."
+      }
+    },
+    {
+      "slug": "pite",
+      "plated": false,
+      "name": {
+        "pt-BR": "Pite",
+        "en-GB": "Pite",
+        "de-DE": "Pite",
+        "fr-FR": "Pite"
+      },
+      "note": {
+        "pt-BR": "Uma torta redonda com camadas finas de massa, recheada com queijo. As pessoas servem com iogurte ao lado.",
+        "en-GB": "A round pie with thin layers of pastry, filled with cheese. People serve it with yoghurt on the side.",
+        "de-DE": "Eine runde Pastete aus dünnen Teigschichten, mit Käse gefüllt. Man serviert sie mit Joghurt.",
+        "fr-FR": "Une tourte ronde aux fines couches de pâte, fourrée au fromage. On la sert avec du yaourt."
+      }
+    }
+  ],
+  "at": [
+    {
+      "slug": "wiener-schnitzel",
+      "plated": true,
+      "name": {
+        "pt-BR": "Wiener Schnitzel",
+        "en-GB": "Wiener Schnitzel",
+        "de-DE": "Wiener Schnitzel",
+        "fr-FR": "Wiener Schnitzel"
+      },
+      "note": {
+        "pt-BR": "Carne fina empanada e frita, servida com uma rodela de limão.",
+        "en-GB": "A thin cutlet of veal, breaded and fried, served with a slice of lemon.",
+        "de-DE": "Ein dünnes Kalbsschnitzel wird paniert, gebraten und mit Zitrone serviert.",
+        "fr-FR": "Une fine escalope de veau panée et frite, servie avec un quartier de citron."
+      }
+    },
+    {
+      "slug": "sachertorte",
+      "plated": true,
+      "name": {
+        "pt-BR": "Sachertorte",
+        "en-GB": "Sachertorte",
+        "de-DE": "Sachertorte",
+        "fr-FR": "Sachertorte"
+      },
+      "note": {
+        "pt-BR": "Bolo de chocolate com geleia de damasco e cobertura de chocolate, servido em fatias.",
+        "en-GB": "A chocolate cake with apricot jam, served in slices, often with cream.",
+        "de-DE": "Die Sachertorte ist eine Schokoladentorte aus Wien mit Aprikosenkonfitüre. Sie wird in Stücken, oft mit Sahne, serviert.",
+        "fr-FR": "Un gâteau au chocolat avec de la confiture d'abricot, servi en parts."
+      }
+    },
+    {
+      "slug": "kaiserschmarrn",
+      "plated": false,
+      "name": {
+        "pt-BR": "Kaiserschmarrn",
+        "en-GB": "Kaiserschmarrn",
+        "de-DE": "Kaiserschmarrn",
+        "fr-FR": "Kaiserschmarrn"
+      },
+      "note": {
+        "pt-BR": "Panqueca grossa despedaçada, polvilhada com açúcar e servida com compota de ameixa.",
+        "en-GB": "A thick pancake torn into pieces, dusted with sugar and served with plum compote.",
+        "de-DE": "Kaiserschmarrn ist ein dicker Pfannkuchen, der in Stücke gerissen wird. Er wird oft mit Puderzucker und Apfelmus serviert.",
+        "fr-FR": "Une crêpe déchirée en morceaux, saupoudrée de sucre et servie avec de la compote."
+      }
+    }
+  ],
+  "ba": [
+    {
+      "slug": "cevapi",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ćevapi",
+        "en-GB": "Ćevapi",
+        "de-DE": "Ćevapi",
+        "fr-FR": "Ćevapi"
+      },
+      "note": {
+        "pt-BR": "Pequenas linguiças de carne moída, grelhadas e servidas com pão. Acompanha cebola e um creme de leite.",
+        "en-GB": "Small grilled sausages made from minced meat, served in flatbread. They come with onion and kajmak, a soft cheese.",
+        "de-DE": "Kleine gegrillte Würste aus Hackfleisch, im Fladenbrot. Dazu gibt es Zwiebel und Kajmak, einen weichen Käse.",
+        "fr-FR": "De petites saucisses grillées de viande hachée, servies dans du pain plat. Avec de l'oignon et du kajmak, un fromage doux."
+      }
+    },
+    {
+      "slug": "sarma",
+      "plated": true,
+      "name": {
+        "pt-BR": "Sarma",
+        "en-GB": "Sarma",
+        "de-DE": "Sarma",
+        "fr-FR": "Sarma"
+      },
+      "note": {
+        "pt-BR": "Folhas de repolho recheadas com carne e arroz, cozidas devagar. Serve-se quente, com molho.",
+        "en-GB": "Cabbage leaves stuffed with meat and rice, cooked slowly. It is served hot with sauce.",
+        "de-DE": "Kohlblätter, mit Fleisch und Reis gefüllt und langsam gegart. Es wird heiß mit Sauce serviert.",
+        "fr-FR": "Des feuilles de chou farcies de viande et de riz, cuites lentement. On les sert chaudes avec de la sauce."
+      }
+    }
+  ],
+  "be": [
+    {
+      "slug": "moules-frites",
+      "plated": true,
+      "name": {
+        "pt-BR": "Moules-frites",
+        "en-GB": "Moules-frites",
+        "de-DE": "Moules-frites",
+        "fr-FR": "Moules-frites"
+      },
+      "note": {
+        "pt-BR": "Mexilhões cozidos na panela, servidos com batata frita crocante.",
+        "en-GB": "Mussels cooked in a pot, served with crisp chips.",
+        "de-DE": "Moules-frites sind Miesmuscheln, die mit Pommes frites serviert werden.",
+        "fr-FR": "Des moules cuites dans une casserole, servies avec des frites."
+      }
+    },
+    {
+      "slug": "gaufre",
+      "plated": false,
+      "name": {
+        "pt-BR": "Gaufre",
+        "en-GB": "Gaufre",
+        "de-DE": "Gaufre",
+        "fr-FR": "Gaufre"
+      },
+      "note": {
+        "pt-BR": "Massa assada em forma de grade, servida quente com açúcar de confeiteiro.",
+        "en-GB": "A warm waffle with deep square pockets, dusted with icing sugar.",
+        "de-DE": "Eine Gaufre ist eine Waffel mit tiefen Fächern. Sie wird heiß serviert und mit Puderzucker bestäubt.",
+        "fr-FR": "Une gaufre chaude aux grandes alvéoles, saupoudrée de sucre glace."
+      }
+    },
+    {
+      "slug": "carbonnade",
+      "plated": true,
+      "name": {
+        "pt-BR": "Carbonnade flamande",
+        "en-GB": "Carbonnade flamande",
+        "de-DE": "Carbonnade flamande",
+        "fr-FR": "Carbonnade flamande"
+      },
+      "note": {
+        "pt-BR": "Carne cozida devagar na cerveja, servida com batata frita.",
+        "en-GB": "Beef cooked slowly in beer, served with chips.",
+        "de-DE": "Rindfleisch wird lange in Bier geschmort und mit Pommes frites serviert.",
+        "fr-FR": "Du bœuf mijoté à la bière, servi avec des frites."
+      }
+    }
+  ],
+  "ch": [
+    {
+      "slug": "fondue",
+      "plated": false,
+      "name": {
+        "pt-BR": "Fondue",
+        "en-GB": "Fondue",
+        "de-DE": "Fondue",
+        "fr-FR": "Fondue"
+      },
+      "note": {
+        "pt-BR": "Queijo derretido numa panela, com pão em pedaços para mergulhar.",
+        "en-GB": "Melted cheese in a pot, with pieces of bread to dip in.",
+        "de-DE": "Beim Fondue schmilzt würziger Käse in einem Topf. Man taucht die Brotstücke in den warmen, geschmolzenen Käse.",
+        "fr-FR": "Du fromage fondu dans un pot, avec des morceaux de pain à tremper."
+      }
+    },
+    {
+      "slug": "rosti",
+      "plated": true,
+      "name": {
+        "pt-BR": "Rösti",
+        "en-GB": "Rösti",
+        "de-DE": "Rösti",
+        "fr-FR": "Rösti"
+      },
+      "note": {
+        "pt-BR": "Bolo de batata ralada, frito dos dois lados até ficar crocante.",
+        "en-GB": "A flat cake of grated potato, fried on both sides until crisp.",
+        "de-DE": "Rösti ist ein flacher Kuchen aus geriebenen Kartoffeln. Er wird in einer heißen Pfanne knusprig gebraten.",
+        "fr-FR": "Une galette de pommes de terre râpées, frite jusqu'à devenir croustillante."
+      }
+    }
+  ],
+  "de": [
+    {
+      "slug": "bratwurst",
+      "plated": true,
+      "name": {
+        "pt-BR": "Bratwurst",
+        "en-GB": "Bratwurst",
+        "de-DE": "Bratwurst",
+        "fr-FR": "Bratwurst"
+      },
+      "note": {
+        "pt-BR": "Linguicinha alemã grelhada, servida com chucrute, repolho fermentado, e mostarda.",
+        "en-GB": "A grilled German sausage, served with sauerkraut, which is pickled cabbage, and mustard.",
+        "de-DE": "Eine Bratwurst ist eine gegrillte Wurst aus Schweinefleisch. Dazu gibt es Sauerkraut, also eingelegten Kohl, und Senf.",
+        "fr-FR": "Une saucisse allemande grillée, servie avec de la choucroute et de la moutarde."
+      }
+    },
+    {
+      "slug": "brezel",
+      "plated": false,
+      "name": {
+        "pt-BR": "Brezel",
+        "en-GB": "Brezel",
+        "de-DE": "Brezel",
+        "fr-FR": "Brezel"
+      },
+      "note": {
+        "pt-BR": "Pão alemão em forma de laço, assado com sal grosso por cima.",
+        "en-GB": "A German bread twisted into a knot and baked with coarse salt on top.",
+        "de-DE": "Eine Brezel ist ein Brot, das wie ein Knoten geformt ist. Oben auf der braunen Kruste liegt grobes Salz.",
+        "fr-FR": "Un pain allemand en forme de nœud, avec du gros sel sur le dessus."
+      }
+    },
+    {
+      "slug": "schwarzwalder-kirschtorte",
+      "plated": true,
+      "name": {
+        "pt-BR": "Schwarzwälder Kirschtorte",
+        "en-GB": "Schwarzwälder Kirschtorte",
+        "de-DE": "Schwarzwälder Kirschtorte",
+        "fr-FR": "Schwarzwälder Kirschtorte"
+      },
+      "note": {
+        "pt-BR": "Bolo da Floresta Negra, com creme, cerejas e raspas de chocolate, servido em fatias.",
+        "en-GB": "A Black Forest gateau with cream, cherries and chocolate flakes, served in slices.",
+        "de-DE": "Diese Torte hat viel Sahne, Kirschen und Schokoladenraspeln. Sie kommt in großen Stücken auf den Tisch.",
+        "fr-FR": "Une tarte de la Forêt-Noire avec crème, cerises et chocolat, servie en parts."
+      }
+    }
+  ],
+  "dk": [
+    {
+      "slug": "smorrebrod",
+      "plated": true,
+      "name": {
+        "pt-BR": "Smørrebrød",
+        "en-GB": "Smørrebrød",
+        "de-DE": "Smørrebrød",
+        "fr-FR": "Smørrebrød"
+      },
+      "note": {
+        "pt-BR": "Fatias de pão escuro com peixe, carne, queijo e legumes por cima.",
+        "en-GB": "Slices of dark bread topped with fish, meat, cheese or vegetables.",
+        "de-DE": "Smørrebrød ist eine Scheibe dunkles Brot mit Fisch, Fleisch oder Gemüse.",
+        "fr-FR": "Des tranches de pain noir garnies de poisson, de viande ou de légumes."
+      }
+    },
+    {
+      "slug": "frikadeller",
+      "plated": true,
+      "name": {
+        "pt-BR": "Frikadeller",
+        "en-GB": "Frikadeller",
+        "de-DE": "Frikadeller",
+        "fr-FR": "Frikadeller"
+      },
+      "note": {
+        "pt-BR": "Almôndegas de carne moída, servidas com batata e molho marrom.",
+        "en-GB": "Flat meatballs made from minced pork, served with potatoes and brown sauce.",
+        "de-DE": "Frikadeller sind flache, gebratene Bällchen aus feinem Schweinehackfleisch. Sie werden mit Kartoffeln und brauner Sauce serviert.",
+        "fr-FR": "Des boulettes de porc aplaties, avec des pommes de terre et une sauce brune."
+      }
+    },
+    {
+      "slug": "wienerbrod",
+      "plated": false,
+      "name": {
+        "pt-BR": "Wienerbrød",
+        "en-GB": "Wienerbrød",
+        "de-DE": "Wienerbrød",
+        "fr-FR": "Wienerbrød"
+      },
+      "note": {
+        "pt-BR": "Massa folhada assada com creme e geleia no meio, coberta com glacê.",
+        "en-GB": "A flaky pastry with jam in the middle and a little icing on top.",
+        "de-DE": "Wienerbrød ist ein Blätterteiggebäck mit Marmelade in der Mitte und Zuckerguss oben.",
+        "fr-FR": "Une pâtisserie feuilletée avec de la confiture au centre et un peu de glaçage."
+      }
+    }
+  ],
+  "fi": [
+    {
+      "slug": "karjalanpiirakka",
+      "plated": false,
+      "name": {
+        "pt-BR": "Karjalanpiirakka",
+        "en-GB": "Karjalanpiirakka",
+        "de-DE": "Karjalanpiirakka",
+        "fr-FR": "Karjalanpiirakka"
+      },
+      "note": {
+        "pt-BR": "Torta fina de centeio com recheio de arroz, servida com manteiga de ovo.",
+        "en-GB": "A thin rye pastry filled with rice, served with egg butter.",
+        "de-DE": "Karjalanpiirakka ist eine dünne Roggentasche, die mit Reis gefüllt ist. Dazu gibt es Butter, die mit gehacktem Ei gemischt ist.",
+        "fr-FR": "Une fine tourte de seigle garnie de riz, servie avec du beurre à l'œuf."
+      }
+    },
+    {
+      "slug": "lohikeitto",
+      "plated": true,
+      "name": {
+        "pt-BR": "Lohikeitto",
+        "en-GB": "Lohikeitto",
+        "de-DE": "Lohikeitto",
+        "fr-FR": "Lohikeitto"
+      },
+      "note": {
+        "pt-BR": "Sopa cremosa de salmão com batata, cenoura e endro.",
+        "en-GB": "A creamy salmon soup with potato, carrot and dill.",
+        "de-DE": "Lohikeitto ist eine cremige Suppe mit Lachs, Kartoffeln und Dill.",
+        "fr-FR": "Une soupe crémeuse au saumon, avec pommes de terre, carottes et aneth."
+      }
+    },
+    {
+      "slug": "korvapuusti",
+      "plated": false,
+      "name": {
+        "pt-BR": "Korvapuusti",
+        "en-GB": "Korvapuusti",
+        "de-DE": "Korvapuusti",
+        "fr-FR": "Korvapuusti"
+      },
+      "note": {
+        "pt-BR": "Pão doce em espiral com canela, coberto com açúcar cristal.",
+        "en-GB": "A sweet spiral bun with cinnamon and pearl sugar on top.",
+        "de-DE": "Korvapuusti ist ein süßes Hefegebäck mit Zimt und Zuckerperlen.",
+        "fr-FR": "Une brioche en spirale à la cannelle, avec des grains de sucre dessus."
+      }
+    }
+  ],
+  "hr": [
+    {
+      "slug": "sarma",
+      "plated": true,
+      "name": {
+        "pt-BR": "Sarma",
+        "en-GB": "Sarma",
+        "de-DE": "Sarma",
+        "fr-FR": "Sarma"
+      },
+      "note": {
+        "pt-BR": "Folhas de repolho recheadas com carne e arroz, cozidas devagar. Serve-se quente, com molho.",
+        "en-GB": "Cabbage leaves stuffed with meat and rice, cooked slowly. It is served hot with sauce.",
+        "de-DE": "Kohlblätter, mit Fleisch und Reis gefüllt und langsam gegart. Es wird heiß mit Sauce serviert.",
+        "fr-FR": "Des feuilles de chou farcies de viande et de riz, cuites lentement. On les sert chaudes avec de la sauce."
+      }
+    },
+    {
+      "slug": "pasticada",
+      "plated": true,
+      "name": {
+        "pt-BR": "Pašticada",
+        "en-GB": "Pašticada",
+        "de-DE": "Pašticada",
+        "fr-FR": "Pašticada"
+      },
+      "note": {
+        "pt-BR": "Carne de vaca cozida devagar num molho escuro com vinho. Serve-se com nhoque ou batata.",
+        "en-GB": "Beef cooked slowly in a dark wine sauce. It is served with dumplings or potatoes.",
+        "de-DE": "Rindfleisch, langsam in dunkler Weinsauce gegart. Es wird mit Nockerln oder Kartoffeln serviert.",
+        "fr-FR": "Du bœuf cuit lentement dans une sauce sombre au vin. On le sert avec des gnocchis ou des pommes de terre."
+      }
+    }
+  ],
+  "is": [
+    {
+      "slug": "plokkfiskur",
+      "plated": true,
+      "name": {
+        "pt-BR": "Plokkfiskur",
+        "en-GB": "Plokkfiskur",
+        "de-DE": "Plokkfiskur",
+        "fr-FR": "Plokkfiskur"
+      },
+      "note": {
+        "pt-BR": "Peixe desfiado com batata e cebola, coberto com queijo gratinado.",
+        "en-GB": "Flaked fish with potato and onion, topped with grilled cheese.",
+        "de-DE": "Plokkfiskur ist Fisch mit Kartoffeln, Zwiebeln und geschmolzenem Käse.",
+        "fr-FR": "Du poisson émietté avec des pommes de terre et de l'oignon, gratiné au fromage."
+      }
+    }
+  ],
+  "lu": [
+    {
+      "slug": "judd-mat-gaardebounen",
+      "plated": true,
+      "name": {
+        "pt-BR": "Judd mat Gaardebounen",
+        "en-GB": "Judd mat Gaardebounen",
+        "de-DE": "Judd mat Gaardebounen",
+        "fr-FR": "Judd mat Gaardebounen"
+      },
+      "note": {
+        "pt-BR": "Carne de porco defumada com feijões grandes e batatas cozidas.",
+        "en-GB": "Smoked pork with broad beans and boiled potatoes.",
+        "de-DE": "Judd mat Gaardebounen ist geräuchertes Schweinefleisch mit dicken Bohnen und Kartoffeln.",
+        "fr-FR": "Du porc fumé avec de grosses fèves et des pommes de terre."
+      }
+    },
+    {
+      "slug": "bouneschlupp",
+      "plated": true,
+      "name": {
+        "pt-BR": "Bouneschlupp",
+        "en-GB": "Bouneschlupp",
+        "de-DE": "Bouneschlupp",
+        "fr-FR": "Bouneschlupp"
+      },
+      "note": {
+        "pt-BR": "Sopa de feijão verde com batata, cenoura e rodelas de linguiça.",
+        "en-GB": "A green bean soup with potato, carrot and slices of sausage.",
+        "de-DE": "Bouneschlupp ist eine heiße Suppe mit grünen Bohnen, Kartoffeln und Wurst.",
+        "fr-FR": "Une soupe de haricots verts avec des pommes de terre et de la saucisse."
+      }
+    }
+  ],
+  "me": [
+    {
+      "slug": "kacamak",
+      "plated": true,
+      "name": {
+        "pt-BR": "Kačamak",
+        "en-GB": "Kačamak",
+        "de-DE": "Kačamak",
+        "fr-FR": "Kačamak"
+      },
+      "note": {
+        "pt-BR": "Mingau de milho com queijo e creme, mexido até ficar macio. Serve-se quente, com leite ou iogurte.",
+        "en-GB": "A cornmeal porridge with cheese and cream, stirred until soft. It is served hot with milk or yogurt.",
+        "de-DE": "Ein Maisbrei mit Käse und Sahne, cremig gerührt. Er wird heiß mit Milch oder Joghurt serviert.",
+        "fr-FR": "Une bouillie de maïs au fromage et à la crème, remuée jusqu'à devenir douce. On la sert chaude avec du lait ou du yaourt."
+      }
+    },
+    {
+      "slug": "crni-rizot",
+      "plated": true,
+      "name": {
+        "pt-BR": "Crni rižot",
+        "en-GB": "Crni rižot",
+        "de-DE": "Crni rižot",
+        "fr-FR": "Crni rižot"
+      },
+      "note": {
+        "pt-BR": "Arroz cozido com tinta de lula, que deixa o prato preto. Serve-se com pedaços de lula ou peixe.",
+        "en-GB": "Rice cooked with squid ink, which turns the dish black. It is served with pieces of squid or fish.",
+        "de-DE": "Reis, mit Tintenfischtinte gekocht, die das Gericht schwarz macht. Dazu gibt es Stücke von Tintenfisch oder Fisch.",
+        "fr-FR": "Du riz cuit avec de l'encre de seiche, qui rend le plat noir. On le sert avec des morceaux de seiche ou de poisson."
+      }
+    }
+  ],
+  "nl": [
+    {
+      "slug": "stroopwafel",
+      "plated": false,
+      "name": {
+        "pt-BR": "Stroopwafel",
+        "en-GB": "Stroopwafel",
+        "de-DE": "Stroopwafel",
+        "fr-FR": "Stroopwafel"
+      },
+      "note": {
+        "pt-BR": "Dois biscoitos em forma de grade, com calda de caramelo no meio.",
+        "en-GB": "Two round, flat biscuits with a sweet caramel syrup in the middle.",
+        "de-DE": "Zwei dünne, runde Waffeln werden mit Karamellsirup zusammengeklebt.",
+        "fr-FR": "Deux fines gaufrettes rondes collées avec du sirop de caramel."
+      }
+    },
+    {
+      "slug": "poffertjes",
+      "plated": true,
+      "name": {
+        "pt-BR": "Poffertjes",
+        "en-GB": "Poffertjes",
+        "de-DE": "Poffertjes",
+        "fr-FR": "Poffertjes"
+      },
+      "note": {
+        "pt-BR": "Pequenas panquecas redondas, servidas com açúcar de confeiteiro e manteiga.",
+        "en-GB": "Small round pancakes, served hot with icing sugar and butter.",
+        "de-DE": "Poffertjes sind kleine, runde Pfannkuchen aus einem Hefeteig. Sie werden heiß mit Puderzucker und Butter serviert.",
+        "fr-FR": "De petites crêpes rondes, servies chaudes avec du sucre glace et du beurre."
+      }
+    },
+    {
+      "slug": "bitterballen",
+      "plated": true,
+      "name": {
+        "pt-BR": "Bitterballen",
+        "en-GB": "Bitterballen",
+        "de-DE": "Bitterballen",
+        "fr-FR": "Bitterballen"
+      },
+      "note": {
+        "pt-BR": "Bolinhas fritas crocantes, servidas quentes com mostarda para mergulhar.",
+        "en-GB": "Deep-fried balls with a soft filling, served hot with mustard.",
+        "de-DE": "Bitterballen sind kleine, frittierte Kugeln mit weicher Füllung. Man isst sie heiß und taucht sie in Senf.",
+        "fr-FR": "De petites boules frites avec un cœur fondant, servies chaudes avec de la moutarde."
+      }
+    }
+  ],
+  "no": [
+    {
+      "slug": "krumkake",
+      "plated": false,
+      "name": {
+        "pt-BR": "Krumkake",
+        "en-GB": "Krumkake",
+        "de-DE": "Krumkake",
+        "fr-FR": "Krumkake"
+      },
+      "note": {
+        "pt-BR": "Um biscoito fino em forma de cone, assado numa chapa e enrolado quente.",
+        "en-GB": "A thin crisp biscuit, baked on a griddle and rolled into a cone.",
+        "de-DE": "Krumkake ist ein sehr dünnes, knuspriges Gebäck aus Mehl und Butter. Es wird warm zu einer kleinen Rolle gedreht.",
+        "fr-FR": "Un biscuit fin et croustillant, cuit sur une plaque et roulé en cornet."
+      }
+    }
+  ],
+  "rs": [
+    {
+      "slug": "pljeskavica",
+      "plated": true,
+      "name": {
+        "pt-BR": "Pljeskavica",
+        "en-GB": "Pljeskavica",
+        "de-DE": "Pljeskavica",
+        "fr-FR": "Pljeskavica"
+      },
+      "note": {
+        "pt-BR": "Hambúrguer grande e achatado de carne moída, grelhado na brasa. Serve-se com pão, batata e salada.",
+        "en-GB": "A large flat burger made from minced meat, grilled over coals. It is served with bread, chips and salad.",
+        "de-DE": "Ein großer flacher Hackfleischfladen, über Glut gegrillt. Dazu gibt es Brot, Pommes und Salat.",
+        "fr-FR": "Un grand steak haché plat, grillé sur la braise. On le sert avec du pain, des frites et de la salade."
+      }
+    },
+    {
+      "slug": "sarma",
+      "plated": true,
+      "name": {
+        "pt-BR": "Sarma",
+        "en-GB": "Sarma",
+        "de-DE": "Sarma",
+        "fr-FR": "Sarma"
+      },
+      "note": {
+        "pt-BR": "Folhas de repolho recheadas com arroz e legumes, cozidas devagar. Serve-se quente, com molho.",
+        "en-GB": "Cabbage leaves stuffed with rice and vegetables, cooked slowly. It is served hot with sauce.",
+        "de-DE": "Kohlblätter, mit Reis und Gemüse gefüllt und langsam gegart. Es wird heiß mit Sauce serviert.",
+        "fr-FR": "Des feuilles de chou farcies de riz et de légumes, cuites lentement. On les sert chaudes avec de la sauce."
+      }
+    }
+  ],
+  "se": [
+    {
+      "slug": "kottbullar",
+      "plated": true,
+      "name": {
+        "pt-BR": "Köttbullar",
+        "en-GB": "Köttbullar",
+        "de-DE": "Köttbullar",
+        "fr-FR": "Köttbullar"
+      },
+      "note": {
+        "pt-BR": "Almôndegas pequenas com molho cremoso, purê e geleia de frutas vermelhas.",
+        "en-GB": "Small meatballs in creamy sauce, served with mash and lingonberry jam.",
+        "de-DE": "Köttbullar sind kleine schwedische Fleischbällchen in cremiger Sauce. Dazu gibt es Kartoffelpüree und Marmelade aus Preiselbeeren.",
+        "fr-FR": "De petites boulettes de viande dans une sauce crémeuse, avec purée et confiture d'airelles."
+      }
+    },
+    {
+      "slug": "kanelbulle",
+      "plated": false,
+      "name": {
+        "pt-BR": "Kanelbulle",
+        "en-GB": "Kanelbulle",
+        "de-DE": "Kanelbulle",
+        "fr-FR": "Kanelbulle"
+      },
+      "note": {
+        "pt-BR": "Pão doce em espiral com canela e açúcar, coberto com açúcar cristal.",
+        "en-GB": "A sweet spiral bun with cinnamon and sugar, topped with pearl sugar.",
+        "de-DE": "Eine Kanelbulle ist ein süßes Hefegebäck mit Zimt und Zuckerperlen oben.",
+        "fr-FR": "Une brioche en spirale à la cannelle, couverte de petits grains de sucre."
+      }
+    }
+  ],
+  "mk": [
+    {
+      "slug": "pastrmajlija",
+      "plated": true,
+      "name": {
+        "pt-BR": "Pastrmajlija",
+        "en-GB": "Pastrmajlija",
+        "de-DE": "Pastrmajlija",
+        "fr-FR": "Pastrmajlija"
+      },
+      "note": {
+        "pt-BR": "Pão achatado assado com carne de porco em pedaços e pimentão. Corta-se em fatias, como uma pizza.",
+        "en-GB": "A flat bread baked with pieces of pork and pepper. It is cut into slices like a pizza.",
+        "de-DE": "Ein Fladenbrot, mit Fleischstücken und Paprika gebacken. Es wird wie eine Pizza in Stücke geschnitten.",
+        "fr-FR": "Un pain plat cuit avec des morceaux de porc et du poivron. On le coupe en parts, comme une pizza."
+      }
+    },
+    {
+      "slug": "shopska-salata",
+      "plated": true,
+      "name": {
+        "pt-BR": "Shopska salata",
+        "en-GB": "Shopska salata",
+        "de-DE": "Shopska salata",
+        "fr-FR": "Shopska salata"
+      },
+      "note": {
+        "pt-BR": "Salada de tomate, pepino e cebola, coberta com muito queijo ralado. Serve-se fresca, como entrada.",
+        "en-GB": "A salad of tomato, cucumber and onion, covered with grated cheese. It is served cold as a starter.",
+        "de-DE": "Ein Salat aus Tomate, Gurke und Zwiebel, mit geriebenem Käse. Er wird kalt als Vorspeise serviert.",
+        "fr-FR": "Une salade de tomate, de concombre et d'oignon, couverte de fromage râpé. On la sert fraîche en entrée."
+      }
+    }
+  ]
+}

@@ -1,98 +1,542 @@
 {
   "ar": {
-    "asado": ["File:Parrillada argentina.jpg"],
-    "empanadas": ["File:Fried Argentine beef empanadas served on a tray.jpg"],
-    "alfajor": ["File:Alfajores argentinos - 2025.jpg"]
+    "asado": [
+      "File:Parrillada argentina.jpg"
+    ],
+    "empanadas": [
+      "File:Fried Argentine beef empanadas served on a tray.jpg"
+    ],
+    "alfajor": [
+      "File:Alfajores argentinos - 2025.jpg"
+    ]
   },
   "bo": {
-    "pique-a-lo-macho": ["File:Disfruta un buen Pique Macho.jpg"],
-    "saltenas": ["File:Salteñas platillo boliviano.jpg"],
-    "silpancho": ["File:Silpancho un plato con historia, tradición y sabor. 02.jpg"]
+    "pique-a-lo-macho": [
+      "File:Disfruta un buen Pique Macho.jpg"
+    ],
+    "saltenas": [
+      "File:Salteñas platillo boliviano.jpg"
+    ],
+    "silpancho": [
+      "File:Silpancho un plato con historia, tradición y sabor. 02.jpg"
+    ]
   },
   "cl": {
-    "cazuela": ["File:Cazuela de vacuno.jpg"],
-    "empanada-de-pino": ["File:Empanadas con pebre.jpg"],
-    "pastel-de-choclo": ["File:El pastel de choclo.jpg"]
+    "cazuela": [
+      "File:Cazuela de vacuno.jpg"
+    ],
+    "empanada-de-pino": [
+      "File:Empanadas con pebre.jpg"
+    ],
+    "pastel-de-choclo": [
+      "File:El pastel de choclo.jpg"
+    ]
   },
   "co": {
-    "ajiaco": ["File:Ajiaco santafereño 04.jpg"],
-    "arepas": ["File:Arepa de Chócolo.jpg"],
-    "bandeja-paisa": ["File:Bandeja paisa, plato Colombiano.jpg"]
+    "ajiaco": [
+      "File:Ajiaco santafereño 04.jpg"
+    ],
+    "arepas": [
+      "File:Arepa de Chócolo.jpg"
+    ],
+    "bandeja-paisa": [
+      "File:Bandeja paisa, plato Colombiano.jpg"
+    ]
   },
   "ec": {
-    "ceviche": ["File:Ceviche de Chocho.jpg"],
+    "ceviche": [
+      "File:Ceviche de Chocho.jpg"
+    ],
     "encebollado": [
       "File:Semifinal del Campeonato del Encebollado en Esmeraldas 2015 (18062294436).jpg"
     ],
-    "llapingachos": ["File:Llapingachos. (40491622163).jpg"]
+    "llapingachos": [
+      "File:Llapingachos. (40491622163).jpg"
+    ]
   },
   "pe": {
-    "aji-de-gallina": ["File:Ají de gallina.jpg"],
-    "ceviche": ["File:Ceviche en Desaguadero, lado peruano.jpg"],
-    "lomo-saltado": ["File:Lomo Salteado.jpg"]
+    "aji-de-gallina": [
+      "File:Ají de gallina.jpg"
+    ],
+    "ceviche": [
+      "File:Ceviche en Desaguadero, lado peruano.jpg"
+    ],
+    "lomo-saltado": [
+      "File:Lomo Salteado.jpg"
+    ]
   },
   "uy": {
-    "asado": ["File:Small Family Asado.jpg"],
-    "chivito": ["File:Chivito Canadiense.jpg"],
-    "torta-frita": ["File:Torta frita argentina - Plato individual.jpg"]
+    "asado": [
+      "File:Small Family Asado.jpg"
+    ],
+    "chivito": [
+      "File:Chivito Canadiense.jpg"
+    ],
+    "torta-frita": [
+      "File:Torta frita argentina - Plato individual.jpg"
+    ]
   },
   "ve": {
-    "arepa": ["File:Arepas venezolanas.jpg"],
-    "hallacas": ["File:Hallaca, Venezuelan Christmas food.jpg"],
-    "pabellon-criollo": ["File:Plato Tipico Nacional PABELLON CRIOLLO.JPG"]
+    "arepa": [
+      "File:Arepas venezolanas.jpg"
+    ],
+    "hallacas": [
+      "File:Hallaca, Venezuelan Christmas food.jpg"
+    ],
+    "pabellon-criollo": [
+      "File:Plato Tipico Nacional PABELLON CRIOLLO.JPG"
+    ]
   },
   "py": {
     "sopa-paraguaya": [
       "File:Sopa paraguaya tradicional preparada para una venta benéfica de Bomberos en Capioví, Misiones, Argentina.jpg"
     ],
-    "chipa": ["File:Chipa paraguaya en el Circuito Comercial de Encarnación (Paraguay).jpg"]
+    "chipa": [
+      "File:Chipa paraguaya en el Circuito Comercial de Encarnación (Paraguay).jpg"
+    ]
   },
   "bz": {
-    "rice-and-beans": ["File:Rice and Beans, Stew Chicken and Potato Salad - Belize.jpg"],
-    "panades": ["File:Belize fish panades.jpg"],
-    "fry-jacks": ["File:Fry JackUploaded on August 4, 2007 by Jimmcclarty.jpg"]
+    "rice-and-beans": [
+      "File:Rice and Beans, Stew Chicken and Potato Salad - Belize.jpg"
+    ],
+    "panades": [
+      "File:Belize fish panades.jpg"
+    ],
+    "fry-jacks": [
+      "File:Fry JackUploaded on August 4, 2007 by Jimmcclarty.jpg"
+    ]
   },
   "cr": {
-    "gallo-pinto": ["File:Gallo pinto-IMG 0672.JPG"],
-    "casado": ["File:Vegetarian casado at Restaurante La Amistad, Alajuela.jpg"],
-    "chifrijo": ["File:Chifrijo.jpg"]
+    "gallo-pinto": [
+      "File:Gallo pinto-IMG 0672.JPG"
+    ],
+    "casado": [
+      "File:Vegetarian casado at Restaurante La Amistad, Alajuela.jpg"
+    ],
+    "chifrijo": [
+      "File:Chifrijo.jpg"
+    ]
   },
   "sv": {
-    "pupusas": ["File:Pupusas con curtido y salsa El Salvador.JPG"],
-    "yuca-frita": ["File:Yuca frita.jpg"]
+    "pupusas": [
+      "File:Pupusas con curtido y salsa El Salvador.JPG"
+    ],
+    "yuca-frita": [
+      "File:Yuca frita.jpg"
+    ]
   },
   "gt": {
-    "kakik": ["File:2010.05.13.141849 Kac-iq Fonda Calle Real Antigua Guatemala.jpg"],
-    "tamales": ["File:Tamal guatemalteco.JPG"]
+    "kakik": [
+      "File:2010.05.13.141849 Kac-iq Fonda Calle Real Antigua Guatemala.jpg"
+    ],
+    "tamales": [
+      "File:Tamal guatemalteco.JPG"
+    ]
   },
   "hn": {
     "baleadas": [
       "File:Food 宏都拉斯豆泥起司餅, Super Baleada, 拉丁美洲小吃, Fiesta Cafeteria, 台北 (15803858497).jpg"
     ],
-    "tajadas": ["File:Chuleta con tajadas a la Hondureña.jpg"]
+    "tajadas": [
+      "File:Chuleta con tajadas a la Hondureña.jpg"
+    ]
   },
   "ni": {
-    "nacatamal": ["File:Nacatamal y patacones con frijoles molidos.jpg"],
-    "vigoron": ["File:VIGORON.JPG"]
+    "nacatamal": [
+      "File:Nacatamal y patacones con frijoles molidos.jpg"
+    ],
+    "vigoron": [
+      "File:VIGORON.JPG"
+    ]
   },
   "pa": {
-    "patacones": ["File:Patacones de Panamá.jpg"],
-    "tortilla": ["File:Tortilla panameña.jpg"]
+    "patacones": [
+      "File:Patacones de Panamá.jpg"
+    ],
+    "tortilla": [
+      "File:Tortilla panameña.jpg"
+    ]
   },
   "ca": {
-    "poutine": ["File:2016-10 Montreal - poutine 33.jpg"],
-    "butter-tarts": ["File:Butter tarts on cutting board(8293490785).jpg"]
+    "poutine": [
+      "File:2016-10 Montreal - poutine 33.jpg"
+    ],
+    "butter-tarts": [
+      "File:Butter tarts on cutting board(8293490785).jpg"
+    ]
   },
   "mx": {
-    "tacos": ["File:001 Tacos de carnitas, carne asada y al pastor.jpg"],
-    "chiles-en-nogada": ["File:Chiles en Nogada estilo Orizaba 01.jpg"],
-    "mole-poblano": ["File:Mole poblano de fiesta.jpg"]
+    "tacos": [
+      "File:001 Tacos de carnitas, carne asada y al pastor.jpg"
+    ],
+    "chiles-en-nogada": [
+      "File:Chiles en Nogada estilo Orizaba 01.jpg"
+    ],
+    "mole-poblano": [
+      "File:Mole poblano de fiesta.jpg"
+    ]
   },
   "us": {
-    "hamburger": ["File:Cheeseburger.jpg"],
+    "hamburger": [
+      "File:Cheeseburger.jpg"
+    ],
     "bbq-ribs": [
       "File:Plate of brisket, BBQ ribs, pulled pork, South Texas beans and pickled jalapeños from the Pinkerton's BBQ San Antonio location.jpg"
     ],
-    "apple-pie": ["File:Apple pie - plate and cutlery.jpg"]
+    "apple-pie": [
+      "File:Apple pie - plate and cutlery.jpg"
+    ]
+  },
+  "ad": {
+    "escudella": [
+      "File:Escudella catalana plato de cuchara con carne, verduras y pasta.jpg"
+    ],
+    "canelons": [
+      "File:\"Canelons de rostit\", gastronomía de la comarca Conca de Barberà.jpg"
+    ]
+  },
+  "al": {
+    "byrek": [
+      "File:Byrek me mishh.jpg"
+    ],
+    "tave-kosi": [
+      "File:Tavë kosi.jpg"
+    ]
+  },
+  "bg": {
+    "shopska-salad": [
+      "File:Shopska salad bg.JPG"
+    ],
+    "tarator": [
+      "File:Bulgarian Tarator.jpg"
+    ]
+  },
+  "cy": {
+    "halloumi": [
+      "File:Grilled Halloumi.jpg"
+    ]
+  },
+  "cz": {
+    "gulas": [
+      "File:Guláš s knedlíky.jpg"
+    ],
+    "vepro-knedlo-zelo": [
+      "File:Vepro knedlo zelo 20250304 150354.jpg"
+    ]
+  },
+  "es": {
+    "paella": [
+      "File:Paella de fruit de mer.jpg"
+    ],
+    "tortilla-de-patatas": [
+      "File:Tortilla española, Mazatlán, 19 de abril de 2023 02.jpg"
+    ],
+    "churros": [
+      "File:Churros de lazo.jpg"
+    ]
+  },
+  "fr": {
+    "quiche-lorraine": [
+      "File:Quiche lorraine Salat Metz.jpg"
+    ],
+    "ratatouille": [
+      "File:Ratatouille-Dish.jpg"
+    ]
+  },
+  "gb": {
+    "fish-and-chips": [
+      "File:Fish and chips at restaurant Jyvänen.jpg"
+    ],
+    "scone": [
+      "File:Scones cream jam.jpg"
+    ]
+  },
+  "gr": {
+    "moussaka": [
+      "File:Eggplant Potato Moussaka (43128264982).jpg"
+    ],
+    "souvlaki": [
+      "File:20240429 Souvlaki Restaurant Achilles anagoria.jpg"
+    ],
+    "greek-salad": [
+      "File:-2019-06-05 Tomato, black olive and feta Greek salad.JPG"
+    ]
+  },
+  "hu": {
+    "goulash": [
+      "File:Veal goulash, Steckenroth.jpg"
+    ],
+    "kurtoskalacs": [
+      "File:Kürtőskalács with chocolate.jpg"
+    ]
+  },
+  "ie": {
+    "irish-stew": [
+      "File:Irish Stew (10320713316).jpg"
+    ],
+    "soda-bread": [
+      "File:Irish soda bread (25292114472).jpg"
+    ],
+    "colcannon": [
+      "File:Colcannon (4438873634) (2).jpg"
+    ]
+  },
+  "it": {
+    "pizza-margherita": [
+      "File:Pizza Margherita (14565452088).jpg"
+    ],
+    "lasagne": [
+      "File:Lasagne - stonesoup.jpg"
+    ],
+    "gelato": [
+      "File:Amorino Gelato Flowers and Macaroons.jpg"
+    ]
+  },
+  "li": {
+    "kasknopfle": [
+      "File:Berggasthof Haldenhof - Käsknöpfle (3).jpg"
+    ],
+    "ribel": [
+      "File:Ribel s5.JPG"
+    ]
+  },
+  "lt": {
+    "cepelinai": [
+      "File:Cepelinai Sauce.JPG"
+    ],
+    "saltibarsciai": [
+      "File:Šaltibarščiai, Pirmas blynas, Vilnius, June 2026.jpg"
+    ]
+  },
+  "lv": {
+    "sklandrausis": [
+      "File:Sklandrausis 2.jpg"
+    ]
+  },
+  "mt": {
+    "pastizzi": [
+      "File:Welcome to Pastizzi Paradise. Traditional maltese pastry.jpg"
+    ],
+    "stuffat-tal-fenek": [
+      "File:Stuffat tal-fenek (Las Siete Orillas project).jpg"
+    ]
+  },
+  "pl": {
+    "pierogi": [
+      "File:Pierogi ruskie ze skwarkami - 20240127.jpg"
+    ],
+    "bigos": [
+      "File:Bigos - 2025.02.15.jpg"
+    ],
+    "kotlet-schabowy": [
+      "File:Kotlet schabowy z ziemniakami i kiszonymi ogórkami - 2025.01.02.jpg"
+    ]
+  },
+  "pt": {
+    "pastel-de-nata": [
+      "File:Pastéis de nata (Dec.2022) 02.jpg"
+    ],
+    "bacalhau-a-bras": [
+      "File:One of many orders of Molly's favorite Bacalhau à Brás (32906838837).jpg"
+    ]
+  },
+  "ro": {
+    "sarmale": [
+      "File:Sarmale Romania.jpg"
+    ],
+    "mamaliga": [
+      "File:Mamaliga bucatarie moldoveneasca.jpg"
+    ],
+    "papanasi": [
+      "File:Papanași.jpg"
+    ]
+  },
+  "ru": {
+    "pelmeni": [
+      "File:Pelmeni in Russia.jpg"
+    ],
+    "syrniki": [
+      "File:RusSyrnikiKissel.JPG"
+    ]
+  },
+  "si": {
+    "potica": [
+      "File:Potica na Bledu.jpg"
+    ],
+    "kranjska-klobasa": [
+      "File:Kranjska klobasa.jpg"
+    ]
+  },
+  "sk": {
+    "halusky": [
+      "File:BryndzoveHaluskySeSlaninou.JPG"
+    ],
+    "kapustnica": [
+      "File:Kapustnica (Sauerkraut soup).jpg"
+    ]
+  },
+  "sm": {
+    "piadina": [
+      "File:Piadina prosciutto e Asiago DOP.jpg"
+    ]
+  },
+  "ua": {
+    "borscht": [
+      "File:Borscht at Dylan Marmoripiha.jpg"
+    ],
+    "varenyky": [
+      "File:Varenyky with Potatoes - 2026 -01.jpg"
+    ],
+    "chicken-kyiv": [
+      "File:Chicken Kiev 5.jpg"
+    ]
+  },
+  "xk": {
+    "flija": [
+      "File:Flija..JPG"
+    ],
+    "pite": [
+      "File:Pite me djath, shoqëruar me kos.jpg"
+    ]
+  },
+  "at": {
+    "wiener-schnitzel": [
+      "File:2022-12-29 Wiener Schnitzel im Hotel Kaiserin Elisabeth.jpg"
+    ],
+    "sachertorte": [
+      "File:Sachertorte 2012.jpg"
+    ],
+    "kaiserschmarrn": [
+      "File:2021-08-10-Kaiserschmarrn-1467.jpg"
+    ]
+  },
+  "ba": {
+    "cevapi": [
+      "File:Cevapi in Bosnia.jpg"
+    ],
+    "sarma": [
+      "File:Sarma in Skopje, 2026.jpg"
+    ]
+  },
+  "be": {
+    "moules-frites": [
+      "File:Moules-frites Aix-en-Provence 2017.jpg"
+    ],
+    "gaufre": [
+      "File:FIG 2016-Gaufres belges (2).jpg"
+    ],
+    "carbonnade": [
+      "File:Jielbeaumadier carbonade flamande 2010.jpg"
+    ]
+  },
+  "ch": {
+    "fondue": [
+      "File:Vive la Fondue.jpg"
+    ],
+    "rosti": [
+      "File:Rösti auf blauem Teller.jpg"
+    ]
+  },
+  "de": {
+    "bratwurst": [
+      "File:Wildbratwürste Blecksteinhaus.jpg"
+    ],
+    "brezel": [
+      "File:Brezel l Bäckerei-Raisch.jpg"
+    ],
+    "schwarzwalder-kirschtorte": [
+      "File:Eine Schwarzwälder Kirschtorte.jpg"
+    ]
+  },
+  "dk": {
+    "smorrebrod": [
+      "File:Smørrebrød in Copenhagen 01.jpg"
+    ],
+    "frikadeller": [
+      "File:Frikadeller med kartofler, brun sovs og salat (8927180853).jpg"
+    ],
+    "wienerbrod": [
+      "File:Danish pastry on a plate.jpg"
+    ]
+  },
+  "fi": {
+    "karjalanpiirakka": [
+      "File:Karjalanpiirakka (Karelian pies).jpg"
+    ],
+    "lohikeitto": [
+      "File:Lohikeitto dish.jpg"
+    ],
+    "korvapuusti": [
+      "File:Korvapuusti at home.jpg"
+    ]
+  },
+  "hr": {
+    "sarma": [
+      "File:Sarma in Skopje, 2026.jpg"
+    ],
+    "pasticada": [
+      "File:Pašticada - Dalmatinska pašticada.jpg"
+    ]
+  },
+  "is": {
+    "plokkfiskur": [
+      "File:Plokkfiskur.jpg"
+    ]
+  },
+  "lu": {
+    "judd-mat-gaardebounen": [
+      "File:Judd mat Gaardebounen.jpg"
+    ],
+    "bouneschlupp": [
+      "File:Bouneschlupp16.jpg"
+    ]
+  },
+  "me": {
+    "kacamak": [
+      "File:Kaçamak i shpisë.jpg"
+    ],
+    "crni-rizot": [
+      "File:Black Risotto.jpg"
+    ]
+  },
+  "nl": {
+    "stroopwafel": [
+      "File:2025-10-09 stroopwafel.jpg"
+    ],
+    "poffertjes": [
+      "File:Poffertjes-Melkhuis (cropped).jpg"
+    ],
+    "bitterballen": [
+      "File:Bitterballen with Dijon mustard - Taproom ‘t Blauwe Theehuis 2024-11-26.jpg"
+    ]
+  },
+  "no": {
+    "krumkake": [
+      "File:Krumkaker.JPG"
+    ]
+  },
+  "rs": {
+    "pljeskavica": [
+      "File:Pljeskavica at Znak Pitanja.jpg"
+    ],
+    "sarma": [
+      "File:Postna sarma (vegetarian sarma, Cuisine of Serbia).jpg"
+    ]
+  },
+  "se": {
+    "kottbullar": [
+      "File:Köttbullar argentino.jpg"
+    ],
+    "kanelbulle": [
+      "File:Kanelbulle in Stockholm.jpg"
+    ]
+  },
+  "mk": {
+    "pastrmajlija": [
+      "File:PastrmajlijaAngela.JPG"
+    ],
+    "shopska-salata": [
+      "File:Shopska Salad at Happy.jpg"
+    ]
   }
 }
