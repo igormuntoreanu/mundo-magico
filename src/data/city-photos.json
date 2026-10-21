@@ -159,13 +159,30 @@
     ]
   },
   "mx": {
-    "Cidade do México": [],
+    "Cidade do México": [
+      {
+        "src": "/cities/mx/cidade-do-mexico-0.jpg",
+        "caption": "Cidade do México — Palacio de Bellas Artes and the historic centre",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APalacio_de_Bellas_Artes%2C_Ciudad_de_M%C3%A9xico%2C_M%C3%A9xico%2C_2015-07-18%2C_DD_10.JPG",
+        "kind": "photo"
+      }
+    ],
     "Guadalajara": [
       {
         "src": "/cities/mx/guadalajara-0.jpg",
         "caption": "Guadalajara — Panorama esférico de Guadalajara desde el Hospicio Cabañas",
         "credit": "Foto: ProtoplasmaKid. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3APanorama_esf%C3%A9rico_de_Guadalajara_desde_el_Hospicio_Caba%C3%B1as.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Cancún": [
+      {
+        "src": "/cities/mx/cancun-0.jpg",
+        "caption": "Cancún — Cancun beach aerial - Luftbild",
+        "credit": "Foto: dronepicr. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACancun_beach_aerial_-_Luftbild_(19853282239).jpg",
         "kind": "photo"
       }
     ]
@@ -281,7 +298,15 @@
         "kind": "photo"
       }
     ],
-    "Lago de Yojoa": [],
+    "Lago de Yojoa": [
+      {
+        "src": "/cities/hn/lago-de-yojoa-0.jpg",
+        "caption": "Lago de Yojoa — Sunset over the lake",
+        "credit": "Foto: Suiseisekiryu. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AYojoa_Sunset.jpg",
+        "kind": "photo"
+      }
+    ],
     "Copán": [
       {
         "src": "/cities/hn/copan-0.jpg",
@@ -845,6 +870,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ASantiago_de_Chile_desde_el_Cerro_San_Crist%C3%B3bal.jpg",
         "kind": "photo"
       }
+    ],
+    "San Pedro de Atacama": [
+      {
+        "src": "/cities/cl/san-pedro-de-atacama-0.jpg",
+        "caption": "San Pedro de Atacama — Duna Mayor, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01,...",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADuna_Mayor%2C_Valle_de_la_Luna%2C_San_Pedro_de_Atacama%2C_Chile%2C_2016-02-01%2C_DD_173-175_HDR.JPG",
+        "kind": "photo"
+      }
     ]
   },
   "py": {
@@ -854,6 +888,15 @@
         "caption": "Ciudad del Este — The ´Friendship Bridge´ between Paraguay and Brazil",
         "credit": "Foto: Liam King. Wikimedia Commons, CC BY 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AThe_%C2%B4Friendship_Bridge%C2%B4_between_Paraguay_and_Brazil.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Itaipú": [
+      {
+        "src": "/cities/py/itaipu-0.jpg",
+        "caption": "Itaipú — Itaipu Aerea",
+        "credit": "Foto: International Hydropower Association (IHA). Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AItaipu_Aerea.jpg",
         "kind": "photo"
       }
     ]
@@ -1214,7 +1257,15 @@
     ]
   },
   "es": {
-    "Madrid": [],
+    "Madrid": [
+      {
+        "src": "/cities/es/madrid-0.jpg",
+        "caption": "Madrid — Plaza Mayor",
+        "credit": "Foto: Matt Joseph. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A2026-09-03_-_Plaza_Mayor_in_Madrid_Spain.jpg",
+        "kind": "photo"
+      }
+    ],
     "Barcelona": [
       {
         "src": "/cities/es/barcelona-0.jpg",
@@ -1434,6 +1485,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ACappadocia_Aerial_View_Landscape.jpg",
         "kind": "photo"
       }
+    ],
+    "Antália": [
+      {
+        "src": "/cities/tr/antalia-0.jpg",
+        "caption": "Antália — Antalya kaleiçi 2",
+        "credit": "Foto: REHBER0770. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAntalya_kalei%C3%A7i_2.jpg",
+        "kind": "photo"
+      }
     ]
   },
   "nl": {
@@ -1493,6 +1553,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_Westlandseweg_Delft_snow.jpg",
         "kind": "photo"
       }
+    ],
+    "Giethoorn": [
+      {
+        "src": "/cities/nl/giethoorn-0.jpg",
+        "caption": "Giethoorn — Giethoorn Netherlands Channels-and-houses-of-Giethoorn-01",
+        "credit": "Foto: CEphoto, Uwe Aranas. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AGiethoorn_Netherlands_Channels-and-houses-of-Giethoorn-01.jpg",
+        "kind": "photo"
+      }
     ]
   },
   "se": {
@@ -1545,6 +1614,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ADublin_-_aerial_-_2025-07-14_09.jpg",
         "kind": "photo"
       }
+    ],
+    "Cork": [
+      {
+        "src": "/cities/ie/cork-0.jpg",
+        "caption": "Cork — Aerial photograph, Cork Harbour",
+        "credit": "Foto: acediscovery. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_photograph%2C_Cork_Harbour.jpg",
+        "kind": "photo"
+      }
     ]
   },
   "pl": {
@@ -1580,7 +1658,15 @@
         "kind": "photo"
       }
     ],
-    "Poznań": [],
+    "Poznań": [
+      {
+        "src": "/cities/pl/poznan-0.jpg",
+        "caption": "Poznań — Old Market Square and Town Hall from above",
+        "credit": "Foto: Lesiex. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ARatusz_w_Poznaniu_o_poranku_z_lotu_ptaka%2C_23.10.2025.jpg",
+        "kind": "photo"
+      }
+    ],
     "Varsóvia": [
       {
         "src": "/cities/pl/varsovia-0.jpg",
@@ -1646,6 +1732,15 @@
         "caption": "Tromsø — Aerial view over Tromsøya island in march",
         "credit": "Foto: Pierre Tribhou. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_over_Troms%C3%B8ya_island_in_march_2023.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Ålesund": [
+      {
+        "src": "/cities/no/alesund-0.jpg",
+        "caption": "Ålesund — Ålesund DSC 0397",
+        "credit": "Foto: GangerRolf. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A%C3%85lesund_DSC_0397.jpg",
         "kind": "photo"
       }
     ]
@@ -1732,6 +1827,15 @@
         "caption": "Genebra — Geneva from above",
         "credit": "Foto: Alessandra Volterra. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AGeneva_from_above.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Lucerna": [
+      {
+        "src": "/cities/ch/lucerna-0.jpg",
+        "caption": "Lucerna — Aerial view of Luzern from lake",
+        "credit": "Foto: Beat Ruest. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Luzern_from_lake_(1).jpg",
         "kind": "photo"
       }
     ]
@@ -1849,6 +1953,24 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AKutn%C3%A1_Hora_(001).jpg",
         "kind": "photo"
       }
+    ],
+    "Karlovy Vary": [
+      {
+        "src": "/cities/cz/karlovy-vary-0.jpg",
+        "caption": "Karlovy Vary — Karlovy Vary Panorama",
+        "credit": "Foto: Nikita Sazonenko. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKarlovy_Vary_Panorama_(135669935).jpeg",
+        "kind": "photo"
+      }
+    ],
+    "Český Krumlov": [
+      {
+        "src": "/cities/cz/cesky-krumlov-0.jpg",
+        "caption": "Český Krumlov — Český Krumlov - panorama",
+        "credit": "Foto: Pudelek (Marcin Szala). Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A%C4%8Cesk%C3%BD_Krumlov_(Krummau)_-_panorama.JPG",
+        "kind": "photo"
+      }
     ]
   },
   "hu": {
@@ -1858,6 +1980,15 @@
         "caption": "Budapeste — Aerial view of The Széchenyi Chain Bridge across the River Danube between Buda and Pest.",
         "credit": "Foto: Mstyslav Chernov. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_The_Sz%C3%A9chenyi_Chain_Bridge_across_the_River_Danube_between_Buda_and_Pest._Budapest%2C_Hungary%2C_Eastern_Europe%2C_21_October_2012.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Lago Balaton": [
+      {
+        "src": "/cities/hu/lago-balaton-0.jpg",
+        "caption": "Lago Balaton — Balaton Lake -",
+        "credit": "Foto: sky_hlv. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABalaton_Lake_(Hungary)_-_50527500283.jpg",
         "kind": "photo"
       }
     ]
@@ -1885,6 +2016,15 @@
         "caption": "Sibiu — View from the Council Tower toward the Small Square and Bridge of Lies, Sibiu",
         "credit": "Foto: Paul Colin Hennig firstdorsal.eu. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AView_from_the_Council_Tower_toward_the_Small_Square_and_Bridge_of_Lies%2C_Sibiu_(2023).jpg",
+        "kind": "photo"
+      }
+    ],
+    "Sighișoara": [
+      {
+        "src": "/cities/ro/sighisoara-0.jpg",
+        "caption": "Sighișoara — Sighisoara city view",
+        "credit": "Foto: AmberSelina. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASighisoara_city_view.jpg",
         "kind": "photo"
       }
     ]
@@ -1930,6 +2070,15 @@
         "caption": "Lviv — Lwów - Widok z wieży ratuszowej 01",
         "credit": "Foto: Lestat (Jan Mehlich). Wikimedia Commons, CC BY-SA 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ALw%C3%B3w_-_Widok_z_wie%C5%BCy_ratuszowej_01.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Odesa": [
+      {
+        "src": "/cities/ua/odesa-0.jpg",
+        "caption": "Odesa — Odesa Opera and Ballet Theatre",
+        "credit": "Foto: Posterrr. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AOdesa_Opera_and_Ballet_Theatre_(Panorama-4).jpg",
         "kind": "photo"
       }
     ]
@@ -2087,10 +2236,35 @@
         "kind": "photo"
       }
     ],
-    "Tirana": []
+    "Tirana": [
+      {
+        "src": "/cities/al/tirana-0.jpg",
+        "caption": "Tirana — Skanderbeg Square",
+        "credit": "Foto: Chris Walts. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASkanderbeg_square_tirana_2016.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Shkodër": [
+      {
+        "src": "/cities/al/shkoder-0.jpg",
+        "caption": "Shkodër — Lake Shkodër and the City of Shkoder 2",
+        "credit": "Foto: DGA05. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALake_Shkod%C3%ABr_and_the_City_of_Shkoder_2.jpg",
+        "kind": "photo"
+      }
+    ]
   },
   "mk": {
-    "Ohrid": [],
+    "Ohrid": [
+      {
+        "src": "/cities/mk/ohrid-0.jpg",
+        "caption": "Ohrid — Church of St John at Kaneo",
+        "credit": "Foto: Tahir1434. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASt._John_Kaneo_Church_2022.jpg",
+        "kind": "photo"
+      }
+    ],
     "Bitola": [
       {
         "src": "/cities/mk/bitola-0.jpg",
@@ -2117,7 +2291,26 @@
       }
     ]
   },
-  "ba": {},
+  "ba": {
+    "Blagaj": [
+      {
+        "src": "/cities/ba/blagaj-0.jpg",
+        "caption": "Blagaj — Blagaj – Vrelo Bune 3",
+        "credit": "Foto: Julian Nyča. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABlagaj_%E2%80%93_Vrelo_Bune_3.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Mostar": [
+      {
+        "src": "/cities/ba/mostar-0.jpg",
+        "caption": "Mostar — Mostar Old Town Panorama",
+        "credit": "Foto: Ramirez HUN. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMostar_Old_Town_Panorama.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "cy": {},
   "ge": {
     "Tbilisi": [
@@ -2133,6 +2326,15 @@
         "caption": "Tbilisi — Tbilisi, Górna stacja kolejki linowej i twierdza Narikala",
         "credit": "Foto: Marcin Konsek. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_G%C3%B3rna_stacja_kolejki_linowej_i_twierdza_Narikala.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Mestia": [
+      {
+        "src": "/cities/ge/mestia-0.jpg",
+        "caption": "Mestia — Welcome to Mestia მესტიაში",
+        "credit": "Foto: Simone from Jeddah, Saudi Arabia. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AWelcome_to_Mestia_%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%90%E1%83%A8%E1%83%98.jpg",
         "kind": "photo"
       }
     ]
@@ -2151,6 +2353,24 @@
         "caption": "Erevã — Aerial panorama of Yerevan Downtown during Air Balloon Festival",
         "credit": "Foto: Aleksey Chalabyan a.k.a Xelgen. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_panorama_of_Yerevan_Downtown_during_Air_Balloon_Festival_2023.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Dilijan": [
+      {
+        "src": "/cities/am/dilijan-0.jpg",
+        "caption": "Dilijan — Dilijan Autumn Forest, October 2024 M4 highway",
+        "credit": "Foto: Xelgen. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADilijan_Autumn_Forest%2C_October_2024_M4_highway.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Sevan": [
+      {
+        "src": "/cities/am/sevan-0.jpg",
+        "caption": "Sevan — Sevanavank Monastery at the coast of Lake Sevan. Armenia. DJI 0017-8",
+        "credit": "Foto: Vahag851. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASevanavank_Monastery_at_the_coast_of_Lake_Sevan._Armenia._DJI_0017-8.jpg",
         "kind": "photo"
       }
     ]
@@ -2179,6 +2399,15 @@
         "caption": "Brest — Brest, Belarus aerial view as of January, 8th",
         "credit": "Foto: Niklem. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ABrest%2C_Belarus_aerial_view_as_of_January%2C_8th_2018.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Minsque": [
+      {
+        "src": "/cities/by/minsque-0.jpg",
+        "caption": "Minsque — Minsk, Belarus, Serebryanka",
+        "credit": "Foto: Dzmitry Rylko. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMinsk%2C_Belarus%2C_Serebryanka.jpg",
         "kind": "photo"
       }
     ]
@@ -2242,6 +2471,15 @@
         "caption": "Jūrmala — Jūrmala no dienvidiem - ogre11 - Panoramio",
         "credit": "Foto: ogre11. Wikimedia Commons, CC BY 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AJ%C5%ABrmala_no_dienvidiem_-_ogre11_-_Panoramio.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Cēsis": [
+      {
+        "src": "/cities/lv/cesis-0.jpg",
+        "caption": "Cēsis — Cesis Ordensburg Cesis Hof 2",
+        "credit": "Foto: Zairon. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACesis_Ordensburg_Cesis_Hof_2.JPG",
         "kind": "photo"
       }
     ]
@@ -2316,7 +2554,26 @@
       }
     ]
   },
-  "md": {},
+  "md": {
+    "Orhei": [
+      {
+        "src": "/cities/md/orhei-0.jpg",
+        "caption": "Orhei — Monasterio Orheiul Vechi, Orhei, Moldavia, 2023-11-02, DD 06",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMonasterio_Orheiul_Vechi%2C_Orhei%2C_Moldavia%2C_2023-11-02%2C_DD_06.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Soroca": [
+      {
+        "src": "/cities/md/soroca-0.jpg",
+        "caption": "Soroca — Сорокская крепость Cetatea Soroca Soroca Fortress",
+        "credit": "Foto: Photobank MD from Chisinau, Moldova. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_Cetatea_Soroca_Soroca_Fortress_(29802232147).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "me": {},
   "is": {
     "Reykjavík": [
@@ -2377,6 +2634,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Helsinki._2025-07-23.jpg",
         "kind": "photo"
       }
+    ],
+    "Rovaniemi": [
+      {
+        "src": "/cities/fi/rovaniemi-0.jpg",
+        "caption": "Rovaniemi — Rovaniemi rescanned",
+        "credit": "Foto: MattiKSinisalo at Finnish Wikipedia. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ARovaniemi_06101999_rescanned.jpg",
+        "kind": "photo"
+      }
     ]
   },
   "bg": {
@@ -2402,6 +2668,15 @@
         "caption": "Veliko Tarnovo — Tsarevets Fortress, Veliko Tarnovo - 3 March , rk.aerial",
         "credit": "Foto: RKold. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ATsarevets_Fortress%2C_Veliko_Tarnovo_-_3_March_2021%2C_rk.aerial.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Sófia": [
+      {
+        "src": "/cities/bg/sofia-0.jpg",
+        "caption": "Sófia — Panoramic view over central Sofia and the Vitosha Mountain 2017-10-08",
+        "credit": "Foto: Deensel. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
         "kind": "photo"
       }
     ]
@@ -2497,6 +2772,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ANovi_Sad_IMG_9195_bridge.JPG",
         "kind": "photo"
       }
+    ],
+    "Niš": [
+      {
+        "src": "/cities/rs/nis-0.jpg",
+        "caption": "Niš — Bali Bey Mosque - Niš Fortress, Niš, Serbia",
+        "credit": "Foto: MrPanyGoff. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABali_Bey_Mosque_-_Ni%C5%A1_Fortress%2C_Ni%C5%A1%2C_Serbia.jpg",
+        "kind": "photo"
+      }
     ]
   },
   "sk": {
@@ -2506,6 +2790,24 @@
         "caption": "Bratislava — Bratislava Old Town",
         "credit": "Foto: Effervescing Elephant/Chris. Wikimedia Commons, CC BY-SA 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ABratislava_Old_Town.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Košice": [
+      {
+        "src": "/cities/sk/kosice-0.jpg",
+        "caption": "Košice — Kosice - National Theatre",
+        "credit": "Foto: Ingo Mehling. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKosice_-_National_Theatre.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Montes Tatras": [
+      {
+        "src": "/cities/sk/montes-tatras-0.jpg",
+        "caption": "Montes Tatras — High Tatras 2017",
+        "credit": "Foto: Attila Geczy. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AHigh_Tatras_2017_(215897251).jpeg",
         "kind": "photo"
       }
     ]
@@ -2546,6 +2848,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Prizren%2C_Kosova.jpg",
         "kind": "photo"
       }
+    ],
+    "Gračanica": [
+      {
+        "src": "/cities/xk/gracanica-0.jpg",
+        "caption": "Gračanica — Iglesia Nova Gracanica, Trebinje, Bosnia y Herzegovina, 2014-04-14, DD 04",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AIglesia_Nova_Gracanica%2C_Trebinje%2C_Bosnia_y_Herzegovina%2C_2014-04-14%2C_DD_04.jpg",
+        "kind": "photo"
+      }
     ]
   },
   "jp": {
@@ -2557,6 +2868,24 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Osaka_Castle_and_surrounding_areas.jpg",
         "kind": "photo"
       }
+    ],
+    "Quioto": [
+      {
+        "src": "/cities/jp/quioto-0.jpg",
+        "caption": "Quioto — Togetsukyo Bridge, Arashiyama, Kyoto, Japan, aerial photograph by Don R...",
+        "credit": "Foto: Don Ramey Logan. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ATogetsukyo_Bridge%2C_Arashiyama%2C_Kyoto%2C_Japan%2C_aerial_photograph_by_Don_Ramey_Logan.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Tóquio": [
+      {
+        "src": "/cities/jp/toquio-0.jpg",
+        "caption": "Tóquio — Aerial view of tokyo skytree",
+        "credit": "Foto: Ian G Shingler. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_tokyo_skytree.jpg",
+        "kind": "photo"
+      }
     ]
   },
   "cn": {
@@ -2566,6 +2895,15 @@
         "caption": "Pequim — China Aerial view of Forbidden City",
         "credit": "Foto: Güldem Üstün from Istanbul, TURKEY. Wikimedia Commons, CC BY 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AChina_(Beijing)_Aerial_view_of_Forbidden_City_(38884882275).jpg",
+        "kind": "photo"
+      }
+    ],
+    "Xi'an": [
+      {
+        "src": "/cities/cn/xi-an-0.jpg",
+        "caption": "Xi'an — Giant Wild Goose Pagoda, Xi'an, May, 2018-1",
+        "credit": "Foto: Alexey Komarov. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AGiant_Wild_Goose_Pagoda%2C_Xi'an%2C_May%2C_2018-1.jpg",
         "kind": "photo"
       }
     ]
@@ -2599,6 +2937,24 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AValley_of_the_Nobles_(Luxor)_-_aerial_view.jpg",
         "kind": "photo"
       }
+    ],
+    "Assuão": [
+      {
+        "src": "/cities/eg/assuao-0.jpg",
+        "caption": "Assuão — Aswan Nile R36",
+        "credit": "Foto: Marc Ryckaert. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAswan_Nile_R36.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Cairo": [
+      {
+        "src": "/cities/eg/cairo-0.jpg",
+        "caption": "Cairo — Aerial view, Cairo",
+        "credit": "Foto: Matti Blume. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view%2C_Cairo_(20130330-DSC04097).jpg",
+        "kind": "photo"
+      }
     ]
   },
   "za": {
@@ -2608,6 +2964,15 @@
         "caption": "Cidade do Cabo — Aerial View of Sea Point, Cape Town South Africa",
         "credit": "Foto: Hilton1949. Wikimedia Commons, CC BY-SA 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_View_of_Sea_Point%2C_Cape_Town_South_Africa.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Durban": [
+      {
+        "src": "/cities/za/durban-0.jpg",
+        "caption": "Durban — Downtown Durban",
+        "credit": "Foto: Dennis Sylvester Hurd. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADowntown_Durban_(54333041206).jpg",
         "kind": "photo"
       }
     ]
@@ -2625,9 +2990,9 @@
     "Melbourne": [
       {
         "src": "/cities/au/melbourne-0.jpg",
-        "caption": "Melbourne — Aerial panorama of Box Hill facing west towards the Melbourne skyline",
-        "credit": "Foto: Bob Tan. Wikimedia Commons, CC BY 4.0.",
-        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_panorama_of_Box_Hill_facing_west_towards_the_Melbourne_skyline.jpg",
+        "caption": "Melbourne — Northbank and the Yarra",
+        "credit": "Foto: Dietmar Rabich. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMelbourne_(AU)%2C_Northbank_--_2019_--_1422-7.jpg",
         "kind": "photo"
       }
     ],
@@ -2650,10 +3015,57 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AHallasan_view_from_air.JPG",
         "kind": "photo"
       }
+    ],
+    "Busan": [
+      {
+        "src": "/cities/kr/busan-0.jpg",
+        "caption": "Busan — Busan Cityscape 1",
+        "credit": "Foto: Fredrik Rubensson. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABusan_Cityscape_1.jpg",
+        "kind": "photo"
+      }
     ]
   },
-  "th": {},
-  "ng": {},
+  "th": {
+    "Banguecoque": [
+      {
+        "src": "/cities/th/banguecoque-0.jpg",
+        "caption": "Banguecoque — Aerial view of The Grand Place in Bangkok Thailand by Don Ramey Logan",
+        "credit": "Foto: Don Ramey Logan. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_The_Grand_Place_in_Bangkok_Thailand_by_Don_Ramey_Logan.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Chiang Mai": [
+      {
+        "src": "/cities/th/chiang-mai-0.jpg",
+        "caption": "Chiang Mai — Chiang Mai - Wat Phra Singh - 0001",
+        "credit": "Foto: Stefan Fussan. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Wat_Phra_Singh_-_0001.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Phuket": [
+      {
+        "src": "/cities/th/phuket-0.jpg",
+        "caption": "Phuket — Phuket Aerial",
+        "credit": "Foto: Bennypc. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APhuket_Aerial.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ng": {
+    "Calabar": [
+      {
+        "src": "/cities/ng/calabar-0.jpg",
+        "caption": "Calabar — Calabar carnival 9",
+        "credit": "Foto: Otomeonoge. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACalabar_carnival_9.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "ke": {
     "Nairóbi": [
       {
@@ -2672,10 +3084,57 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ABallons_over_Maasai_Mara_landscape.jpg",
         "kind": "photo"
       }
+    ],
+    "Mombasa": [
+      {
+        "src": "/cities/ke/mombasa-0.jpg",
+        "caption": "Mombasa — Mombasa Beach Hotel from Nyali Beach, Mombasa, Kenya",
+        "credit": "Foto: CT Cooper. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMombasa_Beach_Hotel_from_Nyali_Beach%2C_Mombasa%2C_Kenya.jpg",
+        "kind": "photo"
+      }
     ]
   },
-  "ma": {},
-  "id": {},
+  "ma": {
+    "Chefchaouen": [
+      {
+        "src": "/cities/ma/chefchaouen-0.jpg",
+        "caption": "Chefchaouen — Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-v...",
+        "credit": "Foto: Badr Rachadi. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AChefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Fez": [
+      {
+        "src": "/cities/ma/fez-0.jpg",
+        "caption": "Fez — Panorama Fes el Bali Borj Sud Fez morocco - panoramio",
+        "credit": "Foto: Hiroki Ogawa. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APanorama_Fes_el_Bali_Borj_Sud_Fez_morocco_-_panoramio.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "id": {
+    "Bali (Denpasar/Ubud)": [
+      {
+        "src": "/cities/id/bali-denpasar-ubud-0.jpg",
+        "caption": "Bali (Denpasar/Ubud) — Drone view of rice plantation on bali island with path to walk around a...",
+        "credit": "Foto: Artem Beliaikin from Moscow, Russia. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADrone_view_of_rice_plantation_on_bali_island_with_path_to_walk_around_and_palms._(46229046541).jpg",
+        "kind": "photo"
+      }
+    ],
+    "Jacarta": [
+      {
+        "src": "/cities/id/jacarta-0.jpg",
+        "caption": "Jacarta — Aerial view of north jakarta",
+        "credit": "Foto: Amelia Guo. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_north_jakarta.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "vn": {
     "Baía de Hạ Long": [
       {
@@ -2687,14 +3146,120 @@
       }
     ]
   },
-  "nz": {},
-  "sa": {},
-  "ao": {},
-  "mz": {},
-  "cv": {},
+  "nz": {
+    "Auckland": [
+      {
+        "src": "/cities/nz/auckland-0.jpg",
+        "caption": "Auckland — Auckland CBD",
+        "credit": "Foto: Prosperosity. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAuckland_CBD_20260514_095940.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Queenstown": [
+      {
+        "src": "/cities/nz/queenstown-0.jpg",
+        "caption": "Queenstown — Queenstown, New Zealand",
+        "credit": "Foto: Pedro Szekely from Los Angeles, USA. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AQueenstown%2C_New_Zealand_(49184821663).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "sa": {
+    "Riade": [
+      {
+        "src": "/cities/sa/riade-0.jpg",
+        "caption": "Riade — Riyadh aerial helicam 2013",
+        "credit": "Foto: Ville Hyvönen. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ARiyadh_aerial_helicam_2013.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ao": {
+    "Luanda": [
+      {
+        "src": "/cities/ao/luanda-0.jpg",
+        "caption": "Luanda — Panorama baixa Luanda",
+        "credit": "Foto: Fabio Vanin. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APanorama_baixa_Luanda.JPG",
+        "kind": "photo"
+      }
+    ],
+    "Lubango": [
+      {
+        "src": "/cities/ao/lubango-0.jpg",
+        "caption": "Lubango — Lubango-Namibe landscape",
+        "credit": "Foto: Erik Cleves Kristensen. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALubango-Namibe_landscape.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mz": {
+    "Ilha de Moçambique": [
+      {
+        "src": "/cities/mz/ilha-de-mocambique-0.jpg",
+        "caption": "Ilha de Moçambique — Avenida Amílcar Cabral, Ilha de Moçambique",
+        "credit": "Foto: Jcornelius. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAvenida_Am%C3%ADlcar_Cabral%2C_Ilha_de_Mo%C3%A7ambique.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Maputo": [
+      {
+        "src": "/cities/mz/maputo-0.jpg",
+        "caption": "Maputo — Maputo seen from southeast - October 2006",
+        "credit": "Foto: AmigoDia. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMaputo_seen_from_southeast_-_October_2006.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cv": {
+    "Cidade Velha": [
+      {
+        "src": "/cities/cv/cidade-velha-0.jpg",
+        "caption": "Cidade Velha — Cidade Velha Pelourinho square b 2011",
+        "credit": "Foto: Cayambe. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACidade_Velha_Pelourinho_square_b_2011.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Mindelo": [
+      {
+        "src": "/cities/cv/mindelo-0.jpg",
+        "caption": "Mindelo — Panorama Hafen Mindelo Sao Vicente",
+        "credit": "Foto: Herbert wie. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APanorama_Hafen_Mindelo_Sao_Vicente.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
   "gw": {},
-  "st": {},
-  "tl": {},
+  "st": {
+    "Roca Sundy": [
+      {
+        "src": "/cities/st/roca-sundy-0.jpg",
+        "caption": "Roca Sundy — SUN - Main house of Roca Sundy, Principe, Sao Tome and Principe, 2021",
+        "credit": "Foto: Josep M. Gracia. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASUN_-_Main_house_of_Roca_Sundy%2C_Principe%2C_Sao_Tome_and_Principe%2C_2021.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "tl": {
+    "Díli": [
+      {
+        "src": "/cities/tl/dili-0.jpg",
+        "caption": "Díli — Aerial photos of the Dili, East Timor coastline",
+        "credit": "Foto: PH3 Dan Mennuto. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_photos_of_the_Dili%2C_East_Timor_coastline.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "gq": {},
   "ph": {
     "Manila": [
@@ -2714,12 +3279,59 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AEl_Nido_Town_Beach.jpg",
         "kind": "photo"
       }
+    ],
+    "Cebu": [
+      {
+        "src": "/cities/ph/cebu-0.jpg",
+        "caption": "Cebu — Cebu City",
+        "credit": "Foto: Herbertkikoy. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACebu_City_(Aerial).jpg",
+        "kind": "photo"
+      }
     ]
   },
-  "my": {},
+  "my": {
+    "Kuala Lumpur": [
+      {
+        "src": "/cities/my/kuala-lumpur-0.jpg",
+        "caption": "Kuala Lumpur — Kuala Lumpur Malaysia Petronas-Twin-Towers-01",
+        "credit": "Foto: CEphoto, Uwe Aranas. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "gh": {},
   "et": {},
-  "tz": {},
+  "tz": {
+    "Arusha / Serengeti": [
+      {
+        "src": "/cities/tz/arusha-serengeti-0.jpg",
+        "caption": "Arusha / Serengeti — Serengeti-1",
+        "credit": "Foto: David Berkowitz. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASerengeti-1.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Dar es Salaam": [
+      {
+        "src": "/cities/tz/dar-es-salaam-0.jpg",
+        "caption": "Dar es Salaam — Dar es Salaam aerial",
+        "credit": "Foto: Roland. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADar_es_Salaam_aerial.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Zanzibar (Stone Town)": [
+      {
+        "src": "/cities/tz/zanzibar-stone-town-0.jpg",
+        "caption": "Zanzibar (Stone Town) — Stone Town, Zanzibar",
+        "credit": "Foto: Paul Brockmeyer from Chicago, USA. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AStone_Town%2C_Zanzibar_(1).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "il": {
     "Jerusalém": [
       {
@@ -2745,6 +3357,15 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AIsrael-2013-Aerial_18-Masada.jpg",
         "kind": "photo"
       }
+    ],
+    "Telavive": [
+      {
+        "src": "/cities/il/telavive-0.jpg",
+        "caption": "Telavive — Tel Aviv - aerial view of Tel Aviv and Yaffo 2011 - 1303",
+        "credit": "Foto: Raimond Spekking. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ATel_Aviv_-_aerial_view_of_Tel_Aviv_and_Yaffo_2011_-_1303.JPG",
+        "kind": "photo"
+      }
     ]
   },
   "pk": {
@@ -2767,7 +3388,26 @@
       }
     ]
   },
-  "bd": {},
+  "bd": {
+    "Cox's Bazar": [
+      {
+        "src": "/cities/bd/cox-s-bazar-0.jpg",
+        "caption": "Cox's Bazar — Cox's Bazar sea beach 01",
+        "credit": "Foto: Tanweer Morshed. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACox's_Bazar_sea_beach_01.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Sundarbans": [
+      {
+        "src": "/cities/bd/sundarbans-0.jpg",
+        "caption": "Sundarbans — Aerial view of Sundarbans East Wildlife Sanctuary",
+        "credit": "Foto: Knowshin. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Sundarbans_East_Wildlife_Sanctuary.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "np": {
     "Pokhara": [
       {
@@ -2784,24 +3424,127 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AArial_view_of_Pokhara_03.jpg",
         "kind": "photo"
       }
+    ],
+    "Everest / Namche": [
+      {
+        "src": "/cities/np/everest-namche-0.jpg",
+        "caption": "Everest / Namche — Namche Bazaar from Hotel Everest View trail",
+        "credit": "Foto: Rohit Sharma. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANamche_Bazaar_from_Hotel_Everest_View_trail.jpg",
+        "kind": "photo"
+      }
     ]
   },
-  "lk": {},
+  "lk": {
+    "Colombo": [
+      {
+        "src": "/cities/lk/colombo-0.jpg",
+        "caption": "Colombo — Colombo Sonnenuntergang",
+        "credit": "Foto: Dronepicr. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AColombo_Sonnenuntergang_(175648229).jpeg",
+        "kind": "photo"
+      }
+    ],
+    "Kandy": [
+      {
+        "src": "/cities/lk/kandy-0.jpg",
+        "caption": "Kandy — The Temple of Tooth relic in Kandy Sri Lanka 2",
+        "credit": "Foto: Rashod Korala. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AThe_Temple_of_Tooth_relic_in_Kandy_Sri_Lanka_2.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "sn": {},
   "tn": {
-    "Tunes": []
+    "Tunes": [
+      {
+        "src": "/cities/tn/tunes-0.jpg",
+        "caption": "Tunes — Zitouna Mosque and the medina",
+        "credit": "Foto: Ben guedria houcine. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMosqu%C3%A9e_zitouna_tunis.jpg",
+        "kind": "photo"
+      }
+    ]
   },
-  "dz": {},
-  "cm": {},
-  "tw": {},
-  "ae": {},
+  "dz": {
+    "Constantina": [
+      {
+        "src": "/cities/dz/constantina-0.jpg",
+        "caption": "Constantina — Constantine, Pont El Kantara, Algeria",
+        "credit": "Foto: Alaa Benz. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AConstantine%2C_Pont_El_Kantara%2C_Algeria.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Argel": [
+      {
+        "src": "/cities/dz/argel-0.jpg",
+        "caption": "Argel — Bab El Oued Algiers 2008",
+        "credit": "Foto: Sandervalya. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABab_El_Oued_Algiers_2008.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cm": {
+    "Yaoundé": [
+      {
+        "src": "/cities/cm/yaounde-0.jpg",
+        "caption": "Yaoundé — Yaounde Cameroon",
+        "credit": "Foto: Kateregga1. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AYaounde_Cameroon.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "tw": {
+    "Kaohsiung": [
+      {
+        "src": "/cities/tw/kaohsiung-0.jpg",
+        "caption": "Kaohsiung — Kaohsiung cityscape 2013",
+        "credit": "Foto: DaineseWei. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKaohsiung_cityscape_2013.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Taichung / Sun Moon Lake": [
+      {
+        "src": "/cities/tw/taichung-sun-moon-lake-0.jpg",
+        "caption": "Taichung / Sun Moon Lake — Sun-Moon-Lake Taiwan Wen-Wu-Temple-01",
+        "credit": "Foto: CEphoto, Uwe Aranas. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASun-Moon-Lake_Taiwan_Wen-Wu-Temple-01.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Taipé": [
+      {
+        "src": "/cities/tw/taipe-0.jpg",
+        "caption": "Taipé — Taipei Skyline 2016",
+        "credit": "Foto: Sinchen.Lin. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ATaipei_Skyline_2016.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ae": {
+    "Abu Dhabi": [
+      {
+        "src": "/cities/ae/abu-dhabi-0.jpg",
+        "caption": "Abu Dhabi — Abu dhabi skylines 2014",
+        "credit": "Foto: Wadiia. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAbu_dhabi_skylines_2014.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "iq": {
     "Bagdade": [
       {
         "src": "/cities/iq/bagdade-0.jpg",
-        "caption": "Bagdade — Tigris River in Baghdad",
-        "credit": "Foto: Chairman of the Joint Chiefs of Staff from Washington D.C, United States. Wikimedia Commons, CC BY 2.0.",
-        "href": "https://commons.wikimedia.org/wiki/File%3ATigris_River_in_Baghdad_(2016).jpg",
+        "caption": "Bagdade — The Tigris from above",
+        "credit": "Foto: DoD photo by Navy Petty Officer 2nd Class Dominique A. Pineiro. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A160731-D-PB383-021_Tigris_River_flows_through_Baghdad%2C_July_2016.JPG",
         "kind": "photo"
       }
     ],
@@ -2815,70 +3558,470 @@
       }
     ]
   },
-  "gl": {},
-  "aq": {},
+  "gl": {
+    "Ilulissat": [
+      {
+        "src": "/cities/gl/ilulissat-0.jpg",
+        "caption": "Ilulissat — Buiobuione Greenland Ilulissat Panorama of the city",
+        "credit": "Foto: Buiobuione. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABuiobuione_Greenland_Ilulissat_Panorama_of_the_city.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Nuuk": [
+      {
+        "src": "/cities/gl/nuuk-0.jpg",
+        "caption": "Nuuk — Nuuk, Greenland skyline",
+        "credit": "Foto: Quintin Soloviev. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANuuk%2C_Greenland_skyline.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Sisimiut": [
+      {
+        "src": "/cities/gl/sisimiut-0.jpg",
+        "caption": "Sisimiut — Sisimiut aerial2",
+        "credit": "Foto: Mads Lumholt. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASisimiut_aerial2.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "aq": {
+    "Estação McMurdo": [
+      {
+        "src": "/cities/aq/estacao-mcmurdo-0.jpg",
+        "caption": "Estação McMurdo — McMurdo 2.12.13 a-HR",
+        "credit": "Foto: Reinhart Piuk. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMcMurdo_2.12.13_a-HR.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Polo Sul (Amundsen-Scott)": [
+      {
+        "src": "/cities/aq/polo-sul-amundsen-scott-0.jpg",
+        "caption": "Polo Sul (Amundsen-Scott) — Amundsen-Scott South Pole Station in 2023",
+        "credit": "Foto: Christopher Michel. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAmundsen-Scott_South_Pole_Station_in_2023.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "kz": {},
   "uz": {},
-  "ir": {},
-  "jo": {},
+  "ir": {
+    "Isfahan": [
+      {
+        "src": "/cities/ir/isfahan-0.jpg",
+        "caption": "Isfahan — Naghshe Jahan Square Isfahan modified",
+        "credit": "Foto: en:User:Arad. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANaghshe_Jahan_Square_Isfahan_modified.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "jo": {
+    "Wadi Rum": [
+      {
+        "src": "/cities/jo/wadi-rum-0.jpg",
+        "caption": "Wadi Rum — Wadi Rum Sunrise",
+        "credit": "Foto: Hashem sabbagh. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AWadi_Rum_Sunrise.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "lb": {},
   "om": {},
-  "qa": {},
-  "af": {},
-  "ly": {},
-  "kw": {},
-  "kg": {},
+  "qa": {
+    "Al Zubarah": [
+      {
+        "src": "/cities/qa/al-zubarah-0.jpg",
+        "caption": "Al Zubarah — View of the Al Zubarah Fort at Zubarah",
+        "credit": "Foto: Munnarboy. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AView_of_the_Al_Zubarah_Fort_at_Zubarah.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Souq Waqif": [
+      {
+        "src": "/cities/qa/souq-waqif-0.jpg",
+        "caption": "Souq Waqif — Souq Waqif, Doha, Catar, 2013-08-05, DD 06",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASouq_Waqif%2C_Doha%2C_Catar%2C_2013-08-05%2C_DD_06.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "af": {
+    "Band-e Amir": [
+      {
+        "src": "/cities/af/band-e-amir-0.jpg",
+        "caption": "Band-e Amir — Lake in National park in Band-e Amir, Bamyan",
+        "credit": "Foto: Jaffnaanna. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALake_in_National_park_in_Band-e_Amir%2C_Bamyan.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ly": {
+    "Ghadames": [
+      {
+        "src": "/cities/ly/ghadames-0.jpg",
+        "caption": "Ghadames — Ghadames Old city from the air",
+        "credit": "Foto: Mohamed alazrak. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AGhadames_Old_city_from_the_air.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "kw": {
+    "Cidade do Kuwait": [
+      {
+        "src": "/cities/kw/cidade-do-kuwait-0.jpg",
+        "caption": "Cidade do Kuwait — Kuwait City skyline",
+        "credit": "Foto: Francisco Anzola from United States. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKuwait_City_skyline_(39710595225).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "kg": {
+    "Osh": [
+      {
+        "src": "/cities/kg/osh-0.jpg",
+        "caption": "Osh — Panorama of Osh",
+        "credit": "Foto: Paul. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APanorama_of_Osh.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "tj": {},
   "tm": {},
-  "mn": {},
+  "mn": {
+    "Lago Khövsgöl": [
+      {
+        "src": "/cities/mn/lago-khovsgol-0.jpg",
+        "caption": "Lago Khövsgöl — Lake Khovsgol, northern Mongolia",
+        "credit": "Foto: Richard Mortel. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALake_Khovsgol%2C_northern_Mongolia_(31).jpg",
+        "kind": "photo"
+      }
+    ],
+    "Ulan Bator": [
+      {
+        "src": "/cities/mn/ulan-bator-0.jpg",
+        "caption": "Ulan Bator — Panorama Ulan Bator 01",
+        "credit": "Foto: Brücke-Osteuropa. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APanorama_Ulan_Bator_01.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
   "ncyp": {},
-  "fj": {},
-  "sb": {},
+  "fj": {
+    "Beqa": [
+      {
+        "src": "/cities/fj/beqa-0.jpg",
+        "caption": "Beqa — Beqa Lagoon - Fiji",
+        "credit": "Foto: Mark Heard from Canada. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABeqa_Lagoon_-_Fiji.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "sb": {
+    "Gizo": [
+      {
+        "src": "/cities/sb/gizo-0.jpg",
+        "caption": "Gizo — Aerial view of the coast of Gizo, Solomon Islands - -N-SP369-490",
+        "credit": "Foto: Mass Communication Specialist 3rd Class Samantha J. Webb. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_the_coast_of_Gizo%2C_Solomon_Islands_-_130805-N-SP369-490.jpg",
+        "kind": "photo"
+      }
+    ],
+    "Honiara": [
+      {
+        "src": "/cities/sb/honiara-0.jpg",
+        "caption": "Honiara — Aerial view of Honiara, 2013",
+        "credit": "Foto: Jenny Scott from Adelaide, Australia. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Honiara%2C_2013.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "vu": {},
-  "nc": {},
-  "pg": {},
+  "nc": {
+    "Hienghène": [
+      {
+        "src": "/cities/nc/hienghene-0.jpg",
+        "caption": "Hienghène — Poule couveuse, Hienghène, New Caledonia – 2015",
+        "credit": "Foto: gérard. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APoule_couveuse%2C_Hiengh%C3%A8ne%2C_New_Caledonia_%E2%80%93_2015.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "pg": {
+    "Port Moresby": [
+      {
+        "src": "/cities/pg/port-moresby-0.jpg",
+        "caption": "Port Moresby — Aerial view of Port Moresby",
+        "credit": "Foto: Mark Matson. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Port_Moresby.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "tf": {},
-  "bt": {},
-  "kh": {},
-  "la": {},
-  "mm": {},
-  "bn": {},
+  "bt": {
+    "Thimphu": [
+      {
+        "src": "/cities/bt/thimphu-0.jpg",
+        "caption": "Thimphu — View of central Thimphu 2019-07-21",
+        "credit": "Foto: Christopher J. Fynn. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AView_of_central_Thimphu_2019-07-21.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "kh": {
+    "Phnom Penh": [
+      {
+        "src": "/cities/kh/phnom-penh-0.jpg",
+        "caption": "Phnom Penh — Aerial view of Phnom Penh's Central Market",
+        "credit": "Foto: Rik Schuiling / TropCrop-TCS. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Phnom_Penh's_Central_Market_(September_2021).jpg",
+        "kind": "photo"
+      }
+    ],
+    "Siem Reap": [
+      {
+        "src": "/cities/kh/siem-reap-0.jpg",
+        "caption": "Siem Reap — Angkor Wat Aerial View Siem Reap Cambodia 2011",
+        "credit": "Foto: Mark Fischer. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAngkor_Wat_Aerial_View_Siem_Reap_Cambodia_2011.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "la": {
+    "Luang Prabang": [
+      {
+        "src": "/cities/la/luang-prabang-0.jpg",
+        "caption": "Luang Prabang — Luang Prabang panorama 2016",
+        "credit": "Foto: Ekrem Canli. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALuang_Prabang_panorama_2016.jpg",
+        "kind": "photo"
+      }
+    ],
+    "o Mekong": [
+      {
+        "src": "/cities/la/o-mekong-0.jpg",
+        "caption": "o Mekong — MekongKampongCham",
+        "credit": "Foto: BrianChap. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMekongKampongCham.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mm": {
+    "Bagan": [
+      {
+        "src": "/cities/mm/bagan-0.jpg",
+        "caption": "Bagan — Bagan, Myanmar, Panorama of Bagan as seen from the Minyeingon Temple",
+        "credit": "Foto: Vyacheslav Argenberg. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABagan%2C_Myanmar%2C_Panorama_of_Bagan_as_seen_from_the_Minyeingon_Temple.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "bn": {
+    "Bandar Seri Begawan": [
+      {
+        "src": "/cities/bn/bandar-seri-begawan-0.jpg",
+        "caption": "Bandar Seri Begawan — Panorama Bandar Seri Begawan 19.05.2018",
+        "credit": "Foto: Zulfadli51. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APanorama_Bandar_Seri_Begawan_19.05.2018.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "kp": {},
   "ye": {},
-  "ps": {},
+  "ps": {
+    "Jerusalém": [
+      {
+        "src": "/cities/ps/jerusalem-0.jpg",
+        "caption": "Jerusalém — Jerusalem-2013-Aerial-Temple Mount 01",
+        "credit": "Foto: Godot13. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AJerusalem-2013-Aerial-Temple_Mount_01.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "sy": {},
   "bf": {},
   "bj": {},
   "ci": {},
-  "gm": {},
+  "gm": {
+    "Banjul": [
+      {
+        "src": "/cities/gm/banjul-0.jpg",
+        "caption": "Banjul — Gambia, Banjul, Arch 22",
+        "credit": "Foto: Hannu Sääskilahti. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AGambia%2C_Banjul%2C_Arch_22.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "gn": {},
   "lr": {},
   "sl": {},
   "tg": {},
   "ml": {},
   "mr": {},
-  "ne": {},
+  "ne": {
+    "Agadez": [
+      {
+        "src": "/cities/ne/agadez-0.jpg",
+        "caption": "Agadez — Niger, Agadez , aerial view",
+        "credit": "Foto: Vincent van Zeijst. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANiger%2C_Agadez_(03)%2C_aerial_view.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "td": {},
-  "cf": {},
-  "cd": {},
+  "cf": {
+    "Bangui": [
+      {
+        "src": "/cities/cf/bangui-0.jpg",
+        "caption": "Bangui — Bangui City Centre",
+        "credit": "Foto: Alllexxxis. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABangui_City_Centre.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cd": {
+    "Rio Congo": [
+      {
+        "src": "/cities/cd/rio-congo-0.jpg",
+        "caption": "Rio Congo — Aerial view of the Congo River near Kisangani",
+        "credit": "Foto: MONUSCO/Myriam Asmani. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_the_Congo_River_near_Kisangani.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "cg": {},
   "ga": {},
-  "bi": {},
+  "bi": {
+    "Bujumbura": [
+      {
+        "src": "/cities/bi/bujumbura-0.jpg",
+        "caption": "Bujumbura — Bujumbura",
+        "credit": "Foto: No machine-readable author provided. Tequendamia assumed (based on copyright claims).. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABujumbura.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
   "dj": {},
   "er": {},
-  "rw": {},
+  "rw": {
+    "O lago Kivu": [
+      {
+        "src": "/cities/rw/o-lago-kivu-0.jpg",
+        "caption": "O lago Kivu — Lake Kivu",
+        "credit": "Foto: MONUSCO Photos. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALake_Kivu_(20875703429).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "so": {},
-  "somaliland": {},
+  "somaliland": {
+    "Hargeisa": [
+      {
+        "src": "/cities/somaliland/hargeisa-0.jpg",
+        "caption": "Hargeisa — Aerial view of Hargeisa DJI 0226",
+        "credit": "Foto: Ridwan Bukhari. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Hargeisa_DJI_0226.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "sd": {},
   "ss": {},
   "ug": {},
-  "bw": {},
-  "ls": {},
+  "bw": {
+    "o delta do Okavango": [
+      {
+        "src": "/cities/bw/o-delta-do-okavango-0.jpg",
+        "caption": "o delta do Okavango — Vista aérea del delta del Okavango, Botsuana, 2018-08-01, DD 23",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AVista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_23.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ls": {
+    "Maseru": [
+      {
+        "src": "/cities/ls/maseru-0.jpg",
+        "caption": "Maseru — Maseru from Parliament Hill",
+        "credit": "Foto: OER Africa. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMaseru_from_Parliament_Hill.jpg",
+        "kind": "photo"
+      }
+    ],
+    "as cataratas Maletsunyane": [
+      {
+        "src": "/cities/ls/as-cataratas-maletsunyane-0.jpg",
+        "caption": "as cataratas Maletsunyane — Maletsunyanefalls",
+        "credit": "Foto: BagelBelt. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMaletsunyanefalls.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
   "mg": {},
-  "mw": {},
+  "mw": {
+    "o lago Malawi": [
+      {
+        "src": "/cities/mw/o-lago-malawi-0.jpg",
+        "caption": "o lago Malawi — Dugout on Lake Malawi",
+        "credit": "Foto: Ludger Heide. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADugout_on_Lake_Malawi_(14874751077).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "na": {},
   "sz": {},
-  "zm": {},
+  "zm": {
+    "as cataratas Vitória": [
+      {
+        "src": "/cities/zm/as-cataratas-vitoria-0.jpg",
+        "caption": "as cataratas Vitória — Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 05",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_05.jpg",
+        "kind": "photo"
+      }
+    ],
+    "o rio Zambeze": [
+      {
+        "src": "/cities/zm/o-rio-zambeze-0.jpg",
+        "caption": "o rio Zambeze — Río Zambeze, Zambia-Zimbabue, 2018-07-27, DD 25",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AR%C3%ADo_Zambeze%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_25.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
   "zw": {},
   "eh": {}
 }

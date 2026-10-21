@@ -12,3 +12,5 @@ screenshots
 *.log
 .project_id
 .node_modules.lock
+.shortlists
+.i18n-work

@@ -1,6 +1,19 @@
 import type { CitySpot, CountryProfile } from "@/data/types";
+import countryContentRaw from "@/data/i18n-country.json";
 import { countryName } from "./country-name";
 import type { Locale, Messages } from "./types";
+
+type CountryLocaleContent = {
+  tales?: Record<string, string>;
+  cities?: Record<string, string>;
+  spots?: Record<string, string>;
+  outfits?: Record<string, string>;
+};
+
+const COUNTRY_CONTENT = countryContentRaw as unknown as Record<
+  string,
+  CountryLocaleContent | undefined
+>;
 
 const FALLBACK_TALE_3 = "Cada país guarda histórias únicas — volte em breve para ler as deste.";
 const FALLBACK_OUTFIT = "roupa nas cores da bandeira deste país";
@@ -949,6 +962,8 @@ function translateOutfit(outfit: string, locale: Locale, messages: Messages): st
     return outfit === FALLBACK_OUTFIT ? messages.fallbackOutfit : outfit;
   }
   if (outfit === FALLBACK_OUTFIT) return messages.fallbackOutfit;
+  const mapped = COUNTRY_CONTENT[locale]?.outfits?.[outfit];
+  if (mapped) return mapped;
   const exact = OUTFITS[outfit]?.[locale];
   if (exact) return exact;
   let next = outfit;
@@ -958,10 +973,16 @@ function translateOutfit(outfit: string, locale: Locale, messages: Messages): st
 
 function translateTale(title: string, locale: Locale): string {
   if (locale === "pt-BR") return title;
-  return TALES[title]?.[locale] ?? title;
+  return COUNTRY_CONTENT[locale]?.tales?.[title] ?? TALES[title]?.[locale] ?? title;
 }
 
-function translateCity(city: CitySpot, name: string, messages: Messages): CitySpot {
+function translateCity(
+  city: CitySpot,
+  iso: string,
+  locale: Locale,
+  name: string,
+  messages: Messages,
+): CitySpot {
   if (city.spots === "paisagens e monumentos famosos") {
     return { ...city, spots: messages.fallbackSpotFamous };
   }
@@ -980,7 +1001,14 @@ function translateCity(city: CitySpot, name: string, messages: Messages): CitySp
   ) {
     return { ...city, spots: messages.fallbackExploreSpot };
   }
-  return city;
+  const dict = COUNTRY_CONTENT[locale];
+  if (!dict) return city;
+  const key = `${iso}|${city.city}`;
+  return {
+    ...city,
+    city: dict.cities?.[key] ?? city.city,
+    spots: dict.spots?.[key] ?? city.spots,
+  };
 }
 
 export function localizeCountry(
@@ -997,6 +1025,6 @@ export function localizeCountry(
     tales: fallback
       ? [fill(messages.fallbackTale1, { name }), messages.fallbackTale2, messages.fallbackTale3]
       : country.tales.map((title) => translateTale(title, locale)),
-    cities: country.cities.map((city) => translateCity(city, name, messages)),
+    cities: country.cities.map((city) => translateCity(city, country.iso, locale, name, messages)),
   };
 }

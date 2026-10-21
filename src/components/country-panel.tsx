@@ -2,8 +2,10 @@ import { BookOpen, ChevronRight, Landmark, RotateCcw } from "lucide-react";
 import { useCallback, useEffect, useState } from "react";
 import { Costume } from "@/components/costume";
 import { CityImageViewer } from "@/components/city-image-viewer";
+import { DishesSection } from "@/components/dishes-section";
 import { flagUrl, portraitUrl } from "@/data/catalog";
 import { cityPhotos, type CityPhoto } from "@/data/city-photos";
+import { hasDishes } from "@/data/dishes";
 import { hasStory } from "@/data/stories";
 import type { CitySpot, CountryProfile } from "@/data/types";
 import { fill } from "@/i18n/content";
@@ -59,7 +61,9 @@ function NumberedTable({
                   <span>
                     <span>{row.title}</span>
                     {row.detail ? (
-                      <span className="mt-0.5 block text-xs font-semibold text-ink/70">{row.detail}</span>
+                      <span className="mt-0.5 block text-xs font-semibold text-ink/70">
+                        {row.detail}
+                      </span>
                     ) : null}
                   </span>
                   {openable ? (
@@ -141,7 +145,10 @@ function CityPhotoRow({
           {photos.length ? (
             <div className="mt-2 grid grid-cols-2 gap-2">
               {photos.slice(0, 2).map((photo) => (
-                <figure key={photo.src} className="min-w-0">
+                <figure
+                  key={photo.src}
+                  className={cn("min-w-0", photos.length === 1 && "col-span-2")}
+                >
                   <button
                     type="button"
                     onClick={() => onOpenPhoto(photo)}
@@ -152,7 +159,9 @@ function CityPhotoRow({
                       src={photo.src}
                       alt={photo.caption}
                       className="aspect-[4/3] w-full object-cover"
-                      style={photo.objectPosition ? { objectPosition: photo.objectPosition } : undefined}
+                      style={
+                        photo.objectPosition ? { objectPosition: photo.objectPosition } : undefined
+                      }
                       loading="lazy"
                     />
                   </button>
@@ -340,6 +349,8 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
         />
       </section>
 
+      {hasDishes(country.iso) ? <DishesSection iso={country.iso} /> : null}
+
       <section>
         <h3 className="mb-2 flex items-center gap-2 font-display text-lg font-bold text-ink">
           <span className="inline-flex size-8 items-center justify-center rounded-xl border-2 border-stroke bg-mint">
@@ -347,11 +358,7 @@ export function CountryPanel({ country, onPick, onClear, onTale, featured }: Pro
           </span>
           {t.citiesTitle}
         </h3>
-        <CitiesSection
-          iso={country.iso}
-          cities={country.cities}
-          onOpenPhoto={setSelectedPhoto}
-        />
+        <CitiesSection iso={country.iso} cities={country.cities} onOpenPhoto={setSelectedPhoto} />
       </section>
       {selectedPhoto ? <CityImageViewer photo={selectedPhoto} onClose={closePhoto} /> : null}
     </div>

@@ -17,11 +17,18 @@ Unfinished work
    for each supported language remain outstanding; translating unverified text
    would preserve and spread possible historical errors.
 
-3. Finish city-content localization
-   City names and landmark descriptions are still stored largely in
-   Portuguese. They have not been comprehensively translated for English,
-   German, and French. Translate only where an established local-language
-   name exists; preserve proper names where translation is not appropriate.
+3. City-content localization - DONE 2026-10-21
+   Every tale title, city name, landmark line and costume that was still
+   falling back to Portuguese now has en-GB, de-DE and fr-FR wording:
+   772 tale titles, 573 city names, 573 landmark lines and 168 costumes per
+   locale, in src/data/i18n-country.json. src/i18n/content.ts reads it through
+   COUNTRY_CONTENT before falling back to the older TALES and OUTFITS tables,
+   and translateCity() now takes the iso so it can look the entry up.
+   Spot-checked in the running app: North Korea reads "Costume: pink and white
+   hanbok", "The Frog Who Did the Opposite", "A Village of Pines" in English,
+   with the German and French data verified separately. What was left alone:
+   story bodies (item 2), the Top 100 catalogue copy, and the fallback strings
+   that already live in messages.ts.
 
 4. Decide whether to use a measurable ranking for the Top 100
    The catalogue now uses an approximate editorial order that puts broadly
@@ -29,22 +36,109 @@ Unfinished work
    worldwide ranking. No globally representative popularity dataset was
    verified, so this order is not a statistical ranking.
 
-5. Find acceptable public-source photos for remaining city gaps
-   A strict Wikimedia Commons retry found and added suitable, sharp, freely
-   licensed images for Melbourne, Palawan, Islamabad, and Baghdad. These eight
-   city slots remain blank because the available searches did not produce an
-   image that passed the relevance and quality filters:
-   - Mexico City
-   - Lake Yojoa
-   - Port-au-Prince
-   - Madrid
-   - Poznań
-   - Tirana
-   - Ohrid
-   - Tunis
+5. Finish city photos (touristic-first policy, visual acceptance)
+   Policy set 2026-10-21: a photo must show a recognised tourist place of that
+   city; aerial/drone framing is preferred but not required when the landmark
+   is only photographable from the ground. Licence must be free for commercial
+   use and credited, and every image is checked by eye before it ships.
 
-   Commons rate limits interrupted several searches, and retrying did not find
-   acceptable candidates for these eight places. Keep them blank rather than
-   use unrelated landmarks, low-quality images, or generated images. All four
-   added photos include Commons attribution and license details in the
-   manifest.
+   Review of 2026-10-21 replaced two photos that had passed the old metadata
+   filter but showed the wrong subject:
+   - Melbourne: was an aerial panorama of Box Hill (a suburb); now Northbank
+     and the Yarra, by Dietmar Rabich, CC BY-SA 4.0.
+   - Baghdad: was a 5:1 Tigris strip (2710x542, US military frame); now an
+     aerial of the Tigris bend, public domain (US DoD photo).
+   It also filled seven of the eight gaps reported on 2026-10-20:
+   - Mexico City: Palacio de Bellas Artes over the historic centre, Diego
+     Delso, CC BY-SA 4.0.
+   - Lake Yojoa: sunset over the lake, Suiseisekiryu, CC0 (moody; replace if a
+     brighter daylight panorama turns up).
+   - Madrid: Plaza Mayor, Matt Joseph, CC BY-SA 4.0.
+   - Poznań: Old Market Square and Town Hall from above, Lesiex, CC BY-SA 4.0.
+   - Tirana: Skanderbeg Square, Chris Walts, CC BY-SA 2.0.
+   - Ohrid: Church of St John at Kaneo, Tahir1434, CC BY-SA 4.0.
+   - Tunis: Zitouna Mosque and the medina, Ben guedria houcine, CC BY-SA 4.0.
+
+   Port-au-Prince remains blank on purpose: the only modern photographs on
+   Commons show earthquake damage (National Palace, cathedral ruins) and are
+   unsuitable for a children's app. Leave it blank rather than use a ruined
+   building or a low-quality market snapshot.
+
+   Coverage after the 2026-10-21 bulk pass: 328 of 573 city slots have a
+   photo (245 blank). That pass ran scripts/source-city-photos.mjs over every
+   blank slot, built contact sheets, reviewed all 293 shortlisted slots by eye
+   (115 accepted, 178 rejected) and shipped the accepted ones with
+   scripts/apply-city-photos.mjs. Rejections were mostly wrong-place matches
+   (Belém, Brazil for Bethlehem; Bologna for Bo; a Japanese onsen for Lake
+   Togo; MOCA Cleveland for Moca), archival or satellite frames, plane windows
+   and anonymous sprawl. 67 slots returned no candidate at all: small and
+   remote places with thin Commons coverage.
+
+   What remains: a second pass over the 178 rejected slots using candidates
+   two and three, which the first pass never showed; and the 67 empty ones
+   need a different source or stay blank. scripts/fetch-city-photos.mjs
+   accepts candidates on filename metadata alone - it cannot see a plane
+   window, a suburb, or a 5:1 panorama - so its "ok" lines are a shortlist,
+   not a verdict. Keep the visual check. Its 1600px minimum is below the
+   app's 4K/Full HD expectation, and some older files remain under 1920px.
+
+6. Roll dish photos out to the other countries
+   Brazil shipped 2026-10-21 with three dishes: feijoada, pão de queijo and
+   brigadeiro. Policy, matching the city photos: the photo shows the dish
+   itself, with nothing else competing; a dish served on a plate is
+   photographed on a plate, and hand food (bread, sweets) is left as it is
+   served instead of being forced onto one. The licence must allow commercial
+   reuse, and the credit sits under the photo and in the full-size view. Every
+   image is checked by eye: scripts/fetch-dish-photos.mjs only shortlists
+   candidates, it cannot see a plate of the wrong dish.
+
+   Rejected while choosing Brazil's three: a golden basket of pão de queijo
+   that carried a TudoGostoso watermark, a clean plated feijoada that was only
+   1080px wide, and the Portuguese Wikipedia feijoada still life because a
+   cachaça bottle and glass sat in the frame. The three that shipped come from
+   Wikimedia Commons (CC0, CC BY 2.0, CC BY-SA 2.0) at 1920px.
+
+   Dish names and the one easy-read line per dish (readers of eight to ten) in
+   all four locales live in src/data/dishes.ts. The section renders only where
+   a country has dish data, so unreleased countries show nothing rather than a
+   placeholder.
+
+   The Americas shipped on 2026-10-21 in three waves, 20 countries and 52
+   dishes: Brazil, then South America (Argentina, Bolivia, Chile, Colombia,
+   Ecuador, Peru, Uruguay, Venezuela, Paraguay), then Central America (Belize,
+   Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama), then North
+   America (Canada, Mexico, United States). Countries now carry two or three
+   dishes depending on what passed the eye check; the section hint no longer
+   promises three.
+
+   Left blank on purpose: Guyana and Suriname. Commons had one dark bowl of
+   pepperpot with a fork in shot and a rolling-pin snapshot of roti, and
+   nothing for cook-up rice or pom. Guyana's only plausible roti frame carried
+   a hand and a paper towel. Blank beats a wrong or ugly plate.
+
+   Second dishes were dropped rather than guessed: Paraguay lost vori-vori
+   (the search returns a handball player named Igor Vori) and mbeyú (grey,
+   flat photographs); El Salvador lost tamal de elote to a dessert shot;
+   Guatemala's chuchitos matched a Mexico City restaurant called Chuchito
+   Pérez; Panama's ropa vieja and sancocho matched Cuban and Canary Islands
+   pots; Canada dropped tourtière because every candidate had a hockey flag
+   baked into the pie or a wine glass in frame.
+
+   Rejected while choosing Brazil's three: a golden basket of pão de queijo
+   that carried a TudoGostoso watermark, a clean plated feijoada that was only
+   1080px wide, and the Portuguese Wikipedia feijoada still life because a
+   cachaça bottle and glass sat in the frame.
+
+   How the pipeline works now: dish definitions live in
+   scripts/dish-sources.json (slug + Commons search phrases), the confirmed
+   Commons titles live in scripts/dish-picks.json, and
+   scripts/fetch-dish-photos.mjs --candidates/--apply does the fetching with
+   scripts/dish-candidates-sheet.ps1 building the contact sheet for the eye
+   check. New waves need no code change: add the slugs to dish-sources.json,
+   review, record the picks, apply, then write the names and notes in
+   src/data/dishes.ts.
+
+   Remaining: the rest of the world. The Central American plates are the
+   weakest of the Americas (home-style snaps, paper plates, a salt sachet in
+   the taco frame) and are the first candidates for a second pass with
+   candidates three and four.
