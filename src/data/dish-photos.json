@@ -1,0 +1,466 @@
+{
+  "br": {
+    "feijoada": [
+      {
+        "src": "/dishes/br/feijoada-0.jpg",
+        "credit": "Wilfredor. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Feijoada_%C3%A0_brasileira_3.jpg",
+        "kind": "photo"
+      }
+    ],
+    "pao-de-queijo": [
+      {
+        "src": "/dishes/br/pao-de-queijo-0.jpg",
+        "credit": "Joy. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:P%C3%A3o_de_Queijo_(Brazilian_Cheese_Bread).jpg",
+        "kind": "photo"
+      }
+    ],
+    "brigadeiro": [
+      {
+        "src": "/dishes/br/brigadeiro-0.jpg",
+        "credit": "User Mayra (Maych) on Flickr. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Brigadeiro.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ar": {
+    "asado": [
+      {
+        "src": "/dishes/ar/asado-0.jpg",
+        "credit": "Eduardo P. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Parrillada_argentina.jpg",
+        "kind": "photo"
+      }
+    ],
+    "empanadas": [
+      {
+        "src": "/dishes/ar/empanadas-0.jpg",
+        "credit": "Horacio Cambeiro. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Fried_Argentine_beef_empanadas_served_on_a_tray.jpg",
+        "kind": "photo"
+      }
+    ],
+    "alfajor": [
+      {
+        "src": "/dishes/ar/alfajor-0.jpg",
+        "credit": "Mbulig. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Alfajores_argentinos_-_2025.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "bo": {
+    "saltenas": [
+      {
+        "src": "/dishes/bo/saltenas-0.jpg",
+        "credit": "Q'orikenti. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Salte%C3%B1as_platillo_boliviano.jpg",
+        "kind": "photo"
+      }
+    ],
+    "silpancho": [
+      {
+        "src": "/dishes/bo/silpancho-0.jpg",
+        "credit": "Albaro2020. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Silpancho_un_plato_con_historia,_tradici%C3%B3n_y_sabor._02.jpg",
+        "kind": "photo"
+      }
+    ],
+    "pique-a-lo-macho": [
+      {
+        "src": "/dishes/bo/pique-a-lo-macho-0.jpg",
+        "credit": "Jocelyn Abigail Vera. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Disfruta_un_buen_Pique_Macho.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cl": {
+    "pastel-de-choclo": [
+      {
+        "src": "/dishes/cl/pastel-de-choclo-0.jpg",
+        "credit": "Diegostraight. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:El_pastel_de_choclo.jpg",
+        "kind": "photo"
+      }
+    ],
+    "empanada-de-pino": [
+      {
+        "src": "/dishes/cl/empanada-de-pino-0.jpg",
+        "credit": "Espiralespiral. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Empanadas_con_pebre.jpg",
+        "kind": "photo"
+      }
+    ],
+    "cazuela": [
+      {
+        "src": "/dishes/cl/cazuela-0.jpg",
+        "credit": "Igallards7. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Cazuela_de_vacuno.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "co": {
+    "bandeja-paisa": [
+      {
+        "src": "/dishes/co/bandeja-paisa-0.jpg",
+        "credit": "Wilfredor. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Bandeja_paisa,_plato_Colombiano.jpg",
+        "kind": "photo"
+      }
+    ],
+    "arepas": [
+      {
+        "src": "/dishes/co/arepas-0.jpg",
+        "credit": "John Alexis Guerra Gómez. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Arepa_de_Ch%C3%B3colo.jpg",
+        "kind": "photo"
+      }
+    ],
+    "ajiaco": [
+      {
+        "src": "/dishes/co/ajiaco-0.jpg",
+        "credit": "ProtoplasmaKid. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ajiaco_santafere%C3%B1o_04.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ec": {
+    "ceviche": [
+      {
+        "src": "/dishes/ec/ceviche-0.jpg",
+        "credit": "Edgar Amador Espinoza M.. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ceviche_de_Chocho.jpg",
+        "kind": "photo"
+      }
+    ],
+    "llapingachos": [
+      {
+        "src": "/dishes/ec/llapingachos-0.jpg",
+        "credit": "young shanahan from Bratislava, Slovakia. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Llapingachos._(40491622163).jpg",
+        "kind": "photo"
+      }
+    ],
+    "encebollado": [
+      {
+        "src": "/dishes/ec/encebollado-0.jpg",
+        "credit": "Ministerio de Turismo Ecuador from Ecuador. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_(18062294436).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "pe": {
+    "ceviche": [
+      {
+        "src": "/dishes/pe/ceviche-0.jpg",
+        "credit": "Carlillasa. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ceviche_en_Desaguadero,_lado_peruano.jpg",
+        "kind": "photo"
+      }
+    ],
+    "lomo-saltado": [
+      {
+        "src": "/dishes/pe/lomo-saltado-0.jpg",
+        "credit": "PapiPijuan. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Lomo_Salteado.jpg",
+        "kind": "photo"
+      }
+    ],
+    "aji-de-gallina": [
+      {
+        "src": "/dishes/pe/aji-de-gallina-0.jpg",
+        "credit": "Feralbt. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Aj%C3%AD_de_gallina.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "uy": {
+    "chivito": [
+      {
+        "src": "/dishes/uy/chivito-0.jpg",
+        "credit": "TitiNicola. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chivito_Canadiense.jpg",
+        "kind": "photo"
+      }
+    ],
+    "asado": [
+      {
+        "src": "/dishes/uy/asado-0.jpg",
+        "credit": "Rldca. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Small_Family_Asado.jpg",
+        "kind": "photo"
+      }
+    ],
+    "torta-frita": [
+      {
+        "src": "/dishes/uy/torta-frita-0.jpg",
+        "credit": "Horacio Cambeiro. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Torta_frita_argentina_-_Plato_individual.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ve": {
+    "arepa": [
+      {
+        "src": "/dishes/ve/arepa-0.jpg",
+        "credit": "Periodismodepaz. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Arepas_venezolanas.jpg",
+        "kind": "photo"
+      }
+    ],
+    "pabellon-criollo": [
+      {
+        "src": "/dishes/ve/pabellon-criollo-0.jpg",
+        "credit": "jonathan de Almeida. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Plato_Tipico_Nacional_PABELLON_CRIOLLO.JPG",
+        "kind": "photo"
+      }
+    ],
+    "hallacas": [
+      {
+        "src": "/dishes/ve/hallacas-0.jpg",
+        "credit": "Wilfredor. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Hallaca,_Venezuelan_Christmas_food.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "py": {
+    "sopa-paraguaya": [
+      {
+        "src": "/dishes/py/sopa-paraguaya-0.jpg",
+        "credit": "Horacio Cambeiro. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Sopa_paraguaya_tradicional_preparada_para_una_venta_ben%C3%A9fica_de_Bomberos_en_Capiov%C3%AD,_Misiones,_Argentina.jpg",
+        "kind": "photo"
+      }
+    ],
+    "chipa": [
+      {
+        "src": "/dishes/py/chipa-0.jpg",
+        "credit": "Horacio Cambeiro. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chipa_paraguaya_en_el_Circuito_Comercial_de_Encarnaci%C3%B3n_(Paraguay).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "bz": {
+    "rice-and-beans": [
+      {
+        "src": "/dishes/bz/rice-and-beans-0.jpg",
+        "credit": "satanoid from Austin, TX, USA. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Rice_and_Beans,_Stew_Chicken_and_Potato_Salad_-_Belize.jpg",
+        "kind": "photo"
+      }
+    ],
+    "panades": [
+      {
+        "src": "/dishes/bz/panades-0.jpg",
+        "credit": "Kaldari. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Belize_fish_panades.jpg",
+        "kind": "photo"
+      }
+    ],
+    "fry-jacks": [
+      {
+        "src": "/dishes/bz/fry-jacks-0.jpg",
+        "credit": "Jimmcclarty. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Fry_JackUploaded_on_August_4,_2007_by_Jimmcclarty.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cr": {
+    "gallo-pinto": [
+      {
+        "src": "/dishes/cr/gallo-pinto-0.jpg",
+        "credit": "C T Johansson. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Gallo_pinto-IMG_0672.JPG",
+        "kind": "photo"
+      }
+    ],
+    "casado": [
+      {
+        "src": "/dishes/cr/casado-0.jpg",
+        "credit": "Grendelkhan. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Vegetarian_casado_at_Restaurante_La_Amistad,_Alajuela.jpg",
+        "kind": "photo"
+      }
+    ],
+    "chifrijo": [
+      {
+        "src": "/dishes/cr/chifrijo-0.jpg",
+        "credit": "Roberto Rodríguez. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chifrijo.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "sv": {
+    "pupusas": [
+      {
+        "src": "/dishes/sv/pupusas-0.jpg",
+        "credit": "JMRAFFi. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Pupusas_con_curtido_y_salsa_El_Salvador.JPG",
+        "kind": "photo"
+      }
+    ],
+    "yuca-frita": [
+      {
+        "src": "/dishes/sv/yuca-frita-0.jpg",
+        "credit": "Francesc Fort. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Yuca_frita.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "gt": {
+    "kakik": [
+      {
+        "src": "/dishes/gt/kakik-0.jpg",
+        "credit": "Hermann Luyken. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:2010.05.13.141849_Kac-iq_Fonda_Calle_Real_Antigua_Guatemala.jpg",
+        "kind": "photo"
+      }
+    ],
+    "tamales": [
+      {
+        "src": "/dishes/gt/tamales-0.jpg",
+        "credit": "Anamix257. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Tamal_guatemalteco.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "hn": {
+    "baleadas": [
+      {
+        "src": "/dishes/hn/baleadas-0.jpg",
+        "credit": "bryan... from Taipei, Taiwan. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Food_%E5%AE%8F%E9%83%BD%E6%8B%89%E6%96%AF%E8%B1%86%E6%B3%A5%E8%B5%B7%E5%8F%B8%E9%A4%85,_Super_Baleada,_%E6%8B%89%E4%B8%81%E7%BE%8E%E6%B4%B2%E5%B0%8F%E5%90%83,_Fiesta_Cafeteria,_%E5%8F%B0%E5%8C%97_(15803858497).jpg",
+        "kind": "photo"
+      }
+    ],
+    "tajadas": [
+      {
+        "src": "/dishes/hn/tajadas-0.jpg",
+        "credit": "Senchin11. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chuleta_con_tajadas_a_la_Hondure%C3%B1a.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ni": {
+    "nacatamal": [
+      {
+        "src": "/dishes/ni/nacatamal-0.jpg",
+        "credit": "Arturo Sotillo. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Nacatamal_y_patacones_con_frijoles_molidos.jpg",
+        "kind": "photo"
+      }
+    ],
+    "vigoron": [
+      {
+        "src": "/dishes/ni/vigoron-0.jpg",
+        "credit": "Nicaraguan food. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File:VIGORON.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "pa": {
+    "patacones": [
+      {
+        "src": "/dishes/pa/patacones-0.jpg",
+        "credit": "ProtoplasmaKid. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Patacones_de_Panam%C3%A1.jpg",
+        "kind": "photo"
+      }
+    ],
+    "tortilla": [
+      {
+        "src": "/dishes/pa/tortilla-0.jpg",
+        "credit": "Panama1519. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Tortilla_paname%C3%B1a.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mx": {
+    "tacos": [
+      {
+        "src": "/dishes/mx/tacos-0.jpg",
+        "credit": "Larry Miller. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg",
+        "kind": "photo"
+      }
+    ],
+    "mole-poblano": [
+      {
+        "src": "/dishes/mx/mole-poblano-0.jpg",
+        "credit": "Pabliotecario. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Mole_poblano_de_fiesta.jpg",
+        "kind": "photo"
+      }
+    ],
+    "chiles-en-nogada": [
+      {
+        "src": "/dishes/mx/chiles-en-nogada-0.jpg",
+        "credit": "Isaacvp. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chiles_en_Nogada_estilo_Orizaba_01.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "us": {
+    "hamburger": [
+      {
+        "src": "/dishes/us/hamburger-0.jpg",
+        "credit": "Renee Comet (photographer). Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File:Cheeseburger.jpg",
+        "kind": "photo"
+      }
+    ],
+    "bbq-ribs": [
+      {
+        "src": "/dishes/us/bbq-ribs-0.jpg",
+        "credit": "Gatorfan252525. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Plate_of_brisket,_BBQ_ribs,_pulled_pork,_South_Texas_beans_and_pickled_jalape%C3%B1os_from_the_Pinkerton%27s_BBQ_San_Antonio_location.jpg",
+        "kind": "photo"
+      }
+    ],
+    "apple-pie": [
+      {
+        "src": "/dishes/us/apple-pie-0.jpg",
+        "credit": "Vincent Ros. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Apple_pie_-_plate_and_cutlery.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ca": {
+    "poutine": [
+      {
+        "src": "/dishes/ca/poutine-0.jpg",
+        "credit": "0x010C. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:2016-10_Montreal_-_poutine_33.jpg",
+        "kind": "photo"
+      }
+    ],
+    "butter-tarts": [
+      {
+        "src": "/dishes/ca/butter-tarts-0.jpg",
+        "credit": "Rob Campbell from Toronto, ON, Canada. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Butter_tarts_on_cutting_board(8293490785).jpg",
+        "kind": "photo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "bz": [
+    { "slug": "rice-and-beans", "search": ["rice and beans belize"] },
+    { "slug": "panades", "search": ["belize panades", "panades belize"] },
+    { "slug": "fry-jacks", "search": ["fry jacks"] }
+  ],
+  "cr": [
+    { "slug": "gallo-pinto", "search": ["gallo pinto costa rica", "gallo pinto"] },
+    { "slug": "casado", "search": ["casado costarricense", "casado costa rica"] },
+    { "slug": "chifrijo", "search": ["chifrijo"] }
+  ],
+  "sv": [
+    { "slug": "pupusas", "search": ["pupusas salvadoreñas", "pupusas"] },
+    { "slug": "yuca-frita", "search": ["yuca frita"] }
+  ],
+  "gt": [
+    { "slug": "kakik", "search": ["kak'ik guatemala"] },
+    { "slug": "tamales", "search": ["tamales guatemaltecos", "tamal guatemalteco"] }
+  ],
+  "hn": [
+    { "slug": "baleadas", "search": ["baleadas"] },
+    { "slug": "tajadas", "search": ["tajadas con pollo", "tajadas"] }
+  ],
+  "ni": [
+    { "slug": "nacatamal", "search": ["nacatamal"] },
+    { "slug": "vigoron", "search": ["vigoron"] }
+  ],
+  "pa": [
+    { "slug": "patacones", "search": ["patacones panamá"] },
+    { "slug": "tortilla", "search": ["tortilla panameña"] }
+  ],
+  "ca": [
+    { "slug": "poutine", "search": ["poutine quebec", "poutine"] },
+    { "slug": "tourtiere", "search": ["tourtière québécois", "tourtiere"] },
+    { "slug": "butter-tarts", "search": ["butter tarts canada", "butter tart"] }
+  ],
+  "mx": [
+    { "slug": "tacos", "search": ["tacos al pastor"] },
+    { "slug": "mole-poblano", "search": ["mole poblano"] },
+    { "slug": "chiles-en-nogada", "search": ["chiles en nogada"] }
+  ],
+  "us": [
+    { "slug": "hamburger", "search": ["cheeseburger plate", "hamburger"] },
+    { "slug": "bbq-ribs", "search": ["barbecue ribs", "bbq ribs"] },
+    { "slug": "apple-pie", "search": ["apple pie slice", "apple pie"] }
+  ]
+}

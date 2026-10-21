@@ -41,6 +41,11 @@ export type Messages = {
   read: string;
   openTale: string;
   citiesTitle: string;
+  dishesTitle: string;
+  dishesHint: string;
+  dishPhotoAlt: string;
+  openDishPhoto: string;
+  closeDishPhoto: string;
   closeStory: string;
   taleOf: string;
   folkBadge: string;

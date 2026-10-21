@@ -1,0 +1,98 @@
+{
+  "ar": {
+    "asado": ["File:Parrillada argentina.jpg"],
+    "empanadas": ["File:Fried Argentine beef empanadas served on a tray.jpg"],
+    "alfajor": ["File:Alfajores argentinos - 2025.jpg"]
+  },
+  "bo": {
+    "pique-a-lo-macho": ["File:Disfruta un buen Pique Macho.jpg"],
+    "saltenas": ["File:Salteñas platillo boliviano.jpg"],
+    "silpancho": ["File:Silpancho un plato con historia, tradición y sabor. 02.jpg"]
+  },
+  "cl": {
+    "cazuela": ["File:Cazuela de vacuno.jpg"],
+    "empanada-de-pino": ["File:Empanadas con pebre.jpg"],
+    "pastel-de-choclo": ["File:El pastel de choclo.jpg"]
+  },
+  "co": {
+    "ajiaco": ["File:Ajiaco santafereño 04.jpg"],
+    "arepas": ["File:Arepa de Chócolo.jpg"],
+    "bandeja-paisa": ["File:Bandeja paisa, plato Colombiano.jpg"]
+  },
+  "ec": {
+    "ceviche": ["File:Ceviche de Chocho.jpg"],
+    "encebollado": [
+      "File:Semifinal del Campeonato del Encebollado en Esmeraldas 2015 (18062294436).jpg"
+    ],
+    "llapingachos": ["File:Llapingachos. (40491622163).jpg"]
+  },
+  "pe": {
+    "aji-de-gallina": ["File:Ají de gallina.jpg"],
+    "ceviche": ["File:Ceviche en Desaguadero, lado peruano.jpg"],
+    "lomo-saltado": ["File:Lomo Salteado.jpg"]
+  },
+  "uy": {
+    "asado": ["File:Small Family Asado.jpg"],
+    "chivito": ["File:Chivito Canadiense.jpg"],
+    "torta-frita": ["File:Torta frita argentina - Plato individual.jpg"]
+  },
+  "ve": {
+    "arepa": ["File:Arepas venezolanas.jpg"],
+    "hallacas": ["File:Hallaca, Venezuelan Christmas food.jpg"],
+    "pabellon-criollo": ["File:Plato Tipico Nacional PABELLON CRIOLLO.JPG"]
+  },
+  "py": {
+    "sopa-paraguaya": [
+      "File:Sopa paraguaya tradicional preparada para una venta benéfica de Bomberos en Capioví, Misiones, Argentina.jpg"
+    ],
+    "chipa": ["File:Chipa paraguaya en el Circuito Comercial de Encarnación (Paraguay).jpg"]
+  },
+  "bz": {
+    "rice-and-beans": ["File:Rice and Beans, Stew Chicken and Potato Salad - Belize.jpg"],
+    "panades": ["File:Belize fish panades.jpg"],
+    "fry-jacks": ["File:Fry JackUploaded on August 4, 2007 by Jimmcclarty.jpg"]
+  },
+  "cr": {
+    "gallo-pinto": ["File:Gallo pinto-IMG 0672.JPG"],
+    "casado": ["File:Vegetarian casado at Restaurante La Amistad, Alajuela.jpg"],
+    "chifrijo": ["File:Chifrijo.jpg"]
+  },
+  "sv": {
+    "pupusas": ["File:Pupusas con curtido y salsa El Salvador.JPG"],
+    "yuca-frita": ["File:Yuca frita.jpg"]
+  },
+  "gt": {
+    "kakik": ["File:2010.05.13.141849 Kac-iq Fonda Calle Real Antigua Guatemala.jpg"],
+    "tamales": ["File:Tamal guatemalteco.JPG"]
+  },
+  "hn": {
+    "baleadas": [
+      "File:Food 宏都拉斯豆泥起司餅, Super Baleada, 拉丁美洲小吃, Fiesta Cafeteria, 台北 (15803858497).jpg"
+    ],
+    "tajadas": ["File:Chuleta con tajadas a la Hondureña.jpg"]
+  },
+  "ni": {
+    "nacatamal": ["File:Nacatamal y patacones con frijoles molidos.jpg"],
+    "vigoron": ["File:VIGORON.JPG"]
+  },
+  "pa": {
+    "patacones": ["File:Patacones de Panamá.jpg"],
+    "tortilla": ["File:Tortilla panameña.jpg"]
+  },
+  "ca": {
+    "poutine": ["File:2016-10 Montreal - poutine 33.jpg"],
+    "butter-tarts": ["File:Butter tarts on cutting board(8293490785).jpg"]
+  },
+  "mx": {
+    "tacos": ["File:001 Tacos de carnitas, carne asada y al pastor.jpg"],
+    "chiles-en-nogada": ["File:Chiles en Nogada estilo Orizaba 01.jpg"],
+    "mole-poblano": ["File:Mole poblano de fiesta.jpg"]
+  },
+  "us": {
+    "hamburger": ["File:Cheeseburger.jpg"],
+    "bbq-ribs": [
+      "File:Plate of brisket, BBQ ribs, pulled pork, South Texas beans and pickled jalapeños from the Pinkerton's BBQ San Antonio location.jpg"
+    ],
+    "apple-pie": ["File:Apple pie - plate and cutlery.jpg"]
+  }
+}
