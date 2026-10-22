@@ -942,5 +942,521 @@
         "macedonian salad"
       ]
     }
+  ],
+  "ao": [
+    {
+      "slug": "calulu",
+      "search": [
+        "calulu angola",
+        "angolan calulu",
+        "calulu fish"
+      ]
+    }
+  ],
+  "bf": [
+    {
+      "slug": "babenda",
+      "search": [
+        "babenda",
+        "babenda burkina faso",
+        "babenda burkinabè"
+      ]
+    },
+    {
+      "slug": "riz-gras",
+      "search": [
+        "riz gras burkina faso",
+        "riz gras",
+        "riz au gras burkina faso"
+      ]
+    }
+  ],
+  "bj": [
+    {
+      "slug": "amiwo",
+      "search": [
+        "amiwo benin",
+        "amiwo",
+        "amiwo poulet"
+      ]
+    },
+    {
+      "slug": "akassa",
+      "search": [
+        "akassa benin",
+        "akassa",
+        "akassa de maïs"
+      ]
+    }
+  ],
+  "cd": [
+    {
+      "slug": "moambe",
+      "search": [
+        "moambe chicken",
+        "poulet moambe",
+        "poulet a la moambe"
+      ]
+    }
+  ],
+  "cf": [
+    {
+      "slug": "ngoundja",
+      "search": [
+        "ngoundja na gnama",
+        "feuilles de manioc avec la viande"
+      ]
+    }
+  ],
+  "cg": [
+    {
+      "slug": "saka-saka",
+      "search": [
+        "saka saka",
+        "saka saka congo",
+        "sakasaka cassava"
+      ]
+    }
+  ],
+  "ci": [
+    {
+      "slug": "attieke",
+      "search": [
+        "attiéké poisson",
+        "attiéké",
+        "attieke côte d'ivoire"
+      ]
+    },
+    {
+      "slug": "alloco",
+      "search": [
+        "alloco banane plantain",
+        "alloco",
+        "alloco côte d'ivoire"
+      ]
+    }
+  ],
+  "cm": [
+    {
+      "slug": "ndole",
+      "search": [
+        "ndolè royal sawa au crabe",
+        "ndolé cameroun",
+        "ndolé"
+      ]
+    },
+    {
+      "slug": "poulet-dg",
+      "search": [
+        "poulet dg cameroun",
+        "poulet directeur general",
+        "poulet dg"
+      ]
+    }
+  ],
+  "cv": [
+    {
+      "slug": "cachupa",
+      "search": [
+        "cachupa cabo verde",
+        "cachupa",
+        "cachupa guisada",
+        "cachupa rica"
+      ]
+    }
+  ],
+  "dz": [
+    {
+      "slug": "couscous",
+      "search": [
+        "couscous with chicken"
+      ]
+    },
+    {
+      "slug": "merguez",
+      "search": [
+        "merguez sausage icosium"
+      ]
+    }
+  ],
+  "eg": [
+    {
+      "slug": "ful-medames",
+      "search": [
+        "foul medames",
+        "ful medames"
+      ]
+    }
+  ],
+  "er": [
+    {
+      "slug": "injera",
+      "search": []
+    }
+  ],
+  "et": [
+    {
+      "slug": "injera",
+      "search": [
+        "ethiopian injera",
+        "injera plate",
+        "injera bread"
+      ]
+    },
+    {
+      "slug": "doro-wat",
+      "search": [
+        "doro wat",
+        "ethiopian doro wat",
+        "doro wot"
+      ]
+    }
+  ],
+  "gh": [
+    {
+      "slug": "kenkey",
+      "search": [
+        "kenkey and ground pepper",
+        "kenkey ghana",
+        "kenkey"
+      ]
+    },
+    {
+      "slug": "waakye",
+      "search": [
+        "waakye egg spaghetti shitor",
+        "waakye ghana",
+        "waakye"
+      ]
+    }
+  ],
+  "gn": [
+    {
+      "slug": "mafe",
+      "search": [
+        "mafe de poisson",
+        "mafe au boeuf"
+      ]
+    },
+    {
+      "slug": "riz-gras",
+      "search": [
+        "riz gras a la guineenne"
+      ]
+    }
+  ],
+  "gw": [
+    {
+      "slug": "caldo-branco",
+      "search": [
+        "caldo branco"
+      ]
+    }
+  ],
+  "ke": [
+    {
+      "slug": "ugali",
+      "search": [
+        "ugali kenya",
+        "ugali plate",
+        "kenyan ugali"
+      ]
+    },
+    {
+      "slug": "sukuma-wiki",
+      "search": [
+        "sukuma wiki",
+        "kenyan sukuma wiki"
+      ]
+    }
+  ],
+  "lr": [
+    {
+      "slug": "torborgee",
+      "search": [
+        "liberian cuisine torborgee",
+        "torborgee liberia",
+        "torborgee"
+      ]
+    }
+  ],
+  "ly": [
+    {
+      "slug": "couscous",
+      "search": [
+        "couscous with fish and salad",
+        "libyan couscous"
+      ]
+    }
+  ],
+  "ma": [
+    {
+      "slug": "tajine",
+      "search": [
+        "moroccan tajine",
+        "chicken tagine"
+      ]
+    },
+    {
+      "slug": "couscous",
+      "search": [
+        "moroccan couscous",
+        "couscous morocco"
+      ]
+    },
+    {
+      "slug": "harira",
+      "search": [
+        "harira soup",
+        "moroccan harira"
+      ]
+    }
+  ],
+  "mg": [
+    {
+      "slug": "mofo-gasy",
+      "search": [
+        "mofo gasy",
+        "mofo gasy madagascar"
+      ]
+    }
+  ],
+  "ml": [
+    {
+      "slug": "maafe",
+      "search": [
+        "maafe mali",
+        "mafé malien",
+        "maafe"
+      ]
+    },
+    {
+      "slug": "to",
+      "search": []
+    }
+  ],
+  "mr": [
+    {
+      "slug": "thieboudienne",
+      "search": [
+        "thieboudienne",
+        "senegalese thieboudienne"
+      ]
+    }
+  ],
+  "mu": [
+    {
+      "slug": "dholl-puri",
+      "search": [
+        "dholl puri",
+        "dholl puri mauritius"
+      ]
+    }
+  ],
+  "mz": [
+    {
+      "slug": "caril-de-camarao",
+      "search": [
+        "caril de camarao",
+        "caril de camarao mocambique"
+      ]
+    }
+  ],
+  "na": [
+    {
+      "slug": "oshifima",
+      "search": [
+        "oshifima",
+        "mahangu porridge"
+      ]
+    }
+  ],
+  "ne": [
+    {
+      "slug": "dambou",
+      "search": [
+        "dambou niger",
+        "dambou",
+        "dambou couscous"
+      ]
+    },
+    {
+      "slug": "kilishi",
+      "search": [
+        "kilishi",
+        "kilishi niger",
+        "kilishi viande"
+      ]
+    }
+  ],
+  "ng": [
+    {
+      "slug": "jollof-rice",
+      "search": [
+        "nigerian jollof rice",
+        "jollof rice",
+        "jollof rice nigeria"
+      ]
+    },
+    {
+      "slug": "egusi-soup",
+      "search": [
+        "egusi soup",
+        "egusi soup nigeria",
+        "egusi"
+      ]
+    }
+  ],
+  "rw": [
+    {
+      "slug": "brochettes",
+      "search": [
+        "rwanda brochettes",
+        "brochettes rwanda"
+      ]
+    }
+  ],
+  "sn": [
+    {
+      "slug": "thieboudienne",
+      "search": [
+        "senegalese thieboudienne",
+        "thieboudienne"
+      ]
+    },
+    {
+      "slug": "yassa",
+      "search": [
+        "le yassa au poisson",
+        "senegalese yassa",
+        "poulet yassa"
+      ]
+    }
+  ],
+  "so": [
+    {
+      "slug": "baasto-suugo",
+      "search": [
+        "baasto suugo",
+        "baasto suugo somali"
+      ]
+    },
+    {
+      "slug": "fahfah",
+      "search": [
+        "fahfah",
+        "fah fah"
+      ]
+    }
+  ],
+  "td": [
+    {
+      "slug": "boule",
+      "search": [
+        "boule avec sauce de gombo",
+        "boule tchad"
+      ]
+    }
+  ],
+  "tg": [
+    {
+      "slug": "fufu",
+      "search": [
+        "foufou d'igname",
+        "fufu togo",
+        "fufu"
+      ]
+    },
+    {
+      "slug": "ayimolou",
+      "search": [
+        "du ayimolou",
+        "ayimolou riz haricot",
+        "ayimolou togo"
+      ]
+    }
+  ],
+  "tn": [
+    {
+      "slug": "couscous",
+      "search": [
+        "tunisian couscous",
+        "couscous traditionnel tunisie"
+      ]
+    },
+    {
+      "slug": "brik",
+      "search": [
+        "tunisian brik"
+      ]
+    }
+  ],
+  "tz": [
+    {
+      "slug": "chipsi-mayai",
+      "search": [
+        "chipsi mayai",
+        "chips mayai",
+        "tanzanian chipsi mayai"
+      ]
+    }
+  ],
+  "ug": [
+    {
+      "slug": "matoke",
+      "search": [
+        "matoke uganda",
+        "matoke plate",
+        "ugandan matoke"
+      ]
+    },
+    {
+      "slug": "luwombo",
+      "search": [
+        "luwombo",
+        "ugandan luwombo"
+      ]
+    }
+  ],
+  "za": [
+    {
+      "slug": "bobotie",
+      "search": [
+        "bobotie",
+        "south african bobotie"
+      ]
+    },
+    {
+      "slug": "bunny-chow",
+      "search": [
+        "bunny chow",
+        "durban bunny chow"
+      ]
+    },
+    {
+      "slug": "koeksister",
+      "search": [
+        "koeksister",
+        "koeksisters south african"
+      ]
+    }
+  ],
+  "zm": [
+    {
+      "slug": "ifisashi",
+      "search": [
+        "ifisashi",
+        "zambian ifisashi"
+      ]
+    }
+  ],
+  "zw": [
+    {
+      "slug": "sadza",
+      "search": [
+        "sadza",
+        "sadza zimbabwe"
+      ]
+    }
   ]
 }

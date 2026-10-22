@@ -1520,5 +1520,1043 @@
         "fr-FR": "Une salade de tomate, de concombre et d'oignon, couverte de fromage râpé. On la sert fraîche en entrée."
       }
     }
+  ],
+  "ao": [
+    {
+      "slug": "calulu",
+      "plated": true,
+      "name": {
+        "pt-BR": "Calulu",
+        "en-GB": "Calulu",
+        "de-DE": "Calulu",
+        "fr-FR": "Calulu"
+      },
+      "note": {
+        "pt-BR": "O calulu é um ensopado de peixe com óleo de palma e folhas verdes. As pessoas comem o calulu com funge, um pirão macio de mandioca.",
+        "en-GB": "Calulu is a fish stew with palm oil and green leaves. People eat it with funge, a soft cassava porridge.",
+        "de-DE": "Calulu ist ein Fischeintopf mit Palmöl und grünen Blättern. Man isst es mit Funge, einem weichen Brei aus Maniok.",
+        "fr-FR": "Le calulu est un ragoût de poisson à l'huile de palme et aux feuilles. On le mange avec du funge, une bouillie de manioc."
+      }
+    }
+  ],
+  "bf": [
+    {
+      "slug": "babenda",
+      "plated": true,
+      "name": {
+        "pt-BR": "Babenda",
+        "en-GB": "Babenda",
+        "de-DE": "Babenda",
+        "fr-FR": "Babenda"
+      },
+      "note": {
+        "pt-BR": "O babenda mistura folhas verdes com milheto, um grão pequeno. As famílias comem com arroz em Burkina Faso.",
+        "en-GB": "Babenda mixes green leaves with millet, a small grain. Families in Burkina Faso eat it with rice.",
+        "de-DE": "Babenda mischt grüne Blätter mit Hirse, einem kleinen Korn. Familien in Burkina Faso essen es mit Reis.",
+        "fr-FR": "Le babenda mélange des feuilles vertes et du mil, une petite céréale. Les familles du Burkina Faso le mangent avec du riz."
+      }
+    },
+    {
+      "slug": "riz-gras",
+      "plated": true,
+      "name": {
+        "pt-BR": "Riz gras",
+        "en-GB": "Riz gras",
+        "de-DE": "Riz gras",
+        "fr-FR": "Riz gras"
+      },
+      "note": {
+        "pt-BR": "O riz gras é arroz cozido com tomate, cebola e carne. Na festa, as famílias servem esse prato para todos.",
+        "en-GB": "Riz gras is rice cooked with tomato, onion and meat. At parties, families in Burkina Faso serve it to everyone.",
+        "de-DE": "Für Riz gras kocht man Reis mit Tomate, Zwiebel und Fleisch. Bei Festen in Burkina Faso bekommen alle diesen Teller.",
+        "fr-FR": "On cuit le riz gras avec de la tomate, de l'oignon et de la viande. Pour les fêtes, les familles du Burkina Faso en servent à tous."
+      }
+    }
+  ],
+  "bj": [
+    {
+      "slug": "amiwo",
+      "plated": true,
+      "name": {
+        "pt-BR": "Amiwo",
+        "en-GB": "Amiwo",
+        "de-DE": "Amiwo",
+        "fr-FR": "Amiwo"
+      },
+      "note": {
+        "pt-BR": "O amiwo é uma massa de milho com tomate e pimentão. Em Benim, as famílias comem com frango ou peixe.",
+        "en-GB": "Amiwo is a corn dough cooked with tomato and pepper. In Benin, families eat it with chicken or fish.",
+        "de-DE": "Amiwo ist ein Maisteig, der mit Tomate und Paprika gart. In Benin essen Familien ihn mit Huhn oder Fisch.",
+        "fr-FR": "L'amiwo est une pâte de maïs cuite avec de la tomate et du piment. Au Bénin, les familles la mangent avec du poulet ou du poisson."
+      }
+    },
+    {
+      "slug": "akassa",
+      "plated": true,
+      "name": {
+        "pt-BR": "Akassa",
+        "en-GB": "Akassa",
+        "de-DE": "Akassa",
+        "fr-FR": "Akassa"
+      },
+      "note": {
+        "pt-BR": "O akassa é uma massa branca feita de milho fermentado. As pessoas comem com molho de tomate em Benim.",
+        "en-GB": "Akassa is a white dough made from fermented corn. People in Benin eat it with tomato sauce.",
+        "de-DE": "Akassa ist ein weißer Teig aus vergorenem Mais. In Benin isst man ihn mit Tomatensauce.",
+        "fr-FR": "L'akassa est une pâte blanche faite avec du maïs fermenté. Au Bénin, on la mange avec une sauce tomate."
+      }
+    }
+  ],
+  "cd": [
+    {
+      "slug": "moambe",
+      "plated": true,
+      "name": {
+        "pt-BR": "Moambe",
+        "en-GB": "Moambe",
+        "de-DE": "Moambe",
+        "fr-FR": "Moambe"
+      },
+      "note": {
+        "pt-BR": "O moambe é um ensopado de frango com molho de óleo de palma. A cor laranja vem do óleo de uma noz chamada dendê.",
+        "en-GB": "Moambe is a chicken stew with a palm nut sauce. The orange colour comes from the palm nut, a fruit with oily seeds.",
+        "de-DE": "Moambe ist ein Hühnereintopf mit einer Soße aus Palmöl. Die orange Farbe kommt von der Palmfrucht, einer Frucht mit öligen Kernen.",
+        "fr-FR": "Le moambe est un ragoût de poulet avec une sauce à l'huile de palme. La couleur orange vient de la noix de palme."
+      }
+    }
+  ],
+  "cf": [
+    {
+      "slug": "ngoundja",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ngoundja",
+        "en-GB": "Ngoundja",
+        "de-DE": "Ngoundja",
+        "fr-FR": "Ngoundja"
+      },
+      "note": {
+        "pt-BR": "O ngoundja é um prato de folhas de mandioca cozidas com carne ou peixe. Em sango, a língua do país, o nome fala de folhas verdes.",
+        "en-GB": "Ngoundja is cassava leaves cooked with meat or fish. In Sango, the language of the country, the name means green leaves.",
+        "de-DE": "Ngoundja sind Maniokblätter, die mit Fleisch oder Fisch gekocht werden. Auf Sango, der Sprache des Landes, bedeutet der Name grüne Blätter.",
+        "fr-FR": "Le ngoundja est un plat de feuilles de manioc cuites avec du poisson. En sango, la langue du pays, son nom veut dire feuilles vertes."
+      }
+    }
+  ],
+  "cg": [
+    {
+      "slug": "saka-saka",
+      "plated": true,
+      "name": {
+        "pt-BR": "Saka-saka",
+        "en-GB": "Saka-saka",
+        "de-DE": "Saka-saka",
+        "fr-FR": "Saka-saka"
+      },
+      "note": {
+        "pt-BR": "O saka-saka é um prato de folhas de mandioca cozidas com peixe. As folhas ficam macias e verdes depois de muito tempo no fogo.",
+        "en-GB": "Saka-saka is a dish of cassava leaves cooked with fish. The leaves turn soft and dark green after long cooking.",
+        "de-DE": "Saka-saka ist ein Gericht aus Maniokblättern, die mit Fisch gekocht werden. Die Blätter werden weich und dunkelgrün, wenn sie lange kochen.",
+        "fr-FR": "Le saka-saka est un plat de feuilles de manioc cuites avec du poisson. Les feuilles deviennent tendres et vert foncé après une longue cuisson."
+      }
+    }
+  ],
+  "ci": [
+    {
+      "slug": "attieke",
+      "plated": true,
+      "name": {
+        "pt-BR": "Attiéké",
+        "en-GB": "Attiéké",
+        "de-DE": "Attiéké",
+        "fr-FR": "Attiéké"
+      },
+      "note": {
+        "pt-BR": "O attiéké vem da mandioca, uma raiz que cresce na terra. Na Costa do Marfim, as pessoas comem com peixe frito.",
+        "en-GB": "Attiéké is made from cassava, a root that grows in the ground. In Ivory Coast, people eat it with fried fish.",
+        "de-DE": "Attiéké wird aus Maniok gemacht, einer Wurzel aus der Erde. In der Elfenbeinküste isst man es mit gebratenem Fisch.",
+        "fr-FR": "L'attiéké est fait avec du manioc, une racine qui pousse dans la terre. En Côte d'Ivoire, on le mange avec du poisson frit."
+      }
+    },
+    {
+      "slug": "alloco",
+      "plated": false,
+      "name": {
+        "pt-BR": "Alloco",
+        "en-GB": "Alloco",
+        "de-DE": "Alloco",
+        "fr-FR": "Alloco"
+      },
+      "note": {
+        "pt-BR": "O alloco é banana-da-terra frita em fatias douradas. As pessoas comem como lanche na Costa do Marfim.",
+        "en-GB": "Alloco is fried plantain, a banana you cook before eating. In Ivory Coast, people eat it as a hot snack.",
+        "de-DE": "Alloco sind frittierte Kochbananen, also Bananen, die man zuerst gart. In der Elfenbeinküste isst man sie heiß als Snack.",
+        "fr-FR": "L'alloco, ce sont des bananes plantain frites, une banane qu'on cuit avant. En Côte d'Ivoire, on en mange comme en-cas."
+      }
+    }
+  ],
+  "cm": [
+    {
+      "slug": "ndole",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ndolè",
+        "en-GB": "Ndolè",
+        "de-DE": "Ndolè",
+        "fr-FR": "Ndolè"
+      },
+      "note": {
+        "pt-BR": "O ndolè é um ensopado verde feito com folhas amargas. As pessoas comem com banana-da-terra em Camarões.",
+        "en-GB": "Ndolè is a green stew made with bitter leaves. People in Cameroon eat it with fried plantain.",
+        "de-DE": "Ndolè ist ein grüner Eintopf aus bitteren Blättern. In Kamerun isst man ihn mit frittierten Kochbananen.",
+        "fr-FR": "Le ndolè est un ragoût vert fait avec des feuilles amères. Au Cameroun, on le mange avec des bananes plantain frites."
+      }
+    },
+    {
+      "slug": "poulet-dg",
+      "plated": true,
+      "name": {
+        "pt-BR": "Poulet DG",
+        "en-GB": "Poulet DG",
+        "de-DE": "Poulet DG",
+        "fr-FR": "Poulet DG"
+      },
+      "note": {
+        "pt-BR": "O poulet DG é frango dourado com banana-da-terra frita. Em Camarões, as famílias servem este prato em dias especiais.",
+        "en-GB": "Poulet DG is golden chicken with fried plantain. In Cameroon, families serve this dish on special days.",
+        "de-DE": "Poulet DG ist goldbraunes Huhn mit frittierten Kochbananen. In Kamerun servieren Familien dieses Gericht an besonderen Tagen.",
+        "fr-FR": "Le poulet DG, c'est du poulet doré avec des bananes plantain frites. Au Cameroun, les familles servent ce plat les jours de fête."
+      }
+    }
+  ],
+  "cv": [
+    {
+      "slug": "cachupa",
+      "plated": true,
+      "name": {
+        "pt-BR": "Cachupa",
+        "en-GB": "Cachupa",
+        "de-DE": "Cachupa",
+        "fr-FR": "Cachupa"
+      },
+      "note": {
+        "pt-BR": "A cachupa junta milho, feijão e legumes num caldo grosso. As famílias comem este prato quente em Cabo Verde.",
+        "en-GB": "Cachupa is a thick stew made with corn, beans and vegetables. Families in Cabo Verde often eat this warm dish at lunch.",
+        "de-DE": "Cachupa ist ein dicker Eintopf mit Mais, Bohnen und Gemüse. Familien in Cabo Verde essen dieses warme Gericht oft zu Mittag.",
+        "fr-FR": "La cachupa est un ragoût épais avec du maïs, des haricots et des légumes. Les familles du Cap-Vert mangent ce plat chaud à midi."
+      }
+    }
+  ],
+  "dz": [
+    {
+      "slug": "couscous",
+      "plated": true,
+      "name": {
+        "pt-BR": "Couscous",
+        "en-GB": "Couscous",
+        "de-DE": "Couscous",
+        "fr-FR": "Couscous"
+      },
+      "note": {
+        "pt-BR": "Nas sextas-feiras, os argelinos comem couscous com carne e legumes. Um caldo apimentado molha a semolina e os legumes.",
+        "en-GB": "On Fridays, Algerians eat couscous with meat and vegetables. A spicy broth soaks into the semolina and the vegetables.",
+        "de-DE": "Freitags essen Algerier Couscous mit Fleisch und Gemüse. Eine scharfe Brühe zieht in den Grieß und das Gemüse.",
+        "fr-FR": "Le vendredi, les Algériens mangent du couscous avec de la viande. Un bouillon épicé mouille les légumes et la semoule."
+      }
+    },
+    {
+      "slug": "merguez",
+      "plated": true,
+      "name": {
+        "pt-BR": "Merguez",
+        "en-GB": "Merguez",
+        "de-DE": "Merguez",
+        "fr-FR": "Merguez"
+      },
+      "note": {
+        "pt-BR": "A merguez é uma linguiça fina de carneiro ou boi, temperada com pimenta. As pessoas grelham e comem com pão ou couscous.",
+        "en-GB": "Merguez are thin sausages made from lamb or beef, spiced with hot pepper. People grill them and eat them with bread or couscous.",
+        "de-DE": "Merguez sind dünne Würste aus Lamm- oder Rindfleisch, gewürzt mit scharfem Paprika. Man grillt sie und isst sie mit Brot oder Couscous.",
+        "fr-FR": "La merguez est une saucisse fine d'agneau ou de bœuf, relevée au piment. On la grille et on la mange avec du pain ou du couscous."
+      }
+    }
+  ],
+  "eg": [
+    {
+      "slug": "ful-medames",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ful medames",
+        "en-GB": "Ful medames",
+        "de-DE": "Ful medames",
+        "fr-FR": "Ful medames"
+      },
+      "note": {
+        "pt-BR": "O ful medames é um ensopado grosso de feijão marrom, cozido bem devagar. Os egípcios comem no café da manhã com pão quente.",
+        "en-GB": "Ful medames is a thick stew of brown beans, cooked very slowly. Egyptians eat it for breakfast with warm bread.",
+        "de-DE": "Ful medames ist ein dicker Eintopf aus braunen Bohnen, sehr langsam gekocht. In Ägypten isst man ihn zum Frühstück mit warmem Brot.",
+        "fr-FR": "Le ful medames est un ragoût épais de fèves brunes, cuit très lentement. Les Égyptiens le mangent au petit-déjeuner avec du pain chaud."
+      }
+    }
+  ],
+  "er": [
+    {
+      "slug": "injera",
+      "plated": false,
+      "name": {
+        "pt-BR": "Injera",
+        "en-GB": "Injera",
+        "de-DE": "Injera",
+        "fr-FR": "Injera"
+      },
+      "note": {
+        "pt-BR": "A injera é um pão achatado e ácido, feito de teff. As pessoas comem a injera com ensopados colocados por cima.",
+        "en-GB": "Injera is a flat, sour bread made from teff. People eat injera with stews spooned on top.",
+        "de-DE": "Injera ist ein flaches, säuerliches Brot aus Teff. Man legt verschiedene Eintöpfe darauf und isst mit den Händen.",
+        "fr-FR": "L'injera est un pain plat et un peu acide, fait avec du teff. On pose des ragoûts dessus et on mange avec les doigts."
+      }
+    }
+  ],
+  "et": [
+    {
+      "slug": "injera",
+      "plated": false,
+      "name": {
+        "pt-BR": "Injera",
+        "en-GB": "Injera",
+        "de-DE": "Injera",
+        "fr-FR": "Injera"
+      },
+      "note": {
+        "pt-BR": "A injera é um pão achatado e macio, feito com teff, um cereal pequeno. As pessoas usam a injera como prato e como colher.",
+        "en-GB": "Injera is a soft flatbread made from teff, a tiny grain. People use injera as a plate and as a spoon.",
+        "de-DE": "Injera ist ein weiches Fladenbrot aus Teff, einem sehr kleinen Getreidekorn. Man legt das Essen darauf und isst alles mit der Hand.",
+        "fr-FR": "L'injera est un pain plat et moelleux, fait avec du teff, une petite céréale. On pose les plats dessus et on mange avec les doigts."
+      }
+    },
+    {
+      "slug": "doro-wat",
+      "plated": false,
+      "name": {
+        "pt-BR": "Doro wat",
+        "en-GB": "Doro wat",
+        "de-DE": "Doro wat",
+        "fr-FR": "Doro wat"
+      },
+      "note": {
+        "pt-BR": "O doro wat é um ensopado picante de frango, com ovos cozidos. A palavra amárica wat quer dizer ensopado, um cozido com molho.",
+        "en-GB": "Doro wat is a spicy chicken stew with whole boiled eggs. Wat is the Amharic word for a stew, a slow-cooked dish.",
+        "de-DE": "Doro wat ist ein scharfes Hühnergericht mit ganzen gekochten Eiern. Wat ist das amharische Wort für einen Eintopf.",
+        "fr-FR": "Le doro wat est un ragoût de poulet épicé, avec des œufs durs entiers. En amharique, le mot wat veut dire ragoût, un plat mijoté."
+      }
+    }
+  ],
+  "gh": [
+    {
+      "slug": "kenkey",
+      "plated": true,
+      "name": {
+        "pt-BR": "Kenkey",
+        "en-GB": "Kenkey",
+        "de-DE": "Kenkey",
+        "fr-FR": "Kenkey"
+      },
+      "note": {
+        "pt-BR": "O kenkey é uma massa de milho fermentado, cozida em folhas. Em Gana, as pessoas comem com peixe e pimenta.",
+        "en-GB": "Kenkey is fermented corn dough, cooked inside leaves. In Ghana, people eat it with fish and pepper.",
+        "de-DE": "Kenkey ist vergorener Maisteig, der in Blättern gart. In Ghana isst man ihn mit Fisch und Pfeffer.",
+        "fr-FR": "Le kenkey est une pâte de maïs fermenté, cuite dans des feuilles. Au Ghana, on le mange avec du poisson et du piment."
+      }
+    },
+    {
+      "slug": "waakye",
+      "plated": true,
+      "name": {
+        "pt-BR": "Waakye",
+        "en-GB": "Waakye",
+        "de-DE": "Waakye",
+        "fr-FR": "Waakye"
+      },
+      "note": {
+        "pt-BR": "O waakye é arroz cozido com feijão, que deixa o arroz roxo. Em Gana, as pessoas comem com ovo e molho.",
+        "en-GB": "Waakye is rice cooked with beans, which turns the rice purple. In Ghana, people eat it with egg and sauce.",
+        "de-DE": "Waakye ist Reis, der mit Bohnen kocht und dadurch lila wird. In Ghana isst man ihn mit Ei und Sauce.",
+        "fr-FR": "Le waakye est du riz cuit avec des haricots, ce qui le colore en violet. Au Ghana, on le mange avec un œuf et de la sauce."
+      }
+    }
+  ],
+  "gn": [
+    {
+      "slug": "mafe",
+      "plated": true,
+      "name": {
+        "pt-BR": "Mafé",
+        "en-GB": "Mafé",
+        "de-DE": "Mafé",
+        "fr-FR": "Mafé"
+      },
+      "note": {
+        "pt-BR": "O mafé é um molho grosso feito de amendoim moído. As pessoas cozinham frango ou peixe nele e comem com arroz.",
+        "en-GB": "Mafé is a thick sauce made from ground peanuts. People cook chicken or fish in it and eat it with rice.",
+        "de-DE": "Mafé ist eine dicke Sauce aus gemahlenen Erdnüssen. Man kocht Hähnchen oder Fisch darin und isst Reis dazu.",
+        "fr-FR": "Le mafé est une sauce épaisse à base d'arachides broyées. On y cuit du poulet ou du poisson et on mange avec du riz."
+      }
+    },
+    {
+      "slug": "riz-gras",
+      "plated": true,
+      "name": {
+        "pt-BR": "Riz gras",
+        "en-GB": "Riz gras",
+        "de-DE": "Riz gras",
+        "fr-FR": "Riz gras"
+      },
+      "note": {
+        "pt-BR": "Riz gras quer dizer arroz gordo, feito com óleo, tomate e carne. O arroz fica dourado e cheira a cebola.",
+        "en-GB": "Riz gras means fat rice, and cooks make it with oil, tomato and meat. The rice turns golden and smells of onions.",
+        "de-DE": "Riz gras bedeutet fetter Reis, und Köche machen ihn mit Öl, Tomate und Fleisch. Der Reis wird golden und riecht nach Zwiebeln.",
+        "fr-FR": "Le riz gras cuit avec de l'huile, de la tomate et de la viande. Le riz devient doré et il sent l'oignon."
+      }
+    }
+  ],
+  "gw": [
+    {
+      "slug": "caldo-branco",
+      "plated": true,
+      "name": {
+        "pt-BR": "Caldo branco",
+        "en-GB": "Caldo branco",
+        "de-DE": "Caldo branco",
+        "fr-FR": "Caldo branco"
+      },
+      "note": {
+        "pt-BR": "Caldo branco quer dizer caldo claro, e os cozinheiros fazem com peixe e arroz. É uma refeição quente e forte para a família toda.",
+        "en-GB": "Caldo branco means white broth, and cooks make it with fish and rice. It is a warm, filling meal for the whole family.",
+        "de-DE": "Caldo branco heißt helle Brühe, und Köche machen sie mit Fisch und Reis. Es ist eine warme, sättigende Mahlzeit für die ganze Familie.",
+        "fr-FR": "Caldo branco veut dire bouillon clair, avec du poisson et du riz. C'est un repas chaud et nourrissant pour toute la famille."
+      }
+    }
+  ],
+  "ke": [
+    {
+      "slug": "ugali",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ugali",
+        "en-GB": "Ugali",
+        "de-DE": "Ugali",
+        "fr-FR": "Ugali"
+      },
+      "note": {
+        "pt-BR": "O ugali é um pirão firme de milho, cortado em pedaços. As pessoas comem o ugali com verduras e molho.",
+        "en-GB": "Ugali is a stiff maize porridge, cut into pieces. People eat ugali with green vegetables and a sauce.",
+        "de-DE": "Ugali ist ein fester Brei aus Mais, der in Stücke geschnitten wird. Man isst Ugali mit grünem Gemüse und einer Soße.",
+        "fr-FR": "L'ugali est une bouillie ferme de maïs, coupée en morceaux. On mange l'ugali avec des légumes verts et une sauce."
+      }
+    },
+    {
+      "slug": "sukuma-wiki",
+      "plated": true,
+      "name": {
+        "pt-BR": "Sukuma wiki",
+        "en-GB": "Sukuma wiki",
+        "de-DE": "Sukuma wiki",
+        "fr-FR": "Sukuma wiki"
+      },
+      "note": {
+        "pt-BR": "Sukuma wiki são folhas verdes cozidas com cebola e tomate. O nome significa empurrar a semana, porque a verdura dura mais.",
+        "en-GB": "Sukuma wiki is green leaves cooked with onion and tomato. The name means push the week, because the greens make food last longer.",
+        "de-DE": "Sukuma wiki sind grüne Blätter, mit Zwiebel und Tomate gekocht. Der Name bedeutet die Woche schieben, weil das Gemüse länger reicht.",
+        "fr-FR": "Le sukuma wiki, ce sont des feuilles vertes cuites avec des oignons. Son nom veut dire pousser la semaine, car ces légumes durent longtemps."
+      }
+    }
+  ],
+  "lr": [
+    {
+      "slug": "torborgee",
+      "plated": true,
+      "name": {
+        "pt-BR": "Torborgee",
+        "en-GB": "Torborgee",
+        "de-DE": "Torborgee",
+        "fr-FR": "Torborgee"
+      },
+      "note": {
+        "pt-BR": "O torborgee é arroz com molho vermelho de dendê. Em Libéria, as famílias comem este prato quase todos os dias.",
+        "en-GB": "Torborgee is rice with a red palm nut sauce. Families in Liberia eat this dish almost every day.",
+        "de-DE": "Torborgee ist Reis mit einer roten Sauce aus Palmnüssen. In Liberia essen Familien dieses Gericht fast jeden Tag.",
+        "fr-FR": "Le torborgee, c'est du riz avec une sauce rouge de noix de palme. Au Liberia, les familles mangent ce plat presque chaque jour."
+      }
+    }
+  ],
+  "ly": [
+    {
+      "slug": "couscous",
+      "plated": true,
+      "name": {
+        "pt-BR": "Couscous",
+        "en-GB": "Couscous",
+        "de-DE": "Couscous",
+        "fr-FR": "Couscous"
+      },
+      "note": {
+        "pt-BR": "Os líbios colocam berinjela frita e pimentão verde por cima do couscous quente. Esses legumes deixam a refeição bem completa para a família.",
+        "en-GB": "Libyans pile fried aubergine and green pepper on top of steaming couscous. The vegetables make it a filling family meal.",
+        "de-DE": "Libyer legen gebratene Auberginen und grüne Paprika auf den heißen Couscous. Dieses Gemüse macht die Mahlzeit für die Familie sättigend.",
+        "fr-FR": "Les Libyens posent des aubergines frites et des poivrons verts sur le couscous chaud. Ces légumes rendent le repas nourrissant pour toute la famille."
+      }
+    }
+  ],
+  "ma": [
+    {
+      "slug": "tajine",
+      "plated": true,
+      "name": {
+        "pt-BR": "Tajine",
+        "en-GB": "Tagine",
+        "de-DE": "Tajine",
+        "fr-FR": "Tajine"
+      },
+      "note": {
+        "pt-BR": "Os marroquinos cozinham carne e legumes devagar num prato de barro com tampa alta. O prato e a tampa juntos chamam-se tajine.",
+        "en-GB": "Moroccans cook meat and vegetables slowly in a clay dish with a tall lid. The dish and its lid together are called a tajine.",
+        "de-DE": "Marokkaner kochen Fleisch und Gemüse langsam in einem Tontopf mit hohem Deckel. Topf und Deckel heißen zusammen Tajine und halten das Essen warm.",
+        "fr-FR": "Les Marocains cuisinent viande et légumes lentement dans un plat en terre cuite. Ce plat, avec son haut couvercle, s'appelle une tajine."
+      }
+    },
+    {
+      "slug": "couscous",
+      "plated": true,
+      "name": {
+        "pt-BR": "Couscous",
+        "en-GB": "Couscous",
+        "de-DE": "Couscous",
+        "fr-FR": "Couscous"
+      },
+      "note": {
+        "pt-BR": "Os marroquinos fazem o couscous com bolinhas de sêmola, uma farinha de trigo. Eles cozinham as bolinhas no vapor, em cima de carne e legumes.",
+        "en-GB": "Moroccans make couscous from tiny balls of semolina, a kind of wheat flour. They steam the balls over a pot of meat and vegetables.",
+        "de-DE": "Marokkaner machen Couscous aus kleinen Kügelchen aus Grieß, einem Mehl aus Weizen. Sie dämpfen die Kügelchen über Fleisch und Gemüse.",
+        "fr-FR": "Les Marocains préparent le couscous avec de petites boules de semoule de blé. Ils les cuisent à la vapeur au-dessus d'un ragoût."
+      }
+    },
+    {
+      "slug": "harira",
+      "plated": true,
+      "name": {
+        "pt-BR": "Harira",
+        "en-GB": "Harira",
+        "de-DE": "Harira",
+        "fr-FR": "Harira"
+      },
+      "note": {
+        "pt-BR": "A harira é uma sopa grossa de tomate, lentilha e grão-de-bico. Muitas famílias no Marrocos comem harira no Ramadã, o mês do jejum de dia.",
+        "en-GB": "Harira is a thick soup with tomatoes, lentils and chickpeas. Many families in Morocco eat it in Ramadan, the month of daytime fasting.",
+        "de-DE": "Harira ist eine dicke Suppe aus Tomaten, Linsen und Kichererbsen. Viele Familien in Marokko essen sie im Ramadan, dem Monat des Fastens am Tag.",
+        "fr-FR": "La harira est une soupe épaisse de tomates, lentilles et pois chiches. Au Maroc, beaucoup de familles en mangent pendant le ramadan, le mois du jeûne."
+      }
+    }
+  ],
+  "mg": [
+    {
+      "slug": "mofo-gasy",
+      "plated": false,
+      "name": {
+        "pt-BR": "Mofo gasy",
+        "en-GB": "Mofo gasy",
+        "de-DE": "Mofo gasy",
+        "fr-FR": "Mofo gasy"
+      },
+      "note": {
+        "pt-BR": "Bolinhos redondos de arroz, dourados numa forma e cobertos com açúcar. Em Madagascar, as pessoas comem no café da manhã, com café.",
+        "en-GB": "Small round rice cakes, browned in a pan and topped with sugar. In Madagascar people eat them for breakfast, with coffee.",
+        "de-DE": "Kleine runde Reisküchlein, in einer Form gebacken und mit Zucker bestreut. In Madagaskar isst man sie zum Frühstück, mit Kaffee.",
+        "fr-FR": "De petits gâteaux ronds au riz, dorés dans un moule et couverts de sucre. À Madagascar, on les mange au petit déjeuner, avec du café."
+      }
+    }
+  ],
+  "ml": [
+    {
+      "slug": "maafe",
+      "plated": true,
+      "name": {
+        "pt-BR": "Maafé",
+        "en-GB": "Maafé",
+        "de-DE": "Maafé",
+        "fr-FR": "Maafé"
+      },
+      "note": {
+        "pt-BR": "O maafé é um molho de amendoim com carne e legumes. Em Mali, as famílias comem com arroz branco.",
+        "en-GB": "Maafé is a peanut sauce with meat and vegetables. In Mali, families eat it with white rice.",
+        "de-DE": "Maafé ist eine Sauce aus Erdnüssen mit Fleisch und Gemüse. In Mali essen Familien sie mit weißem Reis.",
+        "fr-FR": "Le maafé est une sauce aux arachides avec de la viande et des légumes. Au Mali, les familles le mangent avec du riz blanc."
+      }
+    },
+    {
+      "slug": "to",
+      "plated": true,
+      "name": {
+        "pt-BR": "Tô",
+        "en-GB": "Tô",
+        "de-DE": "Tô",
+        "fr-FR": "Tô"
+      },
+      "note": {
+        "pt-BR": "O tô é uma pasta de milheto, um grão bem pequeno. As pessoas comem com molho de folhas em Mali.",
+        "en-GB": "Tô is a stiff paste made from millet, a tiny grain. People in Mali eat it with a leaf sauce.",
+        "de-DE": "Tô ist ein fester Brei aus Hirse, einem winzigen Korn. In Mali isst man ihn mit einer Sauce aus Blättern.",
+        "fr-FR": "Le tô est une pâte faite avec du mil, une très petite céréale. Au Mali, on le mange avec une sauce aux feuilles."
+      }
+    }
+  ],
+  "mr": [
+    {
+      "slug": "thieboudienne",
+      "plated": true,
+      "name": {
+        "pt-BR": "Thieboudienne",
+        "en-GB": "Thieboudienne",
+        "de-DE": "Thieboudienne",
+        "fr-FR": "Thieboudienne"
+      },
+      "note": {
+        "pt-BR": "Os mauritanos dividem este prato de arroz e peixe numa travessa larga. Todos comem da mesma travessa com a mão direita.",
+        "en-GB": "Mauritanians share this rice and fish dish from one wide plate. Everyone eats from the same plate with their right hand.",
+        "de-DE": "Mauretanier teilen dieses Gericht aus Reis und Fisch auf einer breiten Platte. Alle essen von derselben Platte mit der rechten Hand.",
+        "fr-FR": "Les Mauritaniens partagent ce plat de riz et de poisson sur un grand plateau. Tout le monde mange sur le même plateau avec la main droite."
+      }
+    }
+  ],
+  "mu": [
+    {
+      "slug": "dholl-puri",
+      "plated": false,
+      "name": {
+        "pt-BR": "Dholl puri",
+        "en-GB": "Dholl puri",
+        "de-DE": "Dholl puri",
+        "fr-FR": "Dholl puri"
+      },
+      "note": {
+        "pt-BR": "Um pão fino recheado com ervilha seca amarela e curry. As pessoas comem com as mãos, como um sanduíche.",
+        "en-GB": "A thin flatbread filled with yellow split peas and curry. People in Mauritius eat it with their hands, like a sandwich.",
+        "de-DE": "Ein dünnes Fladenbrot, gefüllt mit gelben Schälerbsen und Curry. Man isst es mit den Händen, wie ein Sandwich.",
+        "fr-FR": "Une galette fine fourrée de pois cassés jaunes et de curry. On la mange avec les mains, comme un sandwich."
+      }
+    }
+  ],
+  "mz": [
+    {
+      "slug": "caril-de-camarao",
+      "plated": true,
+      "name": {
+        "pt-BR": "Caril de camarão",
+        "en-GB": "Caril de camarão",
+        "de-DE": "Caril de camarão",
+        "fr-FR": "Caril de camarão"
+      },
+      "note": {
+        "pt-BR": "Camarões grandes cozidos num molho laranja com especiarias. Os cozinheiros servem o prato com arroz branco.",
+        "en-GB": "Prawns cooked in an orange sauce with spices. Cooks in Mozambique serve it with white rice.",
+        "de-DE": "Garnelen, in einer orangefarbenen Sauce mit Gewürzen gekocht. Man serviert dazu weißen Reis auf dem Teller.",
+        "fr-FR": "Des crevettes cuites dans une sauce orange avec des épices. On les sert avec une portion de riz blanc."
+      }
+    }
+  ],
+  "na": [
+    {
+      "slug": "oshifima",
+      "plated": true,
+      "name": {
+        "pt-BR": "Oshifima",
+        "en-GB": "Oshifima",
+        "de-DE": "Oshifima",
+        "fr-FR": "Oshifima"
+      },
+      "note": {
+        "pt-BR": "Um pirão grosso de milhete, servido com leite. Na Namíbia, muitas famílias comem com as mãos.",
+        "en-GB": "A thick porridge made from pearl millet, served with milk. In Namibia, many families eat it with their hands.",
+        "de-DE": "Ein dicker Brei aus Perlhirse, mit Milch serviert. In Namibia essen ihn viele Familien mit den Händen.",
+        "fr-FR": "Une bouillie épaisse de millet perlé, servie avec du lait. En Namibie, beaucoup de familles la mangent avec les mains."
+      }
+    }
+  ],
+  "ne": [
+    {
+      "slug": "dambou",
+      "plated": true,
+      "name": {
+        "pt-BR": "Dambou",
+        "en-GB": "Dambou",
+        "de-DE": "Dambou",
+        "fr-FR": "Dambou"
+      },
+      "note": {
+        "pt-BR": "O dambou é um cuscuz leve com folhas verdes e carne. No Níger, as pessoas comem em dias de festa.",
+        "en-GB": "Dambou is a light couscous with green leaves and meat. In Niger, people eat it on special days.",
+        "de-DE": "Dambou ist ein leichter Couscous mit grünen Blättern und Fleisch. Im Niger isst man ihn an besonderen Tagen.",
+        "fr-FR": "Le dambou est un couscous léger avec des feuilles vertes et de la viande. Au Niger, on en mange les jours de fête."
+      }
+    },
+    {
+      "slug": "kilishi",
+      "plated": true,
+      "name": {
+        "pt-BR": "Kilishi",
+        "en-GB": "Kilishi",
+        "de-DE": "Kilishi",
+        "fr-FR": "Kilishi"
+      },
+      "note": {
+        "pt-BR": "O kilishi é carne seca e fina com amendoim e especiarias. As crianças compram como lanche no Níger.",
+        "en-GB": "Kilishi is thin dried meat with peanuts and spices. Children in Niger buy it as a crunchy snack.",
+        "de-DE": "Kilishi ist dünnes, getrocknetes Fleisch mit Erdnüssen und Gewürzen. Kinder im Niger kaufen es als Snack.",
+        "fr-FR": "Le kilishi est de la viande séchée avec des arachides et des épices. Au Niger, les enfants en achètent comme en-cas."
+      }
+    }
+  ],
+  "ng": [
+    {
+      "slug": "jollof-rice",
+      "plated": true,
+      "name": {
+        "pt-BR": "Jollof",
+        "en-GB": "Jollof rice",
+        "de-DE": "Jollof-Reis",
+        "fr-FR": "Riz jollof"
+      },
+      "note": {
+        "pt-BR": "O jollof é arroz cozido num molho de tomate bem vermelho. Na Nigéria, as famílias servem em festas.",
+        "en-GB": "Jollof is rice cooked in a bright red tomato sauce. Families in Nigeria serve it at parties.",
+        "de-DE": "Jollof ist Reis, der in einer roten Tomatensauce gart. In Nigeria servieren Familien ihn auf Festen.",
+        "fr-FR": "Le jollof est du riz cuit dans une sauce tomate bien rouge. Au Nigeria, les familles en servent aux fêtes."
+      }
+    },
+    {
+      "slug": "egusi-soup",
+      "plated": true,
+      "name": {
+        "pt-BR": "Egusi",
+        "en-GB": "Egusi soup",
+        "de-DE": "Egusi-Suppe",
+        "fr-FR": "Soupe egusi"
+      },
+      "note": {
+        "pt-BR": "O egusi é um ensopado grosso feito com sementes de melão. As pessoas comem com uma massa de inhame.",
+        "en-GB": "Egusi is a thick stew made from melon seeds. People in Nigeria eat it with pounded yam.",
+        "de-DE": "Egusi ist ein dicker Eintopf aus Melonenkernen. In Nigeria isst man ihn mit Yam, einer großen Wurzel.",
+        "fr-FR": "L'egusi est un ragoût épais fait avec des graines de melon. Au Nigeria, on le mange avec de l'igname écrasée."
+      }
+    }
+  ],
+  "rw": [
+    {
+      "slug": "brochettes",
+      "plated": true,
+      "name": {
+        "pt-BR": "Brochettes",
+        "en-GB": "Brochettes",
+        "de-DE": "Brochettes",
+        "fr-FR": "Brochettes"
+      },
+      "note": {
+        "pt-BR": "Brochettes são pedaços de carne assados em um espeto de madeira. Na mesa, a carne vem com banana-da-terra assada ou frita.",
+        "en-GB": "Brochettes are pieces of meat cooked on a wooden stick. People eat them with fried or roasted plantain.",
+        "de-DE": "Brochettes sind Fleischstücke, die auf einem Holzstab gegrillt werden. Dazu gibt es Kochbananen, die gebraten oder geröstet werden.",
+        "fr-FR": "Les brochettes sont des morceaux de viande grillés sur une tige en bois. On les mange avec des bananes plantains frites."
+      }
+    }
+  ],
+  "sn": [
+    {
+      "slug": "thieboudienne",
+      "plated": true,
+      "name": {
+        "pt-BR": "Thieboudienne",
+        "en-GB": "Thieboudienne",
+        "de-DE": "Thieboudienne",
+        "fr-FR": "Thieboudienne"
+      },
+      "note": {
+        "pt-BR": "As famílias senegalesas cozinham peixe, arroz e legumes juntos numa panela grande. O arroz fica vermelho com o tomate e vai para uma travessa larga.",
+        "en-GB": "Senegalese families cook fish, rice and vegetables together in one big pot. The rice turns red from tomato and is served on a wide platter.",
+        "de-DE": "Senegalesische Familien kochen Fisch, Reis und Gemüse zusammen in einem großen Topf. Der Reis wird durch Tomaten rot und kommt auf eine breite Platte.",
+        "fr-FR": "Les familles sénégalaises cuisent poisson, riz et légumes dans un grand pot. Le riz devient rouge avec la tomate et arrive sur un grand plat."
+      }
+    },
+    {
+      "slug": "yassa",
+      "plated": true,
+      "name": {
+        "pt-BR": "Yassa",
+        "en-GB": "Yassa",
+        "de-DE": "Yassa",
+        "fr-FR": "Yassa"
+      },
+      "note": {
+        "pt-BR": "O yassa é frango ou peixe com cebola, limão e mostarda. Os cozinheiros põem o molho sobre o arroz e servem no prato.",
+        "en-GB": "Yassa is chicken or fish with onions, lemon and mustard. Cooks pour the sauce over rice and serve it on a plate.",
+        "de-DE": "Yassa ist Hähnchen oder Fisch mit Zwiebeln, Zitrone und Senf. Die Köche gießen die Sauce über den Reis und servieren sie auf einem Teller.",
+        "fr-FR": "Le yassa, c'est du poulet ou du poisson avec des oignons et du citron. Les cuisiniers versent la sauce sur le riz et servent sur une assiette."
+      }
+    }
+  ],
+  "so": [
+    {
+      "slug": "baasto-suugo",
+      "plated": true,
+      "name": {
+        "pt-BR": "Baasto suugo",
+        "en-GB": "Baasto suugo",
+        "de-DE": "Baasto suugo",
+        "fr-FR": "Baasto suugo"
+      },
+      "note": {
+        "pt-BR": "Espaguete coberto com suugo, um molho grosso de carne e tomate. Muitas famílias somalis comem o prato com banana.",
+        "en-GB": "Spaghetti covered with suugo, a thick meat and tomato sauce. Many Somali families eat it with a banana.",
+        "de-DE": "Spaghetti mit Suugo, einer dicken Sauce aus Fleisch und Tomaten. Viele somalische Familien essen gern eine Banane dazu.",
+        "fr-FR": "Des spaghettis nappés de suugo, une sauce épaisse à la viande et aux tomates. Beaucoup de familles somaliennes les mangent avec de la banane."
+      }
+    },
+    {
+      "slug": "fahfah",
+      "plated": true,
+      "name": {
+        "pt-BR": "Fahfah",
+        "en-GB": "Fahfah",
+        "de-DE": "Fahfah",
+        "fr-FR": "Fahfah"
+      },
+      "note": {
+        "pt-BR": "Uma sopa picante com carne de cabra, legumes e banana. Famílias somalis servem com pão achatado e molho verde.",
+        "en-GB": "A spicy soup with goat meat, vegetables and banana. Somali families serve it with flatbread and green sauce.",
+        "de-DE": "Eine scharfe Suppe mit Ziegenfleisch, Gemüse und Banane. Somalische Familien essen Fladenbrot und grüne Sauce dazu.",
+        "fr-FR": "Une soupe épicée avec de la chèvre, des légumes et de la banane. Les familles somaliennes la servent avec du pain plat et une sauce verte."
+      }
+    }
+  ],
+  "td": [
+    {
+      "slug": "boule",
+      "plated": true,
+      "name": {
+        "pt-BR": "Boule",
+        "en-GB": "Boule",
+        "de-DE": "Boule",
+        "fr-FR": "Boule"
+      },
+      "note": {
+        "pt-BR": "A boule é uma bola firme de milho ou milheto, cozida e amassada. As pessoas molham a boule num molho de quiabo chamado gombo.",
+        "en-GB": "Boule is a firm ball of millet or maize, boiled and mashed. People dip boule into gombo, a dark sauce made from okra.",
+        "de-DE": "Boule ist eine feste Kugel aus Hirse oder Mais, die gekocht und zerdrückt wird. Man taucht sie in Gombo, eine dunkle Soße aus Okra.",
+        "fr-FR": "La boule est une boule ferme de mil ou de maïs, cuite et écrasée. On la trempe dans le gombo, une sauce sombre faite avec de l'okra."
+      }
+    }
+  ],
+  "tg": [
+    {
+      "slug": "fufu",
+      "plated": true,
+      "name": {
+        "pt-BR": "Fufu",
+        "en-GB": "Fufu",
+        "de-DE": "Fufu",
+        "fr-FR": "Fufu"
+      },
+      "note": {
+        "pt-BR": "O fufu é uma massa macia feita de inhame, uma raiz grande. Em Togo, as pessoas comem com molho de amendoim.",
+        "en-GB": "Fufu is a soft dough made from yam, a big root. In Togo, people eat it with peanut sauce.",
+        "de-DE": "Fufu ist ein weicher Teig aus Yam, einer großen Wurzel. In Togo isst man ihn mit Erdnusssauce.",
+        "fr-FR": "Le fufu est une pâte molle faite avec de l'igname, une grosse racine. Au Togo, on le mange avec une sauce à l'arachide."
+      }
+    },
+    {
+      "slug": "ayimolou",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ayimolou",
+        "en-GB": "Ayimolou",
+        "de-DE": "Ayimolou",
+        "fr-FR": "Ayimolou"
+      },
+      "note": {
+        "pt-BR": "O ayimolou junta arroz e feijão num prato só. Em Togo, as pessoas comem com molho de tomate e cebola.",
+        "en-GB": "Ayimolou mixes rice and beans in one dish. In Togo, people eat it with a tomato and onion sauce.",
+        "de-DE": "Ayimolou mischt Reis und Bohnen in einem Gericht. In Togo isst man es mit einer Sauce aus Tomate und Zwiebel.",
+        "fr-FR": "L'ayimolou mélange du riz et des haricots dans un seul plat. Au Togo, on le mange avec une sauce tomate et oignon."
+      }
+    }
+  ],
+  "tn": [
+    {
+      "slug": "couscous",
+      "plated": true,
+      "name": {
+        "pt-BR": "Couscous",
+        "en-GB": "Couscous",
+        "de-DE": "Couscous",
+        "fr-FR": "Couscous"
+      },
+      "note": {
+        "pt-BR": "Muitos tunisianos fazem couscous com peixe, porque as cidades ficam perto do mar. Eles colocam legumes e um molho de pimenta por cima.",
+        "en-GB": "Tunisians often cook couscous with fish, because many towns sit by the sea. They pile vegetables and a hot sauce on top.",
+        "de-DE": "Viele Tunesier kochen Couscous mit Fisch, weil ihre Städte am Meer liegen. Sie legen Gemüse und eine scharfe Sauce darauf.",
+        "fr-FR": "Beaucoup de Tunisiens font le couscous avec du poisson. Leurs villes sont au bord de la mer."
+      }
+    },
+    {
+      "slug": "brik",
+      "plated": true,
+      "name": {
+        "pt-BR": "Brik",
+        "en-GB": "Brik",
+        "de-DE": "Brik",
+        "fr-FR": "Brik"
+      },
+      "note": {
+        "pt-BR": "A brik é uma massa fina com um ovo dentro, frita até ficar crocante. As pessoas comem com a mão ou com garfo.",
+        "en-GB": "A brik is a thin pastry folded over an egg and fried until crisp. People eat it with their hands or with a fork.",
+        "de-DE": "Eine Brik ist ein dünner Teig mit einem Ei, frittiert bis er knusprig ist. Man isst sie mit den Händen oder mit einer Gabel.",
+        "fr-FR": "Une brik est une fine pâte garnie d'un œuf, frite jusqu'à devenir croustillante. On la mange avec les doigts ou avec une fourchette."
+      }
+    }
+  ],
+  "tz": [
+    {
+      "slug": "chipsi-mayai",
+      "plated": true,
+      "name": {
+        "pt-BR": "Chipsi mayai",
+        "en-GB": "Chipsi mayai",
+        "de-DE": "Chipsi mayai",
+        "fr-FR": "Chipsi mayai"
+      },
+      "note": {
+        "pt-BR": "O chipsi mayai é uma omelete com batatas fritas dentro. É um lanche de rua muito comum na Tanzânia.",
+        "en-GB": "Chipsi mayai means chips omelette in the Swahili language. People cook eggs and chips together in one pan.",
+        "de-DE": "Chipsi mayai ist ein Omelett mit Pommes frites, das in der Pfanne gebacken wird. Der Name kommt aus dem Suaheli und bedeutet Pommes-Omelett.",
+        "fr-FR": "Le chipsi mayai est une omelette aux frites, cuite dans une poêle. En swahili, son nom veut dire omelette aux frites."
+      }
+    }
+  ],
+  "ug": [
+    {
+      "slug": "matoke",
+      "plated": true,
+      "name": {
+        "pt-BR": "Matoke",
+        "en-GB": "Matoke",
+        "de-DE": "Matoke",
+        "fr-FR": "Matoke"
+      },
+      "note": {
+        "pt-BR": "O matoke é um prato de bananas verdes cozidas e amassadas. As pessoas comem o matoke com molho de carne.",
+        "en-GB": "Matoke is a dish of green bananas, cooked and mashed. People eat matoke with a stew of meat and sauce.",
+        "de-DE": "Matoke ist ein Gericht aus grünen Bananen, die gekocht und zerdrückt werden. Man isst Matoke zusammen mit einem Eintopf aus Fleisch.",
+        "fr-FR": "Le matoke est un plat de bananes vertes, cuites et écrasées. On mange le matoke avec un ragoût de viande."
+      }
+    },
+    {
+      "slug": "luwombo",
+      "plated": true,
+      "name": {
+        "pt-BR": "Luwombo",
+        "en-GB": "Luwombo",
+        "de-DE": "Luwombo",
+        "fr-FR": "Luwombo"
+      },
+      "note": {
+        "pt-BR": "O luwombo é um ensopado cozido no vapor dentro de folhas de bananeira. A carne e o molho ficam dentro do pacote.",
+        "en-GB": "Luwombo is a stew steamed inside banana leaves. The meat and sauce cook together in the leaf parcel.",
+        "de-DE": "Luwombo ist ein Eintopf, der in Bananenblättern gedämpft wird. Fleisch und Soße garen zusammen in diesem Blattpäckchen.",
+        "fr-FR": "Le luwombo est un ragoût cuit à la vapeur dans des feuilles de bananier. La viande et la sauce cuisent dans ce petit paquet."
+      }
+    }
+  ],
+  "za": [
+    {
+      "slug": "bobotie",
+      "plated": true,
+      "name": {
+        "pt-BR": "Bobotie",
+        "en-GB": "Bobotie",
+        "de-DE": "Bobotie",
+        "fr-FR": "Bobotie"
+      },
+      "note": {
+        "pt-BR": "Carne moída assada com amêndoas, passas e especiarias. Uma crosta dourada de ovos cobre o topo.",
+        "en-GB": "Minced meat baked with almonds, raisins and spices. A golden custard made of eggs covers the top.",
+        "de-DE": "Hackfleisch wird mit Mandeln, Rosinen und Gewürzen gebacken. Eine goldene Kruste aus Ei bedeckt das Ganze.",
+        "fr-FR": "De la viande hachée cuite avec des amandes, des raisins secs et des épices. Une croûte dorée à base d'œufs la recouvre."
+      }
+    },
+    {
+      "slug": "bunny-chow",
+      "plated": false,
+      "name": {
+        "pt-BR": "Bunny chow",
+        "en-GB": "Bunny chow",
+        "de-DE": "Bunny chow",
+        "fr-FR": "Bunny chow"
+      },
+      "note": {
+        "pt-BR": "Um pão grande aberto e cheio de curry quente. Cozinheiros de Durban, cidade da África do Sul, criaram o prato.",
+        "en-GB": "A loaf of bread cut open and filled with hot curry. Cooks in Durban, a South African city, made it first.",
+        "de-DE": "Ein aufgeschnittenes Brot wird mit scharfem Curry gefüllt. Köche in Durban, einer Stadt in Südafrika, haben es erfunden.",
+        "fr-FR": "Un pain ouvert et rempli de curry chaud. Des cuisiniers de Durban, une ville d'Afrique du Sud, l'ont inventé."
+      }
+    },
+    {
+      "slug": "koeksister",
+      "plated": false,
+      "name": {
+        "pt-BR": "Koeksister",
+        "en-GB": "Koeksister",
+        "de-DE": "Koeksister",
+        "fr-FR": "Koeksister"
+      },
+      "note": {
+        "pt-BR": "Uma rosquinha trançada, frita e mergulhada em calda fria. O nome em africâner significa irmã do bolo.",
+        "en-GB": "A plaited doughnut, fried and then dipped in cold syrup. Its name comes from Afrikaans and means cake sister.",
+        "de-DE": "Ein geflochtenes Schmalzgebäck, frittiert und in kalten Sirup getaucht. Der Name kommt aus dem Afrikaans und bedeutet Kuchenschwester.",
+        "fr-FR": "Un beignet tressé, frit puis trempé dans du sirop froid. Son nom vient de l'afrikaans et veut dire sœur de gâteau."
+      }
+    }
+  ],
+  "zm": [
+    {
+      "slug": "ifisashi",
+      "plated": true,
+      "name": {
+        "pt-BR": "Ifisashi",
+        "en-GB": "Ifisashi",
+        "de-DE": "Ifisashi",
+        "fr-FR": "Ifisashi"
+      },
+      "note": {
+        "pt-BR": "Folhas verdes cozidas lentamente num molho de amendoim. Os zambianos comem com nshima, um pirão grosso de milho.",
+        "en-GB": "Green leaves cooked slowly in a groundnut sauce. Zambians eat it with nshima, a thick maize porridge.",
+        "de-DE": "Grüne Blätter werden langsam in einer Erdnusssauce gekocht. In Sambia isst man dazu Nshima, einen dicken Brei aus Mais.",
+        "fr-FR": "Des feuilles vertes cuites dans une sauce aux arachides. Les Zambiens les mangent avec du nshima, une bouillie épaisse de maïs."
+      }
+    }
+  ],
+  "zw": [
+    {
+      "slug": "sadza",
+      "plated": true,
+      "name": {
+        "pt-BR": "Sadza",
+        "en-GB": "Sadza",
+        "de-DE": "Sadza",
+        "fr-FR": "Sadza"
+      },
+      "note": {
+        "pt-BR": "Um pirão grosso feito de farinha de milho branca. As pessoas comem com um molho de carne ou legumes.",
+        "en-GB": "A thick porridge made from white maize meal. People eat it with a sauce of meat or vegetables.",
+        "de-DE": "Ein dicker Brei wird aus weißem Maismehl gekocht. Man isst ihn mit einer Sauce aus Fleisch oder Gemüse.",
+        "fr-FR": "Une bouillie épaisse faite de farine de maïs blanc. On la mange avec une sauce à la viande ou aux légumes."
+      }
+    }
   ]
 }

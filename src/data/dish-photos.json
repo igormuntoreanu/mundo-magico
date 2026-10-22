@@ -1264,5 +1264,563 @@
         "kind": "photo"
       }
     ]
+  },
+  "dz": {
+    "couscous": [
+      {
+        "src": "/dishes/dz/couscous-0.jpg",
+        "credit": "Miansari66. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Couscous_with_Chicken_and_Vegetable_Stew.JPG",
+        "kind": "photo"
+      }
+    ],
+    "merguez": [
+      {
+        "src": "/dishes/dz/merguez-0.jpg",
+        "credit": "Guilhem Vellut from Paris, France. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Merguez_sausage,_Icosium,_Paris_001.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ao": {
+    "calulu": [
+      {
+        "src": "/dishes/ao/calulu-0.jpg",
+        "credit": "elingunnur. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Calulu.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "bj": {
+    "amiwo": [
+      {
+        "src": "/dishes/bj/amiwo-0.jpg",
+        "credit": "Aimeabibis. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Amiw%C3%B4_accompagn%C3%A9_de_poisson_frit.jpg",
+        "kind": "photo"
+      }
+    ],
+    "akassa": [
+      {
+        "src": "/dishes/bj/akassa-0.jpg",
+        "credit": "Ciaro pictures. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Plat_d%27akassa.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "bf": {
+    "babenda": [
+      {
+        "src": "/dishes/bf/babenda-0.jpg",
+        "credit": "Masséni Héma. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Super_Babenda.jpg",
+        "kind": "photo"
+      }
+    ],
+    "riz-gras": [
+      {
+        "src": "/dishes/bf/riz-gras-0.jpg",
+        "credit": "Vineke. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Riz_gras_made_Boussouma.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cv": {
+    "cachupa": [
+      {
+        "src": "/dishes/cv/cachupa-0.jpg",
+        "credit": "Xandu. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File:Cachupa_2.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cd": {
+    "moambe": [
+      {
+        "src": "/dishes/cd/moambe-0.jpg",
+        "credit": "Brigade Piron. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Poulet_%C3%A0_la_moambe.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cg": {
+    "saka-saka": [
+      {
+        "src": "/dishes/cg/saka-saka-0.jpg",
+        "credit": "Estrella230. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Plat_de_feuilles_de_manioc.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "eg": {
+    "ful-medames": [
+      {
+        "src": "/dishes/eg/ful-medames-0.jpg",
+        "credit": "Miansari66. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ful_Medames.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "et": {
+    "injera": [
+      {
+        "src": "/dishes/et/injera-0.jpg",
+        "credit": "Edsel Little. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Injera_from_ivory_teff.jpg",
+        "kind": "photo"
+      }
+    ],
+    "doro-wat": [
+      {
+        "src": "/dishes/et/doro-wat-0.jpg",
+        "credit": "Edsel Little. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Injera_and_doro_wat.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "gh": {
+    "kenkey": [
+      {
+        "src": "/dishes/gh/kenkey-0.jpg",
+        "credit": "Mwintirew. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Kenkey_and_ground_pepper_with_sardine.jpg",
+        "kind": "photo"
+      }
+    ],
+    "waakye": [
+      {
+        "src": "/dishes/gh/waakye-0.jpg",
+        "credit": "Xibitgh. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Waakye101.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "gn": {
+    "mafe": [
+      {
+        "src": "/dishes/gn/mafe-0.jpg",
+        "credit": "Arnaud 25. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Maf%C3%A9_de_poisson.jpg",
+        "kind": "photo"
+      }
+    ],
+    "riz-gras": [
+      {
+        "src": "/dishes/gn/riz-gras-0.jpg",
+        "credit": "Lamahks88. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Du_riz_gras_%C3%A0_la_guineenne.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "gw": {
+    "caldo-branco": [
+      {
+        "src": "/dishes/gw/caldo-branco-0.jpg",
+        "credit": "Laércia Valeriana Insali. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Caldo_Branco-_Comida_da_Guin%C3%A9-Bissau.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ci": {
+    "attieke": [
+      {
+        "src": "/dishes/ci/attieke-0.jpg",
+        "credit": "Kod B. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Attieke_serves_with_fried_carp.jpg",
+        "kind": "photo"
+      }
+    ],
+    "alloco": [
+      {
+        "src": "/dishes/ci/alloco-0.jpg",
+        "credit": "Chado07. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Alloco_(frites_de_bananes).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ke": {
+    "ugali": [
+      {
+        "src": "/dishes/ke/ugali-0.jpg",
+        "credit": "Queen Asali. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Plate_of_ugali_with_creamed_spinach.jpg",
+        "kind": "photo"
+      }
+    ],
+    "sukuma-wiki": [
+      {
+        "src": "/dishes/ke/sukuma-wiki-0.jpg",
+        "credit": "Bahnfrend. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Beef_%27Sukuma_Wiki%27,_Thorn_Tree_Cafe,_2025_(01).jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ly": {
+    "couscous": [
+      {
+        "src": "/dishes/ly/couscous-0.jpg",
+        "credit": "Anwar Ghiblawi. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Couscous_with_Fish_and_salad.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mg": {
+    "mofo-gasy": [
+      {
+        "src": "/dishes/mg/mofo-gasy-0.jpg",
+        "credit": "Cm Malagasy. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Mofo_gasy_de_Madagascar.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ml": {
+    "maafe": [
+      {
+        "src": "/dishes/ml/maafe-0.jpg",
+        "credit": "Nicolas PHULPIN. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Maaf%C3%A9.jpg",
+        "kind": "photo"
+      }
+    ],
+    "to": [
+      {
+        "src": "/dishes/ml/to-0.jpg",
+        "credit": "Wakoridehe. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Le_t%C3%B4_de_mil.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mr": {
+    "thieboudienne": [
+      {
+        "src": "/dishes/mr/thieboudienne-0.jpg",
+        "credit": "Salma03regine. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Thieboudienne_Touba_Dialaw.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mu": {
+    "dholl-puri": [
+      {
+        "src": "/dishes/mu/dholl-puri-0.jpg",
+        "credit": "Yoann74. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Dholl_puri.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ma": {
+    "tajine": [
+      {
+        "src": "/dishes/ma/tajine-0.jpg",
+        "credit": "Yanygin Maxim. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Moroccan_tajine.jpg",
+        "kind": "photo"
+      }
+    ],
+    "couscous": [
+      {
+        "src": "/dishes/ma/couscous-0.jpg",
+        "credit": "Laurhim. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Couscous_(74111).jpg",
+        "kind": "photo"
+      }
+    ],
+    "harira": [
+      {
+        "src": "/dishes/ma/harira-0.jpg",
+        "credit": "HaJunkiyada. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Harira_soup.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "mz": {
+    "caril-de-camarao": [
+      {
+        "src": "/dishes/mz/caril-de-camarao-0.jpg",
+        "credit": "GracaPFCosta. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Caril_de_Camar%C3%A3o_Tigre_%C3%A0_goesa.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "na": {
+    "oshifima": [
+      {
+        "src": "/dishes/na/oshifima-0.jpg",
+        "credit": "Ilka Nghinamupika. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Mahangu_porridge_served_with_Milk.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ne": {
+    "dambou": [
+      {
+        "src": "/dishes/ne/dambou-0.jpg",
+        "credit": "Saliousoft. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Dambou.jpg",
+        "kind": "photo"
+      }
+    ],
+    "kilishi": [
+      {
+        "src": "/dishes/ne/kilishi-0.jpg",
+        "credit": "DonCamillo. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Camel_Kilishi_Maiduguri.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ng": {
+    "jollof-rice": [
+      {
+        "src": "/dishes/ng/jollof-rice-0.jpg",
+        "credit": "Obaniyi covenant. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:A_plate_of_jollof_rice_and_chicken.jpg",
+        "kind": "photo"
+      }
+    ],
+    "egusi-soup": [
+      {
+        "src": "/dishes/ng/egusi-soup-0.jpg",
+        "credit": "Ask4ugo. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:EGUSI_SOUP.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "rw": {
+    "brochettes": [
+      {
+        "src": "/dishes/rw/brochettes-0.jpg",
+        "credit": "Schlawgclart. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Rwanda_Brochettes.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "sn": {
+    "thieboudienne": [
+      {
+        "src": "/dishes/sn/thieboudienne-0.jpg",
+        "credit": "Mariel.cg. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Senegalese_Thieboudienne.JPG",
+        "kind": "photo"
+      }
+    ],
+    "yassa": [
+      {
+        "src": "/dishes/sn/yassa-0.jpg",
+        "credit": "Kalamuh 045. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Le_yassa_au_poisson_01.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "so": {
+    "baasto-suugo": [
+      {
+        "src": "/dishes/so/baasto-suugo-0.jpg",
+        "credit": "U.S. Department of Agriculture. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File:BaastoSuugo.jpg",
+        "kind": "photo"
+      }
+    ],
+    "fahfah": [
+      {
+        "src": "/dishes/so/fahfah-0.jpg",
+        "credit": "U.S. Department of Agriculture. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File:Fahfah.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "za": {
+    "bobotie": [
+      {
+        "src": "/dishes/za/bobotie-0.jpg",
+        "credit": "Olga Ernst. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Bobotie,_South_African_dish.jpg",
+        "kind": "photo"
+      }
+    ],
+    "bunny-chow": [
+      {
+        "src": "/dishes/za/bunny-chow-0.jpg",
+        "credit": "Aneledeysel. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Bunny_Chow_Close_Up.JPG",
+        "kind": "photo"
+      }
+    ],
+    "koeksister": [
+      {
+        "src": "/dishes/za/koeksister-0.jpg",
+        "credit": "User DO'Neil on en.wikipedia. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Koeksisters.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "tg": {
+    "fufu": [
+      {
+        "src": "/dishes/tg/fufu-0.jpg",
+        "credit": "Bako289. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Foufou_d%27igname.jpg",
+        "kind": "photo"
+      }
+    ],
+    "ayimolou": [
+      {
+        "src": "/dishes/tg/ayimolou-0.jpg",
+        "credit": "Adewi97. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Du_ayimolou_(_riz_plus_haricot)_02.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "tn": {
+    "couscous": [
+      {
+        "src": "/dishes/tn/couscous-0.jpg",
+        "credit": "AmelGhouila. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Tunisian_Osban_couscous.JPG",
+        "kind": "photo"
+      }
+    ],
+    "brik": [
+      {
+        "src": "/dishes/tn/brik-0.jpg",
+        "credit": "Citizen59. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:BrikALoeuf.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "tz": {
+    "chipsi-mayai": [
+      {
+        "src": "/dishes/tz/chipsi-mayai-0.jpg",
+        "credit": "Josefito123. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chipsi_mayai_en_Morogoro_20251201_203826.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "ug": {
+    "matoke": [
+      {
+        "src": "/dishes/ug/matoke-0.jpg",
+        "credit": "Michele Zanin. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Matoke,_2010.jpg",
+        "kind": "photo"
+      }
+    ],
+    "luwombo": [
+      {
+        "src": "/dishes/ug/luwombo-0.jpg",
+        "credit": "Ssemmanda will. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Chicken_Luwombo_stew_06.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "zm": {
+    "ifisashi": [
+      {
+        "src": "/dishes/zm/ifisashi-0.jpg",
+        "credit": "LittleT889. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ifisashi.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "zw": {
+    "sadza": [
+      {
+        "src": "/dishes/zw/sadza-0.jpg",
+        "credit": "Simz711. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Stewed_Capenta_and_Sadza(as_it_is_known_in_Zimbabwe)_dish.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cm": {
+    "ndole": [
+      {
+        "src": "/dishes/cm/ndole-0.jpg",
+        "credit": "BACHELOR45. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Ndol%C3%A8_royal_sawa_au_crabe.jpg",
+        "kind": "photo"
+      }
+    ],
+    "poulet-dg": [
+      {
+        "src": "/dishes/cm/poulet-dg-0.jpg",
+        "credit": "Affirebecca. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Poulet_DG.JPG",
+        "kind": "photo"
+      }
+    ]
+  },
+  "lr": {
+    "torborgee": [
+      {
+        "src": "/dishes/lr/torborgee-0.jpg",
+        "credit": "Foundation Digital Schools Liberia. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Liberian_Cuisine-Torborgee.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "td": {
+    "boule": [
+      {
+        "src": "/dishes/td/boule-0.jpg",
+        "credit": "Abdeldjelil Souleyman. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Boule_avec_sauce_de_gombo_sec_en_plus_%22cawal%22_(Tchad)2.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "cf": {
+    "ngoundja": [
+      {
+        "src": "/dishes/cf/ngoundja-0.jpg",
+        "credit": "Yowan christo. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Plat_centrafricain_2.jpg",
+        "kind": "photo"
+      }
+    ]
+  },
+  "er": {
+    "injera": [
+      {
+        "src": "/dishes/er/injera-0.jpg",
+        "credit": "Mx. Granger. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File:Food_at_Laza.jpg",
+        "kind": "photo"
+      }
+    ]
   }
 }

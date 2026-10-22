@@ -169,3 +169,31 @@ Unfinished work
    Worker hint: they wrote fragments through PowerShell, which double-encodes
    UTF-8. The merger now repairs CP1252 mojibake on read, so accents and
    Commons titles survive; do not remove that repair.
+
+   Africa shipped on 2026-10-22 as the second parallel wave: 39 countries and
+   78 dishes. Countries: Morocco, Algeria, Tunisia, Libya, Egypt, Mauritania,
+   Senegal, Guinea, Guinea-Bissau, Cabo Verde, Ivory Coast, Burkina Faso, Mali,
+   Niger, Nigeria, Benin, Togo, Ghana, Cameroon, Liberia, Chad, Central African
+   Republic, DR Congo, Congo, Angola, Eritrea, Ethiopia, Kenya, Tanzania,
+   Uganda, Rwanda, Somalia, South Africa, Zambia, Zimbabwe, Namibia, Madagascar,
+   Mauritius, Mozambique.
+
+   Blank on purpose, all for thin Commons coverage of plated food: Botswana,
+   Burundi, Comoros, Djibouti, Equatorial Guinea (candidates exist but every
+   one is under the 1920px floor), Eswatini, Gabon, Gambia, Lesotho, Malawi,
+   São Tomé, Seychelles, Sierra Leone, South Sudan, Sudan.
+
+   Africa is the weakest wave visually: Southern Africa usually has one usable
+   photo per country, so Zambia, Zimbabwe, Namibia, Madagascar, Mauritius,
+   Somalia and others carry a single dish. Mauritania, Guinea's riz gras and
+   Guinea-Bissau's caldo branco are home-style shots rather than composed food
+   photography. Liberia's torborgee is 1600x720, accepted as the only
+   commercial-use Liberian dish photo; --apply warns about its width.
+
+   Two data gaps found and fixed while shipping: the country name table was
+   missing Malta, Andorra, San Marino, Liechtenstein, Comoros, Mauritius and
+   Seychelles, which made those countries unsearchable and their dishes
+   unreachable. They are in world-meta.json names now.
+
+   Remaining ideas: a second pass over the weak African plates and over the
+   Central American ones, and the rest of the world (Asia, Oceania).
