@@ -1,17 +1,23 @@
 import { useEffect, useRef, useState } from "react";
 import { feature } from "topojson-client";
-import { geoArea, geoCentroid } from "d3-geo";
+import {
+  geoArea,
+  geoBounds,
+  geoCentroid,
+  geoContains,
+  geoEquirectangular,
+  geoPath,
+} from "d3-geo";
 import type { Topology, GeometryCollection } from "topojson-specification";
 import type { GlobeInstance } from "globe.gl";
+import type { MeshPhongMaterial } from "three";
 import { isoFromAtlas } from "@/data/iso";
 import { flagUrl, getCountry } from "@/data/catalog";
 import { countryName } from "@/i18n/country-name";
 import { useI18n } from "@/i18n/use-i18n";
-
-export type GlobeApi = {
-  flyTo: (lat: number, lng: number, altitude?: number) => void;
-  flyToIso: (iso: string) => void;
-};
+import { gradePacing, samplePacing } from "@/lib/world-view/capability";
+import type { WorldViewApi } from "@/lib/world-view/types";
+import { WorldLoader } from "./world-loader";
 
 type Atlas = Topology<{ countries: GeometryCollection }>;
 
@@ -21,6 +27,7 @@ type CountryPoly = {
   geometry: GeoJSON.Polygon | GeoJSON.MultiPolygon;
   lat: number;
   lng: number;
+  bounds: [[number, number], [number, number]];
   cap: string;
   hover: string;
   side: string;
@@ -29,8 +36,14 @@ type CountryPoly = {
 type Props = {
   selectedIso: string | null;
   onSelect: (iso: string, lat: number, lng: number) => void;
-  onReady?: (api: GlobeApi) => void;
+  onReady?: (api: WorldViewApi) => void;
+  /** The live frame probe says this device cannot keep the globe fluid. */
+  onSlow?: () => void;
 };
+
+/** One texture for every country: the whole reason this globe is cheap. */
+const TEXTURE_W = 2048;
+const TEXTURE_H = 1024;
 
 const globeBundle = typeof window === "undefined" ? null : import("globe.gl");
 const topoBundle =
@@ -96,18 +109,52 @@ function facingLabel(country: CountryPoly, label: string) {
   return el;
 }
 
-function escapeHtml(value: string) {
-  return value.replace(/[&<>"']/g, (char) => {
-    if (char === "&") return "&amp;";
-    if (char === "<") return "&lt;";
-    if (char === ">") return "&gt;";
-    if (char === '"') return "&quot;";
-    return "&#39;";
-  });
+/**
+ * Paints every country into one equirectangular canvas over the ocean texture.
+ * 177 filled paths once, instead of 177 extruded meshes every frame.
+ */
+async function paintCountries(polys: CountryPoly[]): Promise<HTMLCanvasElement> {
+  const canvas = document.createElement("canvas");
+  canvas.width = TEXTURE_W;
+  canvas.height = TEXTURE_H;
+  const ctx = canvas.getContext("2d", { alpha: false });
+  if (!ctx) return canvas;
+
+  ctx.fillStyle = "#1f8fd6";
+  ctx.fillRect(0, 0, TEXTURE_W, TEXTURE_H);
+  try {
+    const ocean = new Image();
+    ocean.src = "/textures/ocean.jpg";
+    await ocean.decode();
+    ctx.drawImage(ocean, 0, 0, TEXTURE_W, TEXTURE_H);
+  } catch {
+    /* a flat blue ocean is an acceptable fallback */
+  }
+
+  const projection = geoEquirectangular()
+    .translate([TEXTURE_W / 2, TEXTURE_H / 2])
+    .scale(TEXTURE_W / (2 * Math.PI));
+  const path = geoPath(projection, ctx);
+  ctx.lineJoin = "round";
+  ctx.lineWidth = 2;
+  ctx.strokeStyle = "#2b1b4e";
+  for (const country of polys) {
+    ctx.globalAlpha = 0.86;
+    ctx.fillStyle = country.cap;
+    ctx.beginPath();
+    path(country.geometry);
+    ctx.fill();
+    ctx.globalAlpha = 0.92;
+    ctx.beginPath();
+    path(country.geometry);
+    ctx.stroke();
+  }
+  ctx.globalAlpha = 1;
+  return canvas;
 }
 
-export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
-  const { locale, t } = useI18n();
+export function GlobeCanvas({ selectedIso, onSelect, onReady, onSlow }: Props) {
+  const { locale } = useI18n();
   const hostRef = useRef<HTMLDivElement>(null);
   const nameOfRef = useRef<(iso: string, fallback: string) => string>((_, fallback) => fallback);
   const refreshLabelRef = useRef<(() => void) | null>(null);
@@ -115,14 +162,17 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
   const selectedRef = useRef(selectedIso);
   const hoverRef = useRef<string | null>(null);
   const globeRef = useRef<GlobeInstance | null>(null);
+  const overlayRef = useRef<(() => void) | null>(null);
   const [ready, setReady] = useState(false);
   const polysRef = useRef<CountryPoly[]>([]);
   const onSelectRef = useRef(onSelect);
   const onReadyRef = useRef(onReady);
+  const onSlowRef = useRef(onSlow);
 
   selectedRef.current = selectedIso;
   onSelectRef.current = onSelect;
   onReadyRef.current = onReady;
+  onSlowRef.current = onSlow;
 
   useEffect(() => {
     const el = hostRef.current;
@@ -130,29 +180,28 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
     let disposed = false;
     let resizeObs: ResizeObserver | null = null;
     let onVis: (() => void) | null = null;
-    let pumpFrame = 0;
     let onControls: (() => void) | null = null;
+    let texture: { dispose: () => void } | null = null;
+    const teardown: (() => void)[] = [];
     const front = { iso: null as string | null };
-
-    function paint(globe: GlobeInstance) {
-      const selected = selectedRef.current;
-      const hover = hoverRef.current;
-      globe.polygonCapColor((d) => {
-        const p = d as CountryPoly;
-        if (p.iso === selected) return "#ffd93d";
-        if (p.iso === hover) return p.hover;
-        return p.cap;
-      });
-      globe.polygonAltitude((d) => ((d as CountryPoly).iso === selected ? 0.06 : 0.01));
-    }
 
     const safety = window.setTimeout(() => {
       if (!disposed) setReady(true);
     }, 12000);
 
+    const reducedMotion =
+      typeof window.matchMedia === "function" &&
+      window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
     void (async () => {
-      const [{ default: Globe }, topo] = await Promise.all([globeBundle, topoBundle]);
+      const [globeModule, THREE, topo] = await Promise.all([
+        globeBundle,
+        import("three"),
+        topoBundle,
+      ]);
       if (disposed) return;
+      const Globe = globeModule.default;
+
       const fc = feature(topo, topo.objects.countries) as GeoJSON.FeatureCollection;
       const polys: CountryPoly[] = [];
       for (const feat of fc.features) {
@@ -168,64 +217,177 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
           geometry: feat.geometry,
           lat,
           lng,
-          cap: hexAlpha(country.palette[0], 0.82),
+          bounds: geoBounds(feat.geometry) as [[number, number], [number, number]],
+          cap: country.palette[0],
           hover: hexAlpha(country.palette[0], 0.95),
           side: hexAlpha(country.palette[2], 0.65),
         });
       }
       polysRef.current = polys;
+      const byIso = new Map(polys.map((country) => [country.iso, country]));
+
+      const painted = await paintCountries(polys);
       if (disposed) return;
 
       const globe = new Globe(el, {
         rendererConfig: {
           alpha: true,
-          antialias: el.clientWidth >= 800,
+          antialias: el.clientWidth >= 600,
           powerPreference: "high-performance",
           failIfMajorPerformanceCaveat: false,
         },
         animateIn: false,
       });
+      globeRef.current = globe;
+      if (import.meta.env.DEV) {
+        (window as unknown as { __globe?: GlobeInstance }).__globe = globe;
+      }
 
-      let surfaceReady = false;
-      let countriesReady = false;
-      const reveal = () => {
-        if (disposed || globeRef.current !== globe) return;
-        if (surfaceReady && countriesReady) setReady(true);
-      };
-      globe.onGlobeReady(() => {
-        surfaceReady = true;
-        reveal();
-      });
+      const renderer = globe.renderer();
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+      renderer.setClearColor(0x000000, 0);
+      globe.width(el.clientWidth);
+      globe.height(el.clientHeight);
+
+      const canvasTexture = new THREE.CanvasTexture(painted);
+      canvasTexture.colorSpace = THREE.SRGBColorSpace;
+      canvasTexture.anisotropy = Math.min(8, renderer.capabilities.getMaxAnisotropy());
+      texture = canvasTexture;
+      const material = globe.globeMaterial() as MeshPhongMaterial;
+      material.map = canvasTexture;
+      material.color.set(0xffffff);
+      material.needsUpdate = true;
 
       globe
         .backgroundColor("rgba(0,0,0,0)")
-        .globeImageUrl("/textures/ocean.jpg")
         .showAtmosphere(true)
         .atmosphereColor("#9ad8ff")
         .atmosphereAltitude(0.22)
         .polygonsData([])
         .polygonGeoJsonGeometry("geometry")
         .polygonSideColor((d) => (d as CountryPoly).side)
-        .polygonStrokeColor(() => "#2b1b4e")
-        .polygonLabel((d) => {
-          const country = d as CountryPoly;
-          if (country.iso === front.iso) return "";
-          return `<div class="globe-tip">${escapeHtml(nameOfRef.current(country.iso, country.name))}</div>`;
-        })
-        .polygonsTransitionDuration(0)
-        .onPolygonHover((poly) => {
-          const next = poly ? (poly as CountryPoly).iso : null;
+        .polygonStrokeColor(() => "#231640")
+        .polygonLabel(() => "")
+        .polygonsTransitionDuration(0);
+
+      let overlayKey = "";
+      const syncOverlay = () => {
+        if (disposed || globeRef.current !== globe) return;
+        const selected = selectedRef.current;
+        const hover = hoverRef.current;
+        const key = `${selected ?? ""}|${hover ?? ""}`;
+        if (key === overlayKey) return;
+        overlayKey = key;
+        const items: CountryPoly[] = [];
+        const selectedCountry = selected ? byIso.get(selected) : undefined;
+        if (selectedCountry) items.push(selectedCountry);
+        const hovered = hover && hover !== selected ? byIso.get(hover) : undefined;
+        if (hovered) items.push(hovered);
+        try {
+          globe.polygonsData(items);
+        } catch {
+          /* the globe can be mid-teardown during HMR */
+        }
+      };
+      overlayRef.current = syncOverlay;
+
+      globe.polygonCapColor((d) => {
+        const country = d as CountryPoly;
+        return country.iso === selectedRef.current ? "#ffd93d" : country.hover;
+      });
+      globe.polygonAltitude((d) => {
+        const country = d as CountryPoly;
+        return country.iso === selectedRef.current ? 0.055 : 0.012;
+      });
+
+      const radius = globe.getGlobeRadius();
+      const sphere = new THREE.Sphere(new THREE.Vector3(0, 0, 0), radius);
+      const raycaster = new THREE.Raycaster();
+      const ndc = new THREE.Vector2();
+      const hitPoint = new THREE.Vector3();
+
+      const findCountry = (lat: number, lng: number) => {
+        for (const country of polys) {
+          const [[minLng, minLat], [maxLng, maxLat]] = country.bounds;
+          if (lat < minLat || lat > maxLat) continue;
+          if (minLng <= maxLng && (lng < minLng || lng > maxLng)) continue;
+          if (geoContains(country.geometry, [lng, lat])) return country;
+        }
+        return null;
+      };
+
+      const countryAt = (clientX: number, clientY: number) => {
+        const rect = el.getBoundingClientRect();
+        if (rect.width === 0 || rect.height === 0) return null;
+        ndc.set(
+          ((clientX - rect.left) / rect.width) * 2 - 1,
+          -((clientY - rect.top) / rect.height) * 2 + 1,
+        );
+        raycaster.setFromCamera(ndc, globe.camera());
+        const point = raycaster.ray.intersectSphere(sphere, hitPoint);
+        if (!point) return null;
+        const lat = 90 - (Math.acos(Math.min(1, Math.max(-1, point.y / radius))) * 180) / Math.PI;
+        const lng = 90 - (Math.atan2(point.z, point.x) * 180) / Math.PI;
+        const wrapped = ((lng + 540) % 360) - 180;
+        return findCountry(lat, wrapped);
+      };
+
+      let pressed: { x: number; y: number; moved: boolean } | null = null;
+      let hoverFrame = 0;
+      let pendingMove: { x: number; y: number } | null = null;
+
+      const onPointerMove = (event: PointerEvent) => {
+        if (pressed) {
+          if (
+            Math.abs(event.clientX - pressed.x) + Math.abs(event.clientY - pressed.y) > 6
+          ) {
+            pressed.moved = true;
+          }
+          return;
+        }
+        pendingMove = { x: event.clientX, y: event.clientY };
+        if (hoverFrame) return;
+        hoverFrame = requestAnimationFrame(() => {
+          hoverFrame = 0;
+          const point = pendingMove;
+          pendingMove = null;
+          if (!point || disposed) return;
+          const next = countryAt(point.x, point.y)?.iso ?? null;
           if (next === hoverRef.current) return;
           hoverRef.current = next;
           el.style.cursor = next ? "pointer" : "grab";
-          paint(globe);
-        })
-        .onPolygonClick((poly) => {
-          const p = poly as CountryPoly;
-          onSelectRef.current(p.iso, p.lat, p.lng);
+          syncOverlay();
         });
-
-      paint(globe);
+      };
+      const onPointerDown = (event: PointerEvent) => {
+        pressed = { x: event.clientX, y: event.clientY, moved: false };
+      };
+      const onPointerUp = (event: PointerEvent) => {
+        const start = pressed;
+        pressed = null;
+        if (!start || start.moved || disposed) return;
+        const hit = countryAt(event.clientX, event.clientY);
+        if (hit) onSelectRef.current(hit.iso, hit.lat, hit.lng);
+      };
+      const onPointerLeave = () => {
+        pendingMove = null;
+        if (!hoverRef.current) return;
+        hoverRef.current = null;
+        el.style.cursor = "grab";
+        syncOverlay();
+      };
+      el.style.cursor = "grab";
+      el.addEventListener("pointermove", onPointerMove);
+      el.addEventListener("pointerdown", onPointerDown);
+      el.addEventListener("pointerup", onPointerUp);
+      el.addEventListener("pointerleave", onPointerLeave);
+      teardown.push(() => {
+        el.removeEventListener("pointermove", onPointerMove);
+        el.removeEventListener("pointerdown", onPointerDown);
+        el.removeEventListener("pointerup", onPointerUp);
+        el.removeEventListener("pointerleave", onPointerLeave);
+        window.cancelAnimationFrame(hoverFrame);
+      });
 
       const FRONT_KEEP = 20;
       const FRONT_TAKE = 16;
@@ -274,62 +436,130 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
       };
       onControls = syncFront;
       globe.controls().addEventListener("change", onControls);
+      teardown.push(() => {
+        try {
+          globe.controls().removeEventListener("change", onControls!);
+        } catch {
+          /* already gone */
+        }
+      });
 
-      globe.controls().autoRotate = true;
-      globe.controls().autoRotateSpeed = 0.45;
-      globe.controls().enableDamping = true;
-      globe.controls().rotateSpeed = 0.7;
+      const controls = globe.controls();
+      controls.autoRotate = !reducedMotion;
+      controls.autoRotateSpeed = 0.45;
+      controls.enableDamping = true;
+      controls.rotateSpeed = 0.7;
+
+      // Globe.gl's own tween moves the camera but leaves OrbitControls'
+      // orientation stale, which renders an off-centre view. Interpolating in
+      // spherical coordinates and applying each frame keeps position and
+      // orientation in sync.
+      let flyFrame = 0;
+      const flyTo = (lat: number, lng: number, altitude: number) => {
+        controls.autoRotate = false;
+        window.cancelAnimationFrame(flyFrame);
+        const from = globe.pointOfView();
+        let dLng = lng - from.lng;
+        if (dLng > 180) dLng -= 360;
+        if (dLng < -180) dLng += 360;
+        if (reducedMotion) {
+          globe.pointOfView({ lat, lng, altitude }, 0);
+          controls.update();
+          return;
+        }
+        const startedAt = performance.now();
+        const duration = 900;
+        const step = (now: number) => {
+          const progress = Math.min(1, (now - startedAt) / duration);
+          const eased = progress < 0.5 ? 2 * progress * progress : 1 - (-2 * progress + 2) ** 2 / 2;
+          globe.pointOfView(
+            {
+              lat: from.lat + (lat - from.lat) * eased,
+              lng: from.lng + dLng * eased,
+              altitude: from.altitude + (altitude - from.altitude) * eased,
+            },
+            0,
+          );
+          // pointOfView moves the camera but does not re-aim it.
+          controls.update();
+          if (progress < 1) flyFrame = requestAnimationFrame(step);
+        };
+        flyFrame = requestAnimationFrame(step);
+      };
+
       try {
-        globe.controls().addEventListener("start", () => {
-          globe.controls().autoRotate = false;
-        });
+        const stopRotate = () => {
+          controls.autoRotate = false;
+          window.cancelAnimationFrame(flyFrame);
+        };
+        controls.addEventListener("start", stopRotate);
+        teardown.push(() => controls.removeEventListener("start", stopRotate));
       } catch {
         /* older OrbitControls */
       }
-      globe.renderer().setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
-      globe.renderer().setClearColor(0x000000, 0);
-      globe.width(el.clientWidth);
-      globe.height(el.clientHeight);
+      teardown.push(() => window.cancelAnimationFrame(flyFrame));
+
       globe.pointOfView({ lat: 12, lng: 8, altitude: 2.35 });
 
-      const api: GlobeApi = {
+      const api: WorldViewApi = {
         flyTo: (lat, lng, altitude = 1.55) => {
-          globe.controls().autoRotate = false;
-          globe.pointOfView({ lat, lng, altitude }, 900);
+          if (disposed) return;
+          flyTo(lat, lng, altitude);
         },
         flyToIso: (iso) => {
-          const hit = polysRef.current.find((p) => p.iso === iso);
-          if (!hit) return;
-          globe.controls().autoRotate = false;
-          globe.pointOfView({ lat: hit.lat, lng: hit.lng, altitude: 1.55 }, 900);
+          if (disposed) return;
+          const target = byIso.get(iso);
+          if (!target) return;
+          flyTo(target.lat, target.lng, 1.55);
         },
       };
-      globeRef.current = globe;
       onReadyRef.current?.(api);
       syncFront();
+      syncOverlay();
 
-      let shown = 0;
-      const pump = () => {
-        if (disposed || globeRef.current !== globe) return;
-        try {
-          shown = Math.min(polys.length, shown + 12);
-          globe.polygonsData(polys.slice(0, shown));
-        } catch {
-          shown = polys.length;
-        }
-        if (shown < polys.length) {
-          pumpFrame = window.setTimeout(pump, 16);
+      let probing = false;
+      const probe = async () => {
+        if (disposed || probing) return;
+        probing = true;
+        const wait = (ms: number) => new Promise((resolve) => window.setTimeout(resolve, ms));
+        await wait(600);
+        if (disposed) return;
+        if (document.visibilityState !== "visible") {
+          probing = false;
+          window.setTimeout(() => void probe(), 800);
           return;
         }
-        countriesReady = true;
-        reveal();
+        let pacing = await samplePacing(1200);
+        if (disposed) return;
+        if (gradePacing(pacing) !== "good" && renderer.getPixelRatio() > 1) {
+          renderer.setPixelRatio(1);
+          await wait(250);
+          pacing = await samplePacing(900);
+        }
+        if (disposed) return;
+        el.dataset.worldFps = String(pacing.fps);
+        if (gradePacing(pacing) !== "good") onSlowRef.current?.();
       };
-      if (polys.length === 0) {
-        countriesReady = true;
-        reveal();
-      } else {
-        pumpFrame = window.setTimeout(pump, 16);
-      }
+
+      let revealed = false;
+      const reveal = () => {
+        if (disposed || revealed || globeRef.current !== globe) return;
+        revealed = true;
+        setReady(true);
+        window.clearTimeout(safety);
+        void probe();
+      };
+      globe.onGlobeReady(reveal);
+      requestAnimationFrame(() => requestAnimationFrame(reveal));
+
+      const onContextLost = (event: Event) => {
+        event.preventDefault();
+        onSlowRef.current?.();
+      };
+      renderer.domElement.addEventListener("webglcontextlost", onContextLost);
+      teardown.push(() =>
+        renderer.domElement.removeEventListener("webglcontextlost", onContextLost),
+      );
 
       onVis = () => {
         if (document.hidden) globe.pauseAnimation();
@@ -350,18 +580,19 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
     return () => {
       disposed = true;
       window.clearTimeout(safety);
-      window.clearTimeout(pumpFrame);
-      if (onVis) document.removeEventListener("visibilitychange", onVis);
-      if (onControls) {
+      for (const off of teardown) {
         try {
-          globeRef.current?.controls().removeEventListener("change", onControls);
+          off();
         } catch {
-          /* globe already torn down */
+          /* ignore teardown races */
         }
       }
+      if (onVis) document.removeEventListener("visibilitychange", onVis);
       resizeObs?.disconnect();
+      texture?.dispose();
       globeRef.current?._destructor();
       globeRef.current = null;
+      overlayRef.current = null;
       el.replaceChildren();
     };
   }, []);
@@ -371,61 +602,14 @@ export function GlobeCanvas({ selectedIso, onSelect, onReady }: Props) {
   }, [locale]);
 
   useEffect(() => {
-    const globe = globeRef.current;
-    if (!globe) return;
-    const selected = selectedRef.current;
-    const hover = hoverRef.current;
-    globe.polygonCapColor((d) => {
-      const p = d as CountryPoly;
-      if (p.iso === selected) return "#ffd93d";
-      if (p.iso === hover) return p.hover;
-      return p.cap;
-    });
-    globe.polygonAltitude((d) => ((d as CountryPoly).iso === selected ? 0.06 : 0.01));
+    selectedRef.current = selectedIso;
+    overlayRef.current?.();
   }, [selectedIso]);
 
   return (
     <>
       <div ref={hostRef} className="absolute inset-0 touch-none" />
-      {!ready ? (
-        <div className="pointer-events-none absolute inset-0 z-10 flex items-center justify-center">
-          <div className="flex flex-col items-center gap-3">
-            <div className="relative h-40 w-40">
-              <img
-                src="/textures/volcano-base.png"
-                alt=""
-                width={160}
-                height={160}
-                className="h-40 w-40 border-0 bg-transparent object-contain"
-                style={{ imageRendering: "pixelated" }}
-              />
-              {[
-                ["#fffdf6", "0s", 0],
-                ["#ff8a3d", "0.28s", 8],
-                ["#fffdf6", "0.55s", -7],
-                ["#ff5a1f", "0.82s", 5],
-                ["#fffdf6", "1.1s", -4],
-                ["#ff8a3d", "1.35s", -9],
-              ].map(([color, delay, shift], i) => (
-                <span
-                  key={i}
-                  className="absolute top-[38%] size-3.5 rounded-full"
-                  style={{
-                    left: `calc(50% + ${shift}px)`,
-                    background: color,
-                    boxShadow: "0 0 0 2px rgba(43,27,78,0.35)",
-                    animation: "volcano-rise 1.7s linear infinite",
-                    animationDelay: delay as string,
-                  }}
-                />
-              ))}
-            </div>
-            <p className="rounded-full border-3 border-stroke bg-cream px-4 py-1.5 font-display text-sm font-bold text-ink shadow-[3px_3px_0_#2b1b4e]">
-              {t.loading}
-            </p>
-          </div>
-        </div>
-      ) : null}
+      {!ready ? <WorldLoader /> : null}
     </>
   );
 }

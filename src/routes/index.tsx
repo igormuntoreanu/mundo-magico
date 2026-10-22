@@ -1,16 +1,20 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { BookOpen, Search, X } from "lucide-react";
+import { BookOpen, Globe2, Map as MapIcon, Search, X } from "lucide-react";
 import { createFileRoute } from "@tanstack/react-router";
 import { CountryPanel } from "@/components/country-panel";
 import { FableCatalog } from "@/components/fable-catalog";
-import { GlobeCanvas, type GlobeApi } from "@/components/globe-canvas";
+import { GlobeCanvas } from "@/components/globe-canvas";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { StoryBook } from "@/components/story-book";
+import { WorldLoader } from "@/components/world-loader";
+import { WorldMap } from "@/components/world-map";
 import { FEATURED, getCountry, searchCountries } from "@/data/catalog";
 import { loadTranslationPack } from "@/data/stories/translations";
 import { countryName } from "@/i18n/country-name";
 import { localizeCountry } from "@/i18n/content";
 import { useI18n } from "@/i18n/use-i18n";
+import { useWorldMode } from "@/lib/world-view/use-world-mode";
+import type { WorldViewApi } from "@/lib/world-view/types";
 import type { FolkStory } from "@/data/stories/types";
 
 export const Route = createFileRoute("/")({ component: Home });
@@ -22,9 +26,10 @@ function Home() {
   const [query, setQuery] = useState("");
   const [openSuggest, setOpenSuggest] = useState(false);
   const [fablesOpen, setFablesOpen] = useState(false);
-  const globeApi = useRef<GlobeApi | null>(null);
+  const globeApi = useRef<WorldViewApi | null>(null);
   const asideRef = useRef<HTMLElement | null>(null);
   const [story, setStory] = useState<FolkStory | null>(null);
+  const { mode, choose, degrade } = useWorldMode();
 
   const country = useMemo(() => {
     if (!selectedIso) return null;
@@ -82,8 +87,8 @@ function Home() {
   return (
     <main className="relative min-h-dvh overflow-hidden bg-night text-ink">
       <Stars />
-      <div className="relative z-10 mx-auto grid min-h-dvh w-full max-w-[1400px] grid-cols-1 lg:grid-cols-[minmax(0,1.15fr)_minmax(320px,0.85fr)]">
-        <section className="relative flex min-h-[60vh] flex-col lg:min-h-dvh">
+      <div className="relative z-10 mx-auto grid min-h-dvh w-full max-w-[1400px] grid-cols-1 lg:h-dvh lg:grid-cols-[minmax(0,1.15fr)_minmax(320px,0.85fr)]">
+        <section className="relative flex min-h-[60vh] flex-col lg:min-h-0">
           <div className="relative z-20 flex shrink-0 flex-col gap-2 px-3 pt-3 pb-3">
             <div className="flex items-start gap-2">
               <div className="flex min-w-0 flex-1 flex-wrap items-center gap-2">
@@ -91,7 +96,24 @@ function Home() {
                   Mundo Mágico
                 </h1>
               </div>
-              <LanguageSwitcher />
+              <div className="flex shrink-0 items-center gap-1.5">
+                {mode ? (
+                  <button
+                    type="button"
+                    onClick={() => choose(mode === "globe" ? "map" : "globe")}
+                    className="inline-flex size-10 items-center justify-center rounded-2xl border-3 border-stroke bg-cream text-ink shadow-[4px_4px_0_#2b1b4e] transition-transform hover:-translate-y-0.5 active:scale-[0.96]"
+                    aria-label={mode === "globe" ? t.viewMap : t.viewGlobe}
+                    title={mode === "globe" ? t.viewMap : t.viewGlobe}
+                  >
+                    {mode === "globe" ? (
+                      <MapIcon className="size-4" aria-hidden />
+                    ) : (
+                      <Globe2 className="size-4" aria-hidden />
+                    )}
+                  </button>
+                ) : null}
+                <LanguageSwitcher />
+              </div>
             </div>
             <div className="relative min-w-0">
               <div className="relative">
@@ -161,19 +183,32 @@ function Home() {
           </div>
 
           <div className="relative min-h-0 flex-1">
-            <GlobeCanvas
-              selectedIso={selectedIso}
-              onSelect={(iso, lat, lng) => pick(iso, lat, lng)}
-              onReady={(api) => {
-                globeApi.current = api;
-              }}
-            />
+            {mode === "map" ? (
+              <WorldMap
+                selectedIso={selectedIso}
+                onSelect={(iso, lat, lng) => pick(iso, lat, lng)}
+                onReady={(api) => {
+                  globeApi.current = api;
+                }}
+              />
+            ) : mode === "globe" ? (
+              <GlobeCanvas
+                selectedIso={selectedIso}
+                onSelect={(iso, lat, lng) => pick(iso, lat, lng)}
+                onReady={(api) => {
+                  globeApi.current = api;
+                }}
+                onSlow={degrade}
+              />
+            ) : (
+              <WorldLoader />
+            )}
           </div>
         </section>
 
         <aside
           ref={asideRef}
-          className="relative max-h-[54vh] overflow-y-auto border-t-4 border-stroke bg-linear-to-b from-panel-start via-panel-mid to-panel-end lg:max-h-none lg:border-t-0 lg:border-l-4"
+          className="relative max-h-[54vh] overflow-y-auto border-t-4 border-stroke bg-linear-to-b from-panel-start via-panel-mid to-panel-end lg:max-h-full lg:min-h-0 lg:border-t-0 lg:border-l-4"
         >
           <CountryPanel
             country={country}

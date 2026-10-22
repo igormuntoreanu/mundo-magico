@@ -59,6 +59,10 @@ export type Messages = {
   pageOf: string;
   goToPage: string;
   loading: string;
+  viewGlobe: string;
+  viewMap: string;
+  mapLabel: string;
+  resetView: string;
   missingArt: string;
   languageLabel: string;
   fallbackTale1: string;
