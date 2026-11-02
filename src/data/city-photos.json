@@ -3064,6 +3064,26 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ACalabar_carnival_9.jpg",
         "kind": "photo"
       }
+    ],
+    "Lagos": [
+      {
+        "src": "/cities/ng/lagos-0.jpg",
+        "caption": "Victoria Island, Lagos, Nigeria",
+        "credit": "Foto: Ayorinde Ogundele. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_victoria_island_in_Lagos%2C_Nigeria_with_habours_for_yatches.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Abuja": [
+      {
+        "src": "/cities/ng/abuja-0.jpg",
+        "caption": "National Mosque Abuja, Abuja, Nigeria",
+        "credit": "Foto: Shiraz Chakera. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAbujaNationalMosque.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
     ]
   },
   "ke": {
@@ -3863,7 +3883,38 @@
   },
   "sy": {},
   "bf": {},
-  "bj": {},
+  "bj": {
+    "Porto-Novo": [
+      {
+        "src": "/cities/bj/porto-novo-0.jpg",
+        "caption": "Grande Mosquée Porto-Novo, Porto-Novo, Benin",
+        "credit": "Foto: Gildaskiki. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AFa%C3%A7ade_Grande_Mosqu%C3%A9e_de_Porto-Novo.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Cotonu": [
+      {
+        "src": "/cities/bj/cotonu-0.jpg",
+        "caption": "Place de l'Etoile Rouge Cotonou, Cotonu, Benin",
+        "credit": "Foto: Raziax. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AB%C3%A9nin_Cotonou_Place_of_Red_Star.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Ganvié": [
+      {
+        "src": "/cities/bj/ganvie-0.jpg",
+        "caption": "Ganvie stilt village, Ganvié, Benin",
+        "credit": "Foto: Adoscam. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AHabitat_lacustre_du_village_flottant_de_Ganvi%C3%A9_au_B%C3%A9nin_07.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "ci": {},
   "gm": {
     "Banjul": [
@@ -3876,7 +3927,38 @@
       }
     ]
   },
-  "gn": {},
+  "gn": {
+    "Conacri": [
+      {
+        "src": "/cities/gn/conacri-0.jpg",
+        "caption": "Grande Mosquée Fayçal Conakry, Conacri, Guinea",
+        "credit": "Foto: Mohamed Finando. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AGrande_Mosqu%C3%A9e_Fay%C3%A7al_de_Conakry_1.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Fouta Djallon": [
+      {
+        "src": "/cities/gn/fouta-djallon-0.jpg",
+        "caption": "Chute de Kambadaga, Fouta Djallon, Guinea",
+        "credit": "Foto: Flucco. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AWasserf%C3%A4lle_Kambadaga_256.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Kindia": [
+      {
+        "src": "/cities/gn/kindia-0.jpg",
+        "caption": "Chute de Tabouna Kindia, Kindia, Guinea",
+        "credit": "Foto: Aboubacarkhoraa. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AChute_de_Tabouna_%C3%A0_Kindia_01.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "lr": {},
   "sl": {},
   "tg": {},

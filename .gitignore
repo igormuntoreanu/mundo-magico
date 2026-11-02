@@ -14,3 +14,9 @@ screenshots
 .node_modules.lock
 .shortlists
 .i18n-work
+scripts/.city-photo-state.json
+scripts/logs/
+scripts/.cache/
+scripts/.candidates/
+scripts/review/
+scripts/.anthropic-key

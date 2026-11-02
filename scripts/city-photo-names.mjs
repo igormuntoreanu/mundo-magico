@@ -1,5 +1,7 @@
 // Extracted from fetch-city-photos.mjs (search-name and landmark maps).
 // Generated 2026-10-21; keep in sync with that script.
+// Auto English spots for photo-gap cities: see city-photo-spots-generated.mjs
+export { GENERATED_SPOT_NAMES } from "./city-photo-spots-generated.mjs";
 
 export const CITY_SEARCH_NAMES = {
   us: { "Nova York": "New York City", "São Francisco": "San Francisco" },
@@ -35,6 +37,16 @@ export const CITY_SEARCH_NAMES = {
   kr: { Seul: "Seoul", Busan: "Busan South Korea", Jeju: "Jeju Island South Korea" },
   th: { Banguecoque: "Bangkok", Phuket: "Phuket Thailand" },
   ng: { Lagos: "Lagos Nigeria", Abuja: "Abuja Nigeria", Calabar: "Calabar Nigeria" },
+  bj: {
+    "Porto-Novo": "Porto-Novo",
+    Cotonu: "Cotonou",
+    Ganvié: "Ganvie",
+  },
+  gn: {
+    Conacri: "Conakry",
+    "Fouta Djallon": "Fouta Djallon",
+    Kindia: "Kindia",
+  },
   ke: { Nairóbi: "Nairobi", "Masai Mara": "Maasai Mara" },
   ma: { Marraquexe: "Marrakech", Fez: "Fes Morocco", Chefchaouen: "Chefchaouen Morocco" },
   id: {
@@ -126,6 +138,16 @@ export const CITY_TEXT_ALIASES = {
   bs: { "A ilha do porto": ["Harbor Island"] },
   it: { Florença: ["Firenze"] },
   ch: { Lucerna: ["Luzern"] },
+  bj: {
+    Cotonu: ["Cotonou", "Cotonou Benin"],
+    Ganvié: ["Ganvie", "Ganvié Benin", "Lake Nokoué"],
+    "Porto-Novo": ["Porto Novo", "Porto-Novo Benin"],
+  },
+  gn: {
+    Conacri: ["Conakry", "Conakry Guinea", "Kaloum"],
+    "Fouta Djallon": ["Fouta Djalon", "Futa Jallon", "Pita Guinea", "Dalaba"],
+    Kindia: ["Kindia Guinea", "Voile de la Mariée"],
+  },
 };
 export const CITY_EXCLUDE_PLACES = {
   al: { Tirana: ["Valias", "Fusha e Tiranës"] },
@@ -189,6 +211,45 @@ export const TOURIST_SEARCH_NAMES = {
     Lagos: ["Nike Art Gallery Lagos", "Tarkwa Bay", "Lekki Conservation Centre"],
     Abuja: ["National Mosque Abuja", "Aso Rock", "Millennium Park Abuja"],
     Calabar: ["Calabar Carnival", "Drill Ranch Calabar", "Marina Resort Calabar"],
+  },
+  bj: {
+    "Porto-Novo": [
+      "Royal Palace Porto-Novo",
+      "Grande Mosquée Porto-Novo",
+      "Porto-Novo colonial architecture",
+    ],
+    Cotonu: [
+      "Place de l'Etoile Rouge Cotonou",
+      "Notre-Dame Cathedral Cotonou",
+      "Port of Cotonou",
+      "Dantokpa Market Cotonou",
+      "Fidjrosse beach Cotonou",
+    ],
+    Ganvié: [
+      "Ganvie stilt village",
+      "Ganvie Lake Nokoue",
+      "Ganvie pirogues",
+      "Ganvie aerial",
+    ],
+  },
+  gn: {
+    Conacri: [
+      "Grande Mosquée Fayçal Conakry",
+      "Palais du Peuple Conakry",
+      "Îles de Loos",
+      "Port of Conakry",
+    ],
+    "Fouta Djallon": [
+      "Chute de Kambadaga",
+      "Chute de Ditinn",
+      "Fouta Djallon hills",
+      "Chute de Kinkon",
+    ],
+    Kindia: [
+      "Chute de Tabouna Kindia",
+      "Voile de la Mariée Kindia",
+      "Mount Gangan Kindia",
+    ],
   },
   ke: {
     Nairóbi: ["Nairobi National Park", "Giraffe Centre Nairobi", "Nairobi National Museum"],
