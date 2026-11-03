@@ -2975,6 +2975,16 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ADowntown_Durban_(54333041206).jpg",
         "kind": "photo"
       }
+    ],
+    "Joanesburgo": [
+      {
+        "src": "/cities/za/joanesburgo-0.jpg",
+        "caption": "Johannesburg CBD, Joanesburgo, South Africa",
+        "credit": "Foto: Evan Bench. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AJohannesburg_CBD.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
   "au": {
@@ -3133,6 +3143,16 @@
         "href": "https://commons.wikimedia.org/wiki/File%3APanorama_Fes_el_Bali_Borj_Sud_Fez_morocco_-_panoramio.jpg",
         "kind": "photo"
       }
+    ],
+    "Marraquexe": [
+      {
+        "src": "/cities/ma/marraquexe-0.jpg",
+        "caption": "Jemaa el-Fnaa square, Marraquexe, Morocco",
+        "credit": "Foto: Boris Macek. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADjemaa_el_Fna.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
   "id": {
@@ -3215,6 +3235,16 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ALubango-Namibe_landscape.jpg",
         "kind": "photo"
       }
+    ],
+    "Benguela": [
+      {
+        "src": "/cities/ao/benguela-0.jpg",
+        "caption": "Igreja de Benguela, Benguela, Angola",
+        "credit": "Foto: F H Mira. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AIgreja_Benguela%2C_Angola.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
   "mz": {
@@ -3234,6 +3264,16 @@
         "credit": "Foto: AmigoDia. Wikimedia Commons, CC BY-SA 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AMaputo_seen_from_southeast_-_October_2006.jpg",
         "kind": "photo"
+      }
+    ],
+    "Parque Nacional da Gorongosa": [
+      {
+        "src": "/cities/mz/parque-nacional-da-gorongosa-0.jpg",
+        "caption": "Mount Gorongosa, Parque Nacional da Gorongosa, Mozambique",
+        "credit": "Foto: Judy Gallagher. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMount_Gorongosa%2C_Gorongosa_National_Park%2C_Mozambique_(46316615492).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -3255,9 +3295,50 @@
         "href": "https://commons.wikimedia.org/wiki/File%3APanorama_Hafen_Mindelo_Sao_Vicente.JPG",
         "kind": "photo"
       }
+    ],
+    "Praia": [
+      {
+        "src": "/cities/cv/praia-0.jpg",
+        "caption": "Palácio da Cultura, Praia, Cape Verde",
+        "credit": "Foto: Xandu. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APal%C3%A1cio_da_Cultura%2C_Praia%2C_Cape_Verde.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
-  "gw": {},
+  "gw": {
+    "Bissau": [
+      {
+        "src": "/cities/gw/bissau-0.jpg",
+        "caption": "Bissau street scene, Bissau, Guinea-Bissau",
+        "credit": "Foto: Original: Colleen Taugher from Lewiston Idaho, USA Modifications: The original uploader wa. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABissau-Stroossenzeen--w.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Bolama": [
+      {
+        "src": "/cities/gw/bolama-0.jpg",
+        "caption": "Bolama monument, Bolama, Guinea-Bissau",
+        "credit": "Foto: Nammarci. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABolama_monument_crocea_aerea.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "Arquipélago dos Bijagós": [
+      {
+        "src": "/cities/gw/arquipelago-dos-bijagos-0.jpg",
+        "caption": "Orango lagoon, Arquipélago dos Bijagós, Guinea-Bissau",
+        "credit": "Foto: Joehawkins. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALagoa_com_hipop%C3%B3tamos_02.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "st": {
     "Roca Sundy": [
       {
@@ -3266,6 +3347,26 @@
         "credit": "Foto: Josep M. Gracia. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ASUN_-_Main_house_of_Roca_Sundy%2C_Principe%2C_Sao_Tome_and_Principe%2C_2021.jpg",
         "kind": "photo"
+      }
+    ],
+    "São Tomé": [
+      {
+        "src": "/cities/st/sao-tome-0.jpg",
+        "caption": "Vista de São Tomé, São Tomé, Sao Tome and Principe",
+        "credit": "Foto: Chuck Moravec. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASao_Tome_20_(16061446708).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Príncipe": [
+      {
+        "src": "/cities/st/principe-0.jpg",
+        "caption": "Praia Boi, Príncipe, Sao Tome and Principe",
+        "credit": "Foto: Lboncompain. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APraia_Boi.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -3280,7 +3381,38 @@
       }
     ]
   },
-  "gq": {},
+  "gq": {
+    "Malabo": [
+      {
+        "src": "/cities/gq/malabo-0.jpg",
+        "caption": "Santa Isabel cathedral, Malabo, Equatorial Guinea",
+        "credit": "Foto: B.traeger. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKathedrale_Santa_Isabel.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "Bata": [
+      {
+        "src": "/cities/gq/bata-0.jpg",
+        "caption": "Bata city view, Bata, Equatorial Guinea",
+        "credit": "Foto: Ben Sutherland from Crystal Palace, London, UK. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABata%2C_2015-02_-i---i-_(16325440088).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Parque Nacional de Monte Alén": [
+      {
+        "src": "/cities/gq/parque-nacional-de-monte-alen-0.jpg",
+        "caption": "Monte Alén rainforest, Parque Nacional de Monte Alén, Equatorial Guinea",
+        "credit": "Foto: Mehlauge. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANationalpark_Monte_Al%C3%A9n.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "ph": {
     "Manila": [
       {
@@ -3321,8 +3453,70 @@
       }
     ]
   },
-  "gh": {},
-  "et": {},
+  "gh": {
+    "Acra": [
+      {
+        "src": "/cities/gh/acra-0.jpg",
+        "caption": "Accra town view, Acra, Ghana",
+        "credit": "Foto: Goldenwabbit. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAccra_town.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Cape Coast": [
+      {
+        "src": "/cities/gh/cape-coast-0.jpg",
+        "caption": "Cape Coast Castle, Cape Coast, Ghana",
+        "credit": "Foto: Rjruiziii. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACape_Coast_Castle%2C_Cape_Coast%2C_Ghana.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Kumasi": [
+      {
+        "src": "/cities/gh/kumasi-0.jpg",
+        "caption": "Kumasi street, Kumasi, Ghana",
+        "credit": "Foto: Maven Egote. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKronum_Kumasi_2018-11-08_(130246).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "et": {
+    "Adis Abeba": [
+      {
+        "src": "/cities/et/adis-abeba-0.jpg",
+        "caption": "Addis Ababa city view, Adis Abeba, Ethiopia",
+        "credit": "Foto: DaneyWiki. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAddisView.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Lalibela": [
+      {
+        "src": "/cities/et/lalibela-0.jpg",
+        "caption": "Church of Saint George, Lalibela, Ethiopia",
+        "credit": "Foto: Sailko. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALalibela%2C_san_giorgio%2C_esterno_24.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "Axum": [
+      {
+        "src": "/cities/et/axum-0.jpg",
+        "caption": "Stelae of Aksum, Axum, Ethiopia",
+        "credit": "Foto: Jim Williams. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAksum-107529.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "tz": {
     "Arusha / Serengeti": [
       {
@@ -3475,7 +3669,38 @@
       }
     ]
   },
-  "sn": {},
+  "sn": {
+    "Dacar": [
+      {
+        "src": "/cities/sn/dacar-0.jpg",
+        "caption": "African Renaissance Monument, Dacar, Senegal",
+        "credit": "Foto: Richard N Horne. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AThe_African_Renaissance_Monument.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "Lac Rose": [
+      {
+        "src": "/cities/sn/lac-rose-0.jpg",
+        "caption": "Lake Retba, Lac Rose, Senegal",
+        "credit": "Foto: Jjm2311. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ARetbaLakeShore.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Saint-Louis": [
+      {
+        "src": "/cities/sn/saint-louis-0.jpg",
+        "caption": "Saint-Louis island, Saint-Louis, Senegal",
+        "credit": "Foto: Jim Williams. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AIsland_of_Saint-Louis-113799.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "tn": {
     "Tunes": [
       {
@@ -3484,6 +3709,26 @@
         "credit": "Foto: Ben guedria houcine. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AMosqu%C3%A9e_zitouna_tunis.jpg",
         "kind": "photo"
+      }
+    ],
+    "Sidi Bou Said": [
+      {
+        "src": "/cities/tn/sidi-bou-said-0.jpg",
+        "caption": "Sidi Bou Said village view, Sidi Bou Said, Tunisia",
+        "credit": "Foto: Mohamed Moslem Mosbah. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASidi_Chebaan.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "El Djem / Tozeur": [
+      {
+        "src": "/cities/tn/el-djem-tozeur-0.jpg",
+        "caption": "Amphitheatre of El Jem, El Djem / Tozeur, Tunisia",
+        "credit": "Foto: Carole Raddato. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AThe_Amphitheatre_of_El_Jem%2C_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis%2C_the_estimated_capacity_is_35%2C000%2C_Tunisia_-_52717762494.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -3505,6 +3750,16 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ABab_El_Oued_Algiers_2008.jpg",
         "kind": "photo"
       }
+    ],
+    "Tamanrasset / Tassili": [
+      {
+        "src": "/cities/dz/tamanrasset-tassili-0.jpg",
+        "caption": "Tassili n'Ajjer desert, Tamanrasset / Tassili, Algeria",
+        "credit": "Foto: magharebia. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ATassili_Desert_Algeria.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
   "cm": {
@@ -3515,6 +3770,26 @@
         "credit": "Foto: Kateregga1. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AYaounde_Cameroon.jpg",
         "kind": "photo"
+      }
+    ],
+    "Duala": [
+      {
+        "src": "/cities/cm/duala-0.jpg",
+        "caption": "Bali quarter, Douala, Duala, Cameroon",
+        "credit": "Foto: Olivier Charly1. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AQuarter_Bali_%C3%A0_Douala_Cameroun.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Limbe": [
+      {
+        "src": "/cities/cm/limbe-0.jpg",
+        "caption": "Limbe Atlantic coast, Limbe, Cameroon",
+        "credit": "Foto: Yeluma Ntali. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALimbe_Atlantic_Ocean_1.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -3692,6 +3967,26 @@
         "credit": "Foto: Mohamed alazrak. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AGhadames_Old_city_from_the_air.jpg",
         "kind": "photo"
+      }
+    ],
+    "Trípoli": [
+      {
+        "src": "/cities/ly/tripoli-0.jpg",
+        "caption": "Marcus Aurelius Arch, Trípoli, Libya",
+        "credit": "Foto: Daniel and Kate Pett. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMarcus_Aurelius_Arch_Tripoli_Libya.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Ghat": [
+      {
+        "src": "/cities/ly/ghat-0.jpg",
+        "caption": "Ghat from the fortress, Ghat, Libya",
+        "credit": "Foto: Franzfoto. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AGhat_-_Sicht_von_der_Festung_02.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -3882,7 +4177,38 @@
     ]
   },
   "sy": {},
-  "bf": {},
+  "bf": {
+    "Uagadugu": [
+      {
+        "src": "/cities/bf/uagadugu-0.jpg",
+        "caption": "Monument aux héros nationaux, Uagadugu, Burkina Faso",
+        "credit": "Foto: The black photographer. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMonument_aux_h%C3%A9ros_nationaux_-_Ouagadougou_-_2024.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "A savana": [
+      {
+        "src": "/cities/bf/a-savana-0.jpg",
+        "caption": "Mare aux Hippopotames, A savana, Burkina Faso",
+        "credit": "Foto: Marco Schmidt [1]. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMare_aux_hippos_MS_2068.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Bobo-Dioulasso": [
+      {
+        "src": "/cities/bf/bobo-dioulasso-0.jpg",
+        "caption": "Bobo-Dioulasso market, Bobo-Dioulasso, Burkina Faso",
+        "credit": "Foto: No machine-readable author provided. Semiliki assumed (based on copyright claims).. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABoboDioulasso-Market.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "bj": {
     "Porto-Novo": [
       {
@@ -3915,7 +4241,38 @@
       }
     ]
   },
-  "ci": {},
+  "ci": {
+    "Abidjã": [
+      {
+        "src": "/cities/ci/abidja-0.jpg",
+        "caption": "Abidjan lagoon, Abidjã, Côte d'Ivoire",
+        "credit": "Foto: Aman ADO. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAbidjan_des_Lagune.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Grand-Bassam": [
+      {
+        "src": "/cities/ci/grand-bassam-0.jpg",
+        "caption": "Grand-Bassam greenery, Grand-Bassam, Côte d'Ivoire",
+        "credit": "Foto: Manouka. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AEnvironnement_verdoyant_%C3%A0_Grand_Bassam%2C_en_C%C3%B4te_d%E2%80%99Ivoire_02.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Yamoussoukro": [
+      {
+        "src": "/cities/ci/yamoussoukro-0.jpg",
+        "caption": "Yamoussoukro panorama, Yamoussoukro, Côte d'Ivoire",
+        "credit": "Foto: Mickaël T.. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AYamoussoukro_panorama.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "gm": {
     "Banjul": [
       {
@@ -3924,6 +4281,26 @@
         "credit": "Foto: Hannu Sääskilahti. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AGambia%2C_Banjul%2C_Arch_22.jpg",
         "kind": "photo"
+      }
+    ],
+    "O rio Gâmbia": [
+      {
+        "src": "/cities/gm/o-rio-gambia-0.jpg",
+        "caption": "Gambia River, O rio Gâmbia, The Gambia",
+        "credit": "Foto: Peter van der Sluijs. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AThe_river_of_the_Gambia.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Juffureh": [
+      {
+        "src": "/cities/gm/juffureh-0.jpg",
+        "caption": "Albreda-Jufureh archway, Juffureh, The Gambia",
+        "credit": "Foto: N3ddo! from MILAN, ITALY. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A276206988_54225a471c_o.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -3959,11 +4336,166 @@
       }
     ]
   },
-  "lr": {},
-  "sl": {},
-  "tg": {},
-  "ml": {},
-  "mr": {},
+  "lr": {
+    "Monróvia": [
+      {
+        "src": "/cities/lr/monrovia-0.jpg",
+        "caption": "Monrovia skyline, Monróvia, Liberia",
+        "credit": "Foto: blk24ga. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALiberia%2C_Africa_-_panoramio_(256).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "O rio": [
+      {
+        "src": "/cities/lr/o-rio-0.jpg",
+        "caption": "Cavalla River, O rio, Liberia",
+        "credit": "Foto: Gregor Rom. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACavally.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "A floresta": [
+      {
+        "src": "/cities/lr/a-floresta-0.jpg",
+        "caption": "Liberian rainforest, A floresta, Liberia",
+        "credit": "Foto: John Atherton. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ATropical_rainforest_near_Konimbo%2C_Liberia_(West_Africa)_1968_(614744484).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "sl": {
+    "Freetown": [
+      {
+        "src": "/cities/sl/freetown-0.jpg",
+        "caption": "Freetown aerial view, Freetown, Sierra Leone",
+        "credit": "Foto: David Hond. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AFreetown-aerialview.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "A península": [
+      {
+        "src": "/cities/sl/a-peninsula-0.jpg",
+        "caption": "Beach on the peninsula, A península, Sierra Leone",
+        "credit": "Foto: Erik Cleves Kristensen. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABeach_in_Freetown%2C_Sierra_Leone_(14176784751).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Bo": [
+      {
+        "src": "/cities/sl/bo-0.jpg",
+        "caption": "Rice fields around Bo, Bo, Sierra Leone",
+        "credit": "Foto: Africa Rice Center. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AInland_valley_rice_cultivation_around_Bo%2C_Sierra_Leone_-_panoramio.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "tg": {
+    "Lomé": [
+      {
+        "src": "/cities/tg/lome-0.jpg",
+        "caption": "Independence monument, Lomé, Togo",
+        "credit": "Foto: Hermannkass. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMonuments_de_l'ind%C3%A9pendance_et_Palais_des_congr%C3%A8s_de_Lom%C3%A9.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "Kpalimé": [
+      {
+        "src": "/cities/tg/kpalime-0.jpg",
+        "caption": "Holy Spirit Cathedral, Kpalimé, Togo",
+        "credit": "Foto: VISITEZ KPALIME. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACATHEDRALE_SAINT_ESPRIT_DE_KPALIME_2.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "O lago Togo": [
+      {
+        "src": "/cities/tg/o-lago-togo-0.jpg",
+        "caption": "Lagoon at Aného, O lago Togo, Togo",
+        "credit": "Foto: MaHeHoe. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALagune_in_An%C3%A9ho.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "ml": {
+    "Bamaco": [
+      {
+        "src": "/cities/ml/bamaco-0.jpg",
+        "caption": "Place de la Liberté, Bamaco, Mali",
+        "credit": "Foto: Rgaudin. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APlace_de_la_libert%C3%A9_-_Bamako.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Rio Níger": [
+      {
+        "src": "/cities/ml/rio-niger-0.jpg",
+        "caption": "Bamako bridge over the Niger, Rio Níger, Mali",
+        "credit": "Foto: upyernoz. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABamako_bridge1.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Tombuctu": [
+      {
+        "src": "/cities/ml/tombuctu-0.jpg",
+        "caption": "Sankoré Mosque, Tombuctu, Mali",
+        "credit": "Foto: Anne and David. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A2007_Sankore_Mosque_Timbuktu_02.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ]
+  },
+  "mr": {
+    "Nouakchott": [
+      {
+        "src": "/cities/mr/nouakchott-0.jpg",
+        "caption": "Nouakchott beach, Nouakchott, Mauritania",
+        "credit": "Foto: Valirian Guillot. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AFishermen_boat_carrying_sardines_on_Nouakchott_beach_(1623).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Deserto": [
+      {
+        "src": "/cities/mr/deserto-0.jpg",
+        "caption": "Adrar reg, Deserto, Mauritania",
+        "credit": "Foto: Ji-Elle. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAdrar-Reg_(1).JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Chinguetti": [
+      {
+        "src": "/cities/mr/chinguetti-0.jpg",
+        "caption": "Old town of Chinguetti, Chinguetti, Mauritania",
+        "credit": "Foto: François COLIN. Wikimedia Commons, CC BY-SA 2.5.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AChinguetti-Vue_Goblale_Vieille_ville.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "ne": {
     "Agadez": [
       {
@@ -3973,9 +4505,60 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ANiger%2C_Agadez_(03)%2C_aerial_view.jpg",
         "kind": "photo"
       }
+    ],
+    "Sahel": [
+      {
+        "src": "/cities/ne/sahel-0.jpg",
+        "caption": "Mélèk village, Sahel, Niger",
+        "credit": "Foto: NigerTZai. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANiger%2C_M%C3%A9l%C3%A8k_(N'Gourti)(1).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Niamei": [
+      {
+        "src": "/cities/ne/niamei-0.jpg",
+        "caption": "Niamey from the Grand Mosque, Niamei, Niger",
+        "credit": "Foto: Roland Huziaker. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANiamey_from_grand_mosque_theatre_2006.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
     ]
   },
-  "td": {},
+  "td": {
+    "N'Djamena": [
+      {
+        "src": "/cities/td/n-djamena-0.jpg",
+        "caption": "Avenida Alifa Zezerty, N'Djamena, Chad",
+        "credit": "Foto: Korom10. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAvenue_Alifa_Zezerty.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Rio Chari": [
+      {
+        "src": "/cities/td/rio-chari-0.jpg",
+        "caption": "Chari river at Douguia, Rio Chari, Chad",
+        "credit": "Foto: Mahmoud Sabir97. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AVue_du_fleuve_chari_depuis_le_site_touristique_de_Douguia.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Lago Chade": [
+      {
+        "src": "/cities/td/lago-chade-0.jpg",
+        "caption": "Lake Chad fisherman, Lago Chade, Chad",
+        "credit": "Foto: Coolthoom1. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AWaving_fisherman_on_the_lakechad.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "cf": {
     "Bangui": [
       {
@@ -3984,6 +4567,26 @@
         "credit": "Foto: Alllexxxis. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ABangui_City_Centre.jpg",
         "kind": "photo"
+      }
+    ],
+    "Floresta": [
+      {
+        "src": "/cities/cf/floresta-0.jpg",
+        "caption": "Dzanga Bai, Floresta, Central African Republic",
+        "credit": "Foto: JosepMGracia. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADzanga_Bai_at_sunrise%2C_Central_African_Republic.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Rio Ubangi": [
+      {
+        "src": "/cities/cf/rio-ubangi-0.jpg",
+        "caption": "O rio Ubangi, Rio Ubangi, Central African Republic",
+        "credit": "Foto: François.marsh. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AOubangui.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -3996,10 +4599,92 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_the_Congo_River_near_Kisangani.jpg",
         "kind": "photo"
       }
+    ],
+    "Kinshasa": [
+      {
+        "src": "/cities/cd/kinshasa-0.jpg",
+        "caption": "Kinshasa seen from Brazzaville, Kinshasa, Democratic Republic of the Congo",
+        "credit": "Foto: Karin Lakeman. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A2010-03-07-Kinshasa_depuis_Brazzaville.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Kisangani": [
+      {
+        "src": "/cities/cd/kisangani-0.jpg",
+        "caption": "Boyoma Falls, Kisangani, Democratic Republic of the Congo",
+        "credit": "Foto: Ad Meskens. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AZaire_kisangani_stroom_11_copy.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
-  "cg": {},
-  "ga": {},
+  "cg": {
+    "Brazzaville": [
+      {
+        "src": "/cities/cg/brazzaville-0.jpg",
+        "caption": "Brazzaville city view, Brazzaville, Republic of the Congo",
+        "credit": "Foto: Africany. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALes_lieux_de_Brazzaville_03.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Pointe-Noire": [
+      {
+        "src": "/cities/cg/pointe-noire-0.jpg",
+        "caption": "Pointe-Noire, Pointe-Noire, Republic of the Congo",
+        "credit": "Foto: ArnoBOUJIKA. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AWikim%C3%A9dia_R%C3%A9publique_du_Congo_-_Pointe_Noire._07.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Rio Congo": [
+      {
+        "src": "/cities/cg/rio-congo-0.jpg",
+        "caption": "Pirogas no rio Congo, Rio Congo, Republic of the Congo",
+        "credit": "Foto: Happiraphael. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AD%C3%A9placement_sur_le_fleuve_Congo.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "ga": {
+    "Libreville": [
+      {
+        "src": "/cities/ga/libreville-0.jpg",
+        "caption": "Libreville waterfront, Libreville, Gabon",
+        "credit": "Foto: Shirmy25. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALibreville_frond_de_mer.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Floresta": [
+      {
+        "src": "/cities/ga/floresta-0.jpg",
+        "caption": "Elephants in Lopé, Floresta, Gabon",
+        "credit": "Foto: Ngangorica. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AElephants_in_Lop%C3%A9_National_Park.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Port-Gentil": [
+      {
+        "src": "/cities/ga/port-gentil-0.jpg",
+        "caption": "Port-Gentil from the air, Port-Gentil, Gabon",
+        "credit": "Foto: Brian Ecton /. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APOG-From_The_Air.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "bi": {
     "Bujumbura": [
       {
@@ -4009,10 +4694,92 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ABujumbura.JPG",
         "kind": "photo"
       }
+    ],
+    "As colinas": [
+      {
+        "src": "/cities/bi/as-colinas-0.jpg",
+        "caption": "Kibira hills, As colinas, República do Burundi",
+        "credit": "Foto: NZISABIRA Léopold. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AL'environnement_de_Kibira_%C3%A0_teza.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Gitega": [
+      {
+        "src": "/cities/bi/gitega-0.jpg",
+        "caption": "Gitega cathedral, Gitega, República do Burundi",
+        "credit": "Foto: NIHEREWENIMANA Richard. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADioc%C3%A8se_Gitega_y.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
     ]
   },
-  "dj": {},
-  "er": {},
+  "dj": {
+    "Djibuti": [
+      {
+        "src": "/cities/dj/djibuti-0.jpg",
+        "caption": "Place Menelik, Djibuti, Djibouti",
+        "credit": "Foto: Francisco Anzola. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APlace_Menelik_in_Djibouti_city_(25058480721).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Tadjourah": [
+      {
+        "src": "/cities/dj/tadjourah-0.jpg",
+        "caption": "Tadjourah white city, Tadjourah, Djibouti",
+        "credit": "Foto: Miaz85. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ATadjourah%2Cthe_White_city(Djibouti)12.2020.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "O lago Assal": [
+      {
+        "src": "/cities/dj/o-lago-assal-0.jpg",
+        "caption": "Lake Assal, O lago Assal, Djibouti",
+        "credit": "Foto: Fishercd. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALake_Assal_1-Djibouti.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "er": {
+    "Asmara": [
+      {
+        "src": "/cities/er/asmara-0.jpg",
+        "caption": "Fiat Tagliero building, Asmara, Eritrea",
+        "credit": "Foto: sailko. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AFiat_tagliero%2C_09.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Massawa": [
+      {
+        "src": "/cities/er/massawa-0.jpg",
+        "caption": "Massawa harbour, Massawa, Eritrea",
+        "credit": "Foto: Reinhard Dietrich. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMassawa_harbour.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "As terras altas": [
+      {
+        "src": "/cities/er/as-terras-altas-0.jpg",
+        "caption": "Keren highlands, As terras altas, Eritrea",
+        "credit": "Foto: Voice of Clam. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKeren_-_2008-11-01.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "rw": {
     "O lago Kivu": [
       {
@@ -4022,23 +4789,188 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ALake_Kivu_(20875703429).jpg",
         "kind": "photo"
       }
+    ],
+    "Kigali": [
+      {
+        "src": "/cities/rw/kigali-0.jpg",
+        "caption": "Kigali city view, Kigali, Rwanda",
+        "credit": "Foto: Emmanuelkwizera. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AHigh_Angle_View_Of_Kigali_City_Street_on_November_29%2C_2018._Emmanuel_Kwizera.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "As mil colinas": [
+      {
+        "src": "/cities/rw/as-mil-colinas-0.jpg",
+        "caption": "Hills above Lake Kivu, As mil colinas, Rwanda",
+        "credit": "Foto: Adam Jones, Ph.D.. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AScenery_in_Hills_above_Lake_Kivu_-_Near_Karongi-Kibuye_-_Western_Rwanda_-_01.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
-  "so": {},
+  "so": {
+    "Mogadíscio": [
+      {
+        "src": "/cities/so/mogadiscio-0.jpg",
+        "caption": "Lido beach, Mogadíscio, Somalia",
+        "credit": "Foto: AMISOM. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALido_beach_from_the_sea_in_Mogadishu.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Berbera": [
+      {
+        "src": "/cities/so/berbera-0.jpg",
+        "caption": "Berbera city, Berbera, Somalia",
+        "credit": "Foto: Siirski. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABerbera_city%2C_Somaliland.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "O mato": [
+      {
+        "src": "/cities/so/o-mato-0.jpg",
+        "caption": "Somali landscape from the air, O mato, Somalia",
+        "credit": "Foto: STAFF SGT. LEVERN J. MCQUEEN. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASomaliaLuftaufnahme1993.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "somaliland": {
     "Hargeisa": [
       {
         "src": "/cities/somaliland/hargeisa-0.jpg",
-        "caption": "Hargeisa — Aerial view of Hargeisa DJI 0226",
-        "credit": "Foto: Ridwan Bukhari. Wikimedia Commons, CC BY-SA 4.0.",
-        "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Hargeisa_DJI_0226.jpg",
-        "kind": "photo"
+        "caption": "Hargeisa city view, Hargeisa, Somaliland",
+        "credit": "Foto: Mheidegger. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AHargeisa%2C_2024.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Berbera": [
+      {
+        "src": "/cities/somaliland/berbera-0.jpg",
+        "caption": "Berbera harbour, Berbera, Somaliland",
+        "credit": "Foto: Brian Dell. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABerbera_Somaliland_view_northeast.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "As montanhas": [
+      {
+        "src": "/cities/somaliland/as-montanhas-0.jpg",
+        "caption": "Daallo Mountain, As montanhas, Somaliland",
+        "credit": "Foto: Abukar Musa. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADaallo_Mountain_-_Erigavo%2C_Sanaag_Region%2C_Somaliland_05.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
-  "sd": {},
-  "ss": {},
-  "ug": {},
+  "sd": {
+    "Cartum": [
+      {
+        "src": "/cities/sd/cartum-0.jpg",
+        "caption": "Khartoum market, Cartum, Sudan",
+        "credit": "Foto: عاصم الرشيد التوم. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AVegetable_Market_-_Khartoum_Bahri-Sudan.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Um palmar": [
+      {
+        "src": "/cities/sd/um-palmar-0.jpg",
+        "caption": "Date palm grove, Um palmar, Sudan",
+        "credit": "Foto: Sudani. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APalminsudan.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "A confluência dos Nilos": [
+      {
+        "src": "/cities/sd/a-confluencia-dos-nilos-0.jpg",
+        "caption": "Confluence of the Blue and White Nile, A confluência dos Nilos, Sudan",
+        "credit": "Foto: Petr Adam Dohnálek. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AConfluence_of_Nile_(Khartoum)_001.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "ss": {
+    "Um acampamento de gado": [
+      {
+        "src": "/cities/ss/um-acampamento-de-gado-0.jpg",
+        "caption": "Mundari cattle camp, Um acampamento de gado, South Sudan",
+        "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ACampamento_de_ganado_de_la_tribu_Mundari%2C_Terekeka%2C_Sud%C3%A1n_del_Sur%2C_2024-01-27%2C_DD_13.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Juba": [
+      {
+        "src": "/cities/ss/juba-0.jpg",
+        "caption": "John Garang Mausoleum, Juba, South Sudan",
+        "credit": "Foto: Jens Klinzing. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AJohn_Garang_Mausoleum_Square_in_Juba.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "O Nilo": [
+      {
+        "src": "/cities/ss/o-nilo-0.jpg",
+        "caption": "Nile river landscape, O Nilo, South Sudan",
+        "credit": "Foto: Fiktube. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABeautiful_nature_along_Nile_River_01.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "ug": {
+    "Kampala": [
+      {
+        "src": "/cities/ug/kampala-0.jpg",
+        "caption": "Kasubi Tombs, Kampala, Uganda",
+        "credit": "Foto: not not phil from SF, CA, US. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKampala_Kasubi_Tombs.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Jinja": [
+      {
+        "src": "/cities/ug/jinja-0.jpg",
+        "caption": "Source of the Nile, Jinja, Uganda",
+        "credit": "Foto: Dror Feitelson. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AJinja_source_of_Nile.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "As margens do lago Vitória": [
+      {
+        "src": "/cities/ug/as-margens-do-lago-vitoria-0.jpg",
+        "caption": "Boats on Lake Victoria, As margens do lago Vitória, Uganda",
+        "credit": "Foto: Owobusingye. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABoats_and_canoes_at_Lake_Victoria%2C_Uganda_2.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "bw": {
     "o delta do Okavango": [
       {
@@ -4047,6 +4979,26 @@
         "credit": "Foto: Diego Delso. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AVista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_23.jpg",
         "kind": "photo"
+      }
+    ],
+    "uma aldeia tswana": [
+      {
+        "src": "/cities/bw/uma-aldeia-tswana-0.jpg",
+        "caption": "Kalamare village, uma aldeia tswana, Botswana",
+        "credit": "Foto: Tmaokisa. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AKara_in_Kalamare_01.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Gaborone": [
+      {
+        "src": "/cities/bw/gaborone-0.jpg",
+        "caption": "Gaborone city view, Gaborone, Botswana",
+        "credit": "Foto: CNJerem. Wikimedia Commons, CC BY 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AView_from_I-Tower_SE_20200712.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
       }
     ]
   },
@@ -4068,9 +5020,50 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AMaletsunyanefalls.JPG",
         "kind": "photo"
       }
+    ],
+    "as montanhas": [
+      {
+        "src": "/cities/ls/as-montanhas-0.jpg",
+        "caption": "Sani Pass, as montanhas, Lesotho",
+        "credit": "Foto: Vaiz Ha. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASani_Pass_heading_into_Lesotho.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
-  "mg": {},
+  "mg": {
+    "a floresta": [
+      {
+        "src": "/cities/mg/a-floresta-0.jpg",
+        "caption": "Andasibe-Mantadia forest, a floresta, Madagascar",
+        "credit": "Foto: Smiley.toerist. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAndasibe-Mantadia_National_Park_2013_24.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Antananarivo": [
+      {
+        "src": "/cities/mg/antananarivo-0.jpg",
+        "caption": "Rova of Antananarivo, Antananarivo, Madagascar",
+        "credit": "Foto: David Herzog. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAntananarivo_Rova-Palast.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "a costa": [
+      {
+        "src": "/cities/mg/a-costa-0.jpg",
+        "caption": "Beach at Sainte-Marie, a costa, Madagascar",
+        "credit": "Foto: M worm. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ABeache_of_La_Crique_Sainte_Marie.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "mw": {
     "o lago Malawi": [
       {
@@ -4080,10 +5073,92 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ADugout_on_Lake_Malawi_(14874751077).jpg",
         "kind": "photo"
       }
+    ],
+    "Lilongwe": [
+      {
+        "src": "/cities/mw/lilongwe-0.jpg",
+        "caption": "Lilongwe clock tower, Lilongwe, Malawi",
+        "credit": "Foto: Felixfeld. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AK.a.r-.clocktower-in-lilongwe.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "Zomba": [
+      {
+        "src": "/cities/mw/zomba-0.jpg",
+        "caption": "Zomba Plateau, Zomba, Malawi",
+        "credit": "Foto: Felefuchs. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AAt_the_slopes_of_Zomba_Platea.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
-  "na": {},
-  "sz": {},
+  "na": {
+    "Windhoek": [
+      {
+        "src": "/cities/na/windhoek-0.jpg",
+        "caption": "Christ Church, Windhoek, Namibia",
+        "credit": "Foto: Christoph Strässler. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AChrist_Church_in_Windhoek%2C_Namibia.jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "a duna": [
+      {
+        "src": "/cities/na/a-duna-0.jpg",
+        "caption": "Dune at Sossusvlei, a duna, Namibia",
+        "credit": "Foto: Anagoria. Wikimedia Commons, CC BY 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3A2011-02-09_066.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "o deserto": [
+      {
+        "src": "/cities/na/o-deserto-0.jpg",
+        "caption": "Deadvlei, o deserto, Namibia",
+        "credit": "Foto: MarkDhawn. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AParched-earth-dead-vlei.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "sz": {
+    "Mbabane": [
+      {
+        "src": "/cities/sz/mbabane-0.jpg",
+        "caption": "Mbabane city view, Mbabane, Eswatini",
+        "credit": "Foto: Athena Lao from Bulgaria. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AMbabane_(6035476964).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Lobamba": [
+      {
+        "src": "/cities/sz/lobamba-0.jpg",
+        "caption": "Parliament of Eswatini, Lobamba, Eswatini",
+        "credit": "Foto: Bernard Gagnon. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AParliament_building_of_Eswatini%2C_Lobamba.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "o vale": [
+      {
+        "src": "/cities/sz/o-vale-0.jpg",
+        "caption": "Mlilwane valley, o vale, Eswatini",
+        "credit": "Foto: Vaiz Ha. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AZabras_in_Mlilwane_Wildlife_Sanctuary.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
   "zm": {
     "as cataratas Vitória": [
       {
@@ -4102,8 +5177,80 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AR%C3%ADo_Zambeze%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_25.jpg",
         "kind": "photo"
       }
+    ],
+    "Lusaca": [
+      {
+        "src": "/cities/zm/lusaca-0.jpg",
+        "caption": "Downtown Lusaka, Lusaca, Zambia",
+        "credit": "Foto: Matthew Grollnek. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADowntown_Lusaka.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
-  "zw": {},
-  "eh": {}
+  "zw": {
+    "Harare": [
+      {
+        "src": "/cities/zw/harare-0.jpg",
+        "caption": "Harare city view, Harare, Zimbabwe",
+        "credit": "Foto: Itaisibanda. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AView_of_Harare_from_Chiremba_road.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "as ruínas de pedra": [
+      {
+        "src": "/cities/zw/as-ruinas-de-pedra-0.jpg",
+        "caption": "Conical Tower, Great Zimbabwe, as ruínas de pedra, Zimbabwe",
+        "credit": "Foto: Andrew Moore from Johannesburg, South Africa. Wikimedia Commons, CC BY-SA 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AConical_Tower_-_Great_Enclosure_III_(33736918448).jpg",
+        "kind": "photo",
+        "objectPosition": "top"
+      }
+    ],
+    "o Zambeze": [
+      {
+        "src": "/cities/zw/o-zambeze-0.jpg",
+        "caption": "Rio Zambeze em Mana Pools, o Zambeze, Zimbabwe",
+        "credit": "Foto: Babakathy. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AIsland_in_the_Zambezi_River_at_Mana_Pools_National_Park.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  },
+  "eh": {
+    "um acampamento": [
+      {
+        "src": "/cities/eh/um-acampamento-0.jpg",
+        "caption": "Sahrawi refugee camp, um acampamento, Western Sahara",
+        "credit": "Foto: Jørn Sund-Henriksen. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3AElAiounrefugeecamp.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "o mar": [
+      {
+        "src": "/cities/eh/o-mar-0.jpg",
+        "caption": "Dakhla waterfront, o mar, Western Sahara",
+        "credit": "Foto: YoTuT from United States. Wikimedia Commons, CC BY 2.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ADakhla%2C_Western_Sahara_(11).jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "o deserto": [
+      {
+        "src": "/cities/eh/o-deserto-0.jpg",
+        "caption": "Laayoune in the Sahara, o deserto, Western Sahara",
+        "credit": "Foto: Bertramz. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALaayoune%2Cnorth.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ]
+  }
 }

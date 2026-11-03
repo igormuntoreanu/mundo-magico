@@ -143,6 +143,9 @@ export const FEATURED = ["br", "pt", "jp", "eg", "mx", "fr", "in", "ke", "ao", "
 export function flagUrl(iso: string, width = 320): string {
   if (iso === "aq") return "https://flagcdn.com/w320/aq.png";
   if (iso === "xk") return "https://flagcdn.com/w320/xk.png";
+  // Not an ISO 3166-1 alpha-2 code, so flagcdn has no asset. Somaliland is
+  // green / white / red with a black star — not Somalia's blue flag.
+  if (iso === "somaliland") return "/flags/somaliland.svg";
   if (iso.length !== 2) return "";
   return `https://flagcdn.com/w${width}/${iso}.png`;
 }

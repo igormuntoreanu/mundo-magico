@@ -2,6 +2,11 @@
 // Generated 2026-10-21; keep in sync with that script.
 // Auto English spots for photo-gap cities: see city-photo-spots-generated.mjs
 export { GENERATED_SPOT_NAMES } from "./city-photo-spots-generated.mjs";
+import {
+  AFRICA_SEARCH_NAMES,
+  AFRICA_TEXT_ALIASES,
+  AFRICA_TOURIST_NAMES,
+} from "./city-photo-names-africa.mjs";
 
 export const CITY_SEARCH_NAMES = {
   us: { "Nova York": "New York City", "São Francisco": "San Francisco" },
@@ -46,6 +51,11 @@ export const CITY_SEARCH_NAMES = {
     Conacri: "Conakry",
     "Fouta Djallon": "Fouta Djallon",
     Kindia: "Kindia",
+  },
+  lr: {
+    Monróvia: "Monrovia",
+    "O rio": "Cavalla River",
+    "A floresta": "Sapo National Park",
   },
   ke: { Nairóbi: "Nairobi", "Masai Mara": "Maasai Mara" },
   ma: { Marraquexe: "Marrakech", Fez: "Fes Morocco", Chefchaouen: "Chefchaouen Morocco" },
@@ -148,6 +158,11 @@ export const CITY_TEXT_ALIASES = {
     "Fouta Djallon": ["Fouta Djalon", "Futa Jallon", "Pita Guinea", "Dalaba"],
     Kindia: ["Kindia Guinea", "Voile de la Mariée"],
   },
+  lr: {
+    Monróvia: ["Monrovia Liberia", "Montserrado", "Mesurado"],
+    "O rio": ["Cavalla River", "Cavally River", "Saint Paul River Liberia"],
+    "A floresta": ["Sapo National Park", "Liberian rainforest", "Nimba County forest"],
+  },
 };
 export const CITY_EXCLUDE_PLACES = {
   al: { Tirana: ["Valias", "Fusha e Tiranës"] },
@@ -249,6 +264,26 @@ export const TOURIST_SEARCH_NAMES = {
       "Chute de Tabouna Kindia",
       "Voile de la Mariée Kindia",
       "Mount Gangan Kindia",
+    ],
+  },
+  lr: {
+    Monróvia: [
+      "Monrovia skyline",
+      "Monrovia city view",
+      "Providence Island Monrovia",
+      "Waterside Market Monrovia",
+    ],
+    "O rio": [
+      "Cavalla River",
+      "Saint Paul River",
+      "Cavalla River Liberia",
+      "Liberia river pirogue",
+    ],
+    "A floresta": [
+      "Liberian rainforest",
+      "Tropical rainforest near Konimbo",
+      "Sapo National Park rainforest",
+      "Nimba forest Liberia",
     ],
   },
   ke: {
@@ -1197,3 +1232,15 @@ export const TOURIST_SEARCH_NAMES = {
     Gračanica: ["Gracanica Monastery Kosovo", "Gracanica Kosovo aerial", "Gračanica monastery"],
   },
 };
+
+// Africa batch (2026-11): merge the generated continent module in place so the
+// hand-maintained maps above keep working and per-ISO entries are not clobbered.
+for (const [map, add] of [
+  [CITY_SEARCH_NAMES, AFRICA_SEARCH_NAMES],
+  [CITY_TEXT_ALIASES, AFRICA_TEXT_ALIASES],
+  [TOURIST_SEARCH_NAMES, AFRICA_TOURIST_NAMES],
+]) {
+  for (const [iso, cities] of Object.entries(add)) {
+    map[iso] = { ...(map[iso] || {}), ...cities };
+  }
+}

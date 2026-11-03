@@ -8,7 +8,7 @@ import { LanguageSwitcher } from "@/components/language-switcher";
 import { StoryBook } from "@/components/story-book";
 import { WorldLoader } from "@/components/world-loader";
 import { WorldMap } from "@/components/world-map";
-import { FEATURED, getCountry, searchCountries } from "@/data/catalog";
+import { FEATURED, flagUrl, getCountry, searchCountries } from "@/data/catalog";
 import { loadTranslationPack } from "@/data/stories/translations";
 import { countryName } from "@/i18n/country-name";
 import { localizeCountry } from "@/i18n/content";
@@ -156,7 +156,7 @@ function Home() {
                       onClick={() => pick(c.iso)}
                     >
                       <img
-                        src={`https://flagcdn.com/w40/${c.iso}.png`}
+                        src={flagUrl(c.iso, 40)}
                         alt=""
                         className="h-4 w-6 rounded-sm border border-stroke object-cover"
                         onError={(e) => {

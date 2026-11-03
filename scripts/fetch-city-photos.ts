@@ -711,14 +711,55 @@ function lineOut(
   );
 }
 
-async function downloadBuffer(url: string): Promise<Buffer> {
-  const res = await fetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(120_000) });
-  if (!res.ok) throw new Error(`download ${res.status}`);
-  return Buffer.from(await res.arrayBuffer());
+function filePathUrl(fileTitle: string, width = 1600): string {
+  const name = fileTitle.replace(/^File:/, "");
+  return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(name)}?width=${width}`;
 }
 
-async function downloadAndResize(url: string, dest: string): Promise<{ width: number; height: number }> {
-  const buf = await downloadBuffer(url);
+function originalFileUrl(url: string): string {
+  // .../commons/thumb/a/ab/Name.jpg/3840px-Name.jpg -> .../commons/a/ab/Name.jpg
+  const m = url.match(/^(https:\/\/upload\.wikimedia\.org\/wikipedia\/[^/]+)\/thumb(\/.+?)\/[^/]+$/);
+  if (!m) return "";
+  return `${m[1]}${m[2]}`;
+}
+
+async function downloadBuffer(url: string, fileTitle = ""): Promise<Buffer> {
+  // Special:FilePath is served from the wiki host and is not subject to the hard
+  // upload.wikimedia.org thumbnail throttling that returns 429 in bursts.
+  const candidates = [
+    fileTitle ? filePathUrl(fileTitle) : "",
+    fileTitle ? `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(fileTitle.replace(/^File:/, ""))}` : "",
+    url,
+    originalFileUrl(url),
+  ].filter(Boolean);
+  let lastErr = "";
+  for (const candidate of candidates) {
+    for (let attempt = 0; attempt < 4; attempt++) {
+      const res = await fetch(candidate, {
+        headers: { "User-Agent": UA, "Api-User-Agent": UA },
+        signal: AbortSignal.timeout(120_000),
+      });
+      if (res.ok) return Buffer.from(await res.arrayBuffer());
+      if (res.status === 429 || res.status >= 500) {
+        const retryAfter = Number(res.headers.get("retry-after")) * 1000;
+        const wait = Math.min(20_000, retryAfter || 3_000 * (attempt + 1));
+        lastErr = `download ${res.status}`;
+        await new Promise((r) => setTimeout(r, wait));
+        continue;
+      }
+      lastErr = `download ${res.status}`;
+      break;
+    }
+  }
+  throw new Error(lastErr || "download failed");
+}
+
+async function downloadAndResize(
+  url: string,
+  dest: string,
+  fileTitle = "",
+): Promise<{ width: number; height: number }> {
+  const buf = await downloadBuffer(url, fileTitle);
   const staged = `${dest}.download`;
   writeFileSync(staged, buf);
   const meta = await sharp(staged)
@@ -1083,11 +1124,21 @@ async function stageFind(opts: {
       }
       const spotsPt = t.spots.split(",").map((s) => s.trim()).filter(Boolean);
       const landmark = spotQueries(t.iso, t.city, spotsPt)[0] || t.city;
+      // Overrides skip vision, but still need city identity: mirror the find-path
+      // tokens (Portuguese name + English search name + text aliases).
+      const searchCity = citySearchName(t.iso, t.city);
+      const aliases =
+        (CITY_TEXT_ALIASES as Record<string, Record<string, string[]>>)[t.iso]?.[t.city] || [];
+      const overrideTokens = [
+        ...fold(t.city).split(" "),
+        ...fold(searchCity).split(" "),
+        ...aliases.flatMap((a) => fold(a).split(" ")),
+      ].filter((tok) => tok.length >= 3);
       const result = evaluatePage(page, {
         landmark,
         city: t.city,
-        searchCity: citySearchName(t.iso, t.city),
-        tokens: fold(t.city).split(" "),
+        searchCity,
+        tokens: overrideTokens,
         exclude: undefined,
         cityCoord: null,
         rivals: [],
@@ -1417,7 +1468,7 @@ async function stageApply(opts: {
     mkdirSync(dir, { recursive: true });
     const dest = join(dir, file);
     try {
-      const dims = await downloadAndResize(cand.downloadUrl, dest);
+      const dims = await downloadAndResize(cand.downloadUrl, dest, cand.title);
       opts.manifest[t.iso] = opts.manifest[t.iso] || {};
       opts.manifest[t.iso]![t.city] = [
         {

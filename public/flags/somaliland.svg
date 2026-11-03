@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Flag of Somaliland">
+  <rect width="900" height="200" fill="#008000"/>
+  <rect y="200" width="900" height="200" fill="#FFFFFF"/>
+  <rect y="400" width="900" height="200" fill="#CE1126"/>
+  <polygon fill="#000000" points="450,222 471.2,270.9 535.6,272.2 484.2,311.1 502.9,372.8 450,336 397.1,372.8 415.8,311.1 364.4,272.2 428.8,270.9"/>
+</svg>
