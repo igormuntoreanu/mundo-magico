@@ -48,6 +48,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AForte_de_Santo_Ant%C3%B4nio--Farol_da_Barra_Salvador_Bahia_Vista_A%C3%A9rea_2021-0149.jpg",
         "kind": "photo"
       }
+    ],
+    "Brasília": [
+      {
+        "src": "/cities/br/brasilia-0.jpg",
+        "caption": "Brasília, Brasil — Basílica, Palácio do Planalto e Catedral de Brasília",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Florianópolis": [
+      {
+        "src": "/cities/br/florianopolis-0.jpg",
+        "caption": "Florianópolis, Brasil — praia de Campinho, Farrapos e Canyon do Sumiço",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "uy": {
@@ -83,6 +99,22 @@
         "credit": "Foto: Heretiq. Wikimedia Commons, CC BY-SA 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AColonia-AerialViewPlazaMayor.jpg",
         "kind": "photo"
+      }
+    ],
+    "Rocha": [
+      {
+        "src": "/cities/uy/rocha-0.jpg",
+        "caption": "Rocha, Uruguai — praia de La Barra, castelo de la Órgiva e praias",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Paso de los Toros": [
+      {
+        "src": "/cities/uy/paso-de-los-toros-0.jpg",
+        "caption": "Paso de los Toros, Uruguai — fontes termais, asado e passeios",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -185,6 +217,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ACancun_beach_aerial_-_Luftbild_(19853282239).jpg",
         "kind": "photo"
       }
+    ],
+    "Oaxaca": [
+      {
+        "src": "/cities/mx/oaxaca-0.jpg",
+        "caption": "Oaxaca, México — zócalo, museu de arte pré-histórica e mercado de 20 de Novembro",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Mérida": [
+      {
+        "src": "/cities/mx/merida-0.jpg",
+        "caption": "Mérida, México — catedral, praça Grande e teatro Santiago",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "gt": {
@@ -213,6 +261,22 @@
         "credit": "Foto: Christopher Crouzet. Wikimedia Commons, CC BY-SA 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ASemuc_Champey%2C_Guatemala.jpg",
         "kind": "photo"
+      }
+    ],
+    "Flores": [
+      {
+        "src": "/cities/gt/flores-0.jpg",
+        "caption": "Flores, Guatemala — ilha de Flores, castelo de la Trinidad e museu",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Quetzaltenango": [
+      {
+        "src": "/cities/gt/quetzaltenango-0.jpg",
+        "caption": "Quetzaltenango, Guatemala — catedral, palácio da Escondida e mercado de artesanias",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -250,6 +314,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AGrigadan3.JPG",
         "kind": "photo"
       }
+    ],
+    "San Pedro": [
+      {
+        "src": "/cities/bz/san-pedro-0.jpg",
+        "caption": "San Pedro, Belize — dunas, Ilha de la Piedra e manglares",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Caye Caulker": [
+      {
+        "src": "/cities/bz/caye-caulker-0.jpg",
+        "caption": "Caye Caulker, Belize — recifes e praias de Caye Caulker",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "sv": {
@@ -286,6 +366,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AVolc%C3%A1n_de_Izalco.jpg",
         "kind": "photo"
       }
+    ],
+    "Santa Ana": [
+      {
+        "src": "/cities/sv/santa-ana-0.jpg",
+        "caption": "Santa Ana, El Salvador — cerro Verde, vulcão e Boquerón",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Coatepeque": [
+      {
+        "src": "/cities/sv/coatepeque-0.jpg",
+        "caption": "Coatepeque, El Salvador — lago, catedral e vila",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "hn": {
@@ -321,6 +417,22 @@
         "credit": "Foto: soyignatius. Wikimedia Commons, CC BY 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3APauahtun_head%2C_Cop%C3%A1n_(Honduras).jpg",
         "kind": "photo"
+      }
+    ],
+    "Roatán": [
+      {
+        "src": "/cities/hn/roatan-0.jpg",
+        "caption": "Roatán, Honduras — istmo, recifes de coral e Cayos Cochinos",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "La Ceiba": [
+      {
+        "src": "/cities/hn/la-ceiba-0.jpg",
+        "caption": "La Ceiba, Honduras — vulcão de Pico Bonete, parque Nacional e rio Cangrejal",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -372,6 +484,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ARuinas_leon_viejo01.jpg",
         "kind": "photo"
       }
+    ],
+    "San Juan del Sur": [
+      {
+        "src": "/cities/ni/san-juan-del-sur-0.jpg",
+        "caption": "San Juan del Sur, Nicarágua — praias, ilhas e vulcão de Mombacho",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Corn Island": [
+      {
+        "src": "/cities/ni/corn-island-0.jpg",
+        "caption": "Corn Island, Nicarágua — praia, recife e manguezais",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "cr": {
@@ -414,6 +542,22 @@
         "credit": "Foto: Rodtico21. Wikimedia Commons, CC BY-SA 4.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3APlaya_Manuel_Antonio._Quepos._Costa_Rica.jpg",
         "kind": "photo"
+      }
+    ],
+    "Guanacaste": [
+      {
+        "src": "/cities/cr/guanacaste-0.jpg",
+        "caption": "Guanacaste, Costa Rica — praia de Santa Teresa, vulcão do Rincón de la Vieja e parque Nacional Santa Rosa",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Puerto Viejo": [
+      {
+        "src": "/cities/cr/puerto-viejo-0.jpg",
+        "caption": "Puerto Viejo, Costa Rica — praia de Manzanillo, tartarugas e manguezais",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -458,6 +602,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AIsla_Bastimentos_La_Mochila.jpg",
         "kind": "photo"
       }
+    ],
+    "Colón": [
+      {
+        "src": "/cities/pa/colon-0.jpg",
+        "caption": "Colón, Panamá — catedral, centro histórico e Forte de Portobelo",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "El Valle de Antón": [
+      {
+        "src": "/cities/pa/valle-de-anton-0.jpg",
+        "caption": "El Valle de Antón, Panamá — vulcão, lagoas e museu",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "cu": {
@@ -500,6 +660,22 @@
         "credit": "Foto: Eric Marshall. Wikimedia Commons, CC BY 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3APlaza_Vieja%2C_Havana_-_panoramio.jpg",
         "kind": "photo"
+      }
+    ],
+    "Viñales": [
+      {
+        "src": "/cities/cu/vinales-0.jpg",
+        "caption": "Viñales, Cuba — vale de Viñales, castelo de Santo Tomás e muralhas",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Santiago de Cuba": [
+      {
+        "src": "/cities/cu/santiago-de-cuba-0.jpg",
+        "caption": "Santiago de Cuba, Cuba — catedral, rua da Habana e castelo do Príncipe",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -565,6 +741,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ABassin_bleu_(Jacmel).jpg",
         "kind": "photo"
       }
+    ],
+    "Les Cayes": [
+      {
+        "src": "/cities/ht/les-cayes-0.jpg",
+        "caption": "Les Cayes, Haiti — baía de Acres, fortaleza e praça",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Île-à-Vache": [
+      {
+        "src": "/cities/ht/ile-a-vache-0.jpg",
+        "caption": "Île-à-Vache, Haiti — praia e manguezais",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "do": {
@@ -600,6 +792,22 @@
         "credit": "Foto: Abrahami. Wikimedia Commons, CC BY-SA 3.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AFortaleza_san_felipe.jpg",
         "kind": "photo"
+      }
+    ],
+    "Santiago de los Caballeros": [
+      {
+        "src": "/cities/do/santiago-de-los-caballeros-0.jpg",
+        "caption": "Santiago de los Caballeros, República Dominicana — catedral, palácio nacional e praça de Espanha",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Samaná": [
+      {
+        "src": "/cities/do/samaná-0.jpg",
+        "caption": "Samaná, República Dominicana — praia de Rincón, parque Nacional do Este e ilhas",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -709,6 +917,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ANaguabo_-_El_Yunque_nat_park_PR_IMG_2156.jpg",
         "kind": "photo"
       }
+    ],
+    "Vieques": [
+      {
+        "src": "/cities/pr/vieques-0.jpg",
+        "caption": "Vieques, Porto Rico — praia, forte e baía fosfórica",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Arecibo": [
+      {
+        "src": "/cities/pr/arecibo-0.jpg",
+        "caption": "Arecibo, Porto Rico — observatório, gruta e catedral",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "ar": {
@@ -758,6 +982,22 @@
         "credit": "Foto: Deensel. Wikimedia Commons, CC BY 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AUshuaia_aerial_panorama.jpg",
         "kind": "photo"
+      }
+    ],
+    "Salta": [
+      {
+        "src": "/cities/ar/salta-0.jpg",
+        "caption": "Salta, Argentina — praça de Mayo, mercado e igreja da Independência",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Bariloche": [
+      {
+        "src": "/cities/ar/bariloche-0.jpg",
+        "caption": "Bariloche, Argentina — lago do Nahuel Huapi, mosteiros e montanhas dos Andes",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -809,6 +1049,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AArequipa_Cusco_fligth_02.jpg",
         "kind": "photo"
       }
+    ],
+    "Ica": [
+      {
+        "src": "/cities/pe/ica-0.jpg",
+        "caption": "Ica, Peru — Paracas, Huacachina e ballenas",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Nazca": [
+      {
+        "src": "/cities/pe/nazca-0.jpg",
+        "caption": "Nazca, Peru — linhas de Nazca, catedral e museu",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "co": {
@@ -852,6 +1108,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AVista_a%C3%A9rea_Bogot%C3%A1_desde_Plaza_Bol%C3%ADvar_-_8.jpg",
         "kind": "photo"
       }
+    ],
+    "Salento": [
+      {
+        "src": "/cities/co/salento-0.jpg",
+        "caption": "Salento, Colômbia — parque Quinchón, catedral e volcão do Quindío",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Pasto": [
+      {
+        "src": "/cities/co/pasto-0.jpg",
+        "caption": "Pasto, Colômbia — catedral, praça de Artes e Museu de América",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "cl": {
@@ -879,6 +1151,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ADuna_Mayor%2C_Valle_de_la_Luna%2C_San_Pedro_de_Atacama%2C_Chile%2C_2016-02-01%2C_DD_173-175_HDR.JPG",
         "kind": "photo"
       }
+    ],
+    "La Serena": [
+      {
+        "src": "/cities/cl/la-serena-0.jpg",
+        "caption": "La Serena, Chile — plaza de Armas, Castillo Rojas e praia de Los Marinos",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Punta Arenas": [
+      {
+        "src": "/cities/cl/punta-arenas-0.jpg",
+        "caption": "Punta Arenas, Chile — faro de Mejillones, cemitério colonial e Museo Y-47",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "py": {
@@ -898,6 +1186,22 @@
         "credit": "Foto: International Hydropower Association (IHA). Wikimedia Commons, CC BY 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AItaipu_Aerea.jpg",
         "kind": "photo"
+      }
+    ],
+    "Encarnación": [
+      {
+        "src": "/cities/py/encarnacion-0.jpg",
+        "caption": "Encarnación, Paraguai — basílica, igreja da Companhia e mirador",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Pilar": [
+      {
+        "src": "/cities/py/pilar-0.jpg",
+        "caption": "Pilar, Paraguai — forte Olimpo, lago e porto",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -942,6 +1246,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ALa_Paz_aerial_view-Bolivia.jpg",
         "kind": "photo"
       }
+    ],
+    "Copacabana": [
+      {
+        "src": "/cities/bo/copacabana-0.jpg",
+        "caption": "Copacabana (Lago Titicaca), Bolívia — templo da Virgem de Copacabana e Iñaq Pata",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Potosí": [
+      {
+        "src": "/cities/bo/potosi-0.jpg",
+        "caption": "Potosí, Bolívia — catedral colonial, fortaleza de San Lorenzo e mina de Pozo",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "ec": {
@@ -978,6 +1298,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AVista_de_Quito_-_Equador_-_panoramio.jpg",
         "kind": "photo"
       }
+    ],
+    "Cuenca": [
+      {
+        "src": "/cities/ec/cuenca-0.jpg",
+        "caption": "Cuenca, Equador — catedral, Torres de Tariacu e cerro Cuminampi",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Loja": [
+      {
+        "src": "/cities/ec/loja-0.jpg",
+        "caption": "Loja, Equador — mercado Benigno, casa de la Cultura e cerro Llallawi",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "ve": {
@@ -995,6 +1331,22 @@
         "credit": "Foto: Paulino Moran. Wikimedia Commons, CC BY-SA 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3ACaracasCentre.jpg",
         "kind": "photo"
+      }
+    ],
+    "Mérida": [
+      {
+        "src": "/cities/ve/merida-0.jpg",
+        "caption": "Mérida, Venezuela — palácio de los Andrada, parque Bolívar e catedral",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Maracaibo": [
+      {
+        "src": "/cities/ve/maracaibo-0.jpg",
+        "caption": "Maracaibo, Venezuela — parque do Este, lago e zoológico",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -1014,6 +1366,22 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AGeorgetown_guyana_banner.jpg",
         "kind": "photo"
       }
+    ],
+    "Kaieteur": [
+      {
+        "src": "/cities/gy/kaieteur-0.jpg",
+        "caption": "Kaieteur, Guiana — cataratas de Kaieteur, rio e parque Nacional Kaieteur",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Lethem": [
+      {
+        "src": "/cities/gy/lethem-0.jpg",
+        "caption": "Lethem, Guiana — rio de Lethem, cachoeira e reserva de Iwokrama",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
   "sr": {
@@ -1031,6 +1399,22 @@
         "credit": "Foto: Ian Mackenzie. Wikimedia Commons, CC BY 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AParamaribo_from_the_air.jpg",
         "kind": "photo"
+      }
+    ],
+    "Brokopondo": [
+      {
+        "src": "/cities/sr/brokopondo-0.jpg",
+        "caption": "Brokopondo, Suriname — lago e praias",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Nieuw-Nickerie": [
+      {
+        "src": "/cities/sr/nieuw-nickerie-0.jpg",
+        "caption": "Nieuw-Nickerie, Suriname — rio Commewijne, forte e mercado",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },
@@ -3190,9 +3574,9 @@
     "Auckland": [
       {
         "src": "/cities/nz/auckland-0.jpg",
-        "caption": "Auckland — Auckland CBD",
-        "credit": "Foto: Prosperosity. Wikimedia Commons, CC BY 4.0.",
-        "href": "https://commons.wikimedia.org/wiki/File%3AAuckland_CBD_20260514_095940.jpg",
+        "caption": "Sky Tower, Auckland, New Zealand",
+        "credit": "Imagem gerada com FLUX.",
+        "href": "https://bfl.ai/",
         "kind": "photo"
       }
     ],
@@ -3203,6 +3587,16 @@
         "credit": "Foto: Pedro Szekely from Los Angeles, USA. Wikimedia Commons, CC BY-SA 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AQueenstown%2C_New_Zealand_(49184821663).jpg",
         "kind": "photo"
+      }
+    ],
+    "Wellington": [
+      {
+        "src": "/cities/nz/wellington-0.jpg",
+        "caption": "Mount Victoria Lookout, Wellington, New Zealand",
+        "credit": "Imagem gerada com FLUX.",
+        "href": "https://bfl.ai/",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -4044,6 +4438,26 @@
         "href": "https://commons.wikimedia.org/wiki/File%3ABeqa_Lagoon_-_Fiji.jpg",
         "kind": "photo"
       }
+    ],
+    "Suva": [
+      {
+        "src": "/cities/fj/suva-0.jpg",
+        "caption": "Market, Suva, Fiji",
+        "credit": "Foto: Ftaaffe. Wikimedia Commons, CC BY-SA 4.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ASuva_harbour_fiji.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Bau": [
+      {
+        "src": "/cities/fj/bau-0.jpg",
+        "caption": "Island antiga, Bau, Fiji",
+        "credit": "Foto: George Brown, D.D.. Wikimedia Commons, Public domain.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APART_OF_THE_TOWN_OF_BAU._FIJI.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
     ]
   },
   "sb": {
@@ -4064,9 +4478,44 @@
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Honiara%2C_2013.jpg",
         "kind": "photo"
       }
+    ],
+    "Makira": [
+      {
+        "src": "/cities/sb/makira-0.jpg",
+        "caption": "Makira, Ilhas Salomão — enseada com aldeia sobre palafitas",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
     ]
   },
-  "vu": {},
+  "vu": {
+    "Port Vila": [
+      {
+        "src": "/cities/vu/port-vila-0.jpg",
+        "caption": "Market, Port Vila, Vanuatu",
+        "credit": "Foto: Gérard Janot. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3APort-Vila_cath_Sacre_Coeur.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Banks": [
+      {
+        "src": "/cities/vu/banks-0.jpg",
+        "caption": "Ilhas Banks, Vanuatu — ilhas vulcânicas, praia e canoas",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Malekula": [
+      {
+        "src": "/cities/vu/malekula-0.jpg",
+        "caption": "Malekula, Vanuatu — costa de areia escura, desenhos na areia e aldeia",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ]
+  },
   "nc": {
     "Hienghène": [
       {
@@ -4075,6 +4524,26 @@
         "credit": "Foto: gérard. Wikimedia Commons, CC BY-SA 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3APoule_couveuse%2C_Hiengh%C3%A8ne%2C_New_Caledonia_%E2%80%93_2015.jpg",
         "kind": "photo"
+      }
+    ],
+    "Nouméa": [
+      {
+        "src": "/cities/nc/noumea-0.jpg",
+        "caption": "Bay, Nouméa, New Caledonia",
+        "credit": "Foto: Bertille. Wikimedia Commons, CC0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ANoum%C3%A9a_-_Mus%C3%A9e_de_la_Ville.jpg",
+        "kind": "photo",
+        "objectPosition": "center"
+      }
+    ],
+    "Lifou": [
+      {
+        "src": "/cities/nc/lifou-0.jpg",
+        "caption": "Beach, Lifou, New Caledonia",
+        "credit": "Foto: Pujolle Sylvain. Wikimedia Commons, CC BY-SA 3.0.",
+        "href": "https://commons.wikimedia.org/wiki/File%3ALifou_Notre_Dame_chapel_and_cliff.JPG",
+        "kind": "photo",
+        "objectPosition": "center"
       }
     ]
   },
@@ -4086,6 +4555,22 @@
         "credit": "Foto: Mark Matson. Wikimedia Commons, CC BY 2.0.",
         "href": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Port_Moresby.jpg",
         "kind": "photo"
+      }
+    ],
+    "Milne Bay": [
+      {
+        "src": "/cities/pg/milne-bay-0.jpg",
+        "caption": "Milne Bay, Papua-Nova Guiné — baía de coral, ilhas verdes e canoas de borda",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
+      }
+    ],
+    "Sepik": [
+      {
+        "src": "/cities/pg/sepik-0.jpg",
+        "caption": "Rio Sepik, Papua-Nova Guiné — casa dos espíritos e canoa ao amanhecer",
+        "credit": "Imagem gerada por IA (FLUX 3) para o FolkGlobe.",
+        "kind": "ai"
       }
     ]
   },

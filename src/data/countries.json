@@ -33,6 +33,14 @@
       {
         "city": "Salvador",
         "spots": "Pelourinho, Elevador Lacerda, Farol da Barra"
+      },
+      {
+        "city": "Brasília",
+        "spots": "Basílica de Brasília, Palácio do Planalto, Catedral de Brasília"
+      },
+      {
+        "city": "Florianópolis",
+        "spots": "Praia de Campinho, Farrapos, Canyon do Sumiço"
       }
     ],
     "iso": "br",
@@ -389,6 +397,14 @@
       {
         "city": "Guadalajara",
         "spots": "Hospicio Cabañas, Teatro Degollado, Tlaquepaque"
+      },
+      {
+        "city": "Oaxaca",
+        "spots": "Zócalo, Museo de Arte Pré-Histórico, Mercado 20 de Novembro"
+      },
+      {
+        "city": "Mérida",
+        "spots": "Catedral de Mérida, Plaza Grande, Teatro Santiago"
       }
     ],
     "iso": "mx",
@@ -427,6 +443,14 @@
       {
         "city": "Ushuaia",
         "spots": "Canal de Beagle, Parque Nacional Tierra del Fuego, farol do fim do mundo"
+      },
+      {
+        "city": "Salta",
+        "spots": "Plaza de Mayo, Mercado de San Francisco, Iglesia de la Independencia"
+      },
+      {
+        "city": "Bariloche",
+        "spots": "Monasterio de la Concepción, Lago Nahuel Huapi, Sierra de los Andes"
       }
     ],
     "iso": "ar",
@@ -465,6 +489,14 @@
       {
         "city": "Arequipa",
         "spots": "Mosteiro de Santa Catalina, Mirante de Yanahuara, Cânion do Colca"
+      },
+      {
+        "city": "Ica",
+        "spots": "Paracas, Huacachina, Ballenas"
+      },
+      {
+        "city": "Nazca",
+        "spots": "Líneas de Nazca, Catedral de Nazca, Museo"
       }
     ],
     "iso": "pe",
@@ -1342,6 +1374,14 @@
       {
         "city": "Medellín",
         "spots": "Plaza Botero, Pueblito Paisa, Comuna 13"
+      },
+      {
+        "city": "Salento",
+        "spots": "Parque Quinchón, Catedral de Salento, Volcán del Quindío"
+      },
+      {
+        "city": "Pasto",
+        "spots": "Catedral de Pasto, Plaza de Artes, Museo de América"
       }
     ],
     "iso": "co",
@@ -1380,6 +1420,14 @@
       {
         "city": "San Pedro de Atacama",
         "spots": "Vale da Lua, géiseres El Tatio, observatórios"
+      },
+      {
+        "city": "La Serena",
+        "spots": "Plaza de Armas, Castillo Rojas, Playa de Los Marinos"
+      },
+      {
+        "city": "Punta Arenas",
+        "spots": "Faro de Mejillones, Cementerio Colonial, Museo Y-47"
       }
     ],
     "iso": "cl",
@@ -2382,6 +2430,14 @@
       {
         "city": "Varadero",
         "spots": "praias, dunas, recife"
+      },
+      {
+        "city": "Viñales",
+        "spots": "Valle de Viñales, Castillo de Santo Tomás, Caminos de la Sierra"
+      },
+      {
+        "city": "Santiago de Cuba",
+        "spots": "Catedral de Santiago de Cuba, Calle de la Habana, Castillo del Príncipe"
       }
     ],
     "iso": "cu",
@@ -2458,6 +2514,14 @@
       {
         "city": "Parque Manuel Antonio",
         "spots": "praias, macacos, trilhos"
+      },
+      {
+        "city": "Guanacaste",
+        "spots": "Playa de Santa Teresa, Volcão de Rincón de la Vieja, Parque Nacional Santa Rosa"
+      },
+      {
+        "city": "Puerto Viejo",
+        "spots": "Playa de Manzanillo, Tartarugas de Frenchman Bay, manguezais"
       }
     ],
     "iso": "cr",
@@ -2572,6 +2636,14 @@
       {
         "city": "Itaipú",
         "spots": "barragem, miradouro, rio Paraná"
+      },
+      {
+        "city": "Encarnación",
+        "spots": "Basílica de la Inmaculada, Igreja de la Companhia, Mirador de Cainguás"
+      },
+      {
+        "city": "Pilar",
+        "spots": "Forte Olimpo, Lago de Pilar, Porto de Pilar"
       }
     ],
     "iso": "py",
@@ -2610,6 +2682,14 @@
       {
         "city": "Punta del Este",
         "spots": "praias, casapueblo, mão de Punta"
+      },
+      {
+        "city": "Rocha",
+        "spots": "Praia de La Barra, Castillo de la Órgiva, Praias de Rocha"
+      },
+      {
+        "city": "Paso de los Toros",
+        "spots": "Paso de los Toros, Fontes termais, Asador"
       }
     ],
     "iso": "uy",
@@ -2648,6 +2728,14 @@
       {
         "city": "Uyuni",
         "spots": "Salar, ilha Incahuasi, trem cemitério"
+      },
+      {
+        "city": "Copacabana",
+        "spots": "Templo de la Virgem de Copacabana, Iñaq Pata, Ilha do Sol"
+      },
+      {
+        "city": "Potosí",
+        "spots": "Catedral de Potosí, Catedral de San Lorenzo, Mina de Pozo"
       }
     ],
     "iso": "bo",
@@ -2686,6 +2774,14 @@
       {
         "city": "Galápagos",
         "spots": "tartarugas gigantes, leões-marinhos, vulcões"
+      },
+      {
+        "city": "Cuenca",
+        "spots": "Catedral de Cuenca, Torres de Tariacu, Cerro Cuminampi"
+      },
+      {
+        "city": "Loja",
+        "spots": "Mercado Benigno, Casa de la Cultura, Cerro Llallawi"
       }
     ],
     "iso": "ec",
@@ -2724,6 +2820,14 @@
       {
         "city": "Los Roques",
         "spots": "cayo, recifes, praias de areia branca"
+      },
+      {
+        "city": "Mérida",
+        "spots": "Palácio de los Andrada, Parque Bolívar, Catedral de Mérida"
+      },
+      {
+        "city": "Maracaibo",
+        "spots": "Parque do Este, Lago de Maracaibo, Zoológico Simón Bolívar"
       }
     ],
     "iso": "ve",
@@ -3378,6 +3482,14 @@
       {
         "city": "Boquete",
         "spots": "vulcão Barú, café, florestas nubladas"
+      },
+      {
+        "city": "Colón",
+        "spots": "Catedral de Colón, Centro Histórico de Colón, Forte de Portobelo"
+      },
+      {
+        "city": "El Valle de Antón",
+        "spots": "Volcão de El Valle, Lagunas de la Cruces, Museo de Cerritos"
       }
     ],
     "iso": "pa",
@@ -3416,6 +3528,14 @@
       {
         "city": "Jacmel",
         "spots": "carnival, baía, artesanato"
+      },
+      {
+        "city": "Les Cayes",
+        "spots": "Baía de Acres, Fortaleza de Les Cayes, Praça"
+      },
+      {
+        "city": "Île-à-Vache",
+        "spots": "Ilha de Cayes, Praia de Cayes, Manglares"
       }
     ],
     "iso": "ht",
@@ -3455,6 +3575,14 @@
       {
         "city": "Puerto Plata",
         "spots": "teleférico, fortaleza, âmbar"
+      },
+      {
+        "city": "Santiago de los Caballeros",
+        "spots": "Catedral de Santiago de los Caballeros, Palácio Nacional, Plaza de España"
+      },
+      {
+        "city": "Samaná",
+        "spots": "Playa de Rincón, Parque Nacional del Este, Ilhas"
       }
     ],
     "iso": "do",
@@ -4701,6 +4829,14 @@
       {
         "city": "Floresta alta",
         "spots": "quetzal, nuvens, árvores"
+      },
+      {
+        "city": "Flores",
+        "spots": "Ilha de Flores, Castillo de la Trinidad, Museu de Flores"
+      },
+      {
+        "city": "Quetzaltenango",
+        "spots": "Catedral de Quetzaltenango, Palácio de la Escondida, Mercado de Artesanías"
       }
     ],
     "iso": "gt",
@@ -4739,6 +4875,14 @@
       {
         "city": "Lago de Yojoa",
         "spots": "aves, barco lento, água"
+      },
+      {
+        "city": "Roatán",
+        "spots": "Istmo de Roatán, Recifes de coral, Cayos Cochinos"
+      },
+      {
+        "city": "La Ceiba",
+        "spots": "Volcão de Pico Bonete, Parque Nacional Pico Bonete, Río Cangrejal"
       }
     ],
     "iso": "hn",
@@ -4777,6 +4921,14 @@
       {
         "city": "Izalco",
         "spots": "luz ao longe, outeiro seguro"
+      },
+      {
+        "city": "Santa Ana",
+        "spots": "Catedral de Santa Ana, Cerro Verde, El Boquerón"
+      },
+      {
+        "city": "Coatepeque",
+        "spots": "Lago de Coatepeque, Catedral, Vila de Coatepeque"
       }
     ],
     "iso": "sv",
@@ -4815,6 +4967,14 @@
       {
         "city": "León",
         "spots": "mercado, música, rua"
+      },
+      {
+        "city": "San Juan del Sur",
+        "spots": "Playas de San Juan del Sur, Ilhas de Pupunci, Volcão de Mombacho"
+      },
+      {
+        "city": "Corn Island",
+        "spots": "Ilha Corn Island, Recife de Corn Island, Manguezais do Río Coco"
       }
     ],
     "iso": "ni",
@@ -5159,6 +5319,14 @@
       {
         "city": "Dangriga",
         "spots": "praia, tambores na areia, mercado"
+      },
+      {
+        "city": "San Pedro",
+        "spots": "Dunas de San Pedro, Ilha de la Piedra, manglares"
+      },
+      {
+        "city": "Caye Caulker",
+        "spots": "Cabo de Caye Caulker, Cabeça de León, Praia de Caye Caulker"
       }
     ],
     "iso": "bz",
@@ -5197,6 +5365,14 @@
       {
         "city": "Rio Essequibo",
         "spots": "água muito larga, ilhas no meio, canoas"
+      },
+      {
+        "city": "Kaieteur",
+        "spots": "Cataratas de Kaieteur, Rio de Kaieteur, Parque Nacional Kaieteur"
+      },
+      {
+        "city": "Lethem",
+        "spots": "Rio de Lethem, Cachoeira de Ammawoto, Reserva de Iwokrama"
       }
     ],
     "iso": "gy",
@@ -5235,6 +5411,14 @@
       {
         "city": "Albina",
         "spots": "cais pequeno, mercado da margem, barcos de visita"
+      },
+      {
+        "city": "Brokopondo",
+        "spots": "Lago de Brokopondo, Praias do Lago, Reserva Natural"
+      },
+      {
+        "city": "Nieuw-Nickerie",
+        "spots": "Rio Commewijne, Forte de Nieuw-Nickerie, Mercado de Nieuw-Nickerie"
       }
     ],
     "iso": "sr",
@@ -5273,6 +5457,14 @@
       {
         "city": "A floresta de Yunque",
         "spots": "árvores altas, nevoeiro, riachos"
+      },
+      {
+        "city": "Vieques",
+        "spots": "Praia de Cueva de los Muertos, Forte de Vieques, Baía Fosfórica"
+      },
+      {
+        "city": "Arecibo",
+        "spots": "Observatório de Arecibo, Gruta de los Letreros, Catedral"
       }
     ],
     "iso": "pr",

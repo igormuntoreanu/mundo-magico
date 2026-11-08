@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "iso": "sb",
+    "country": "Ilhas Salomão",
+    "city": "Makira",
+    "spots": "floresta, aldeias, enseada",
+    "tried": [],
+    "why": "no passing candidate"
+  },
+  {
+    "iso": "vu",
+    "country": "Vanuatu",
+    "city": "Banks",
+    "spots": "ilhas, aldeias, canoas",
+    "tried": [],
+    "why": "no passing candidate"
+  },
+  {
+    "iso": "vu",
+    "country": "Vanuatu",
+    "city": "Malekula",
+    "spots": "desenhos na areia, aldeias, costa",
+    "tried": [],
+    "why": "no passing candidate"
+  },
+  {
+    "iso": "pg",
+    "country": "Papua-Nova Guiné",
+    "city": "Milne Bay",
+    "spots": "potes de barro, ilhas, canoas",
+    "tried": [],
+    "why": "no passing candidate"
+  },
+  {
+    "iso": "pg",
+    "country": "Papua-Nova Guiné",
+    "city": "Sepik",
+    "spots": "rio, casas, curva quieta",
+    "tried": [],
+    "why": "Museum mask object, not a place"
+  }
+]

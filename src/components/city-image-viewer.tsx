@@ -73,15 +73,17 @@ export function CityImageViewer({ photo, onClose }: Props) {
             <p className="text-[10px] font-extrabold uppercase tracking-wide text-ink/60">{t.photoSource}</p>
             <p className="text-xs font-bold text-ink">{photo.credit}</p>
           </div>
-          <a
-            href={photo.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex min-h-10 items-center gap-1.5 rounded-full border-2 border-stroke bg-cream px-3 py-2 text-xs font-extrabold text-ink shadow-[2px_2px_0_#2b1b4e]"
-          >
-            {t.photoSource}
-            <ExternalLink className="size-3.5" aria-hidden />
-          </a>
+          {photo.href ? (
+            <a
+              href={photo.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex min-h-10 items-center gap-1.5 rounded-full border-2 border-stroke bg-cream px-3 py-2 text-xs font-extrabold text-ink shadow-[2px_2px_0_#2b1b4e]"
+            >
+              {t.photoSource}
+              <ExternalLink className="size-3.5" aria-hidden />
+            </a>
+          ) : null}
         </footer>
       </section>
     </div>

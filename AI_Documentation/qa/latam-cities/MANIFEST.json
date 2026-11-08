@@ -1,0 +1,389 @@
+{
+  "images": [
+    {
+      "iso": "ar",
+      "country": "Argentina",
+      "city": "Salta",
+      "spots": "Plaza de Mayo, Mercado de San Francisco, Iglesia de la Independencia",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ar\\salta-0.jpg",
+      "caption": "Salta, Argentina — praça de Mayo, mercado e igreja da Independência"
+    },
+    {
+      "iso": "ar",
+      "country": "Argentina",
+      "city": "Bariloche",
+      "spots": "Monasterio de la Concepción, Lago Nahuel Huapi, Sierra de los Andes",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ar\\bariloche-0.jpg",
+      "caption": "Bariloche, Argentina — lago do Nahuel Huapi, mosteiros e montanhas dos Andes"
+    },
+    {
+      "iso": "bo",
+      "country": "Bolívia",
+      "city": "Copacabana",
+      "spots": "Templo de la Virgem de Copacabana, Iñaq Pata, Ilha do Sol",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\bo\\copacabana-0.jpg",
+      "caption": "Copacabana, Bolívia — templo da Virgem de Copacabana e Iñaq Pata"
+    },
+    {
+      "iso": "bo",
+      "country": "Bolívia",
+      "city": "Potosí",
+      "spots": "Catedral de Potosí, Catedral de San Lorenzo, Mina de Pozo",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\bo\\potosi-0.jpg",
+      "caption": "Potosí, Bolívia — catedral colonial, fortaleza de San Lorenzo e mina de Pozo"
+    },
+    {
+      "iso": "br",
+      "country": "Brasil",
+      "city": "Brasília",
+      "spots": "Basílica de Brasília, Palácio do Planalto, Catedral de Brasília",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\br\\brasilia-0.jpg",
+      "caption": "Brasília, Brasil — Basílica, Palácio do Planalto e Catedral de Brasília"
+    },
+    {
+      "iso": "br",
+      "country": "Brasil",
+      "city": "Florianópolis",
+      "spots": "Praia de Campinho, Farrapos, Canyon do Sumiço",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\br\\florianopolis-0.jpg",
+      "caption": "Florianópolis, Brasil — praia de Campinho, Farrapos e Canyon do Sumiço"
+    },
+    {
+      "iso": "bz",
+      "country": "Belize",
+      "city": "San Pedro",
+      "spots": "Dunas de San Pedro, Ilha de la Piedra, manglares",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\bz\\san-pedro-0.jpg",
+      "caption": "San Pedro, Belize — dunas, Ilha de la Piedra e manglares"
+    },
+    {
+      "iso": "bz",
+      "country": "Belize",
+      "city": "Caye Caulker",
+      "spots": "Cabo de Caye Caulker, Cabeça de León, Praia de Caye Caulker",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\bz\\caye-caulker-0.jpg",
+      "caption": "Caye Caulker, Belize — recifes e praias de Caye Caulker"
+    },
+    {
+      "iso": "cl",
+      "country": "Chile",
+      "city": "La Serena",
+      "spots": "Plaza de Armas, Castillo Rojas, Playa de Los Marinos",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\cl\\la-serena-0.jpg",
+      "caption": "La Serena, Chile — plaza de Armas, Castillo Rojas e praia de Los Marinos"
+    },
+    {
+      "iso": "cl",
+      "country": "Chile",
+      "city": "Punta Arenas",
+      "spots": "Faro de Mejillones, Cementerio Colonial, Museo Y-47",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\cl\\punta-arenas-0.jpg",
+      "caption": "Punta Arenas, Chile — faro de Mejillones, cemitério colonial e Museo Y-47"
+    },
+    {
+      "iso": "co",
+      "country": "Colômbia",
+      "city": "Salento",
+      "spots": "Parque Quinchón, Catedral de Salento, Volcán del Quindío",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\co\\salento-0.jpg",
+      "caption": "Salento, Colômbia — parque Quinchón, catedral e volcão do Quindío"
+    },
+    {
+      "iso": "co",
+      "country": "Colômbia",
+      "city": "Pasto",
+      "spots": "Catedral de Pasto, Plaza de Artes, Museo de América",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\co\\pasto-0.jpg",
+      "caption": "Pasto, Colômbia — catedral, praça de Artes e Museu de América"
+    },
+    {
+      "iso": "cr",
+      "country": "Costa Rica",
+      "city": "Guanacaste",
+      "spots": "Playa de Santa Teresa, Volcão de Rincón de la Vieja, Parque Nacional Santa Rosa",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\cr\\guanacaste-0.jpg",
+      "caption": "Guanacaste, Costa Rica — praia de Santa Teresa, vulcão do Rincón de la Vieja e parque Nacional Santa Rosa"
+    },
+    {
+      "iso": "cr",
+      "country": "Costa Rica",
+      "city": "Puerto Viejo",
+      "spots": "Playa de Manzanillo, Tartarugas de Frenchman Bay, manguezais",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\cr\\puerto-viejo-0.jpg",
+      "caption": "Puerto Viejo, Costa Rica — praia de Manzanillo, tartarugas e manguezais"
+    },
+    {
+      "iso": "cu",
+      "country": "Cuba",
+      "city": "Viñales",
+      "spots": "Valle de Viñales, Castillo de Santo Tomás, Caminos de la Sierra",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\cu\\vinales-0.jpg",
+      "caption": "Viñales, Cuba — vale de Viñales, castelo de Santo Tomás e muralhas"
+    },
+    {
+      "iso": "cu",
+      "country": "Cuba",
+      "city": "Santiago de Cuba",
+      "spots": "Catedral de Santiago de Cuba, Calle de la Habana, Castillo del Príncipe",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\cu\\santiago-de-cuba-0.jpg",
+      "caption": "Santiago de Cuba, Cuba — catedral, rua da Habana e castelo do Príncipe"
+    },
+    {
+      "iso": "do",
+      "country": "República Dominicana",
+      "city": "Santiago de los Caballeros",
+      "spots": "Catedral de Santiago de los Caballeros, Palácio Nacional, Plaza de España",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\do\\santiago-de-los-caballeros-0.jpg",
+      "caption": "Santiago de los Caballeros, República Dominicana — catedral, palácio nacional e praça de Espanha"
+    },
+    {
+      "iso": "do",
+      "country": "República Dominicana",
+      "city": "Samaná",
+      "spots": "Playa de Rincón, Parque Nacional del Este, Ilhas",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\do\\samaná-0.jpg",
+      "caption": "Samaná, República Dominicana — praia de Rincón, parque Nacional do Este e ilhas"
+    },
+    {
+      "iso": "ec",
+      "country": "Equador",
+      "city": "Cuenca",
+      "spots": "Catedral de Cuenca, Torres de Tariacu, Cerro Cuminampi",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ec\\cuenca-0.jpg",
+      "caption": "Cuenca, Equador — catedral, Torres de Tariacu e cerro Cuminampi"
+    },
+    {
+      "iso": "ec",
+      "country": "Equador",
+      "city": "Loja",
+      "spots": "Mercado Benigno, Casa de la Cultura, Cerro Llallawi",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ec\\loja-0.jpg",
+      "caption": "Loja, Equador — mercado Benigno, casa de la Cultura e cerro Llallawi"
+    },
+    {
+      "iso": "gt",
+      "country": "Guatemala",
+      "city": "Flores",
+      "spots": "Ilha de Flores, Castillo de la Trinidad, Museu de Flores",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\gt\\flores-0.jpg",
+      "caption": "Flores, Guatemala — ilha de Flores, castelo de la Trinidad e museu"
+    },
+    {
+      "iso": "gt",
+      "country": "Guatemala",
+      "city": "Quetzaltenango",
+      "spots": "Catedral de Quetzaltenango, Palácio de la Escondida, Mercado de Artesanías",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\gt\\quetzaltenango-0.jpg",
+      "caption": "Quetzaltenango, Guatemala — catedral, palácio da Escondida e mercado de artesanias"
+    },
+    {
+      "iso": "gy",
+      "country": "Guiana",
+      "city": "Kaieteur",
+      "spots": "Cataratas de Kaieteur, Rio de Kaieteur, Parque Nacional Kaieteur",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\gy\\kaieteur-0.jpg",
+      "caption": "Kaieteur, Guiana — cataratas de Kaieteur, rio e parque Nacional Kaieteur"
+    },
+    {
+      "iso": "gy",
+      "country": "Guiana",
+      "city": "Lethem",
+      "spots": "Rio de Lethem, Cachoeira de Ammawoto, Reserva de Iwokrama",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\gy\\lethem-0.jpg",
+      "caption": "Lethem, Guiana — rio de Lethem, cachoeira e reserva de Iwokrama"
+    },
+    {
+      "iso": "hn",
+      "country": "Honduras",
+      "city": "Roatán",
+      "spots": "Istmo de Roatán, Recifes de coral, Cayos Cochinos",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\hn\\roatan-0.jpg",
+      "caption": "Roatán, Honduras — istmo, recifes de coral e Cayos Cochinos"
+    },
+    {
+      "iso": "hn",
+      "country": "Honduras",
+      "city": "La Ceiba",
+      "spots": "Volcão de Pico Bonete, Parque Nacional Pico Bonete, Río Cangrejal",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\hn\\la-ceiba-0.jpg",
+      "caption": "La Ceiba, Honduras — vulcão de Pico Bonete, parque Nacional e rio Cangrejal"
+    },
+    {
+      "iso": "ht",
+      "country": "Haiti",
+      "city": "Les Cayes",
+      "spots": "Baía de Acres, Fortaleza de Les Cayes, Praça",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ht\\les-cayes-0.jpg",
+      "caption": "Les Cayes, Haiti — baía de Acres, fortaleza e praça"
+    },
+    {
+      "iso": "ht",
+      "country": "Haiti",
+      "city": "Île-à-Vache",
+      "spots": "Ilha de Cayes, Praia de Cayes, Manglares",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ht\\ile-a-vache-0.jpg",
+      "caption": "Île-à-Vache, Haiti — praia e manguezais"
+    },
+    {
+      "iso": "mx",
+      "country": "México",
+      "city": "Oaxaca",
+      "spots": "Zócalo, Museo de Arte Pré-Histórico, Mercado 20 de Novembro",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\mx\\oaxaca-0.jpg",
+      "caption": "Oaxaca, México — zócalo, museu de arte pré-histórica e mercado de 20 de Novembro"
+    },
+    {
+      "iso": "mx",
+      "country": "México",
+      "city": "Mérida",
+      "spots": "Catedral de Mérida, Plaza Grande, Teatro Santiago",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\mx\\merida-0.jpg",
+      "caption": "Mérida, México — catedral, praça Grande e teatro Santiago"
+    },
+    {
+      "iso": "ni",
+      "country": "Nicarágua",
+      "city": "San Juan del Sur",
+      "spots": "Playas de San Juan del Sur, Ilhas de Pupunci, Volcão de Mombacho",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ni\\san-juan-del-sur-0.jpg",
+      "caption": "San Juan del Sur, Nicarágua — praias, ilhas e vulcão de Mombacho"
+    },
+    {
+      "iso": "ni",
+      "country": "Nicarágua",
+      "city": "Corn Island",
+      "spots": "Ilha Corn Island, Recife de Corn Island, Manguezais do Río Coco",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ni\\corn-island-0.jpg",
+      "caption": "Corn Island, Nicarágua — praia, recife e manguezais"
+    },
+    {
+      "iso": "pa",
+      "country": "Panamá",
+      "city": "Colón",
+      "spots": "Catedral de Colón, Centro Histórico de Colón, Forte de Portobelo",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\pa\\colon-0.jpg",
+      "caption": "Colón, Panamá — catedral, centro histórico e Forte de Portobelo"
+    },
+    {
+      "iso": "pa",
+      "country": "Panamá",
+      "city": "El Valle de Antón",
+      "spots": "Volcão de El Valle, Lagunas de la Cruces, Museo de Cerritos",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\pa\\valle-de-anton-0.jpg",
+      "caption": "El Valle de Antón, Panamá — vulcão, lagoas e museu"
+    },
+    {
+      "iso": "pe",
+      "country": "Peru",
+      "city": "Ica",
+      "spots": "Paracas, Huacachina, Ballenas",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\pe\\ica-0.jpg",
+      "caption": "Ica, Peru — Paracas, Huacachina e ballenas"
+    },
+    {
+      "iso": "pe",
+      "country": "Peru",
+      "city": "Nazca",
+      "spots": "Líneas de Nazca, Catedral de Nazca, Museo",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\pe\\nazca-0.jpg",
+      "caption": "Nazca, Peru — linhas de Nazca, catedral e museu"
+    },
+    {
+      "iso": "pr",
+      "country": "Porto Rico",
+      "city": "Vieques",
+      "spots": "Praia de Cueva de los Muertos, Forte de Vieques, Baía Fosfórica",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\pr\\vieques-0.jpg",
+      "caption": "Vieques, Porto Rico — praia, forte e baía fosfórica"
+    },
+    {
+      "iso": "pr",
+      "country": "Porto Rico",
+      "city": "Arecibo",
+      "spots": "Observatório de Arecibo, Gruta de los Letreros, Catedral",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\pr\\arecibo-0.jpg",
+      "caption": "Arecibo, Porto Rico — observatório, gruta e catedral"
+    },
+    {
+      "iso": "py",
+      "country": "Paraguai",
+      "city": "Encarnación",
+      "spots": "Basílica de la Inmaculada, Igreja de la Companhia, Mirador de Cainguás",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\py\\encarnacion-0.jpg",
+      "caption": "Encarnación, Paraguai — basílica, igreja da Companhia e mirador"
+    },
+    {
+      "iso": "py",
+      "country": "Paraguai",
+      "city": "Pilar",
+      "spots": "Forte Olimpo, Lago de Pilar, Porto de Pilar",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\py\\pilar-0.jpg",
+      "caption": "Pilar, Paraguai — forte Olimpo, lago e porto"
+    },
+    {
+      "iso": "sr",
+      "country": "Suriname",
+      "city": "Brokopondo",
+      "spots": "Lago de Brokopondo, Praias do Lago, Reserva Natural",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\sr\\brokopondo-0.jpg",
+      "caption": "Brokopondo, Suriname — lago e praias"
+    },
+    {
+      "iso": "sr",
+      "country": "Suriname",
+      "city": "Nieuw-Nickerie",
+      "spots": "Rio Commewijne, Forte de Nieuw-Nickerie, Mercado de Nieuw-Nickerie",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\sr\\nieuw-nickerie-0.jpg",
+      "caption": "Nieuw-Nickerie, Suriname — rio Commewijne, forte e mercado"
+    },
+    {
+      "iso": "sv",
+      "country": "El Salvador",
+      "city": "Santa Ana",
+      "spots": "Catedral de Santa Ana, Cerro Verde, El Boquerón",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\sv\\santa-ana-0.jpg",
+      "caption": "Santa Ana, El Salvador — cerro Verde, vulcão e Boquerón"
+    },
+    {
+      "iso": "sv",
+      "country": "El Salvador",
+      "city": "Coatepeque",
+      "spots": "Lago de Coatepeque, Catedral, Vila de Coatepeque",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\sv\\coatepeque-0.jpg",
+      "caption": "Coatepeque, El Salvador — lago, catedral e vila"
+    },
+    {
+      "iso": "uy",
+      "country": "Uruguai",
+      "city": "Rocha",
+      "spots": "Praia de La Barra, Castillo de la Órgiva, Praias de Rocha",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\uy\\rocha-0.jpg",
+      "caption": "Rocha, Uruguai — praia de La Barra, castelo de la Órgiva e praias"
+    },
+    {
+      "iso": "uy",
+      "country": "Uruguai",
+      "city": "Paso de los Toros",
+      "spots": "Paso de los Toros, Fontes termais, Asador",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\uy\\paso-de-los-toros-0.jpg",
+      "caption": "Paso de los Toros, Uruguai — fontes termais, asado e passeios"
+    },
+    {
+      "iso": "ve",
+      "country": "Venezuela",
+      "city": "Mérida",
+      "spots": "Palácio de los Andrada, Parque Bolívar, Catedral de Mérida",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ve\\merida-0.jpg",
+      "caption": "Mérida, Venezuela — palácio de los Andrada, parque Bolívar e catedral"
+    },
+    {
+      "iso": "ve",
+      "country": "Venezuela",
+      "city": "Maracaibo",
+      "spots": "Parque do Este, Lago de Maracaibo, Zoológico Simón Bolívar",
+      "image": "D:\\Projetos\\mundo-magico\\public\\cities\\ve\\maracaibo-0.jpg",
+      "caption": "Maracaibo, Venezuela — parque do Este, lago e zoológico"
+    }
+  ],
+  "failures": []
+}

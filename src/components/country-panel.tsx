@@ -166,14 +166,18 @@ function CityPhotoRow({
                     />
                   </button>
                   <figcaption className="mt-1 text-[10px] leading-snug font-semibold text-ink/55">
-                    <a
-                      href={photo.href}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="underline decoration-ink/20 underline-offset-2 hover:text-ink/80"
-                    >
-                      {photo.credit}
-                    </a>
+                    {photo.href ? (
+                      <a
+                        href={photo.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="underline decoration-ink/20 underline-offset-2 hover:text-ink/80"
+                      >
+                        {photo.credit}
+                      </a>
+                    ) : (
+                      <span>{photo.credit}</span>
+                    )}
                   </figcaption>
                 </figure>
               ))}

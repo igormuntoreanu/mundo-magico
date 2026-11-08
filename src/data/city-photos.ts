@@ -4,8 +4,10 @@ export type CityPhoto = {
   src: string;
   caption: string;
   credit: string;
-  href: string;
-  kind: "photo";
+  /** Source page. Omitted for AI-generated images, which have no external source. */
+  href?: string;
+  /** "photo" = a real licensed photograph; "ai" = AI-generated image, labelled as such. */
+  kind: "photo" | "ai";
   objectPosition?: "top" | "center" | "bottom";
 };
 
